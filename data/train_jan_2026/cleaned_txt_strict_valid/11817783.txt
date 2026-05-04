@@ -1,0 +1,790 @@
+Dodatok k Zmluve o poskytovaní verejne dostupných služieb
+(ďalej len "Dodatok")
+ID predajcu: 
+
+Dátum: 
+
+Ident. kód dodatku:
+Číslo zmluvy:
+SIM karta s prideleným tel. číslom:
+
+A3126597
+
+účastníkom (ďalej len "Účastník"): Právnická osoba
+
+Obchodné meno / Názov:
+Univerzita veterinárskeho lekárstva a farmácie v Košiciach
+
+Sídlo / Miesto podnikania (obec, ulica, popisné číslo, PSČ, pošta):
+Košice, Komenského 73, 04001, Košice 1
+
+IČO:
+00397474
+
+Štatutárny zástupca:
+Ing. Róbert Schréter, PhD.,kvestor
+
+IČ DPH:
+
+Rodné číslo:
+
+Číslo a platnosť OP / pasu / povolenia na pobyt:
+
+Podnik a Účastník (ďalej spolu aj ako "strany") na základe vzájomnej dohody uzatvárajú tento Dodatok, ktorým upravujú a menia Zmluvu
+o poskytovaní verejne dostupných služieb, ktorej číslo je uvedené v záhlaví (ďalej len "Zmluva") v rozsahu a spôsobom uvedeným v tom-
+to Dodatku vo vzťahu k vyššie uvedenej SIM karte (ďalej len "SIM karta").
+
+Článok 1.
+Predmet Dodatku
+
+1.1
+
+Predmetom Dodatku je dohoda strán o:
+a) aktivácii / zmene účastníckeho programu a o aktivácii / deaktivácii ďalších služieb (údaje uvedené v Tabuľke č. 1);
+b) dobe a podmienkach viazanosti, počas ktorej sa Účastník zaväzuje zotrvať v zmluvnom vzťahu s Podnikom na základe Zmlu-
+vy v znení Dodatku (ďalej aj "Doba viazanosti") a o minimálnom mesačnom poplatku za služby, ktorý sa Účastník zaväzuje do-
+sahovať počas Doby viazanosti (ďalej len "Minimálny mesačný poplatok za služby"); údaj o Dobe viazanosti a údaj o výške
+Minimálneho mesačného poplatku za služby sú uvedené v Tabuľke č. 1;
+c) záväzku Účastníka zaplatiť Podniku ďalšie poplatky uvedené v Tabuľke č. 1;
+d) záväzku Účastníka zaplatiť Podniku zmluvnú pokutu pre prípad porušenia niektorej z povinností uvedených v čl. 2 bode 2.5
+
+Dodatku počas Doby viazanosti Účastníkom;
+
+f) záväzku Účastníka zaplatiť vratný Depozit uvedený v tabuľke v tomto bode nižšie.
+
+á
+v
+o
+h
+t
+ó
+T
+a
+t
+r
+a
+M
+m
+o
+
+e
+t
+a
+v
+í
+ž
+u
+
+8
+1:
+7
+4:
+5
+1
+
+5
+2
+0
+2.
+1
+1.
+8
+1
+
+ý
+n
+a
+v
+o
+r
+e
+n
+e
+g
+y
+v
+
+o
+b
+
+t
+n
+e
+m
+u
+k
+o
+D
+
+Číslo účastníka: 
+
+APPENDIX VOICE UNI V16
+
+(cid:105)(cid:34)(cid:20)(cid:100)(cid:13)(cid:66)(cid:98)(cid:89)(cid:107)
+A3126597
+
+(cid:106)(cid:80)(cid:60)(cid:22)(cid:78)(cid:56)(cid:107)
+79592177
+
+ Archivnet þ
+
+uzavretý medzispoločnosťou Orange Slovensko, a. s.so sídlom Metodova 8, 821 08 Bratislava, IČO: 356 97 270, DIČ: 20 20 31 05 78, IČ DPH: SK 20 20 31 05 78,zapísaná v Obchodnom registri Mestského súdu Bratislava III, oddiel: Sa, vložka číslo 1142/B(ďalej len "Podnik")a 
+
+Tabuľka č. 1
+
+Účastnícky program
+
+Aktivácia služby
+
+Deaktivácia služby
+
+Voľba zvýhodneného čísla / čísel
+
+Doba viazanosti
+
+Minimálny mesačný poplatok za služby
+
+Aktivačný / administratívny poplatok
+
+Základ pre výpočet zmluvnej pokuty č. 1
+
+Základ pre výpočet zmluvnej pokuty č. 1
+
+Základ pre výpočet zmluvnej pokuty č. 1
+
+Základ pre výpočet zmluvnej pokuty č. 1
+
+Základ pre výpočet zmluvnej pokuty č. 1
+
+Základ pre výpočet zmluvnej pokuty č. 1
+
+Základ pre výpočet zmluvnej pokuty č. 1
+
+Základ pre výpočet zmluvnej pokuty č. 1
+
+Základ pre výpočet zmluvnej pokuty č. 1
+
+Depozit
+
+index 1)
+
+index 2)
+
+index 3)
+
+index 4)
+
+index 5)
+
+index 6)
+
+index 7)
+
+index 8)
+
+index 8)
+
+index 8)
+
+index 8)
+
+index 8)
+
+index 8)
+
+index 8)
+
+index 8)
+
+index 8)
+
+1.2
+
+Predmetom Dodatku je aj dohoda strán o predaji koncového zariadenia uvedeného v Tabuľke č. 2 (ďalej len "Zariadenie") Účast-
+níkovi za zľavnenú kúpnu cenu s DPH (ďalej len "Kúpna cena Zariadenia") uvedenú tamtiež, ktorá predstavuje rozdiel medzi bež-
+nou (nezľavnenou) spotrebiteľskou (maloobchodnou) cenou Zariadenia (ďalej aj "Spotrebiteľská (maloobchodná) cena Zariade-
+nia") a zľavou poskytnutou Podnikom Účastníkovi z dôvodu záväzku Účastníka užívať služby Podniku podľa Dodatku po dohod-
+nutú Dobu viazanosti.
+
+Tabuľka č. 2
+
+Typ Zariadenia
+
+Výrobné číslo Zariadenia (IMEI)*
+
+Spotrebiteľská (maloobchodná) cena
+Zariadenia (nezľavnená) s DPH
+
+Zľava zo Spotrebiteľskej (maloobchodnej) ceny Zariadenia
+poskytnutá Podnikom Účastníkovi v zmysle bodu 1.2
+Dodatku
+
+Kúpna cena Zariadenia (zľavnená) s DPH
+
+Odovzdanie Zariadenia
+
+Kuriér (poplatok za doručenie)
+
+Identifikačný kód Dodatku bez zariadenia č. 1
+
+Identifikačný kód Dodatku bez zariadenia č. 2
+
+Identifikačný kód Dodatku bez zariadenia č. 3
+
+Identifikačný kód Dodatku bez zariadenia č. 4
+
+index 9)
+
+index 10)
+
+index 11)
+
+index 12)
+
+index 13)
+
+index 14)
+
+index 15)
+
+index 16)
+
+index 17)
+
+index 18)
+
+index 19)
+
+*) Pokiaľ kolónka nie je vyplnená, predmet kúpy je jednoznačne určený Typom Zariadenia.
+
+Článok 2.
+Práva a povinnosti Podniku a Účastníka a sankcia za porušenie povinností Účastníka
+
+2.1
+
+2.2
+
+Podnik je povinný plniť si povinnosti, ktoré pre neho vyplývajú z Dodatku, a to najmä poskytovať Účastníkovi služby podľa Zmluvy
+v znení Dodatku a predať Účastníkovi Zariadenie za dohodnutú Kúpnu cenu Zariadenia, previesť naňho vlastnícke právo k Za-
+riadeniu a odovzdať mu Zariadenie, ak Účastník splní všetky podmienky pre vznik nároku na kúpu Zariadenia na základe Dodat-
+ku.
+
+Účastník je povinný popri svojom záväzku riadne uhrádzať cenu za služby a ďalšie platby podľa bodu 2.5 písm. b) nižšie, zaplatiť
+Podniku aj Kúpnu cenu Zariadenia, Aktivačný / administratívny poplatok za vykonanie nevyhnutných zmien v systémoch Podniku
+v súvislosti s uzavretím Dodatku a v prípade doručovania zásielky kuriérom aj poplatok Kuriér vo výške uvedenej v Tabuľke č. 1.
+Účastník je povinný zaplatiť Kúpnu cenu zariadenia s DPH pri odovzdaní resp. dodaní Zariadenia, a to vo forme preddavku, ak sa
+strany nedohodli na splácaní Kúpnej ceny Zariadenia v splátkach. Podnik je oprávnený umožniť zaplatenie Kúpnej ceny Zariade-
+nia Účastníkovi na základe faktúry a Účastník je povinný ju uhradiť v lehote splatnosti podľa faktúry.
+
+Číslo účastníka:
+
+APPENDIX VOICE UNI V16
+
+(cid:105)(cid:34)(cid:20)(cid:100)(cid:13)(cid:66)(cid:98)(cid:89)(cid:107)
+A3126597
+
+(cid:106)(cid:80)(cid:60)(cid:22)(cid:78)(cid:56)(cid:107)
+79592177
+
+ Archivnet þ
+
+á
+v
+o
+h
+t
+ó
+T
+a
+t
+r
+a
+M
+m
+o
+
+e
+t
+a
+v
+í
+ž
+u
+
+8
+1:
+7
+4:
+5
+1
+
+5
+2
+0
+2.
+1
+1.
+8
+1
+
+ý
+n
+a
+v
+o
+r
+e
+n
+e
+g
+y
+v
+
+o
+b
+
+t
+n
+e
+m
+u
+k
+o
+D
+
+2.3
+
+2.4
+
+2.5
+
+Účastník si je vedomý, že Kúpna cena Zariadenia je oproti bežnej Spotrebiteľskej (maloobchodnej) cene Zariadenia nižšia, nakoľ-
+ko Podnik poskytol Účastníkovi zľavu zo Spotrebiteľskej (maloobchodnej) ceny Zariadenia z dôvodu, že sa Účastník zaviazal uží-
+vať služby podľa Dodatku po dohodnutú Dobu viazanosti, pričom nedodržanie tohto záväzku, vzhľadom na výšku poskytnutej zľa-
+vy, by Podniku spôsobilo škodu.
+
+Doba viazanosti, ktorej dĺžka v mesiacoch je uvedená v Tabuľke č. 1, začína plynúť dňom uzavretia Dodatku. V prípade, ak v deň
+uzavretia Dodatku nie je SIM karta aktivovaná a k jej aktivácii nedôjde ani do 24 hodín od uzavretia Dodatku, Doba viazanosti za-
+čína plynúť až dňom aktivácie SIM karty. Účastník súhlasí s tým, že ak počas Doby viazanosti dôjde na základe jeho žiadosti
+alebo z dôvodov jeho zavinenia k dočasnej deaktivácii SIM karty a v dôsledku toho k dočasnému prerušeniu alebo obmedzeniu
+poskytovania služieb podľa Zmluvy, doba, po ktorú Účastník nebude z tohto dôvodu užívať služby, sa nezapočíta do Doby viaza-
+nosti a Doba viazanosti počas tejto doby neplynie. Účastník je povinný aj počas trvania dočasného prerušenia alebo obmedzenia
+poskytovania služieb plniť si zmluvné povinnosti uvedené v bode 2.5 písm. c) a e) nižšie a platiť Podniku cenu za poskytované
+služby a plnenia.
+
+Účastník je povinný počas Doby viazanosti plniť súčasne všetky nasledovné zmluvné povinnosti:
+a) Mať na SIM karte aktivovaný niektorý z účastníckych programov Paušály Plus, Yoxo paušál, niektorý z účastníckych prog-
+ramov Pro Biznis paušály alebo niektorý z účastníckych programov BiZ! paušály podľa Cenníka služieb prípadne iný účastníc-
+ky program určený Podnikom (ďalej len "Príslušný účastnícky program") tak, aby výška mesačného poplatku s DPH za aktivo-
+vaný Príslušný účastnícky program bola rovnaká alebo vyššia ako výška Minimálneho mesačného poplatku za služby uve-
+dená v Tabuľke č. 1;
+
+b) Včas a riadne uhrádzať cenu za služby a iné svoje peňažné záväzky voči Podniku a tiež iné platby, ktoré je povinný platiť Pod-
+
+niku za služby tretích strán;
+
+c) Zotrvať v zmluvnom vzťahu podľa Zmluvy v znení Dodatku a bez prerušenia užívať služby prostredníctvom SIM karty po celú
+Dobu viazanosti, a zároveň nedoručiť Podniku výpoveď, odstúpenie od zmluvy alebo iný úkon, ktorého účelom je ukončenie
+Zmluvy a / alebo Dodatku pred uplynutím Doby viazanosti; za porušenie tejto povinnosti sa nepovažuje odstúpenie od zmluvy
+z dôvodov stanovených platným Zákonom o elektronických komunikáciách alebo iným platným právnym predpisom;
+
+d) Nepožiadať o dočasnú deaktiváciu SIM karty (pokiaľ Účastníkovi takáto povinnosť nevyplýva zo Zmluvy, pričom v takom prípa-
+de je povinný bez zbytočného odkladu pokračovať v užívaní služieb prostredníctvom inej SIM karty, ktorá nahradí deaktivova-
+nú SIM kartu);
+
+e) Nedať svojím konaním podnet pre vznik práva Podniku odstúpiť od Zmluvy alebo vypovedať Zmluvu alebo dočasne obmedziť
+
+alebo prerušiť poskytovanie služieb a ani neumožniť také konanie tretej osobe.
+
+2.6
+
+V prípade porušenia ktorejkoľvek zmluvnej povinnosti Účastníka uvedenej v bode 2.5 tohto článku je Účastník povinný uhradiť
+Podniku zmluvnú pokutu č. 1, ktorej výška bude vypočítaná ako súčet sumy Základu pre výpočet zmluvnej pokuty č. 1 uvedeného
+v Tabuľke č. 1 a sumy DPH zo sumy Základu pre výpočet zmluvnej pokuty č. 1 (v príslušnej výške podľa platných právnych pred-
+pisov v čase vystavenia zmluvnej pokuty Podnikom Účastníkovi). Základ pre výpočet zmluvnej pokuty č. 1 zodpovedá zľave po-
+skytnutej Podnikom Účastníkovi zo Spotrebiteľskej (maloobchodnej) ceny Zariadenia z dôvodu záväzku Účastníka užívať služby
+podľa Dodatku po dohodnutú Dobu viazanosti.
+V prípade ak počas platnosti Dodatku dôjde k
+a) uzatvoreniu dohody o prevode práv a povinností z pôvodného Účastníka na nového účastníka, ktorý nie je právnickou osobou
+
+alebo fyzickou osobou oprávnenou na podnikanie, alebo
+
+b) zmene právnej formy Účastníka z právnickej osoby alebo fyzickej osoby oprávnenej na podnikanie na fyzickú osobu,
+výška každej zo zmluvných pokút sa bude postupne znižovať v závislosti od toho, koľko celých mesiacov uplynulo od uzavretia
+Dodatku do porušenia niektorej zo zmluvných povinností podľa bodu 2.5 tohto článku.
+Suma každej zo zmluvných pokút bude v takom prípade vypočítaná podľa nižšie uvedeného vzorca:
+[ Doba viazanosti - počet celých mesiacov, ktoré uplynuli od uzavretia Dodatku do porušenia zmluvnej povinnosti ] × [ Základ pre
+výpočet zmluvnej pokuty č. 1 / Doba viazanosti ].
+Výsledná suma zmluvnej pokuty sa zaokrúhľuje na celé eurocenty nadol.
+Takto vypočítané zmluvné pokuty resp. ktorúkoľvek z nich je Účastník povinný uhradiť aj v prípade, ak do doby rozhodnutia
+o uplatnenom nároku na zmluvnú pokutu dôjde k zániku oprávnenia fyzickej osoby na podnikanie.
+
+2.7 Zmluvná pokuta je splatná v lehote uvedenej vo faktúre, ktorou je Účastníkovi vyúčtovaná. Účastník je popri zmluvnej pokute po-
+
+vinný nahradiť Podniku škodu, ktorej výška presahuje dohodnutú zmluvnú pokutu.
+
+2.8
+
+2.9
+
+Právo na zmluvnú pokutu vznikne Podniku samotným porušením povinnosti Účastníka a nie je podmienené vykonaním žiadneho
+úkonu zo strany Podniku (napr. odstúpením od Zmluvy alebo prerušením či obmedzením poskytovania služieb).
+
+Strany sa dohodli, že Účastník je povinný Podniku riadne a včas zaplatiť celý Depozit v čase uzatvorenia tohto Dodatku. Depozit
+slúži na zabezpečenie riadneho plnenia povinností Účastníka v zmysle tohto Dodatku a Účastníkovi bude vrátený v plnom rozsahu
+po splnení všetkých nasledujúcich podmienok:
+a) Účastník riadne a včas uhradí faktúry za tri po sebe nasledujúce zúčtovacie obdobia; a zároveň
+b) Účastník nie je v omeškaní s úhradou žiadneho záväzku voči Podniku.
+
+2.10 V prípade, že sa Účastník dostane do omeškania s úhradou svojich záväzkov voči Podniku, Podnik má právo použiť Depozit na
+započítanie proti akýmkoľvek nezaplateným pohľadávkam Podniku voči Účastníkovi z akýchkoľvek ďalších právnych vzťahov
+vrátane tých, ktoré ešte nie sú splatné alebo ktoré sú už premlčané, a to momentom, kedy sa pohľadávky vzájomne stretli.
+
+2.11 Po splnení podmienok na vrátenie Depozitu v zmysle článku 2.9 tohto Dodatku bude Kupujúcemu Depozit vrátený.
+
+á
+v
+o
+h
+t
+ó
+T
+a
+t
+r
+a
+M
+m
+o
+
+e
+t
+a
+v
+í
+ž
+u
+
+8
+1:
+7
+4:
+5
+1
+
+5
+2
+0
+2.
+1
+1.
+8
+1
+
+ý
+n
+a
+v
+o
+r
+e
+n
+e
+g
+y
+v
+
+o
+b
+
+t
+n
+e
+m
+u
+k
+o
+D
+
+Číslo účastníka: 
+
+APPENDIX VOICE UNI V16
+
+(cid:105)(cid:34)(cid:20)(cid:100)(cid:13)(cid:66)(cid:98)(cid:89)(cid:107)
+A3126597
+
+(cid:106)(cid:80)(cid:60)(cid:22)(cid:78)(cid:56)(cid:107)
+79592177
+
+ Archivnet þ
+
+Článok 3.
+Záverečné ustanovenia
+
+3.1
+
+3.2
+
+3.3
+
+3.4
+
+3.5
+
+3.6
+
+3.7
+
+3.8
+
+3.9
+
+V prípade, ak má v čase uzavretia Dodatku Účastník s Podnikom uzavretý iný (skorší) dodatok, obsahom ktorého je predaj konco-
+vého zariadenia za zľavnenú cenu alebo poskytnutie iného cenového zvýhodnenia v súvislosti so SIM kartou, strany sa dohodli,
+že tento predchádzajúci dodatok zaniká okamihom uzavretia Dodatku. To neplatí, ak je predchádzajúci dodatok uzavretý v rámci
+ponuky Tablet a mobil za 1 €; v takom prípade platia predchádzajúci dodatok a Dodatok súčasne.
+
+Dodatok nadobudne platnosť a účinnosť dňom podpisu oboma stranami; pokiaľ však v deň uzavretia Dodatku a ani do 24 hodín
+od jeho uzavretia nedôjde k aktivácii SIM karty, Dodatok nadobudne platnosť dňom podpisu oboma stranami a účinnosť dňom ak-
+tivácie SIM karty (odkladacia podmienka účinnosti). V prípade, ak sa na Dodatok vzťahuje režim povinného zverejňovania zmlúv
+podľa § 5a zákona č. 211/2000 Z. z. o slobodnom prístupe k informáciám, Dodatok nadobudne účinnosť dňom nasledujúcim po
+dni jeho zverejnenia v súlade s ustanoveniami § 47a Občianskeho zákonníka, ak účinnosť nenastáva až splnením odkladacej
+podmienky účinnosti podľa prvej vety tohto bodu. Dodatok sa uzatvára na dobu určitú, a to na Dobu viazanosti uvedenú v Tabuľke
+č. 1. Ak počas Doby viazanosti dôjde k dočasnému prerušeniu alebo obmedzeniu poskytovania služieb, doba platnosti Dodatku sa
+predĺži o dobu, počas ktorej Doba viazanosti neplynula podľa čl. 2 bodu 2.4 Dodatku.
+
+Strany sa dohodli, že uzavretím Dodatku sa dočasne mení dohodnutá doba trvania Zmluvy v časti týkajúcej sa SIM karty z doby
+neurčitej na dobu určitú, a to do uplynutia Doby viazanosti. Bezprostredne pred uplynutím Doby viazanosti sa mení opätovne doba
+trvania Zmluvy na dobu neurčitú s tým, že po uplynutí Doby viazanosti pokračuje Podnik v poskytovaní Služieb Účastníkovi podľa
+podmienok Zmluvy na dobu neurčitú bez viazanosti za ceny podľa aktuálneho Cenníka služieb, ak sa strany nedohodnú inak.
+
+V prípade, ak Účastník poruší niektorú z povinností podľa čl. 2 bodu 2.5 Dodatku takým spôsobom, že Podniku voči nemu vznikne
+právo na zaplatenie zmluvnej pokuty (resp. pokút) podľa Dodatku, platnosť Dodatku zanikne okamihom uhradenia zmluvnej poku-
+ty (resp. všetkých zmluvných pokút). Strany sa dohodli, že v prípade, ak je predmetom Dodatku poskytnutie osobitného cenového
+zvýhodnenia podľa čl. 1 bodu 1.3 Dodatku Účastníkovi, okamihom porušenia povinnosti Účastníka, v dôsledku ktorého vznikne
+Podniku právo na zaplatenie zmluvnej pokuty podľa Dodatku, zaniknú všetky práva Účastníka na poskytovanie takéhoto cenové-
+ho zvýhodnenia.
+
+Strany sa dohodli, že v prípade, ak Účastník počas platnosti Dodatku uzavrie s Podnikom nový dodatok k Zmluve, predmetom
+ktorého bude predaj koncového zariadenia za zľavnenú kúpnu cenu z dôvodu záväzku Účastníka užívať služby Podniku prostred-
+níctvom SIM karty po dohodnutú dobu viazanosti, nadobudnutím platnosti takéhoto dodatku k Zmluve automaticky zaniká platnosť
+tohto Dodatku. Účastník berie na vedomie, že podmienkou uzavretia nového dodatku k Zmluve podľa predchádzajúcej vety je po-
+vinnosť Účastníka zaplatiť Podniku zmluvnú pokutu č. 1 podľa článku 2 bodu 2.6 Dodatku; Účastníkovi pritom nevzniká povinnosť
+zaplatiť prípadné ďalšie zmluvné pokuty podľa článku 2 bodu 2.6 Dodatku (to neplatí v prípade, ak Účastník uzatvorí k Zmluve iný
+dodatok vrátane dodatku v rámci ponuky Tablet a mobil za 1 €).
+
+Strany sa týmto dohodli, že aj po ukončení platnosti Dodatku naďalej trvajú tie ustanovenia, z ktorých znenia, zmyslu alebo pova-
+hy je zrejmé, že sa vzťahujú na obdobie po ukončení platnosti Dodatku alebo ak je to výslovne uvedené vo vzťahu k jednotlivým
+službám, zľavám alebo iným zvýhodneniam. Strany sa ďalej dohodli, že v platnosti ostávajú aj dojednania o tom, aké služby majú
+byť Účastníkovi poskytované na SIM karte, pričom Podnik pokračuje v poskytovaní v Dodatku dojednaných služieb (a v prípade,
+ak počas platnosti Dodatku došlo k dohode Strán o zmene dojednaných služieb, Podnik pokračuje v poskytovaní takto zmenených
+služieb) Účastníkovi podľa podmienok Zmluvy na dobu neurčitú bez viazanosti, a to za ceny (mesačné poplatky bez viazanosti)
+podľa Cenníka služieb platného v čase skončenia platnosti Dodatku.
+
+Dodatok tvorí neoddeliteľnú súčasť Zmluvy. Dodatok sa vyhotovuje v dvoch rovnopisoch, po jednom pre Účastníka a pre Podnik.
+Účastník vyhlasuje, že si Dodatok pozorne prečítal, jeho obsahu porozumel a s obsahom súhlasí.
+
+V prípade, ak Účastník uzavrel Dodatok v rámci režimu predaja na diaľku alebo mimo prevádzkových priestorov Podniku, neod-
+deliteľnou súčasťou Dodatku sú Podmienky služby Nákup na diaľku zverejnené na:
+www.orange.sk/orange-slovensko/tlacove-centrum/vseobecne-podmienky
+
+Ak sa strany dohodli na aktivácii služby Poistenie faktúr, Účastník vyhlasuje, že sa oboznámil s príslušnými poistnými podmienka-
+mi poistiteľov MetLife Europe, d. a. c., pobočka poisťovne z iného členského štátu, IČO: 472 57 105 a MetLife Europe Insurance,
+d. a. c., pobočka poisťovne z iného členského štátu, IČO: 472 57 091, ktoré sú dostupné na internetovej stránke Podniku na
+www.orange.sk/poistenie a súhlasí s nimi. Zároveň Účastník prehlasuje nasledovné:
+Týmto prehlasujem, že mám viac ako 18 rokov a menej ako 65 rokov, nemám zdravotné problémy (predovšetkým netrpím žiad-
+nou chronickou chorobou alebo akoukoľvek inou chorobou, ktorá môže viesť k smrti alebo úplnej trvalej invalidite) a neplánujem
+lekársky zákrok alebo operáciu, ktorá by mala za následok práceneschopnosť dlhšiu ako 30 po sebe nasledujúcich dní a nepobe-
+rám starobný dôchodok, predčasný starobný dôchodok, výsluhový dôchodok alebo výsluhový príspevok, ak sa taký dôchodok
+alebo príspevok podľa príslušných právnych predpisov poskytuje, alebo v prípade, že výsluhový dôchodok alebo výsluhový prí-
+spevok poberám, som súčasne zamestnaný. V priebehu posledných 24-roch mesiacov som nebol práceneschopný po dobu dlh-
+šiu ako 30 po sebe nasledujúcich dní a / alebo hospitalizovaný po dobu viac ako 10 po sebe nasledujúcich dní. Zároveň, ak som
+fyzická osoba nepodnikateľ, prehlasujem že som zamestnaný u jedného zamestnávateľa na dobu neurčitú s najmenej 30 hodi-
+novým pracovným týždňom počas posledných 12 po sebe nasledujúcich mesiacov, alebo u dvoch zamestnávateľov za tých istých
+podmienok nepretržite aspoň 24 mesiacov, nie som teda nezamestnaný, nie som vo výpovednej dobe a nie som si ani vedomý,
+že by mi hrozila nezamestnanosť a nebola mi daná výpoveď. V prípade, že nespĺňam podmienku poistenia zamestnanosti na
+dobu neurčitú s najmenej 30 hodinovým pracovným týždňom počas posledných 12 po sebe nasledujúcich mesiacov, alebo
+u dvoch zamestnávateľov za tých istých podmienok nepretržite aspoň 24 mesiacov, Poistenie vznikne s tým, že budem v plnom
+rozsahu poistený pre prípad straty života z dôvodu choroby alebo úrazu, pre prípad Úplnej trvalej invalidity z dôvodu choroby
+alebo úrazu a pre prípad Úplnej dočasnej invalidity. Pripoistenie pre prípad nedobrovoľnej straty zamestnania vznikne najskôr
+dňom kedy splním uvedené podmienky zamestnanosti. (index 21)
+
+á
+v
+o
+h
+t
+ó
+T
+a
+t
+r
+a
+M
+m
+o
+
+e
+t
+a
+v
+í
+ž
+u
+
+8
+1:
+7
+4:
+5
+1
+
+5
+2
+0
+2.
+1
+1.
+8
+1
+
+ý
+n
+a
+v
+o
+r
+e
+n
+e
+g
+y
+v
+
+o
+b
+
+t
+n
+e
+m
+u
+k
+o
+D
+
+3.10 Zmluvné strany sa dohodli, že všetky spory z tejto zmluvy, alebo s ňou súvisiace, rozhodne v rozhodcovskom konaní pán Mgr. An-
+drej Gundel, advokát zapísaný v zozname advokátov vedenom Slovenskou advokátskou komorou pod č. reg. 7042, a v prípade,
+že sa tento z akéhokoľvek zákonného dôvodu rozhodcom nestane, tak pán JUDr. Bc. Martin Kulhánek, Ph.D., advokát zapísaný
+v zozname advokátov vedenom Slovenskou advokátskou komorou pod č. reg. 7045, a v prípade, že sa tento z akéhokoľvek zá-
+konného dôvodu rozhodcom nestane, tak pán JUDr. Marcel Máčai, advokát zapísaný v zozname advokátov vedenom Slovenskou
+
+Číslo účastníka: 
+
+APPENDIX VOICE UNI V16
+
+(cid:105)(cid:34)(cid:20)(cid:100)(cid:13)(cid:66)(cid:98)(cid:89)(cid:107)
+A3126597
+
+(cid:106)(cid:80)(cid:60)(cid:22)(cid:78)(cid:56)(cid:107)
+79592177
+
+ Archivnet þ
+
+advokátskou komorou pod č. reg. 6536. Zmluvné strany sa tiež dohodli, že žaloba sa podáva na adresu sídla rozhodcu, ktorým je
+sídlo jeho advokátskej kancelárie ku dňu podania žaloby zapísané v zozname SAK. Odmena za rozhodcovské konanie je splatná
+podaním žaloby a jej výška je stanovená sadzobníkom poplatkov zverejneným na webovej stránke www.rsvb.sk v sekcii obchod-
+ná arbitráž v znení účinnom ku dňu podania žaloby (k odmene sa pripočíta príslušná DPH). Rozhodcovské konanie môže byť vý-
+lučne písomné a rozhodnutie nemusí obsahovať odôvodnenie, rozhodca však môže v prípade potreby ústne pojednávanie
+nariadiť. Zmluvné strany výslovne žiadajú o doručovanie na poštovú alebo e-mailové adresy uvedené v tejto zmluve. Zmluvné
+strany sa zároveň dohodli na tom, že rozhodca môže po začatí rozhodcovského konania nariadiť predbežné opatrenie v súlade
+s ust. § 22a zák. č. 244/2002 Z. z. o rozhodcovskom konaní.
+
+¨ Súhlasím s dohodou
+
+þ Nesúhlasím s dohodou
+
+Banská Bystrica, dňa 
+
+Účastník
+dátum, pečiatka, podpis
+
+Marta Tóthová
+spoločnosť Orange Slovensko, a.s.
+dátum, pečiatka, podpis
+
+á
+v
+o
+h
+t
+ó
+T
+a
+t
+r
+a
+M
+m
+o
+
+e
+t
+a
+v
+í
+ž
+u
+
+8
+1:
+7
+4:
+5
+1
+
+5
+2
+0
+2.
+1
+1.
+8
+1
+
+ý
+n
+a
+v
+o
+r
+e
+n
+e
+g
+y
+v
+
+o
+b
+
+t
+n
+e
+m
+u
+k
+o
+D
+
+Číslo účastníka:
+
+APPENDIX VOICE UNI V16
+
+(cid:105)(cid:34)(cid:20)(cid:100)(cid:13)(cid:66)(cid:98)(cid:89)(cid:107)
+A3126597
+
+(cid:106)(cid:80)(cid:60)(cid:22)(cid:78)(cid:56)(cid:107)
+79592177
+
+ Archivnet þ

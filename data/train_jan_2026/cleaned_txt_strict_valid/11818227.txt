@@ -1,0 +1,385 @@
+Dodatok č. 3 k zmluve č. 9500000145 o združenej dodávke elektriny 
+
+Dodatok č. 3 k zmluve č. 9500000145 o združenej dodávke elektriny 
+
+Zmluvné strany: 
+
+Obchodné meno: 
+
+V-Elektra Slovakia, a.s. 
+
+Sídlo: 
+
+Webové sídlo: 
+
+Zastúpená: 
+
+IČO: 
+
+DIČ: 
+
+IČ DPH: 
+
+Registrácia: 
+
+Licencia: 
+
+Moyzesova 17, 036 01 Martin 
+
+www.v-elektra.sk 
+Ing. Igor Zumrik, predseda predstavenstva 
+Ing. Ladislav Bekéni, podpredseda predstavenstva 
+
+36421693 
+
+2021864900 
+
+SK2021864900 
+
+Spoločnosť zapísaná v OR Okresného súdu Žilina, v odd. Sa, vo vložke č. 10862/L 
+
+Povolenie č. 2006E 0208 
+
+Bankové spojenie: 
+
+Tatra banka, a.s. 
+
+Číslo účtu: 
+
+2926876953/1100 (IBAN: SK7011000000002926876953, SWIFT: TATRSKBX ) 
+
+Identifikačné údaje pracovníka dojednávajúceho túto zmluvu:................................................ 
+Meno a priezvisko:................................................ 
+ČOP: 
+
+na strane jednej, ďalej len ako „dodávateľ“ 
+
+a 
+
+Obchodné meno: 
+
+Obec Miezgovce 
+
+Sídlo: 
+
+Zastúpená: 
+
+IČO: 
+
+DIČ: 
+
+IČ DPH: 
+
+Registrácia: 
+
+Miezgovce 64, 957 01 Bánovce nad Bebravou 
+
+Juraj Trgyňa, starosta 
+
+00310760 
+
+2021053463 
+
+Bankové spojenie: 
+
+Prima banka Slovensko, a.s. 
+
+Číslo účtu: 
+
+SK485600 0000 0006 5750 8001 
+
+na strane druhej, ďalej len ako „odberateľ“ 
+
+Uzatvárajú nasledovný dodatok o dodávke elektriny 
+podľa §26 odsek (9) zákona č. 251/2012 Z.z. o energetike a o zmene a doplnení niektorých zákonov v platnom znení (ďalej len 
+„zákon o energetike“) 
+
+Článok 1 dodatku 
+Predmet dodatku 
+
+1. Predmetom dodatku je predĺženie platnosti zmluvy č. 9500000145 o združenej dodávke elektriny na obdobie od 01.01.2026 
+00:00 hod. do 31.12.2026 24:00 hod. a zmena článku 2, bodu 2. Článok 2, bod 2 týmto znie: 
+
+2. Termín začatia dodávky, odberné miesto, predpokladaný odber, cena 
+
+2. Odberateľ prehlasuje, že je vlastníkom, alebo nájomcom alebo oprávneným užívateľom nižšie uvedených odberných miest 
+napojených z distribučnej sústavy. Zmluvné strany sa dohodli na cene silovej elektriny podľa nasledovnej tabuľky: 
+
+Názov/Adresa OM 
+
+Miezgovce 61, 957 01 Bánovce nad Bebravou, VO 
+
+EIC kód 
+
+24ZZS4207200000A 
+
+Distribučná sadzba 
+
+C2-X3 
+
+Hlavný istič/A 
+
+25 
+
+Produkt 
+
+VIP_svetlo 
+
+Spotreba VT/kWh 
+
+4 823 
+
+Platba za OM 
+Eur/mesiac 
+
+3,00 
+
+Platba za VT 
+Eur/MWh 
+
+125,00 
+
+Hlavný istič/F 
+
+Spotreba 
+NT/kWh 
+Platba za NT 
+Eur/MWh 
+
+3 
+
+x 
+
+x 
+
+Názov/Adresa OM 
+
+Miezgovce 120, 957 01 Bánovce nad Bebravou, TJ 
+
+EIC kód 
+
+24ZZS4169734000P 
+
+Distribučná sadzba 
+
+C2-X3 
+
+Hlavný istič/A 
+
+24 
+
+Produkt 
+
+VIP_C1 
+
+Spotreba VT/kWh 
+
+4 359 
+
+Platba za OM 
+Eur/mesiac 
+
+3,00 
+
+Platba za VT 
+Eur/MWh 
+
+125,00 
+
+Hlavný istič/F 
+
+Spotreba 
+NT/kWh 
+Platba za NT 
+Eur/MWh 
+
+3 
+
+x 
+
+x 
+
+Dodatok č. 3 k zmluve č. 9500000145 o združenej dodávke elektriny 
+
+Názov/Adresa OM 
+
+Miezgovce 64, 957 01 Bánovce nad Bebravou, KD 
+
+EIC kód 
+
+24ZZS4151275000U 
+
+Distribučná sadzba 
+
+C2-X3 
+
+Hlavný istič/A 
+
+50 
+
+Produkt 
+
+VIP_C1 
+
+Spotreba VT/kWh 
+
+4 475 
+
+Platba za OM 
+Eur/mesiac 
+
+3,00 
+
+Platba za VT 
+Eur/MWh 
+
+125,00 
+
+Hlavný istič/F 
+
+Spotreba 
+NT/kWh 
+Platba za NT 
+Eur/MWh 
+
+3 
+
+x 
+
+x 
+
+Názov/Adresa OM 
+
+Miezgovce 76, 957 01 Bánovce nad Bebravou, Zvonička 
+
+EIC kód 
+
+24ZZS6096811000U 
+
+Distribučná sadzba 
+
+C2-X3 
+
+Hlavný istič/A 
+
+20 
+
+Produkt 
+
+VIP_C1 
+
+Spotreba VT/kWh 
+
+123 
+
+Platba za OM 
+Eur/mesiac 
+
+3,00 
+
+Platba za VT 
+Eur/MWh 
+
+125,00 
+
+Hlavný istič/F 
+
+Spotreba 
+NT/kWh 
+Platba za NT 
+Eur/MWh 
+
+3 
+
+x 
+
+x 
+
+Názov/Adresa OM 
+
+Miezgovce 20, 957 01 Bánovce nad Bebravou, DS 
+
+EIC kód 
+
+24ZZS4151276000P 
+
+Distribučná sadzba 
+
+C2-X3 
+
+Hlavný istič/A 
+
+Produkt 
+
+VIP_C1 
+
+Spotreba VT/kWh 
+
+Platba za OM 
+Eur/mesiac 
+
+3,00 
+
+Platba za VT 
+Eur/MWh 
+
+20 
+
+55 
+
+125,00 
+
+Hlavný istič/F 
+
+Spotreba 
+NT/kWh 
+Platba za NT 
+Eur/MWh 
+
+3 
+
+x 
+
+x 
+
+Táto cena je nemenná po dobu dohodnutú v čl. 3 ods. 2 prvá veta tejto zmluvy. Po dobu ďalšej platnosti zmluvy, t.j. po jej 
+akomkoľvek ďalšom automatickom predĺžení podľa vety druhej čl. 3 ods. 2 sa cena a jej zmena riadi ustanoveniami VOP, t.j. 
+cenu je možné jednostranne meniť zmenou cenníka dodávateľa zverejnenej najmenej 30 dní pred jej účinnosťou na webovom 
+sídle dodávateľa. Ustanovenie čl. 5 ods. 3 sa po dobu dohodnutú v čl. 3 ods. 2 prvá veta tejto zmluvy nepoužije. 
+Jednotarifná cena je platná v celom rozsahu odberu pre všetky hodiny a dni v roku. Pri dvojtarifnej cene rozdelenie pásma VT 
+a NT zodpovedá nastaveniu prevádzkovateľom distribučnej sústavy. 
+
+Článok 2 dodatku 
+Záverečné ustanovenia 
+
+1. Tento dodatok nadobúda platnosť dňom podpisu obidvomi zmluvnými stranami, účinnosť dodatku nastáva od 01.01.2026 od 
+
+00:00 hod. 
+
+2. Tento dodatok je vyhotovený v dvoch vyhotoveniach s platnosťou originálu z ktorých každá zmluvná strana dostane po jednom 
+
+vyhotovení. 
+
+ 3. Zmluvné strany prehlasujú, že tento dodatok je prejavom ich slobodnej vôle a všetky v ňom uvedené údaje sú správne 
+
+4. 
+
+a pravdivé. 
+Ďalšie podrobnosti o dodávke elektriny, jej plánovaní, meraní dodávok a distribúcii upravujú Všeobecné obchodné podmienky 
+spoločnosti V- Elektra Slovakia, a.s. pre združenú dodávku elektriny (ďalej len VOP) vydané dodávateľom a zverejnené na jeho 
+webovej adrese. 
+
+V Martine, dňa: 19.11.2025 
+
+V- Elektra Slovakia, a.s. 
+
+V Bánovciach nad Bebravou, dňa:....................... 
+
+Obec Miezgovce 
+
+……………………………………………… 
+ Ing. Igor Zumrik, predseda predstavenstva..................................................................…. 
+Juraj Trgyňa, starosta 
+
+……………………………………………… 
+Ing. Ladislav Bekéni, podpredseda predstavenstva

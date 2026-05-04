@@ -1,0 +1,1058 @@
+Dohoda o hromadnom uzavretí Dodatkov k Zmluve
+o poskytovaní verejných služieb
+
+ID predajcu 
+
+Účastník (Osoba: právnická / fyzická podnikateľ / fyzická nepodnikateľ): Právnická osoba
+
+Meno, priezvisko, titul / Obchodné meno / Názov:
+Univerzita veterinárskeho lekárstva a farmácie v Košiciach
+
+Trvalý pobyt / Sídlo / Miesto podnikania (mesto / obec, ulica, popisné číslo, PSČ, pošta):
+Košice, Komenského 73, 04001, Košice 1
+
+Číslo a platnosť OP / pasu:
+
+Štátne občianstvo:
+
+Rodné číslo / IČO:
+00397474
+
+Zastúpený:
+Ing. Róbert Schréter, PhD.,kvestor
+
+IČ DPH / DIČ:
+
+Rodné číslo:
+
+Číslo a platnosť OP / pasu / preukazu p. na pobyt:
+
+(pod skratkou "p. na pobyt" sa rozumie povolenie na pobyt cudzinca)
+
+(ďalej len "Účastník")
+
+uzatvárajú túto Dohodu o hromadnom uzavretí Dodatkov k Zmluve o poskytovaní verejných služieb (ďalej len
+"Dohoda"; Dodatky k Zmluve o poskytovaní verejných služieb, ktorých uzavretie je predmetom Dohody
+a ktorých identifikačné kódy sú uvedené v článku 2 tejto Dohody, sa označujú tiež ako "Dodatky").
+
+Čl. 1 Uzavretie Dodatkov a Definície
+
+1.1 Účastník a Podnik (ďalej tiež "zmluvné strany") sa za účelom uzavretia viacerých Dodatkov, predmetom
+ktorých je úprava podmienok kúpy koncového telekomunikačného zariadenia (ďalej tiež "MT") a prípadne
+(ak to vyplýva z textu jednotlivých Dodatkov) tiež úprava osobitných podmienok využívania elektronic-
+kých komunikačných služieb poskytovaných Podnikom, dohodli na hromadnom uzavretí Dodatkov
+formou podpisu tejto Dohody. Zmluvné strany sa dohodli na tom, že podpisom tejto Dohody sa považujú
+za podpísané aj Dodatky, ktorých identifikačné kódy (ďalej tiež "IKD") sú uvedené v tejto Dohode, a teda
+že podpis tejto Dohody sa zároveň bude považovať za podpis každého jedného Dodatku, ktorého IKD je
+uvedený v článku 2 tejto Dohody.
+
+1.2 Zmluvné strany sa dohodli, že pre účely tejto Dohody majú v nej používané pojmy nasledujúci význam:
+
+a) Zmluva o poskytovaní verejných služieb – zmluva uzavretá medzi Podnikom a Účastníkom, ku ktorej
+sa uzavierajú jednotlivé Dodatky a predmetom ktorej je najmä poskytovanie verejnej telefónnej služby.
+V prípade, že sa Dodatky uzavierajú k viacerým zmluvám o poskytovaní verejných služieb s rôznymi
+číslami, rozumie sa pod pojmom "Zmluva o poskytovaní verejných služieb" vždy tá zmluva o poskyto-
+vaní verejných služieb, ku ktorej sa konkrétny Dodatok uzaviera, ako táto skutočnosť vyplýva z údajov
+uvedených článku 2 tejto Dohody.
+
+b) Vzor – pod týmto pojmom sa rozumie nevyplnené tlačivo Dodatku, ktoré tvorí prílohu tejto Dohody
+a ktorého text (bez konkrétnych parametrov, ktoré sa majú doplniť do nevyplnených kolóniek v tomto
+tlačive) obsahuje podmienky Dodatkov, ktoré sú rovnaké pre všetky Dodatky uzavierané prostredníc-
+tvom tejto Dohody. Priradením konkrétnych Premenných parametrov uvedených pre konkrétne
+Dodatky v Identifikáciách, ktoré sú obsiahnuté v článku 2 Dohody, k zodpovedajúcim prázdnym kolón-
+kam vo Vzore, a to spôsobom uvedeným v tejto Dohode, sa určí obsah konkrétneho Dodatku.
+
+Číslo účastníka: 
+
+R APPE CNT
+
+(cid:105)(cid:34)(cid:20)(cid:100)(cid:13)(cid:65)(cid:9)(cid:65)(cid:107)
+A3126408
+
+(cid:106)(cid:80)(cid:60)(cid:22)(cid:79)(cid:60)(cid:107)
+79592178
+
+ Archivnet þ
+
+á
+v
+o
+h
+t
+ó
+T
+a
+t
+r
+a
+M
+m
+o
+
+e
+t
+a
+v
+í
+ž
+u
+
+0
+2:
+7
+4:
+5
+1
+
+5
+2
+0
+2.
+1
+1.
+8
+1
+
+ý
+n
+a
+v
+o
+r
+e
+n
+e
+g
+y
+v
+
+o
+b
+
+t
+n
+e
+m
+u
+k
+o
+D
+
+Orange Slovensko, a. s.so sídlom Metodova 8, 821 08 Bratislava, IČO: 356 97 270, DIČ: 20 20 31 05 78, IČ DPH: SK 20 20 31 05 78,zapísaná v Obchodnom registri Mestského súdu Bratislava III, oddiel: Sa, vložka číslo 1142/B(ďalej len "Podnik")a 
+
+c) Premenné parametre – sú jednotlivé údaje uvedené v Identifikáciách, ktoré možno na základe ich
+slovného označenia alebo číselného indexu, ktorý je pri nich uvedený v príslušnej Identifikácii, priradiť
+ku konkrétnej prázdnej kolónke vo Vzore, čím je možné identifikovať obsah jednotlivých Dodatkov.
+Spojením textu Vzoru, Premenných parametrov prislúchajúcich podľa príslušného IKD ku konkrét-
+nemu Dodatku, identifikačných údajov Účastníka uvedených v záhlaví tejto Dohody a prípadne textu
+príslušnej Prílohy č. 1 Dodatku je možné získať kompletný obsah Dodatku, ako bol v zmysle tejto
+Dohody dohodnutý zmluvnými stranami. Premenný parameter môže pozostávať len z jedného údaja
+(napr. názov účastníckeho programu, o aktiváciu ktorého na základe Dodatku účastník žiada), ale aj
+z viacerých údajov (napríklad vymenovanie viacerých účastníckych programov, ktoré si Účastník je
+oprávnený v zmysle Dodatku na SIM karte aktivovať počas jeho platnosti). Premenné parametre kon-
+krétneho Dodatku sú vo svojom súhrne jedinečné, aj keď niektoré jednotlivé Premenné parametre
+(alebo aj ich väčšina) viacerých Dodatkov môžu byť rovnaké.
+
+d) Identifikácia – je súhrn Premenných parametrov zhromaždených do jednej tabuľky, ktoré prislúchajú
+k tým Dodatkom, ktorých IKD je uvedené v Identifikácii (pokiaľ je v Identifikácii len jeden IKD, vzťahujú
+sa všetky Premenné parametre Identifikácie len k jednému Dodatku). Každému z Premenných para-
+metrov v Identifikácii je priradené konkrétne slovné označenie alebo konkrétny číselný index, na
+základe ktorých je možné spárovať konkrétny Premenný parameter a konkrétnu prázdnu kolónku vo
+Vzore. Obsah kolóniek v uzavretom Dodatku tvoria tie Premenné parametre, ktoré možno v zmysle
+predchádzajúcej vety spárovať s rovnako označenými kolónkami vo Vzore. Premenné parametre
+zahrnuté do Identifikácie sú zhromaždené do tabuľky spôsobom, ktorý umožňuje jednoznačne identifi-
+kovať, ktorý Premenný parameter tvorí obsah ktorého konkrétneho Dodatku. V hornej časti tabuľky
+tvoriacej Identifikáciu sú uvedené tie Premenné parametre, ktoré sa pri jednotlivých Dodatkoch,
+ktorých IKD sú uvedené v Identifikácii, odlišujú (napr. IKD, telefónne číslo SIM karty, ktoré má každý
+Dodatok odlišné od ostatných Dodatkov) alebo ktoré sa môžu, ale nemusia, odlišovať (napr. č. Zmluvy
+o poskytovaní verejných služieb). Premenné parametre, uvedené v hornej časti Identifikácie, sú vždy
+zoradené takým spôsobom, že na prvom mieste je IKD identifikujúce Dodatok a za ním sú uvedené
+ďalšie Premenné parametre tohto typu prislúchajúce k tomuto Dodatku (za nimi nasleduje ďalšie IKD
+identifikujúce ďalší Dodatok, pokiaľ sú v Identifikácii Premenné paramtre viacerých Dodatkov).
+V dolnej časti tabuľky tvoriacej Identifikáciu sú uvedené tie Premenné parametre, ktoré sú rovnaké
+u všetkých Dodatkov, ktorých IKD je uvedené v Identifikácii, a preto každý jeden takýto Premenný
+parameter (ktorý je uvedený v Identifikácii len jeden krát, ale tvorí súčasť každého Dodatku, ktorého
+IKD je uvedené v Identifikácii) možno prostredníctvom jeho slovného označenia alebo číselného
+indexu spárovať s príslušnou rovnako označenou kolónkou v každom Dodatku, ktorého IKD je uve-
+dené v predmetnej Identifikácii.
+
+e) Príloha č. 1 Dodatku – je prílohou niektorých Dodatkov (u ktorých tvorí ich neoddeliteľnú súčasť),
+obsahom ktorej sú práva a povinnosti zmluvných strán spojené s poskytovaním osobitných zvýhod-
+není, ktoré Podnik poskytuje v rámci niektorých akciových ponúk Účastníkovi. Príloha č. 1 nie je obli-
+gatórnou časťou všetkých Dodatkov, teda nie každý Dodatok musí obsahovať túto prílohu, pričom aj
+u tých Dodatkov, ktorých súčasťou takáto príloha je, sa obsah tejto prílohy môže líšiť medzi jednotli-
+vými Dodatkami podľa toho, v rámci ktorej akciovej ponuky Účastník kupuje MT. Príloha č. 1 Dodatku
+je súčasťou len tých Dodatkov, ktorých Premenný parameter udávajúci názov Prílohy č. 1 Dodatku
+netvorí symbol "+++++". Texty všetkých Príloh č. 1 Dodatku, ktorých názvy sú uvedené v Identifiká-
+ciách v článku 2 Dohody sú súčasťou tejto Dohody a tvoria jej prílohu, pričom v prípade, že sa uza-
+viera viac Dodatkov v rámci tej istej ponukovej akcie (t. j. Prílohy č. 1 týchto Dodatkov sú identické),
+tvorí prílohu Dohody len jeden exemplár Prílohy č. 1, ktorý platí pre všetky tieto Dodatky.
+
+á
+v
+o
+h
+t
+ó
+T
+a
+t
+r
+a
+M
+m
+o
+
+e
+t
+a
+v
+í
+ž
+u
+
+0
+2:
+7
+4:
+5
+1
+
+5
+2
+0
+2.
+1
+1.
+8
+1
+
+ý
+n
+a
+v
+o
+r
+e
+n
+e
+g
+y
+v
+
+o
+b
+
+t
+n
+e
+m
+u
+k
+o
+D
+
+1.3 Dohoda má viacero častí, ktoré tvoria jej súčasť. Jej štruktúra pozostáva z
+
+a) tela Dohody, ktorého súčasťou sú identifikácie jej zmluvných strán a jej články 1 až 3,
+b) Vzoru, ktorý tvorí jej prílohu a
+c) Príloh č. 1 Dodatkov, ktoré tvoria fakultatívnu časť Dohody a pokiaľ v zmysle príslušnej Identifikácie je
+Príloha č. 1 Dodatku súčasťou Dodatku je zároveň súčasťou tejto Dohody. Skutočnosť, či jedna alebo
+viacero týchto príloh je alebo nie je súčaťou Dohody, ako aj ich počet závisí od toho, v rámci ktorých
+osobitných ponukových akcií Účastník zakúpil MT od Podniku, pričom táto informácia vyplýva
+z ustanovení článku 2 tela Dohody, ktorého obsahom sú Identifikácie obsahujúce Premenný parame-
+ter jednoznačne stanovujúci, či má konkrétny Dodatok Prílohu č. 1 alebo nie, ako aj jej názov.
+
+Kompletný obsah konkrétneho Dodatku sa získa doplnením príslušných údajov do nevyplnených častí
+Vzoru tak, že (i) identifikačné údaje Účastníka uvedené v záhlaví tejto Dohody sa spárujú (doplnia)
+s nevyplnenými identifikačnými údajmi Účastníka vo Vzore (podľa slovného označenia jednotlivých
+rubrík) (ii) Premenné parametre z príslušnej (podľa IKD) Identifikácie podľa IKD prislúchajúce ku konkrét-
+
+Číslo účastníka: 
+
+R APPE CNT
+
+(cid:105)(cid:34)(cid:20)(cid:100)(cid:13)(cid:65)(cid:9)(cid:65)(cid:107)
+A3126408
+
+(cid:106)(cid:80)(cid:60)(cid:22)(cid:79)(cid:60)(cid:107)
+79592178
+
+ Archivnet þ
+
+nemu Dodatku sa spárujú s rovnako slovne alebo číselným indexom označenými kolónkami vo Vzore,
+(iii) v zmysle Premenného parametra zodpovedajúceho označením kolónke, ktorá v súlade s textom
+Vzoru má obsahovať názov Prílohy č. 1 Dodatku, sa spôsobom uvedeným v bode 1.2 písmene e) tohto
+článku stanoví, či má Dodatok obsahovať Prílohu č. 1 a ak áno, priradí sa Dodatku Príloha č. 1, ktorej
+názov sa zhoduje s údajom uvedeným v dotknutom Premennom parametri.
+
+1.4 V rámci Identifikácií sú jednotlivé Premenné parametre buď označené slovne (napr. telefónne číslo SIM
+karty) alebo číselným indexom zodpovedajúcim rovnakému číselnému indexu, ktorým je označená
+prázdna kolónka vo Vzore. Premenný parameter prislúchajúci ku konkrétnemu Dodatku v rámci Identifi-
+kácie sa považuje za vyplnenie kolónky v tomto Dodatku, pričom jednotlivé Premenné parametre v Identi-
+fikáciách a jednotlivé kolónky vo Vzore sa spárujú na základe slovných označení a číselných indexov,
+ktorými sú jednotlivé kolónky a Premenné parametre označené. V prípade, že je namiesto Premenného
+parametra pri konkrétnom číselnom indexe alebo slovnom označení v Identifikácii uvedený symbol
+"+++++" rozumie sa tým, že stav určovaný daným Premenným parametrom zodpovedajúcim kolónke
+s rovnakým číselným indexom resp. slovným označením v rámci Vzoru zostáva nezmenený oproti stavu
+pred podpisom Dodatku (pokiaľ však z textu Vzoru vzťahujúceho sa k danej kolónke alebo iných
+ustanovení Dohody vyplýva nejaký iný význam uvedeného symbolu má tento význam prednosť pred
+ustanovením tejto vety).
+
+1.5 Zmluvné strany sa dohodli, že podpisom tejto Dohody sa uzatvárajú všetky jednotlivé Dodatky, ktorých
+IKD je uvedený v Identifikáciách tvoriacich obsah článku 2 tejto Dohody. Obsah každého jedného
+Dodatku je jednoznačne dohodnutý zmluvnými stranami a je ho možné určiť doplnením (spôsobom
+podrobne stanoveným v bodoch 1.2 až 1.4 tohto článku) jednotlivých Premenných parametrov prislúcha-
+júcich konkrétnym Dodatkom a uvedených v Identifikáciách do prázdnych kolóniek vo Vzore, doplnením
+identifikačných údajov Účastníka do Vzoru a prípadne pripojením Prílohy č. 1 príslušnej ku konkrétnemu
+Dodatku podľa jej názvu k tomuto Dodatku.
+
+Čl. 2 Identifikácie
+
+IKD dodatku: 
+Č. MT GSM: 
+Č. zmluvy o pripojení: A7706991
+
+1) VPN Extra
+"+++++"
+2)
+"+++++"
+3)
+4)
+"+++++"
+5) 24
+6) 33,33 EUR
+7) 5,00 EUR
+8) 1: 146,00 EUR
+9) Samsung Galaxy A16 128GB black
+10) "+++++"
+11) 199,00 EUR
+12) 101,00 EUR
+13) 53,00 EUR
+
+14) Odovzdanie Zariadenia Účastníkovi pri uzavretí
+Dodatku – Účastník podpisom Dodatku potvr-
+dzuje prevzatie Zariadenia
+
+15) 0,00 EUR
+16) "+++++"
+17) "+++++"
+18) "+++++"
+19) "+++++"
+20) "+++++"
+20) "+++++"
+21) neuplatňuje sa
+22) 146,00 EUR
+23) UNI_B2B_VPN
+
+á
+v
+o
+h
+t
+ó
+T
+a
+t
+r
+a
+M
+m
+o
+
+e
+t
+a
+v
+í
+ž
+u
+
+0
+2:
+7
+4:
+5
+1
+
+5
+2
+0
+2.
+1
+1.
+8
+1
+
+ý
+n
+a
+v
+o
+r
+e
+n
+e
+g
+y
+v
+
+o
+b
+
+t
+n
+e
+m
+u
+k
+o
+D
+
+Číslo účastníka: 
+
+R APPE CNT
+
+(cid:105)(cid:34)(cid:20)(cid:100)(cid:13)(cid:65)(cid:9)(cid:65)(cid:107)
+A3126408
+
+(cid:106)(cid:80)(cid:60)(cid:22)(cid:79)(cid:60)(cid:107)
+79592178
+
+ Archivnet þ
+
+IKD dodatku: 
+Č. MT GSM: 
+Č. zmluvy o pripojení: A3131561
+
+1) VPN Extra
+"+++++"
+2)
+"+++++"
+3)
+"+++++"
+4)
+5) 24
+6) 33,33 EUR
+7) 5,00 EUR
+8) 1: 146,00 EUR
+9) Samsung Galaxy A16 128GB black
+10) "+++++"
+11) 199,00 EUR
+12) 101,00 EUR
+13) 53,00 EUR
+
+IKD dodatku: 
+Č. MT GSM: 
+Č. zmluvy o pripojení: A3126807
+
+1) VPN Extra
+"+++++"
+2)
+"+++++"
+3)
+4)
+"+++++"
+5) 24
+6) 33,33 EUR
+7) 5,00 EUR
+8) 1: 45,00 EUR
+9) Samsung Galaxy A17 5G 128GB black
+10) "+++++"
+11) 229,00 EUR
+12) 0,00 EUR
+13) 184,00 EUR
+
+IKD dodatku: 
+Č. MT GSM: 
+Č. zmluvy o pripojení: A3127016
+
+1) VPN Optimal
+"+++++"
+2)
+"+++++"
+3)
+4)
+"+++++"
+5) 24
+6) 16,67 EUR
+7) 5,00 EUR
+8) 1: 146,00 EUR
+9) Samsung Galaxy A16 128GB black
+10) "+++++"
+11) 199,00 EUR
+12) 101,00 EUR
+13) 53,00 EUR
+
+14) Odovzdanie Zariadenia Účastníkovi pri uzavretí
+Dodatku – Účastník podpisom Dodatku potvr-
+dzuje prevzatie Zariadenia
+
+15) 0,00 EUR
+16) "+++++"
+17) "+++++"
+18) "+++++"
+19) "+++++"
+20) "+++++"
+20) "+++++"
+21) neuplatňuje sa
+22) 146,00 EUR
+23) UNI_B2B_VPN
+
+14) Odovzdanie Zariadenia Účastníkovi pri uzavretí
+Dodatku – Účastník podpisom Dodatku potvr-
+dzuje prevzatie Zariadenia
+
+15) 0,00 EUR
+16) "+++++"
+17) "+++++"
+18) "+++++"
+19) "+++++"
+20) "+++++"
+20) "+++++"
+21) neuplatňuje sa
+22) 45,00 EUR
+23) UNI_B2B_VPN
+
+14) Odovzdanie Zariadenia Účastníkovi pri uzavretí
+Dodatku – Účastník podpisom Dodatku potvr-
+dzuje prevzatie Zariadenia
+
+15) 0,00 EUR
+16) "+++++"
+17) "+++++"
+18) "+++++"
+19) "+++++"
+20) "+++++"
+20) "+++++"
+21) neuplatňuje sa
+22) 146,00 EUR
+23) UNI_B2B_VPN
+
+á
+v
+o
+h
+t
+ó
+T
+a
+t
+r
+a
+M
+m
+o
+
+e
+t
+a
+v
+í
+ž
+u
+
+0
+2:
+7
+4:
+5
+1
+
+5
+2
+0
+2.
+1
+1.
+8
+1
+
+ý
+n
+a
+v
+o
+r
+e
+n
+e
+g
+y
+v
+
+o
+b
+
+t
+n
+e
+m
+u
+k
+o
+D
+
+Číslo účastníka: 
+
+R APPE CNT
+
+(cid:105)(cid:34)(cid:20)(cid:100)(cid:13)(cid:65)(cid:9)(cid:65)(cid:107)
+A3126408
+
+(cid:106)(cid:80)(cid:60)(cid:22)(cid:79)(cid:60)(cid:107)
+79592178
+
+ Archivnet þ
+
+IKD dodatku: 
+Č. MT GSM: 
+Č. zmluvy o pripojení: A3127016
+
+1) VPN Extra
+"+++++"
+2)
+"+++++"
+3)
+"+++++"
+4)
+5) 24
+6) 33,33 EUR
+7) 5,00 EUR
+8) 1: 146,00 EUR
+9) Samsung Galaxy A16 128GB black
+10) "+++++"
+11) 199,00 EUR
+12) 101,00 EUR
+13) 53,00 EUR
+
+IKD dodatku: 
+Č. MT GSM: 
+Č. zmluvy o pripojení: A3126597
+
+1) VPN Extra
+"+++++"
+2)
+"+++++"
+3)
+4)
+"+++++"
+5) 24
+6) 33,33 EUR
+7) 5,00 EUR
+8) 1: 146,00 EUR
+9) Samsung Galaxy A16 128GB black
+10) "+++++"
+11) 199,00 EUR
+12) 101,00 EUR
+13) 53,00 EUR
+
+IKD dodatku: 
+Č. MT GSM: 
+Č. zmluvy o pripojení: A3126620
+
+1) VPN Optimal
+"+++++"
+2)
+"+++++"
+3)
+4)
+"+++++"
+5) 24
+6) 16,67 EUR
+7) 5,00 EUR
+8) 1: 146,00 EUR
+9) Samsung Galaxy A16 128GB black
+10) "+++++"
+11) 199,00 EUR
+12) 101,00 EUR
+13) 53,00 EUR
+
+14) Odovzdanie Zariadenia Účastníkovi pri uzavretí
+Dodatku – Účastník podpisom Dodatku potvr-
+dzuje prevzatie Zariadenia
+
+15) 0,00 EUR
+16) "+++++"
+17) "+++++"
+18) "+++++"
+19) "+++++"
+20) "+++++"
+20) "+++++"
+21) neuplatňuje sa
+22) 146,00 EUR
+23) UNI_B2B_VPN
+
+14) Odovzdanie Zariadenia Účastníkovi pri uzavretí
+Dodatku – Účastník podpisom Dodatku potvr-
+dzuje prevzatie Zariadenia
+
+15) 0,00 EUR
+16) "+++++"
+17) "+++++"
+18) "+++++"
+19) "+++++"
+20) "+++++"
+20) "+++++"
+21) neuplatňuje sa
+22) 146,00 EUR
+23) UNI_B2B_VPN
+
+14) Odovzdanie Zariadenia Účastníkovi pri uzavretí
+Dodatku – Účastník podpisom Dodatku potvr-
+dzuje prevzatie Zariadenia
+
+15) 0,00 EUR
+16) "+++++"
+17) "+++++"
+18) "+++++"
+19) "+++++"
+20) "+++++"
+20) "+++++"
+21) neuplatňuje sa
+22) 146,00 EUR
+23) UNI_B2B_VPN
+
+á
+v
+o
+h
+t
+ó
+T
+a
+t
+r
+a
+M
+m
+o
+
+e
+t
+a
+v
+í
+ž
+u
+
+0
+2:
+7
+4:
+5
+1
+
+5
+2
+0
+2.
+1
+1.
+8
+1
+
+ý
+n
+a
+v
+o
+r
+e
+n
+e
+g
+y
+v
+
+o
+b
+
+t
+n
+e
+m
+u
+k
+o
+D
+
+Číslo účastníka: 
+
+R APPE CNT
+
+(cid:105)(cid:34)(cid:20)(cid:100)(cid:13)(cid:65)(cid:9)(cid:65)(cid:107)
+A3126408
+
+(cid:106)(cid:80)(cid:60)(cid:22)(cid:79)(cid:60)(cid:107)
+79592178
+
+ Archivnet þ
+
+IKD dodatku: 
+Č. MT GSM: 
+Č. zmluvy o pripojení: A3126567
+
+1) VPN Extra
+"+++++"
+2)
+"+++++"
+3)
+"+++++"
+4)
+5) 24
+6) 33,33 EUR
+7) 5,00 EUR
+8) 1: 146,00 EUR
+9) Samsung Galaxy A16 128GB black
+10) "+++++"
+11) 199,00 EUR
+12) 101,00 EUR
+13) 53,00 EUR
+
+IKD dodatku: 
+Č. MT GSM: 
+Č. zmluvy o pripojení: A3126408
+
+1) VPN Extra
+"+++++"
+2)
+"+++++"
+3)
+4)
+"+++++"
+5) 24
+6) 33,33 EUR
+7) 5,00 EUR
+8) 1: 146,00 EUR
+9) Samsung Galaxy A16 128GB black
+10) "+++++"
+11) 199,00 EUR
+12) 101,00 EUR
+13) 53,00 EUR
+
+14) Odovzdanie Zariadenia Účastníkovi pri uzavretí
+Dodatku – Účastník podpisom Dodatku potvr-
+dzuje prevzatie Zariadenia
+
+15) 0,00 EUR
+16) "+++++"
+17) "+++++"
+18) "+++++"
+19) "+++++"
+20) "+++++"
+20) "+++++"
+21) neuplatňuje sa
+22) 146,00 EUR
+23) UNI_B2B_VPN
+
+14) Odovzdanie Zariadenia Účastníkovi pri uzavretí
+Dodatku – Účastník podpisom Dodatku potvr-
+dzuje prevzatie Zariadenia
+
+15) 0,00 EUR
+16) "+++++"
+17) "+++++"
+18) "+++++"
+19) "+++++"
+20) "+++++"
+20) "+++++"
+21) neuplatňuje sa
+22) 146,00 EUR
+23) UNI_B2B_VPN
+
+V zmysle príslušných položiek Identifikácií je celková kúpna cena všetkých MT, ktoré sa predávajú na základe
+Dodatkov, ktorých Ident. kódy Dodatkov (IKD) sú uvedené v tomto článku, dohodnutá vo výške 608,00 €
+(vrátane DPH).
+
+Čl. 3 Záverečné ustanovenia
+
+3.1 Účastník vyhlasuje, že pred uzavretím tejto Dohody, ktoré je zároveň uzavretím jednotlivých Dodatkov,
+ktorých Identifikácie sú obsahom článku 2 Dohody, bol podrobne oboznámený so štruktúrou Dohody
+a väzbami jej jednotlivých súčastí, ako aj s právami, ktoré z Dohody a jednotlivých Dodatkov uzavretých
+jej prostredníctvom vyplývajú ako aj so všetkými podmienkami a / alebo povinnosťami, ktoré sa podľa
+nich zaviazal splniť, a súčasne, že bol v plnom rozsahu upozornený na príslušné dôsledky, ak podmienky
+a / alebo povinnosti nesplní alebo poruší.
+
+3.2 Zmluvné strany sa dohodli, že Dodatky, ktoré boli uzavreté prostredníctvom tejto Dohody, sú samostatné
+zmluvné akty a ďalšia právna existencia a právny osud každého z nich bude prebiehať samostatne a bez
+ohľadu na právny osud ostatných Dodatkov uzavretých touto Dohodou (tým nie je dotknutá možnosť
+spoločného zániku viacerých Dodatkov v dôsledku zániku platnosti Zmluvy o poskytovaní verejných
+služieb).
+
+3.3 Účastník podpisom tejto Dohody potvrdzuje prevzatie MT uvedených v Identifikáciách.
+
+3.4 Bez ohľadu na ostatné ustanovenia tejto Dohody platí, že v prípade, ak sa na túto Dohodu a na jednotlivé
+Dodatky, ktorých hromadné uzavretie je obsahom tejto Dohody, vzťahuje režim povinného zverejňovania
+zmlúv podľa § 5a zákona č. 211/2000 Z. z. o slobodnom prístupe k informáciám a o zmene a doplnení
+niektorých zákonov v znení neskorších predpisov, táto Dohoda ako aj každý z Dodatkov, ktorých
+
+Číslo účastníka: 
+
+R APPE CNT
+
+(cid:105)(cid:34)(cid:20)(cid:100)(cid:13)(cid:65)(cid:9)(cid:65)(cid:107)
+A3126408
+
+(cid:106)(cid:80)(cid:60)(cid:22)(cid:79)(cid:60)(cid:107)
+79592178
+
+ Archivnet þ
+
+á
+v
+o
+h
+t
+ó
+T
+a
+t
+r
+a
+M
+m
+o
+
+e
+t
+a
+v
+í
+ž
+u
+
+0
+2:
+7
+4:
+5
+1
+
+5
+2
+0
+2.
+1
+1.
+8
+1
+
+ý
+n
+a
+v
+o
+r
+e
+n
+e
+g
+y
+v
+
+o
+b
+
+t
+n
+e
+m
+u
+k
+o
+D
+
+hromadné uzavretie je obsahom tejto Dohody, nadobudne účinnosť dňom nasledujúcim po dni jeho
+zverejnenia v súlade s ustanoveniami § 47a Občianskeho zákonníka, ak sa zmluvné strany nedohodli na
+odložení účinnosti niektorých jeho ustanovení. Týmto ustanovením nie sú dotknuté odkladacie alebo roz-
+väzovacie podmienky, ak sú dohodnuté v tomto Dodatku.
+
+3.5 Táto Dohoda sa vyhotovuje v dvoch exemplároch, pričom každá zo zmluvných strán obdrží jedno vyhoto-
+
+venie.
+
+Banská Bystrica, dňa 
+
+ Banská Bystrica, dňa 
+
+Účastník:
+
+Marta Tóthová
+Za Orange Slovensko a.s.:
+
+á
+v
+o
+h
+t
+ó
+T
+a
+t
+r
+a
+M
+m
+o
+
+e
+t
+a
+v
+í
+ž
+u
+
+0
+2:
+7
+4:
+5
+1
+
+5
+2
+0
+2.
+1
+1.
+8
+1
+
+ý
+n
+a
+v
+o
+r
+e
+n
+e
+g
+y
+v
+
+o
+b
+
+t
+n
+e
+m
+u
+k
+o
+D
+
+Číslo účastníka: 
+
+R APPE CNT
+
+(cid:105)(cid:34)(cid:20)(cid:100)(cid:13)(cid:65)(cid:9)(cid:65)(cid:107)
+A3126408
+
+(cid:106)(cid:80)(cid:60)(cid:22)(cid:79)(cid:60)(cid:107)
+79592178
+
+ Archivnet þ

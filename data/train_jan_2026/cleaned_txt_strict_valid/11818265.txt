@@ -1,0 +1,3583 @@
+ELE_RETAIL_FIX_R_ver102022 
+ELE_RET02FKT 
+Číslo zmluvy dodávateľa: ZDR-2025-A-09335-000 
+
+Poštová adresa odberateľa: 
+
+Spojená škola internátna Snina 
+Palárikova 1602/1 
+069 01 Snina 
+Slovenská republika 
+
+Zmluva o združenej dodávke elektriny 
+uzatvorená v zmysle ustanovenia § 269 ods. 2 Obchodného zákonníka, podľa príslušných ustanovení zákona č. 251/2012 Z. z. 
+o energetike a o zmene a doplnení niektorých zákonov v znení neskorších predpisov (ďalej len „Zákon o energetike“) (ďalej len 
+„Zmluva“) 
+medzi zmluvnými stranami: 
+
+Slovenské elektrárne – energetické služby, s.r.o. 
+
+Sídlo: 
+spoločnosť zapísaná v Obchodnom registri Mestského súdu Mestský súd Bratislava III, Oddiel Sro, Vložka č. 56534/B 
+Štatutárny orgán 
+
+Pribinova 40, 811 09 Bratislava - mestská časť Ružinov 
+
+Zastúpená zamestnancom na 
+základe poverenia zamestnávateľa 
+
+IČO 
+IČ DPH 
+DIČ 
+IBAN 
+Údaj o povolení na podnikanie 
+v elektroenergetike: 
+Poštová adresa 
+(ďalej len „Dodávateľ“) 
+
+Ing. Martin Kumpan, konateľ 
+Ing. Igor Kertész, vedúci obchodného oddelenia, 
+na základe poverenia zamestnanca 
+ Martina Koleničková, teamleader pre retail a podporu, 
+na základe poverenia zamestnanca 
+44553412 
+SK2022762621 
+2022762621 
+SK3511000000002626225307 
+Povolenie na podnikanie v elektroenergetike vydaného Úradom pre reguláciu sieťových 
+odvetví pod č. 2009E 0352 
+totožná so sídlom spoločnosti 
+
+a 
+
+Spojená škola internátna Snina 
+
+Sídlo: 
+
+Palárikova 1602/1, 069 01 Snina 
+
+Štatutárny orgán: 
+IČO 
+IČ DPH 
+DIČ 
+IBAN 
+(ďalej len „Odberateľ“) 
+(Dodávateľ a Odberateľ ďalej spolu aj len ako „Zmluvné strany“ a jednotlivo ako „Zmluvná strana“) 
+
+PaeDr. Jana Kandriková, riaditeľka školy 
+42382530 
+SK2024171655 
+2024171655 
+SK7981800000007000534928 
+
+Slovenské elektrárne – energetické služby, s.r.o. – sídlo: Pribinova 40 - 811 09 Bratislava - mestská časť Ružinov – Slovenská republika – IČO: 
+44553412 - Obchodný register Mestského súdu Mestský súd Bratislava III – Oddiel: Sro – Vložka číslo: 56534/B 
+
+t
+s
+i
+l
+
+ý
+d
+ž
+a
+k
+m
+í
+s
+o
+r
+p
+e
+t
+j
+u
+f
+a
+r
+a
+P
+
+1 
+1.1 
+
+1.2 
+
+1.3 
+
+1.4 
+1.5 
+
+2 
+2.1 
+
+2.2 
+
+2.3 
+
+3 
+
+3.1 
+
+ELE_RETAIL_FIX_R_ver102022 
+ELE_RET02FKT 
+Číslo zmluvy dodávateľa: ZDR-2025-A-09335-000 
+
+ÚVODNÉ USTANOVENIA 
+Účelom tejto Zmluvy je najmä: 
+(i) 
+
+zabezpečenie plynulých a spoľahlivých dodávok elektriny pre Odberateľa za úhradu, a to pre OM, pričom rozsah 
+OM je možné na základe súhlasu oboch Zmluvných strán rozšíriť alebo zúžiť vzájomnou písomnou dohodou spolu 
+s novou Prílohou č. 1 a Prílohou č. 2, ktorá sa stane súčasťou Zmluvy a nahradí pôvodnú Prílohu č. 1 a Prílohu č. 
+2 dňom jej podpisu Zmluvnými stranami, ak nebude Zmluvnými stranami dohodnuté inak. 
+odplatné poskytovanie služieb Dodávateľa spočívajúce v prevzatí zodpovednosti za odchýlku voči zúčtovateľovi 
+odchýlok (OKTE) a obchodnej činnosti Dodávateľa, a 
+zabezpečenie služieb Distribúcie elektriny a ostatných služieb spojených s dodávkou elektriny prostredníctvom 
+PDS do OM, ku ktorej je/sú pripojené OM Odberateľa, 
+
+(ii) 
+
+(iii) 
+
+a to podľa podmienok dohodnutých v tejto Zmluve. 
+Neoddeliteľnou súčasťou tejto Zmluvy sú všeobecné obchodné podmienky dodávky elektriny pre odberateľov kategórie 
+retail (neregulovaný segment), ktoré vymedzujú práva a povinnosti Zmluvných strán vznikajúce pri dodávke elektriny z 
+distribučnej sústavy príslušného PDS, ktoré nie sú výslovne upravené v tejto Zmluve (ďalej len „VOP“); VOP platné ku dňu 
+uzavretia tejto Zmluvy tvoria Prílohu č. 5 tejto Zmluvy. Odberateľ podpisom Zmluvy potvrdzuje, že sa s obsahom VOP 
+oboznámil, porozumel im a zaväzuje sa ich dodržiavať. Dodávateľ zverejňuje aktuálne VOP a každú ich zmenu na svojom 
+webovom sídle www.energetickesluzby.sk. O každej zmene VOP Dodávateľ písomne informuje Odberateľa najneskôr 
+tridsať (30) dní pred nadobudnutím účinnosti zmeny, a to zaslaním písomného oznámenia o zmene VOP na e-mailovú 
+adresu Odberateľa. 
+Ak sa v tejto Zmluve odkazuje na práva, povinnosti, podmienky alebo záväzky vyplývajúce z tejto Zmluvy, potom, ak 
+z kontextu nevyplýva inak, zahŕňa tento odkaz aj práva, povinnosti, podmienky a záväzky vyplývajúce z VOP. 
+Odchylné dojednania v tejto Zmluve majú prednosť pred VOP. 
+Ak nie je v tejto Zmluve výslovne uvedené inak, majú pojmy s veľkým začiatočným písmenom použité v tejto Zmluve 
+význam uvedený vo VOP. 
+
+(ii) 
+
+PREDMET ZMLUVY 
+Predmetom tejto Zmluvy je záväzok Dodávateľa počas doby trvania dodávky elektriny podľa podmienok uvedených v tejto 
+Zmluve a VOP: 
+(i) 
+
+dodávať do OM elektrinu v dohodnutom množstve a časovom priebehu výkonu a v kvalite podľa Technických 
+podmienok a v súlade so Štandardami kvality, pokiaľ tomu nebudú brániť okolnosti na strane PDS alebo okolnosti 
+na strane Odberateľa, 
+zabezpečiť pre dodávku elektriny Distribúciu do OM a všetky Distribučné služby súvisiace s dodávkou elektriny, 
+a 
+prevziať za Odberateľa zodpovednosť za odchýlku na OM voči zúčtovateľovi odchýlok (OKTE), a 
+
+(iii) 
+záväzok Odberateľa od Dodávateľa elektrinu v dohodnutom množstve podľa podmienok tejto Zmluvy odobrať a riadne 
+a včas zaplatiť Dodávateľovi za dodávku elektriny, Distribučné služby a ostatné služby podľa tejto Zmluvy dohodnuté 
+ceny a dodržiavať svoje povinnosti v súlade so Zmluvou. 
+Doba trvania dodávky elektriny začína dohodnutým Dňom začatia dodávky elektriny, ktorým je: 01.01.2026, 00:00 hod. 
+Deň začatia dodávky elektriny je zároveň dňom začatia Distribúcie elektriny do OM. 
+Odberateľ sa zaväzuje dodanú elektrinu odobrať a uhradiť Dodávateľovi za plnenie uvedené v bode 2.1 tohto článku 
+dohodnutú cenu vo výške a spôsobom podľa tejto Zmluvy a v súlade s predpismi na základe uplatnenia regulovaného 
+prístupu k distribučnej sústave. 
+
+ŠPECIFIKÁCIA DODÁVOK ELEKTRINY, PODMIENKY PREVZATIA ZODPOVEDNOSTI ZA ODCHÝLKU, 
+VYHODNOTENIE ODBERU 
+Ročný diagram odberu 
+Špecifikácia dodávok elektriny, ktorú sa Dodávateľ zaväzuje na základe tejto Zmluvy v príslušnom kalendárnom roku 
+trvania Zmluvy Odberateľovi dodať a Odberateľ sa zaväzuje odobrať je uvedená v Ročnom diagrame odberu, ktorý tvorí 
+Prílohu č. 2 Zmluvy. 
+Spresnenie po dobu trvania dodávky elektriny 
+
+3.2 
+3.2.1 Odberateľ je počas doby trvania dodávky elektriny povinný s primeranou presnosťou a odbornou starostlivosťou 
+
+spresňovať hodnoty dohodnutého množstva odberu elektriny podľa Ročného diagramu odberu nasledovne: 
+3.2.1.1 mesačným upresnením plánovaného množstva odberu na príslušný kalendárny mesiac najneskôr desiaty (10.) 
+deň mesiaca predchádzajúceho mesiacu dodávky elektriny (M-1), a to elektronicky (e-mailom) v dohodnutom 
+formáte (xls, csv) alebo iným spôsobom vopred oznámeným Dodávateľom Odberateľovi. 
+
+3.2.2 Upresnením hodnôt dohodnutého množstva odberu podľa bodu 3.2.1 Dodávateľa nie sú dotknuté Notifikačné povinnosti 
+podľa bodu 4.3 a 4.4 VOP. Účelom spresňovania je najmä predchádzanie vzniku škody, resp. minimalizácia škôd. 
+3.2.3 Porušenie povinnosti spresniť hodnoty dohodnutého množstva podľa bodu 3.2.1 sa považuje za podstatné porušenie 
+Zmluvy spojené s právom Dodávateľa od Zmluvy odstúpiť. V prípade, ak Odberateľ nesplní alebo poruší povinnosť 
+spresnenia na výzvu stanoveným spôsobom a v stanovených lehotách v ktoromkoľvek období trvania Zmluvy, Dodávateľ 
+je oprávnený požadovať od Odberateľa zmluvnú pokutu vo výške 100,- EUR (slovom: jednosto eur) denne za každý, aj 
+začatý deň porušenia predmetnej povinnosti. 
+
+3.2.4 Ak zároveň Dodávateľ postupom podľa bodu 4.2 VOP vyzve Odberateľa na spresnenie hodnôt dohodnutého množstva 
+a príp. aj časového priebehu výkonu podľa Ročného diagramu odberu, Odberateľ je počas doby trvania dodávky elektriny 
+povinný s primeranou presnosťou a odbornou starostlivosťou spresňovať hodnoty dohodnutého množstva a príp. aj 
+časového priebehu výkonu odberu elektriny podľa Ročného diagramu odberu spôsobom a počas doby uvedených 
+Dodávateľom vo výzve. 
+
+3.2.5 Ďalšie podmienky spresňovania sú uvedené v bode 4.2 VOP. Pre vylúčenie akýchkoľvek pochybností, podmienky 
+spresňovania uvedené v bode 4.2 VOP, najmä podmienky uvedené v bodoch 4.2.3, 4.2.6, 4.2.8, 4.3, 4.4. a 4.5 VOP, 
+a s tým súvisiace povinnosti Odberateľa a práva Dodávateľa sa vzťahujú aj na upresňovanie podľa bodu 3.2.1 tejto 
+Zmluvy. 
+Vyhodnotenie dodržania celkového dohodnutého množstva elektriny 
+
+3.3 
+3.3.1 V prípade, ak Odberateľ odoberie v ktoromkoľvek kalendárnom roku dodávky v porovnaní s dohodnutým množstvom 
+
+podľa Ročného diagramu odberu: 
+
+Slovenské elektrárne – energetické služby, s.r.o. – sídlo: Pribinova 40 - 811 09 Bratislava - mestská časť Ružinov – Slovenská republika – IČO: 
+44553412 - Obchodný register Mestského súdu Mestský súd Bratislava III – Oddiel: Sro – Vložka číslo: 56534/B 
+
+ELE_RETAIL_FIX_R_ver102022 
+ELE_RET02FKT 
+Číslo zmluvy dodávateľa: ZDR-2025-A-09335-000 
+
+(i) 
+
+menej ako 90 % z celkového dohodnutého množstva elektriny podľa Ročného diagramu odberu, Dodávateľ je, 
+za predpokladu, že hodnota X ‹ Cena, oprávnený uplatňovať voči Odberateľovi poplatok za neodobraté množstvo 
+elektriny (Pn) vo výške, ktorá sa určí nasledovne: 
+
+Pn = (RZM-ODM) * (Cena - X) 
+
+kde: 
+Pn 
+RZM 
+
+ODM 
+X 
+
+Cena 
+
+znamená poplatok za neodobraté množstvo elektriny v EUR 
+znamená celkové ročné množstvo elektriny podľa Ročného diagramu odberu v MWh, ktoré sa 
+Odberateľ zaviazal odobrať 
+znamená Odberateľom skutočne odobraté množstvo elektriny v MWh 
+znamená hodnotu zodpovedajúcu aritmetickému priemeru cien elektriny na krátkodobom trhu za 
+obdobie vyhodnocovaného kalendárneho roka v EUR/MWh; ceny elektriny na krátkodobom trhu s 
+elektrinou sú ku dňu uzavretia tejto Zmluvy zverejňované na www.okte.sk v sekcii krátkodobý trh; 
+zmluvná cena v EUR/ MWh platná v príslušnom kalendárnom roku dodávky, za ktorý sa 
+uskutočňuje vyhodnotenie podľa tohto bodu 3.3 Zmluvy; 
+
+(ii) 
+
+viac ako 110 % z celkového dohodnutého množstva elektriny podľa Ročného diagramu odberu, Dodávateľ je, za 
+predpokladu, že hodnota X › Cena, oprávnený uplatňovať voči Odberateľovi doplatok k cene za dodávku elektriny 
+za navyše odobraté množstvo elektriny (Dno) vo výške, ktorá sa určí nasledovne: 
+
+Dno = (ODM – RZM) * (X - Cena) 
+
+kde: 
+Dno 
+RZM 
+
+ODM 
+X 
+
+Cena 
+
+znamená doplatok za navyše odobraté množstvo elektriny v EUR 
+znamená celkové ročné množstvo elektriny podľa Ročného diagramu odberu v MWh, ktoré sa 
+Odberateľ zaviazal odobrať 
+znamená Odberateľom skutočne odobraté množstvo elektriny v MWh, 
+znamená hodnotu zodpovedajúcu aritmetickému priemeru cien elektriny na krátkodobom trhu za 
+obdobie vyhodnocovaného kalendárneho roka v EUR/MWh; ceny elektriny na krátkodobom trhu 
+elektriny sú ku dňu uzavretia tejto Zmluvy zverejňované na www.okte.sk v sekcii krátkodobý trh; 
+zmluvná cena v EUR/ MWh platná v príslušnom kalendárnom roku dodávky, za ktorý sa 
+uskutočňuje vyhodnotenie podľa tohto bodu 3.3 Zmluvy; 
+
+Uplatnením poplatku a doplatku podľa bodu 3.3.1 tejto Zmluvy nie je dotknutý nárok Dodávateľa na náhradu škody 
+spôsobenej porušením povinnosti Odberateľa odoberať elektrinu v súlade s Ročným diagramom odberu. 
+
+3.3.2 Dodávateľ uplatní poplatok Pn a doplatok Dn podľa bodu 3.3.1 vo faktúre za združenú dodávku elektriny za posledný 
+kalendárny mesiac vyhodnocovaného kalendárneho roka alebo osobitnou faktúrou vystavenou v zmysle príslušných 
+všeobecne záväzných právnych predpisov so splatnosťou štrnásť (14) dní odo dňa vystavenia faktúry. 
+
+4 
+4.1 
+
+ZABEZPEČENIE DISTRIBUČNÝCH SLUŽIEB 
+Dodávateľ sa zaväzuje zabezpečiť Distribúciu elektriny a súvisiace služby do OM podľa podmienok uvedených v tejto 
+Zmluve a VOP. 
+Prerušenie a obmedzenie dodávky a Distribúcie elektriny 
+
+4.2 
+4.2.1 Odberateľ berie na vedomie, že dodávka a Distribúcia elektriny môžu byť obmedzené alebo prerušené v prípadoch 
+uvedených v článku 5 VOP. Podmienky prerušenia a obmedzenia dodávky elektriny a Distribúcie elektriny, ako aj ďalšie 
+podmienky zabezpečenia distribučných služieb sú uvedené v článku 5 VOP. 
+Prevádzkový poriadok PDS, Cenové rozhodnutia ÚRSO o cene za distribúciu elektriny, cenník služieb distribúcie PDS sú 
+uverejnené a uverejňované na webovom sídle príslušného PDS a ÚRSO. Odberateľ vyhlasuje, že sa pred Dňom začatia 
+dodávky oboznámil so znením (i) Prevádzkového poriadku PDS, (ii) cenových rozhodnutí ÚRSO upravujúcich cenu za 
+Distribúciu elektriny a distribučné prirážky, (iii) cenníka služieb distribúcie elektriny príslušného PDS a (iv) Cenníka služieb 
+Dodávateľa. Odberateľ vyhlasuje a zaväzuje sa, že sa vždy oboznámi s akýmikoľvek zmenami dokumentov podľa 
+predchádzajúcej vety tohto bodu Zmluvy v priebehu trvania Zmluvy a berie na vedomie, že tieto budú zverejnené na 
+webovom sídle ÚRSO a webovom sídle príslušného PDS a Cenník služieb Dodávateľa na webovom sídle Dodávateľa. 
+
+4.3 
+
+5 
+5.1 
+
+5.2 
+
+6 
+6.1 
+
+MERANIE MNOŽSTVA ODOBRATEJ ELEKTRINY 
+Podmienky merania dodávky elektriny a súvisiace práva a povinnosti Zmluvných strán sa riadia ustanoveniami článku 6 
+a 7 VOP. 
+Odberateľ sa zaväzuje postupovať tak, aby bola po celú dobu trvania dodávky elektriny umožnená dodávka elektriny 
+v súlade s dohodnutými podmienkami podľa tejto Zmluvy. 
+
+CENA A PLATOBNÉ PODMIENKY 
+Cena za Združenú dodávku elektriny podľa tejto Zmluvy pozostáva z: 
+(i) 
+
+(ii) 
+(iii) 
+
+ceny za dodávku elektriny (komodity, prevzatie zodpovednosti za odchýlku, obchodnú činnosť dodávateľa, 
+sadzby za dodávku elektriny z OZE, ktorá bude pripočítaná k jednotkovej cene každej 1 MWh elektriny dodanej 
+z OZE), 
+ceny za distribúciu a ostatných regulovaných poplatkov podľa platných cenových rozhodnutí ÚRSO, 
+prípadne iných poplatkov a plnení vyplývajúcich zo všeobecne záväzných právnych predpisov a predpisov iných 
+účastníkov trhu s elektrinou, ktoré sú pre Zmluvné strany záväzné, vzťahujúcich sa na Združenú dodávku elektriny 
+a tejto Zmluvy. 
+
+Cena za dodávku elektriny a prevzatie zodpovednosti za odchýlku 
+
+6.2 
+6.2.1 Cena za dodávku elektriny, ktorá je predmetom tejto Zmluvy, je pre všetky OM dohodnutá Zmluvnými stranami ako cena 
+dohodou podľa zákona č. 18/1996 Z. z. o cenách v znení neskorších predpisov a určí sa postupom a spôsobom 
+uvedeným v Prílohe č. 6 Zmluvy. Cena za dodávku elektriny a prevzatie zodpovednosti za odchýlku (resp. spôsob ich 
+určenia) platí vždy najviac na obdobie do uplynutia príslušného kalendárneho roka. Cena za dodávku elektriny na 
+Predĺžené obdobie trvania Zmluvy sa určí postupom podľa bodu 8.1.2 VOP a Prílohy č. 6 Zmluvy. Tým nie je dotknutý 
+bod 6.2.4 Zmluvy. 
+
+6.2.2 Súčasťou ceny za dodávku elektriny je: 
+dodávka elektriny (komodity), 
+prevzatie zodpovednosti za odchýlku, 
+obchodná činnosť Dodávateľa. 
+
+(i) 
+(ii) 
+(iii) 
+
+Slovenské elektrárne – energetické služby, s.r.o. – sídlo: Pribinova 40 - 811 09 Bratislava - mestská časť Ružinov – Slovenská republika – IČO: 
+44553412 - Obchodný register Mestského súdu Mestský súd Bratislava III – Oddiel: Sro – Vložka číslo: 56534/B 
+
+ELE_RETAIL_FIX_R_ver102022 
+ELE_RET02FKT 
+Číslo zmluvy dodávateľa: ZDR-2025-A-09335-000 
+
+6.2.3 Dohodnutá cena za dodávku elektriny (vrátane poplatkov, zmluvných pokút či iných sankcií alebo platieb akejkoľvek 
+povahy podľa Zmluvy a príslušných právnych predpisov alebo relevantných podmienok) je bez spotrebných daní a DPH, 
+iných daní a poplatkov akéhokoľvek charakteru; platba za dodávku elektriny bude zaťažená inými daňami, poplatkami 
+alebo inými podobnými peňažnými platbami v zmysle príslušných právnych predpisov platných v čase dodania. 
+6.2.4 Zmluvné strany sa dohodli, že Dodávateľ má právo na jednostrannú úpravu a zmenu ceny za dodávku elektriny v prípade, 
+ak po uzavretí Zmluvy dôjde k zmene všeobecne záväzných predpisov alebo predpisov iných účastníkov trhu vydaných 
+na ich základe, ktoré spôsobia zvýšenie nákladov na zabezpečenie dodávky elektriny podľa tejto Zmluvy, v porovnaní 
+s pôvodnými nákladmi, na základe ktorých bola kalkulovaná a dohodnutá cena za dodávku elektriny. Za takúto zmenu sa 
+považuje aj zmena výšky alebo spôsobu určenia platby za odchýlku, vyplývajúca zo zmeny prevádzkového poriadku 
+OKTE alebo iného predpisu OKTE, alebo iného všeobecne záväzného právneho predpisu alebo cenového rozhodnutia 
+ÚRSO, z ktorého táto zmena vyplýva. 
+Cena za Distribúciu elektriny a súvisiace služby a ostatné poplatky a iné poplatky 
+
+6.3 
+6.3.1 Cena za Distribúciu elektriny a súvisiace služby a ostatné poplatky a iné poplatky sú upravené v článku 8 VOP. 
+6.4 
+6.4.1 OM s mesačným odpočtovým cyklom 
+
+Platobné podmienky a fakturácia 
+
+Odberateľ sa zaväzuje uhrádzať mesačné zálohy na základe Dodávateľom vystaveného zálohového kalendára pre 
+príslušný mesiac, ktorý vychádza z predpokladaného množstva za dodávku a Distribúciu elektriny v kalendárnom mesiaci 
+nasledovne: 
+
+Kalendárny deň v mesiaci – splatnosť zálohy 
+
+Dohodnutá výška zálohy 
+
+10. 
+
+100 % 
+
+6.4.2 OM s iným ako mesačným odpočtovým cyklom 
+
+Odberateľ sa zaväzuje uhrádzať mesačné paušálne platby na základe Dodávateľom vystaveného harmonogramu 
+paušálnych platieb v kalendárnom mesiaci nasledovne: 
+
+Kalendárny deň v mesiaci – splatnosť paušálnej platby 
+
+Dohodnutá výška paušálnej platby 
+
+6.4.3 Vyúčtovacie faktúry 
+
+Splatnosť vyúčtovacích faktúr od vystavenia 
+
+14 dní 
+
+6.4.4 Ostatné platobné a fakturačné podmienky, a s tým súvisiace vzájomné práva a povinnosti Zmluvných strán sú upravené 
+
+v článku 8 VOP. 
+
+7 
+7.1 
+
+7.2 
+
+8 
+8.1 
+
+8.2 
+
+KOMUNIKÁCIA A OCHRANA OSOBNÝCH ÚDAJOV 
+Zmluvné strany sa dohodli na určení oprávnených osôb pre jednotlivé oblasti komunikácie pri plnení tejto Zmluvy v Prílohe 
+č. 3; Odberateľ berie na vedomie, že Dodávateľ vystupuje vo vzťahu k získavaniu a spracúvaniu osobných údajov týchto 
+oprávnených osôb pre jednotlivé oblasti komunikácie ako príjemca ich osobných údajov; podmienky spracúvania 
+osobných údajov Dodávateľom sú zverejnené na webovom sídle Dodávateľa www.energetickesluzby.sk; (ďalej len 
+„Podmienky spracúvania osobných údajov“); poskytnutím informácií o Podmienkach spracúvania osobných údajov 
+Dodávateľom nie sú dotknuté povinnosti Odberateľa ako zamestnávateľa oprávnených osôb pre jednotlivé oblasti 
+komunikácie v zmysle GDPR a Zákona o ochrane osobných údajov (najmä informačná povinnosť Odberateľa podľa 
+článku 13 GDPR, resp. § 19 a § 78 ods. 3 Zákona o ochrane osobných údajov). Odberateľ je povinný informovať 
+oprávnené osoby pre jednotlivé oblasti komunikácie uvedené v Prílohe č. 3 Zmluvy o mieste, kde sú tieto Podmienky 
+spracúvania osobných údajov Dodávateľa zverejnené najneskôr ku dňu uzavretia Zmluvy a na požiadanie Dodávateľa 
+túto skutočnosť preukázať. 
+Ak nie je v tejto Zmluve uvedené inak, doručovanie a podmienky komunikácie medzi Zmluvnými stranami sa riadia 
+článkom 10 VOP. 
+
+PREDCHÁDZANIE ŠKODÁM, NÁHRADA ŠKODY 
+Odberateľ s Dodávateľom sa budú navzájom informovať o všetkých skutočnostiach, pri ktorých sú si vedomí, že by mohli 
+viesť ku škodám a usilovať sa hroziace škody odvrátiť. 
+Ďalšie práva a povinnosti a postup Zmluvných strán v súvislosti s predchádzaním vzniku škôd a náhradou škody sú 
+upravené v článku 12 VOP. 
+
+9 
+9.1 
+9.1.1 Všetky spory vzniknuté medzi Zmluvnými stranami vyplývajúce zo Zmluvy alebo v súvislosti so Zmluvou súvislosti so 
+
+RIEŠENIE SPOROV, REŽIM SPOTREBNEJ DANE A ZELENÁ ELEKTRINA 
+Riešenie sporov 
+
+Zmluvou budú riešené v súlade s článkom 13 VOP. 
+Režim spotrebnej dane a zelená elektrina 
+
+9.2 
+9.1.2 Práva a povinností Zmluvných strán v súvislosti s režimom spotrebnej dane a postavením Odberateľa v súvislosti 
+
+9.3 
+
+s odberom elektriny a podmienky dodávky elektriny z OZE sú upravené v článku 13 VOP. 
+Odberateľ vyhlasuje, že špeciálny režim spotrebnej dane v zmysle bodu 13.2.1 VOP sa na neho: 
+
+☐ vztahuje 
+
+ ☒ nevztahuje 
+
+9.4 
+
+Odberateľ vyhlasuje, že záujem o dodávku elektriny z OZE: 
+
+☐ ma 
+
+ ☒ nema 
+
+10 
+10.1 Táto Zmluva sa uzatvára na dobu určitú, do dňa 31.12.2026, 24:00 h. Trvanie Zmluvy sa za podmienok a postupom 
+
+TRVANIE ZMLUVY 
+
+uvedenými v článku 14 VOP automaticky predlžuje o ďalších dvanásť (12) mesiacov, a to aj opakovane. 
+
+10.2 Pred uplynutím dohodnutej doby trvania Zmluvy možno Zmluvu ukončiť: 
+
+(i) písomnou dohodou Zmluvných strán, alebo 
+(ii) odstúpením od Zmluvy podľa článku 14 VOP 
+(iii) výpoveďou Dodávateľa podľa bodu 10.3. 
+
+10.3 V prípade, ak po uzavretí Zmluvy dôjde v dôsledku zmien všeobecne záväzných právnych predpisov alebo prijatia novej 
+právnej úpravy alebo na základe rozhodnutia, opatrenia alebo iného aktu orgánu verejnej moci, vrátane príslušných 
+orgánov Európskej únie k určeniu maximálnej výšky ceny za dodávku elektriny, za ktorú je Dodávateľ oprávnený 
+
+Slovenské elektrárne – energetické služby, s.r.o. – sídlo: Pribinova 40 - 811 09 Bratislava - mestská časť Ružinov – Slovenská republika – IČO: 
+44553412 - Obchodný register Mestského súdu Mestský súd Bratislava III – Oddiel: Sro – Vložka číslo: 56534/B 
+
+ELE_RETAIL_FIX_R_ver102022 
+ELE_RET02FKT 
+Číslo zmluvy dodávateľa: ZDR-2025-A-09335-000 
+
+Odberateľovi dodávať elektrinu na základe Zmluvy, alebo obdobnému opatreniu, v dôsledku ktorého bude cena za 
+dodávku elektriny v EUR/MWh, za ktorú má Dodávateľ dodávať elektrinu Odberateľovi v porovnaní s Cenou A 
+dohodnutou pre obdobie dodávky nižšia alebo v prípade, ak v dôsledku zmeny všeobecne záväzného právneho predpisu 
+alebo prijatia novej úpravy alebo na základe prijatého rozhodnutia, opatrenia alebo iného aktu orgánu verejnej moci, 
+vrátane príslušných orgánov Európskej únie dôjde na strane Dodávateľa k zvýšeniu nákladov na zabezpečenie dodávky 
+elektriny Odberateľovi do takej miery, že v porovnaní s podmienkami dohodnutými v Zmluve bude na strane Dodávateľa 
+v súvislosti s plnením Zmluvy hroziť strata (pričom pre účely tohto bodu sa má za to, že Dodávateľovi hrozí strata aj 
+v prípade, ak finančná kompenzácia poskytovaná v tejto súvislosti zo strany orgánu verejnej moci Dodávateľovi nebude 
+pokrývať v plnej výške nároky Dodávateľa na úhradu ceny za dodávku elektriny a súvisiacich služieb podľa Zmluvy, na 
+ktoré by bol inak oprávnený, alebo, ak by splatnosť finančnej kompenzácie prevyšovala tridsať (30) dní odo dňa skončenia 
+príslušného zúčtovacieho obdobia, ktorého sa týka), Dodávateľ je oprávnený Zmluvu vypovedať, a to aj v prípade, ak 
+bola uzavretá na dobu určitú, a to s jednomesačnou výpovednou dobou, ktorá začína plynúť prvým dňom kalendárneho 
+mesiaca nasledujúceho po doručení výpovede Odberateľovi a skončí sa uplynutím posledného dňa príslušného mesiaca. 
+10.4 V prípade predčasného zániku Zmluvy z dôvodu na strane Odberateľa je Dodávateľ oprávnený uplatniť voči Odberateľovi 
+poplatok za každú jednu (1) neodobratú MWh elektriny z celkového dohodnutého množstva elektriny (vo vzťahu ku 
+všetkým OM) pre príslušný kalendárny rok dodávky, v ktorom došlo k zániku Zmluvy podľa príslušného Ročného 
+diagramu odberu/ príslušných Ročných diagramov odberu vo výške 20 EUR. Ustanovenie tohto bodu predstavuje 
+osobitnú dohodu Zmluvných strán v súvislosti s predčasným skončením Zmluvy z dôvodov na strane Odberateľa, ktoré 
+zostáva platné a účinné aj po zániku Zmluvy a zánik Zmluvy naň nemá vplyv. 
+
+10.5 V ostatnom sa vzájomné práva a povinnosti Zmluvných strán v súvislosti so zánikom Zmluvy riadia článkom 14 VOP. 
+
+11.2 
+
+OSTATNÉ A ZÁVEREČNÉ USTANOVENIA 
+
+11 
+11.1 Všetky platby (poplatky, doplatky, zmluvné pokuty a obdobné plnenia peňažného charakteru) uvedené v tejto Zmluve 
+alebo vo VOP sú bez DPH. V prípade, ak tieto peňažné plnenia podliehajú podľa príslušných všeobecne záväzných 
+právnych predpisov DPH, k sumám týchto plnení uvedených, resp. určených podľa tejto Zmluvy a VOP sa uplatní DPH v 
+zmysle príslušných všeobecne záväzných právnych predpisov.“ 
+Táto Zmluva nadobúda platnosť a účinnosť dňom jej podpisu oboma Zmluvnými stranami. V prípade, ak sa Zmluva 
+uzaviera bez súčasnej fyzickej prítomnosti Dodávateľa a Odberateľa, a Odberateľ nedoručí Dodávateľovi Odberateľom 
+podpísaný rovnopis Zmluvy alebo v prípade, ak Odberateľ obdrží od Dodávateľa nepodpísané rovnopisy Zmluvy, tak 
+všetky Odberateľom podpísané rovnopisy Zmluvy najneskôr do dvadsiatich (20) dní odo dňa obdržania návrhu Zmluvy 
+od Dodávateľa, alebo do dvadsiatich (20) dní pred Dňom začatia dodávky elektriny, podľa toho, čo nastane skôr, 
+Dodávateľovi nevzniká povinnosť ku Dňu začatia dodávky elektriny zabezpečiť pre Odberateľa Združenú dodávku 
+elektriny. 
+Zmluva obsahuje úplnú dohodu medzi Zmluvnými stranami a žiadne vyhlásenia, sľuby, akceptované cenové ponuky 
+alebo dohody, ktoré sa uzatvorili pred uzavretím tejto Zmluvy, nemenia dohody a záväzky, ktoré sú v nej zakotvené. 
+Táto Zmluva v celom rozsahu nahrádza všetky a akékoľvek zmluvy a dohody, vzťahujúce sa na predmet tejto Zmluvy, 
+uzavreté pred jej podpisom. 
+Táto Zmluva je vyhotovená v súlade s právnymi predpismi Slovenskej republiky. Práva a povinnosti Zmluvných strán, 
+ktoré nie sú výslovne upravené touto Zmluvou a VOP sa riadia príslušnými ustanoveniami Obchodného zákonníka a tých 
+právnych predpisov Slovenskej republiky, ktoré sú ich povahe a účelu najbližšie. 
+
+11.5 
+
+11.3 
+
+11.4 
+
+11.6 V prípade, že ktorékoľvek ustanovenie tejto Zmluvy bude súdom alebo príslušným štátnym orgánom z akéhokoľvek 
+dôvodu vyhlásené za neplatné, nedostatočne určité alebo nevykonateľné, táto skutočnosť nemá vplyv na platnosť 
+a vykonateľnosť zostávajúcich častí Zmluvy a Zmluvné strany sa zaväzujú odstrániť dodatkom k Zmluve takú neplatnosť, 
+nedostatočnú určitosť alebo nevykonateľnosť takým spôsobom, aby bol zmysel tejto Zmluvy naplnený. 
+
+11.7 Ak nie je v tejto Zmluve alebo vo VOP uvedené inak, zmeny tejto Zmluvy sú možné len vo forme písomných dodatkov 
+
+podpísaných oboma Zmluvnými stranami. 
+Zmluva je vyhotovená v dvoch (2) rovnopisoch, z ktorých obe Zmluvné strany obdržia jedno (1) vyhotovenie Zmluvy. 
+
+11.8 
+11.9 Neoddeliteľnou súčasťou tejto Zmluvy sú: 
+
+Príloha č. 1 – Špecifikácia OM 
+Príloha č. 2 – Záväzné hodnoty odberu elektrickej práce (Ročný diagram odberu) 
+Príloha č. 3 – Kontaktné osoby Zmluvných strán 
+Príloha č. 4 – Vzor Plnomocenstva pre realizáciu zmeny dodávateľa elektriny 
+Príloha č. 5 – VOP platné ku dňu uzavretia Zmluvy 
+Príloha č. 6 – Cena za dodávku elektriny. 
+
+11.10 Zmluvné strany vyhlasujú, že túto Zmluvu uzatvárajú po jej dôkladnom prečítaní slobodne, na základe vlastnej vôle, vážne 
+
+a nie v tiesni alebo nápadne nevýhodných podmienok, na znak čoho ju podpisujú. 
+
+Za Dodávateľa: 
+Slovenské elektrárne – energetické služby, s.r.o. 
+
+Za Odberateľa: 
+Spojená škola internátna Snina 
+
+Bratislava - mestská časť Ružinov dňa................................. 
+
+Snina dňa..................................................................................................................... 
+Ing. Igor Kertész, vedúci obchodného oddelenia, 
+na základe poverenia zamestnanca..................................................................................... 
+PaeDr. Jana Kandriková 
+riaditeľka školy..................................................................................... 
+Martina Koleničková, teamleader pre retail a podporu, 
+na základe poverenia zamestnanca 
+
+Slovenské elektrárne – energetické služby, s.r.o. – sídlo: Pribinova 40 - 811 09 Bratislava - mestská časť Ružinov – Slovenská republika – IČO: 
+44553412 - Obchodný register Mestského súdu Mestský súd Bratislava III – Oddiel: Sro – Vložka číslo: 56534/B 
+
+(vypĺňa sa pre každé OM zvlášť) 
+
+Príloha č.1 
+k Zmluve o združenej dodávke elektriny 
+Špecifikácia OM 
+Identifikácia technických a netechnických zmluvných parametrov jednotlivých OM Odberateľa: 
+
+ELE_RETAIL_FIX_R_ver102022 
+ELE_RET02FKT 
+Číslo zmluvy dodávateľa: ZDR-2025-A-09335-000 
+
+EIC kód odberného 
+miesta 
+
+)
+5
+Z
+A
+Č
+
+)
+1
+
+)
+
+S
+D
+M
+
+(
+
+y
+v
+a
+t
+s
+ú
+s
+C
+E
+
+I,
+
+N
+V
+
+(
+ň
+e
+v
+o
+r
+ú
+á
+v
+o
+ť
+ä
+p
+a
+N
+
+)
+2
+)
+N
+N
+
+a
+i
+n
+a
+r
+e
+m
+p
+y
+T
+
+u
+t
+č
+o
+p
+d
+o
+a
+t
+i
+c
+i
+d
+o
+i
+r
+e
+P
+
+a
+t
+i
+c
+a
+p
+a
+k
+á
+n
+a
+v
+o
+v
+r
+e
+z
+e
+R
+
+)
+p
+y
+t
+(
+
+a
+t
+i
+c
+a
+p
+a
+k
+á
+n
+a
+v
+o
+v
+r
+e
+z
+e
+R
+
+)
+
+W
+k
+(
+
+o
+h
+é
+n
+a
+v
+o
+l
+a
+t
+š
+n
+
+i
+
+ť
+s
+o
+k
+ľ
+e
+V
+
+)
+3
+)
+
+A
+
+(
+
+a
+č
+i
+t
+s
+i
+
+o
+h
+é
+n
+a
+v
+o
+l
+a
+t
+š
+n
+
+i
+
+ť
+s
+o
+k
+ľ
+e
+V
+
+)
+3
+
+)
+z
+á
+f
+
+t
+e
+č
+o
+p
+(
+
+a
+č
+i
+t
+s
+i
+
+k
+í
+n
+n
+e
+c
+ý
+n
+e
+d
+a
+r
+i
+r
+P
+
+e
+i
+c
+ú
+b
+i
+r
+t
+s
+i
+d
+
+)
+3
+)
+2
+a
+i
+c
+á
+k
+i
+f
+i
+r
+a
+T
+
+a
+n
+a
+j
+o
+r
+d
+z
+e
+i
+n
+e
+j
+o
+p
+i
+r
+P
+
+o
+d
+y
+n
+i
+r
+t
+k
+e
+l
+e
+u
+b
+o
+r
+ý
+v
+
+)
+
+M
+O
+p
+y
+t
+(
+
+M
+O
+
+a
+t
+s
+e
+i
+m
+a
+s
+e
+r
+d
+A
+
+)
+
+M
+O
+
+(
+
+)
+4
+
+a
+c
+i
+l
+
+u
+–
+
+y
+b
+e
+r
+t
+o
+p
+s
+
+a
+t
+s
+e
+i
+m
+a
+s
+e
+r
+d
+A
+
+)
+
+M
+O
+
+(
+o
+l
+s
+í
+č
+
+–
+
+y
+b
+e
+r
+t
+o
+p
+s
+
+)
+4
+
+a
+t
+s
+e
+i
+m
+a
+s
+e
+r
+d
+A
+
+c
+e
+b
+O
+Č
+S
+P
+–
+
+y
+b
+e
+r
+t
+o
+p
+s
+
+)
+4
+
+)
+
+M
+O
+
+(
+
+a
+t
+s
+e
+i
+m
+a
+s
+e
+r
+d
+A
+
+)
+
+M
+O
+
+(
+c
+e
+b
+O
+–
+
+y
+b
+e
+r
+t
+o
+p
+s
+
+)
+4
+
+Poznámka 
+
+24ZVS0000017852U NN 
+
+A mesiac 
+
+160 
+
+3 
+
+X3-C2 
+
+3T 
+
+Spotreba 
+
+Palárikova 
+
+069 01 
+
+Snina 
+
+1) Uvádza sa v prípade, že OM je z pohľadu nadradeného PDS hraničným odberným miestom (EIC kód začínajúci 24Y...) 
+2) Uvádza sa ak dodávateľ realizuje prihlásenie OM (údaje zo Zmluvy o pripojení) 
+3) Uvádza sa ak dodávateľ realizuje prihlásenie OM s inštalovaným ističom 
+4) 
+5) Údaj zo zmluvy o pripojení alebo evidovaný predchádzajúcim dodávateľom 
+6) V prípade ak do OM nie je pripojené zariadenie na výrobu alebo uskladňovanie elektriny, uvedie sa N/A 
+
+Informatívny údaj, v prípade neuvedenia adresy, alebo rozporu s údajmi PDS bude pri spracovaní použitý a záväzný údaj PDS 
+
+1.1 
+
+1.2 
+
+Na základe dojednanej a obojstranne potvrdenej Zmluvy, ktorej súčasťou sú tieto záväzné hodnoty odberu elektrickej práce (Ročný diagram odberu), sa Odberateľ zaväzuje počas trvania 
+zmluvy odobrať množstvo elektriny uvedené v bode 1.2 a 1.3 tejto prílohy. 
+Celkové dohodnuté množstvo elektriny, ktoré sa Odberateľ zaväzuje odobrať na OM s nepriebehovým meraním je: 
+
+Príloha č. 2 
+k Zmluve o združenej dodávke elektriny 
+Ročný diagram odberu 
+
+v kalendárnom roku 
+
+SUMÁR (MWh) 
+
+2026 
+
+0 
+
+1.3 
+
+Celkové dohodnuté množstvo elektriny, ktoré sa Odberateľ zaväzuje odobrať na OM s priebehovým meraním je: 
+SUMÁR (MWh) 
+
+v kalendárnom roku 
+
+2026 
+
+35 
+
+Ročný diagram odberu pre OM s mesačným odpočtovým cyklom (súhrnne): 
+Január 
+
+Február Marec 
+
+SUMÁR 
+
+Apríl 
+
+EIC 
+
+Máj 
+
+Jún 
+
+Júl 
+
+August 
+
+September Október November 
+
+December 
+
+24ZVS0000017852U 
+
+Slovenské elektrárne – energetické služby, s.r.o. – sídlo: Pribinova 40 - 811 09 Bratislava - mestská časť Ružinov – Slovenská republika – IČO: 44553412 - Obchodný register Mestského súdu Mestský súd Bratislava III – 
+Oddiel: Sro – Vložka číslo: 56534/B 
+
+ELE_RETAIL_FIX_R_ver102022 
+ELE_RET02FKT 
+Číslo zmluvy dodávateľa: ZDR-2025-A-09335-000 
+
+Príloha č. 3 
+k Zmluve o združenej dodávke elektriny 
+Kontaktné osoby Zmluvných strán 
+Zamestnanci Dodávateľa 
+
+1.1 
+
+Funkcia 
+
+Meno a priezvisko 
+
+Telefón 
+
+E-mail 
+
+Ing. Martin Kumpan 
+Ing. Igor Kertész 
+ Martina Koleničková 
+Ing. Igor Ondrejovič 
+
+Výkonný riaditeľ / Konateľ 
+Vedúci obchodného oddelenia 
+Obchodník 
+Manažér nákupu 
+Zasielanie upresnení a vyhodnotenie odberu 
+Úprava rezervovanej kapacity 
+Zmena technických a obchodných parametrov odberných miest 
+Zasielanie požiadaviek na nákup FW, Objednávky, potvrdenie Objednávok 
+Referent fakturácie 
+Reklamácie 
+Referent podpory predaja 
+
++421 910 839 819 martina.kolenickova@seas.sk 
+
+igor.ondrejovic@seas.sk 
+diagramy.sees@seas.sk 
+zmenaRK-ee.sees@seas.sk 
+procesy-ee.sees@seas.sk 
+trading.sees@seas.sk 
+faktury.sees@seas.sk 
+reklamacie.sees@seas.sk 
+firma@seas.sk 
+
+1.2 
+
+Zamestnanci Odberateľa: 
+
+1.1.1 
+Vedenie 
+zmluvných 
+rokovaní 
+
+ÁNO 
+ÁNO 
+ÁNO 
+NIE 
+NIE 
+NIE 
+NIE 
+NIE 
+NIE 
+NIE 
+NIE 
+
+1.1.2 
+Obsluha Zmluvy v oblasti upresňovania 
+odberu (množstvá, upresňovania, Návrhy 
+novej ceny, oznámenia o cene) zmeny 
+technických a netechnických parametrov OM 
+NIE 
+NIE 
+ÁNO 
+ÁNO 
+ÁNO 
+ÁNO 
+ÁNO 
+ÁNO 
+NIE 
+NIE 
+ÁNO 
+
+1.1.3 
+Vyúčtovanie, 
+fakturácia, 
+reklamácie 
+fakturácií 
+NIE 
+NIE 
+ÁNO 
+NIE 
+NIE 
+NIE 
+NIE 
+NIE 
+ÁNO 
+ÁNO 
+NIE 
+
+Funkcia 
+
+Meno a priezvisko 
+
+Web 
+Portál 
+(e-mail 
+nutný) 
+
+E-mail 
+
+Telefón (mobil) 
+
+Hospodárka Oľga Halaburková 
+
+ssisninahospodarka@gmail.com 
+
++421 908 639 617 
+
+1.2.1 
+Vedenie 
+zmluvných 
+rokovaní 
+v plnom 
+rozsahu, 
+zasielanie 
+VOP 
+
+ÁNO * 
+ÁNO * 
+ÁNO * 
+ÁNO * 
+ÁNO * 
+ÁNO * 
+ÁNO * 
+ÁNO * 
+ÁNO * 
+ÁNO * 
+
+1.2.2 
+Zasielanie oznámení, žiadostí, výziev 
+podľa podmienok Zmluvy, diagramy 
+dodávok pre OM, zasielanie Návrhu 
+novej ceny vyhodnotenie a zmeny 
+diagramov, upresnenia, reklamácia 
+technických podmienok dodávky 
+a správnosti meraných údajov, 
+oznámenia o cene 
+ÁNO * 
+ÁNO * 
+ÁNO * 
+ÁNO * 
+ÁNO * 
+ÁNO * 
+ÁNO * 
+ÁNO * 
+ÁNO * 
+ÁNO * 
+
+1.2.3 
+Vyúčtovanie, 
+fakturácia, 
+reklamácie 
+fakturácií 
+(počet osôb 
+viď cenník 
+služieb 
+dodávateľa) 
+ÁNO * 
+ÁNO * 
+ÁNO * 
+ÁNO * 
+ÁNO * 
+ÁNO * 
+ÁNO * 
+ÁNO * 
+ÁNO * 
+ÁNO * 
+
+1.2.4 
+Zasielanie 
+požiadaviek 
+na nákup 
+FW, 
+Objednávky, 
+potvrdenie 
+Objednávok 
+
+ÁNO * 
+ÁNO * 
+ÁNO * 
+ÁNO * 
+ÁNO * 
+ÁNO * 
+ÁNO * 
+ÁNO * 
+ÁNO * 
+ÁNO * 
+
+*Odberateľ nehodiace sa prečiarkne 
+
+Slovenské elektrárne – energetické služby, s.r.o. – sídlo: Pribinova 40 - 811 09 Bratislava - mestská časť Ružinov – Slovenská republika – IČO: 44553412 - Obchodný register Mestského súdu Mestský súd Bratislava III – 
+Oddiel: Sro – Vložka číslo: 56534/B 
+
+ELE_RETAIL_FIX_R_ver102022 
+ELE_RET02FKT 
+Číslo zmluvy dodávateľa: ZDR-2025-A-09335-000 
+
+Príloha č. 4 
+k Zmluve o združenej dodávke elektriny 
+Vzor plnomocenstva pre realizáciu zmeny dodávateľa elektriny 
+
+Splnomocnenie na úkony spojené s procesom zabezpečenia dodávky elektriny / plynu 
+SPLNOMOCNITEĽ (odberateľ): 
+Obchodné meno/ meno a priezvisko: 
+v zastúpení (meno, priezvisko, funkcia): 
+IČO/ dátum narodenia: 
+Sídlo/ trvalý pobyt – ulica, súpisné/popisné č.: 
+Sídlo/ trvalý pobyt – obec, PSČ: 
+zápis v, oddiel / číslo, živ.reg., 
+vložka č.: 
+
+SPLNOMOCENENEC (dodávateľ): 
+Slovenské elektrárne – energetické služby, s.r.o.; Pribinova 40, 811 09 Bratislava - mestská časť Ružinov, Slovenská 
+republika; IČO: 44553412; zapísaný v Obchodnom registri Mestského súdu Mestský súd Bratislava III, Oddiel Sro, Vložka č. 
+56534/B 
+
+Splnomocniteľ ☐ má uzatvorenú zmluvu o združenej dodávke elektriny / plynu so spoločnosťou: 
+Obchodné meno: 
+Sídlo: 
+IČO: 
+(ďalej len „doterajší dodávateľ“) 
+
+☐ na dobu neurčitú 
+
+(ďalej len „Zmluva“) 
+
+☐ na dobu určitú; 
+do: 
+
+dĺžka výpovednej lehoty: 
+
+Dolu podpísaný splnomocniteľ týmto splnomocňuje splnomocnenca na zastupovanie splnomocniteľa v plnom rozsahu vo 
+všetkých veciach týkajúcich sa procesu dodávky elektriny / plynu do odberného miesta splnomocniteľa špecifikovaného nižšie 
+splnomocnencom ako novým 
+dodávateľom elektriny / plynu a na vykonanie všetkých potrebných právnych úkonov s tým súvisiacich, a to najmä, nie však 
+výlučne na: 
+(i) 
+
+všetky právne úkony potrebné na ukončenie Zmluvy, pre nižšie špecifikované odberné miesto splnomocniteľa 
+z akéhokoľvek zákonného alebo zmluvného dôvodu, v prípade ak má splnomocniteľ Zmluvu uzavretú; 
+na všetky právne úkony voči príslušnému prevádzkovateľovi distribučnej sústavy/ siete a to najmä na podanie žiadosti 
+o registráciu odberného miesta splnomocniteľa a vykonanie zmeny priradenia odberného miesta splnomocniteľa do 
+bilančnej splnomocnenca ako nového dodávateľa a/ alebo poskytnutie technických aj netechnických informácií 
+súvisiacich s odberným miestom, 
+
+(ii) 
+
+(iv) 
+
+(iii) na podanie akejkoľvek ústnej alebo písomnej žiadosti a/ alebo oznámenia doterajšiemu dodávateľovi splnomocniteľa o 
+sprístupnenie akýchkoľvek a všetkých údajov a potrebnej dokumentácie týkajúcej sa splnomocniteľovej Zmluvy vrátane 
+podania žiadosti o vystavenie duplikátu faktúry alebo žiadosti o vystavenie vyúčtovacej faktúry; 
+zabezpečení požiadavky na zrušenie odberného miesta – demontáž merania vzťahujúce sa k odbernému miestu/ 
+k nehnuteľnosti / k odbernému elektroenergetickému zariadeniu nachádzajúcemu sa na adrese (nehodiace sa 
+prečiarknuť): 
+Z právnych úkonov splnomocnenca, ktoré budú uskutočnené v rozsahu udeleného plnomocenstva, vznikajú práva a povinnosti priamo 
+splnomocniteľovi. Splnomocnenec, ktorým bude právnická osoba, je oprávnený v rámci tohto plnomocenstva poveriť, resp. splnomocniť 
+na vykonanie rozsahu činností obsiahnutých v plnomocenstve svojich zamestnancov alebo iné tretie osoby; 
+
+EIC / POD kód* 
+
+Adresa odberného 
+/ odovzdávacieho 
+miesta (ulica, číslo, 
+PSČ mesto) 
+
+Sadzba / Tarifa:** 
+
+Počet fáz a Istič 
+(A):** 
+
+Dátum zmeny k 
+
+Splnomocnenec je oprávnený ďalej splnomocniť (poveriť) svojich zamestnancov alebo splnomocnených zástupcov na 
+konanie v mene splnomocniteľa vo vyššie uvedenom rozsahu. 
+
+_________________ dňa ____________202___ 
+
+Týmto prijímam toto plnomocenstvo. 
+Bratislava - mestská časť Ružinov dňa __________ 
+202___ 
+
+___________________________________ 
+podpis splnomocniteľa 
+
+______________________________________ 
+Slovenské elektrárne – energetické služby, s.r.o. 
+Ing. Martin Kumpan - konateľ 
+
+Slovenské elektrárne – energetické služby, s.r.o. – sídlo: Pribinova 40 - 811 09 Bratislava - mestská časť Ružinov – Slovenská republika – IČO: 
+44553412 - Obchodný register Mestského súdu Mestský súd Bratislava III – Oddiel: Sro – Vložka číslo: 56534/B 
+
+ELE_RETAIL_FIX_R_ver102022 
+ELE_RET02FKT 
+Číslo zmluvy dodávateľa: ZDR-2025-A-09335-000 
+
+Príloha č. 5 
+k Zmluve o združenej dodávke elektriny 
+Všeobecné obchodné podmienky dodávky elektriny 
+(VOP platné ku dňu uzavretia Zmluvy sú pripojené k Zmluve ako samostatný dokument) 
+
+1.1 
+
+Dohodnutá Cena za dodávku elektriny je nasledovná: 
+
+Príloha č. 6 
+k Zmluve o združenej dodávke elektriny 
+Cena za dodávku elektriny 
+
+1T*: 
+
+2T**: 
+
+3T**: 
+
+VT (6:00-22:00) 
+NT (22:00-6:00) 
+VT (6:00-22:00) 
+NT (22:00-6:00) 
+VVT (22:00 piatok – 6:00 pondelok) 
+
+118,00 EUR/MWh 
+118,00 EUR/MWh 
+118,00 EUR/MWh 
+118,00 EUR/MWh 
+118,00 EUR/MWh 
+118,00 EUR/MWh 
+
+* 1T 
+** 2T, 3T príslušná tarifa (NT, VT, VVT) platí v časovom intervale definovanom hodinami uvedenými pre príslušnú tarifu 
+
+ jednotarif platný 24 hodín denne, počas celého zmluvného obdobia 
+
+počas celého kalendárneho roka 
+
+1.2 
+
+(ďalej len „Cena“) 
+Platba za dodanú elektrinu v EUR v príslušnom zúčtovacom období sa určí z ceny dodanej elektriny v EUR/MWh (Ceny), 
+spotrebnej dane a dodaného množstva elektriny v MWh nasledovne: 
+
+P = (C + ZSd)*SD 
+
+kde: 
+C 
+
+znamená Cena v EUR/MWh, ktorá sa uplatňuje na dodávku elektriny v príslušnom zúčtovacom období v zmysle 
+bodu 1.2 tejto prílohy 
+znamená množstvo elektriny v MWh odobraté v príslušnom zúčtovacom období 
+znamená zohľadnenie spotrebnej dane z elektriny. 
+
+SD 
+ZSd 
+Odberateľ berie na vedomie, že Cena vo výške uvedenej v bode 1.1 tejto prílohy platí do 31.12.2026, 24:00 h. Dodávateľ 
+oznámi Odberateľovi novú výšku Ceny pre ďalšie Predĺžené obdobie trvania Zmluvy v Návrhu novej ceny alebo určí, že Cena 
+sa pre Predĺžené obdobie trvania Zmluvy nemení, a to postupom podľa bodu 8.1.2 VOP. Takto oznámená výška novej Ceny 
+v celom rozsahu nahrádza výšku Ceny platnú v predchádzajúcom období dodávky a platí pre celé Predĺžené obdobie trvania 
+Zmluvy, na ktoré sa vzťahuje, a to bez potreby vyhotoviť osobitný dodatok k Zmluve. 
+Pre vylúčenie akýchkoľvek pochybností ustanoveniami tejto prílohy, nie je dotknuté právo Dodávateľa na zmenu Ceny 
+z dôvodov podľa bodu 6.2.4 Zmluvy. 
+
+1.3 
+
+1.4 
+
+Slovenské elektrárne – energetické služby, s.r.o. – sídlo: Pribinova 40 - 811 09 Bratislava - mestská časť Ružinov – Slovenská republika – IČO: 
+44553412 - Obchodný register Mestského súdu Mestský súd Bratislava III – Oddiel: Sro – Vložka číslo: 56534/B 
+
+ELE_RETAIL_FIX_R_ver102022 
+ELE_RET02FKT 
+Číslo zmluvy dodávateľa: ZDR-2025-A-09335-000 
+
+Príloha č. 5 
+k Zmluve o združenej dodávke elektriny 
+VŠEOBECNÉ OBCHODNÉ PODMIENKY DODÁVKY ELEKTRINY PRE ODBERATEĽOV ELEKTRINY 
+KATEGÓRIE RETAIL (NEREGULOVANÝ SEGMENT) 
+
+1 VŠEOBECNÉ USTANOVENIA 
+1.1 Tieto všeobecné obchodné podmienky dodávky elektriny spoločnosti Slovenské elektrárne – energetické služby, s.r.o., so 
+sídlom Pribinova 40, 811 09 Bratislava - mestská časť Ružinov, IČO: 44553412, zapísanej v Obchodnom registri Mestského 
+súdu Mestský súd Bratislava III, Oddiel: Sro, Vložka č. 56534/B (ďalej len „Dodávateľ“) (ďalej len „VOP“) upravujú vzájomné 
+práva a povinnosti medzi Dodávateľom ako dodávateľom elektriny a odberateľom elektriny, ktorý nie je zraniteľným 
+odberateľom, vznikajúce pri dodávke elektriny z distribučnej sústavy príslušného prevádzkovateľa distribučnej sústavy na 
+základe zmluvy o združenej dodávke elektriny (ďalej len „Zmluva“). 
+
+1.2 
+
+1.3 
+
+1.4 
+
+1.2.4 
+
+1.2.3 
+
+Tieto VOP sú vydané na základe § 273 zákona č. 513/1991 Zb. Obchodného zákonníka v znení neskorších predpisov (ďalej 
+len „Obchodný zákonník"). Dodávka elektriny podľa Zmluvy a týchto VOP sa riadi najmä ustanoveniami: 
+1.2.1 
+1.2.2 
+
+zákona č. 513/1991 Zb. Obchodného zákonníka v znení neskorších predpisov (ďalej len „Obchodný zákonník“), 
+zákona č. 251/2012 Z. z. o energetike a o zmene a doplnení niektorých zákonov v znení neskorších predpisov 
+(ďalej len „Zákon o energetike“), 
+zákona č. 250/2012 Z. z. o regulácii v sieťových odvetviach a o zmene a doplnení niektorých zákonov v znení 
+neskorších predpisov (ďalej len „Zákon o regulácii"), 
+vyhlášky Úradu pre reguláciu sieťových odvetví č. 207/2023 Z. z., ktorou sa ustanovujú pravidlá pre fungovanie 
+vnútorného trhu s elektrinou, obsahové náležitosti prevádzkového poriadku prevádzkovateľa sústavy, organizátora 
+krátkodobého trhu s elektrinou a rozsah obchodných podmienok, ktoré sú súčasťou prevádzkového poriadku 
+prevádzkovateľa sústavy(ďalej len „Pravidlá trhu“), a 
+ustanoveniami ostatných právnych predpisov vydaných na ich základe, vrátane právnych predpisov iných 
+účastníkov trhu s elektrinou, ktoré sú pre ostatných účastníkov na trhu s elektrinou, vrátane Dodávateľa 
+a Odberateľa, záväzné. 
+Dodávateľ má právo jednostranne meniť VOP: 
+a) 
+
+v prípade zmien na trhu s elektrinou, zmien všeobecne záväzných právnych predpisov a predpisov vydaných na 
+ich základe, 
+v prípade zmien iných podmienok týkajúcich sa plnenia zabezpečovaného na základe Zmluvy za účelom splnenia 
+účelu Zmluvy a zabezpečenia kontinuálnej dodávky elektriny Dodávateľom pre Odberateľa. 
+
+1.2.5 
+
+b) 
+
+Zmena VOP nepodlieha súhlasu Odberateľa. VOP a každú ich zmenu Dodávateľ zverejňuje na svojom webovom sídle 
+www.energetickesluzby.sk najmenej tridsať (30) dní pred nadobudnutím účinnosti zmeny. O každej zmene VOP Dodávateľ 
+písomne informuje Odberateľa najneskôr tridsať (30) dní pred nadobudnutím účinnosti zmeny, a to zaslaním písomného 
+oznámenia o zmene VOP na e-mailovú adresu Odberateľa. 
+Odchylné dojednania v Zmluve majú prednosť pred VOP. 
+
+u
+n
+a
+r
+t
+s
+ú
+v
+r
+p
+e
+t
+j
+u
+f
+a
+r
+a
+p,
+e
+m
+í
+s
+o
+r
+P
+
+2 POJMY 
+2.1 
+
+Ak nie je medzi Zmluvnými stranami v Zmluve výslovne dohodnuté inak, na účely týchto VOP a Zmluvy majú nižšie uvedené 
+pojmy s veľkým začiatočným písmenom nasledovný význam: 
+2.1.1 Cenník služieb Dodávateľa 
+
+2.1.2 Deň začatia dodávky elektriny 
+
+2.1.3 Distribúcia elektriny 
+
+2.1.4 Dôverné informácie 
+2.1.5 GDPR 
+
+2.1.6 MH SR 
+2.1.7 Návrh novej ceny 
+
+2.1.8 Notifikačné povinnosti 
+
+2.1.9 OKTE 
+
+2.1.10 OM 
+
+2.1.11 OVZ 
+2.1.12 OZE 
+2.1.13 PDS 
+
+2.1.14 Predĺžené obdobie trvania Zmluvy 
+
+na 
+
+svojom 
+
+webovom 
+
+Dodávateľ 
+
+(EÚ) 
+fyzických osôb pri 
+takýchto 
+(všeobecné 
+
+znamená cenník služieb a výkonov Dodávateľa v súvislosti 
+so Združenou dodávkou elektriny, ktorého aktuálne znenie 
+zverejňuje 
+sídle 
+www.energetickesluzby.sk, 
+znamená dohodnutý deň začatia dodávky elektriny uvedený v 
+Zmluve, 
+znamená zabezpečenie distribúcie elektriny do OM vo vzťahu 
+k dodávke elektriny a všetky s ňou spojené distribučné služby 
+v rozsahu a podľa podmienok Prevádzkového poriadku PDS, 
+Technických podmienok a príslušných rozhodnutí ÚRSO, 
+znamenajú informácie v zmysle článku 15 týchto VOP, 
+znamená Nariadenie Európskeho parlamentu a Rady 
+2016/679 z 27. apríla 2016 o ochrane 
+spracúvaní osobných údajov a o voľnom pohybe 
+údajov, ktorým sa zrušuje smernica 95/46/ES 
+nariadenie o ochrane údajov), 
+znamená Ministerstvo hospodárstva Slovenskej republiky, 
+znamená návrh novej ceny za dodávku elektriny a ostatných 
+položiek súvisiacich s cenou za dodávku elektriny, vzťahujúcich sa 
+na Predĺžené obdobie trvania Zmluvy, 
+znamenajú notifikačné povinnosti Odberateľa podľa bodu 4.3
+a bodu 4.4 týchto VOP, 
+znamená organizátor krátkodobého trhu s elektrinou, ktorým je 
+spoločnosť OKTE, a.s., so sídlom Mlynské nivy 48, 821 09 
+Bratislava, 
+IČO: 45 687 862, zapísaná v Obchodnom registri 
+Mestského súdu Bratislava III, Oddiel Sa, Vložka č. 5087/B, 
+znamená odberné miesto/miesta Odberateľa, ktoré uvedené v 
+Prílohe č. 1 Zmluvy, 
+znamenajú okolnosti vylučujúce zodpovednosť, 
+znamenajú obnoviteľné zdroje energie, 
+znamená príslušný prevádzkovateľ regionálnej distribučnej sústavy 
+alebo miestnej distribučnej sústavy, k ktorej je/sú OM Odberateľa 
+pripojené, 
+znamená obdobie dvanástich 
+(12) za sebou nasledujúcich 
+kalendárnych mesiacov, na ktoré sa Zmluva za splnenia 
+
+Slovenské elektrárne – energetické služby, s.r.o. – sídlo: Pribinova 40 - 811 09 Bratislava - mestská časť Ružinov – Slovenská republika – IČO: 
+44553412 - Obchodný register Mestského súdu Mestský súd Bratislava III – Oddiel: Sro – Vložka číslo: 56534/B 
+
+2.1.15 Prevádzkový poriadok PDS 
+
+2.1.16 Princípy 
+
+2.1.17 Ročný diagram odberu 
+
+2.1.18 Spresnený diagram 
+
+2.1.19 Štandardy kvality 
+
+2.1.20 Technické podmienky 
+
+2.1.21 ÚRSO 
+2.1.22 Vyhláška MH SR o stave núdze 
+2.1.23 v elektroenergetike 
+
+2.1.24 Zabezpečenie 
+
+2.1.25 Zákon o DPH 
+
+2.1.26 Zákon o metrológii 
+
+2.1.27 Zákon o ochrane osobných údajov 
+
+2.1.28 Zákon o podpore OZE 
+
+2.1.29 Zákon o spotrebnej dani 
+
+ELE_RETAIL_FIX_R_ver102022 
+ELE_RET02FKT 
+Číslo zmluvy dodávateľa: ZDR-2025-A-09335-000 
+
+podmienok podľa bodu 14.1 týchto VOP predlžuje, t. j. obdobie 
+od 01.01., 00.00 hod do 31.12., 24:00 hod príslušného 
+kalendárneho roka, na ktorý sa trvanie Zmluvy predlžuje; 
+znamená prevádzkový poriadok príslušného PDS, ktorý je schválený 
+ÚRSO, podľa ktorého sa riadi zabezpečenie Distribúcie elektriny 
+a súvisiacich služieb do OM, a ktorý je záväzný pre všetkých 
+účastníkov trhu s elektrinou, 
+znamenajú princípy a zásady uvedené v Etickom kódexe a Pláne 
+nulovej tolerancie korupcie Dodávateľa uverejnené na webovom 
+sídle Dodávateľa www.energetickesluzby.sk, 
+znamená záväznú špecifikáciu odberu elektriny v kalendárnom 
+jednotlivo pre každé OM alebo 
+roku zo strany Odberateľa 
+spoločne pre všetky alebo niektoré OM; v prípade, ak 
+ide 
+o OM s nepriebehovým meraním tam, kde sa v Zmluve 
+a týchto 
+VOP používa pojem „Ročný diagram odberu“ má sa na mysli 
+celkové ročné zmluvné množstvo, ktoré sa Odberateľ zaväzuje 
+v príslušnom kalendárnom roku dodávky odobrať; pre vylúčenie 
+akýchkoľvek pochybností v prípade, ak je súčasťou Zmluvy viac 
+Ročných diagramov odberu, tak tam, kde sa v Zmluve alebo 
+týchto VOP používa pojem Ročný diagram odberu má sa na 
+mysli jednotlivo každý z nich, 
+znamená spresnenie hodnôt dohodnutého množstva (a prípadne 
+aj časového priebehu výkonu uvedených v Ročnom diagrame 
+odberu, v podobe denného spresneného diagramu 
+týždenného spresneného diagramu 
+spresneného diagramu (M-1), 
+znamená vyhláška ÚRSO č. 236/2016 Z. z., ktorou sa ustanovujú 
+štandardy kvality prenosu elektriny, distribúcie 
+dodávky elektriny v znení neskorších predpisov, 
+znamenajú technické podmienky prístupu 
+do 
+sústavy príslušného PDS resp. technické podmienky príslušného 
+PDS, ktoré sú zverejnené na webovom sídle príslušného PDS, 
+znamená Úrad pre reguláciu sieťových odvetví, 
+
+(T-1) alebo mesačného 
+
+elektriny a 
+
+a pripojenia 
+
+(D-1), 
+
+znamená vyhlášku MH SR č. 416/2012 Z. z., ktorou sa ustanovujú 
+podrobnosti o postupe pri uplatňovaní obmedzujúcich opatrení pri 
+stave núdze a o opatreniach zameraných na odstránenie stavu 
+núdze v elektroenergetike a podrobnosti o postupe pri vyhlasovaní 
+krízovej situácie a jej úrovne, o vyhlasovaní obmedzujúcich opatrení 
+v plynárenstve pre 
+jednotlivé kategórie odberateľov plynu, o 
+opatreniach zameraných na odstránenie krízovej situácie a o 
+spôsobe určenia obmedzujúcich opatrení v plynárenstve a opatrení 
+zameraných na odstránenie krízovej situácie v znení neskorších 
+predpisov, 
+znamená 
+plnenia 
+zabezpečenie 
+vyplývajúcich zo Zmluvy a týchto VOP, 
+znamená zákon č. 222/2004 Z. z. o dani z pridanej hodnoty 
+v znení neskorších právnych predpisov, 
+znamená zákon č. 157/2018 Z. z. o metrológii a o zmene 
+a doplnení niektorých zákonov v znení neskorších predpisov, 
+znamená zákon č. 18/2018 Z. z. o ochrane osobných údajov a o 
+zmene a doplnení niektorých zákonov v znení neskorších 
+predpisov, 
+znamená zákon č. 309/2009 Z. z. o podpore 
+obnoviteľných 
+zdrojov energie a vysoko účinnej kombinovanej výroby a o 
+zmene a doplnení niektorých zákonov v znení neskorších 
+predpisov, 
+znamená zákon č. 609/2007 Z. z. o spotrebnej dani z elektriny, 
+uhlia a zemného plynu a o zmene a doplnení zákona č. 98/2004 Z. 
+
+Odberateľa 
+
+záväzkov 
+
+z. o spotrebnej dani z minerálneho oleja v znení neskorších 
+
+predpisov, 
+
+2.1.30 Združená dodávka 
+
+znamená: 
+(i) 
+
+(ii) 
+
+(iii) 
+(iv) 
+
+odplatné zabezpečenie plynulých dodávok elektriny pre 
+Odberateľa zo strany Dodávateľa, 
+odplatné prevzatie zodpovednosti za odchýlku voči 
+zúčtovateľovi odchýlok - OKTE, 
+odplatné zabezpečenie služieb Distribúcie elektriny, a 
+spojených 
+odplatné 
+s dodávkou 
+elektriny 
+prostredníctvom PDS do OM, ku ktorej je/sú pripojené OM 
+Odberateľa, 
+
+ostatných 
+resp. Distribúciou 
+
+poskytnutie 
+elektriny 
+
+služieb 
+
+2.2 
+
+2.1.31 Zmluvné strany 
+Terminológia a odborné pojmy neuvedené v predchádzajúcich ustanoveniach týchto VOP alebo nedefinované v Zmluve a 
+používané vo VOP a v Zmluve sú definíciami používanými v Zákone o energetike, Zákone o regulácii, Pravidlách trhu, 
+vyhláškach MH SR, vyhláškach, výnosoch a rozhodnutiach ÚRSO, a na ne nadväzujúcich právnych predpisoch a predpisoch 
+ostatných účastníkov trhu vydaných na základe všeobecne záväzných právnych predpisov. 
+
+znamená zmluvné strany Zmluvy, a to Dodávateľ a Odberateľ. 
+
+Slovenské elektrárne – energetické služby, s.r.o. – sídlo: Pribinova 40 - 811 09 Bratislava - mestská časť Ružinov – Slovenská republika – IČO: 
+44553412 - Obchodný register Mestského súdu Mestský súd Bratislava III – Oddiel: Sro – Vložka číslo: 56534/B 
+
+ELE_RETAIL_FIX_R_ver102022 
+ELE_RET02FKT 
+Číslo zmluvy dodávateľa: ZDR-2025-A-09335-000 
+
+2.3 
+
+Pri výklade Zmluvy a týchto VOP, pokiaľ nie je uvedené v Zmluve inak, alebo pokiaľ z kontextu Zmluvy a VOP nevyplýva 
+niečo iné: 
+2.3.1 pojmy v jednotnom čísle zahŕňajú aj tvary v množnom čísle a naopak, 
+2.3.2 odkazy na článok, bod alebo prílohu sa budú vykladať ako odkazy na článok, bod alebo prílohu Zmluvy a týchto VOP, 
+
+a 
+
+2.3.3 nadpisy a obsahy sú vložené výlučne pre orientáciu a nemajú žiaden vplyv na výklad Zmluvy a týchto VOP. 
+
+3 UZAVRETIE ZMLUVY 
+3.1 
+
+3.2 
+
+3.3 
+
+3.4 
+
+3.5 
+
+3.6 
+
+3.7 
+
+3.8 
+
+Pred uzatvorením Zmluvy (i) sú Zmluvné strany povinné za účelom identifikácie preukázať svoju totožnosť a (ii) Odberateľ je 
+povinný Dodávateľa pravdivo a presne informovať o všetkých skutočnostiach potrebných pre Dodávateľa za účelom 
+uzatvorenia a plnenia Zmluvy. 
+Dokumenty alebo iné písomnosti, ktoré Zmluva alebo tieto VOP považujú (označujú) za prílohu Zmluvy, majú povahu 
+neoddeliteľnej súčasti Zmluvy, a to aj v prípade, ak nie sú so Zmluvou technicky spojené. Za neoddeliteľnú súčasť Zmluvy sa 
+považujú aj VOP a akékoľvek ich zmeny. 
+Osoba odlišná od Odberateľa je oprávnená uzatvoriť Zmluvu len na základe predloženého písomného plnomocenstva alebo 
+poverenia. Odberateľ, za ktorého Zmluvu uzaviera tretia osoba na základe plnomocenstva alebo poverenia, je povinný 
+Dodávateľovi najneskôr ku dňu podpisu Zmluvy Odberateľom predložiť originál alebo úradne osvedčenú kópiu predmetného 
+plnomocenstva alebo poverenia. 
+Predmetom Zmluvy je záväzok Dodávateľa odo Dňa začatia dodávky elektriny: 
+3.4.1 
+
+dodávať do OM elektrinu v dohodnutom množstve a časovom priebehu výkonu, a v kvalite podľa Technických 
+podmienok a v súlade so Štandardami kvality, pokiaľ tomu nebudú brániť okolnosti na strane PDS alebo okolnosti 
+na strane Odberateľa, 
+zabezpečiť pre dodávku elektriny Distribúciu do OM a všetky Distribučné služby súvisiace s dodávkou elektriny, a 
+prevziať za Odberateľa zodpovednosť za odchýlku na OM voči zúčtovateľovi odchýlok (OKTE), a 
+
+3.4.2 
+3.4.3 
+záväzok Odberateľa od Dodávateľa elektrinu v dohodnutom množstve podľa podmienok Zmluvy odobrať a riadne a včas 
+zaplatiť Dodávateľovi za dodávku elektriny, distribučné služby a ostatné služby podľa Zmluvy dohodnuté ceny a dodržiavať 
+svoje povinnosti v súlade so Zmluvou. 
+Doba trvania dodávky elektriny začína dohodnutým Dňom začatia dodávky elektriny uvedeným v Zmluve. Deň začatia 
+dodávky elektriny je zároveň dňom začatia Distribúcie elektriny do OM. Deň skončenia dodávky elektriny je zároveň dňom 
+skončenia Distribúcie elektriny do OM; tým nie sú dotknuté ustanovenia týkajúce sa faktického ukončenia Združenej dodávky 
+elektriny do OM podľa článku 14 týchto VOP. 
+Odberateľ splnomocní Dodávateľa na všetky úkony vrátane právnych, ktoré sú spojené s procesom zmeny alebo výmeny 
+dodávateľa elektriny do OM, a to udelením písomnej plnej moci, ktorej vzorové znenie je prílohou Zmluvy, resp. v znení 
+určenom príslušným PDS. Dodávateľ sa zaväzuje v mene Odberateľa požiadať PDS o vykonanie zmeny alebo výmeny 
+dodávateľa elektriny pre Odberateľa, v termíne stanovenom právnymi predpismi. 
+Povinnosť Dodávateľa dodávať elektrinu začína Dňom začatia dodávky elektriny, nie však skôr ako dňom zaradenia OM 
+Odberateľa do bilančnej skupiny Dodávateľa a potvrdeným termínom platnosti zmluvy o pripojení do distribučnej sústavy zo 
+strany príslušného PDS pre Odberateľa. Predpokladaný začiatok dodávky elektriny do OM je určený termínom uvedeným 
+v Zmluve (Deň začatia dodávky elektriny). Odberateľ sa zaväzuje akceptovať aj iný ako predpokladaný začiatok dodávky 
+elektriny uvedený v Zmluve ako Deň začatia dodávky elektriny v prípade, ak existujú obchodné alebo technické prekážky 
+elektrinu dodávať alebo ak existujú dôvody uvedené v Zmluve v prípade existencie ktorých Dodávateľovi nevzniká povinnosť 
+ku Dňu začatia dodávky elektriny zabezpečovať do OM Odberateľa dodávku elektriny, alebo ak existuje možnosť začatia 
+dodávky v skoršom termíne a začatím dodávky v tomto skoršom termíne sa zabezpečí pre Odberateľa zo strany Dodávateľa 
+dodávka elektriny plynule nadväzujúca na dodávku, ktorú predtým zabezpečoval iný Dodávateľ. 
+Odberateľ je povinný poskytnúť Dodávateľovi všetku nevyhnutnú súčinnosť spojenú so zmenou alebo výmenou dodávateľa 
+elektriny do OM, v rozsahu vyplývajúcom zo Zákona o energetike, Pravidiel trhu a predpisov PDS, a: 
+3.8.1 
+
+najneskôr s účinnosťou ku Dňu začatia dodávky elektriny podľa Zmluvy mať ukončený zmluvný vzťah s doterajším 
+dodávateľom a toto ukončenie Dodávateľovi preukázať najneskôr ku dňu predchádzajúcemu Dňu začatia dodávky 
+elektriny, 
+predložiť v písomnej forme Dodávateľovi úplné a správne technické a netechnické zmluvné parametre každého 
+OM, a ich akékoľvek zmeny písomne oznámiť, 
+udeliť Dodávateľovi písomnú plnú moc na proces zmeny alebo výmeny dodávateľa elektriny v zmysle bodu 3.6, a 
+to v termíne najneskôr tridsaťpäť (35) kalendárnych dní pred Dňom začatia dodávky elektriny, ak nie je Zmluvnými 
+stranami dohodnuté inak. Odberateľ sa zaväzuje odo dňa účinnosti Zmluvy zdržať sa akýchkoľvek úkonov 
+a konania a/alebo nekonania, ktoré by zmarilo a znemožnilo Dodávateľovi stať sa dodávateľom elektriny do OM. 
+Porušenia povinností Odberateľa podľa tohto bodu sa považuje za podstatné porušenie Zmluvy zo strany 
+Odberateľa. Odberateľ podpisom Zmluvy vyhlasuje, že si je vedomý, že porušenie ktorejkoľvek jeho povinnosti 
+podľa Zmluvy, spojené so zmarením zmeny dodávateľa elektriny pre Odberateľa v prospech Dodávateľa, je spojené 
+s nemožnosťou poskytnutia plnení podľa Zmluvy a týchto VOP zo strany Dodávateľa v celom ich rozsahu. 
+
+3.8.2 
+
+3.8.3 
+
+4 ŠPECIFIKÁCIA DODÁVOK ELEKTRINY, VYHODNOTENIE 
+4.1 Ročný diagram odberu 
+4.1.1 Špecifikácia dodávok elektriny na základe Zmluvy je určená formou záväzného Ročného diagramu odberu, ktorý je 
+
+neoddeliteľnou súčasťou Zmluvy. 
+
+4.1.2 Ročný diagram odberu určuje celkové dohodnuté množstvo, ktoré sa Odberateľ zaväzuje v príslušnom kalendárnom roku 
+dodávky odobrať za podmienok uvedených v Zmluve a v týchto VOP. Odberateľ sa počas trvania dodávky elektriny zaväzuje 
+odoberať elektrinu v súlade s príslušným Ročným diagramom odberu platným pre príslušný kalendárny rok dodávky. 
+4.1.3 Ročný diagram odberu na prvý kalendárny rok trvania Zmluvy je uvedený v Prílohe č. 2 Zmluvy. Odberateľ je povinný na 
+každý ďalší kalendárny rok trvania Zmluvy, najneskôr šesťdesiat (60) dní pred skončením kalendárneho roka 
+predchádzajúceho Predĺženému obdobiu trvania Zmluvy predložiť Dodávateľovi záväzný Ročný diagram odberu na Predĺžené 
+obdobie trvania Zmluvy v členení na jednotlivé kalendárne mesiace, resp. v prípade OM s nepriebehovým meraním záväzné 
+zmluvné množstvo pripadajúce na príslušný kalendárny rok dodávky. Odberateľ je povinný predložiť Dodávateľovi Ročný 
+diagram odberu na príslušné Predĺžené obdobie trvania Zmluvy elektronicky vo formáte (xls, csv) a na príslušnú e-mailovú 
+adresu určenú na komunikáciu vo veciach týkajúcich sa diagramov alebo iným spôsobom vopred oznámeným Dodávateľom 
+Odberateľovi. V prípade, ak Odberateľ nedoručí Dodávateľovi v lehote a forme podľa predchádzajúcej vety príslušný Ročný 
+
+Slovenské elektrárne – energetické služby, s.r.o. – sídlo: Pribinova 40 - 811 09 Bratislava - mestská časť Ružinov – Slovenská republika – IČO: 
+44553412 - Obchodný register Mestského súdu Mestský súd Bratislava III – Oddiel: Sro – Vložka číslo: 56534/B 
+
+ELE_RETAIL_FIX_R_ver102022 
+ELE_RET02FKT 
+Číslo zmluvy dodávateľa: ZDR-2025-A-09335-000 
+
+diagram odberu na Predĺžené obdobie trvania Zmluvy pre všetky OM, má sa za to, že záväzným Ročným diagramom odberu, 
+podľa ktorého sa Odberateľ zaväzuje odoberať elektrinu v Predĺženom období trvania Zmluvy je skutočný diagram jeho 
+odberu za predchádzajúci kalendárny rok, t. j. skutočne Odberateľom odobraté množstvá elektriny v jednotlivých 
+kalendárnych mesiacoch a príp. aj obchodných hodinách ak mal Odberateľ Ročný diagram odberu v členení na jednotlivé 
+obchodné hodiny) kalendárneho roku, bezprostredne predchádzajúceho Predĺženému obdobiu trvania Zmluvy, pričom v 
+prípade, ak Odberateľ odoberal elektrinu od Dodávateľa len časť kalendárneho roka bezprostredne predchádzajúceho 
+Predĺženému obdobiu trvania Zmluvy, a Odberateľ nedoručí Dodávateľovi v lehote a forme podľa predchádzajúcej vety 
+príslušný Ročný diagram odberu na celé Predĺžené obdobie trvania Zmluvy pre všetky OM, k automatickému predĺženiu 
+trvania Zmluvy na Predĺžené obdobie trvania Zmluvy nedochádza, aj keď by na to inak boli splnené podmienky v zmysle 
+článku 14 týchto VOP a trvanie Zmluvy v takom prípade končí (Zmluva zaniká) uplynutím 31.12. kalendárneho roka 
+predchádzajúceho Predĺženému obdobiu trvania Zmluvy. Ročný diagram odberu na celý kalendárny rok doručený 
+Odberateľom Dodávateľovi v lehote a forme podľa tohto bodu VOP alebo diagram skutočného odberu Odberateľa za 
+kalendárny rok bezprostredne predchádzajúci Predĺženému obdobiu trvania Zmluvy, ak nedôjde k doručeniu Ročného 
+diagramu odberu v zmysle tohto bodu Odberateľom Dodávateľovi automaticky nahrádza pôvodný Ročný diagram odberu 
+platný v predchádzajúcom kalendárnom roku dodávky a stáva sa pre Zmluvné strany záväzným bez potreby vyhotoviť 
+osobitný dodatok k Zmluve. 
+
+4.1.4 Ak o to Dodávateľ požiada, Odberateľ je zároveň povinný kedykoľvek na žiadosť Dodávateľa predložiť Dodávateľovi pre ním 
+určené obdobie a pre ním určené OM záväzný diagram odberu pre všetky obchodné hodiny v príslušného kalendárneho roka 
+dodávky elektriny, v rozpise na jednotlivé obchodné hodiny obchodného dňa. Tento diagram musí byť v súlade s príslušným 
+Ročným diagramom odberu. Pre vylúčenie akýchkoľvek pochybností, predloženie diagramu podľa tohto bodu VOP nezbavuje 
+Odberateľa odoberať elektrinu podľa Ročného diagramu odberu relevantného pre príslušné obdobie dodávky elektriny, ani 
+iných povinností podľa Zmluvy a týchto VOP. 
+Spresňovanie počas trvania Zmluvy 
+
+4.2 
+4.2.1 Dodávateľ je oprávnený počas trvania Zmluvy vyzvať (a to aj opakovane) Odberateľa na spresnenie hodnôt dohodnutého 
+množstva a prípadne aj časového priebehu výkonu odberu elektriny na základe Ročného diagramu odberu Dodávateľom 
+určeným spôsobom bližšie špecifikovaným vo výzve Dodávateľa, a to na časť alebo celý kalendárny rok trvania dodávky 
+elektriny, najmä 
+(i) 
+
+(ii) 
+
+(iii) 
+
+denným spresneným diagramom (D-1) na príslušný kalendárny deň vždy najneskôr deň predchádzajúci dňu dodávky 
+elektriny do 8.00 hod., s tým, že denný spresnený diagram na dodávku pre každý pondelok musí byť doručený 
+Dodávateľovi najneskôr v piatok do 8.00 hod., 
+mesačným spresneným diagramom (M-1) na príslušný kalendárny mesiac najneskôr desiaty (10.) deň mesiaca 
+predchádzajúceho mesiacu dodávky elektriny (M-1), 
+týždeň najneskôr do piatku 8.00 hod. 
+týždenným spresneným diagram (T-1) na príslušný kalendárny 
+predchádzajúceho obchodnému týždňu dodávky elektriny; obchodný týždeň sa začína v pondelok o 0.00.00 hod. 
+a končí v nedeľu o 24.00.00 hod., 
+iným spôsobom a na obdobie určené Dodávateľom vo výzve. 
+
+(iv) 
+Ak Dodávateľ vyzve Odberateľa na spresnenie podľa tohto bodu VOP denným (D-1) alebo týždenným (T-1) alebo mesačným 
+(M-1) spresneným diagramom, vo vzťahu k príslušnému obdobiu, ktorého sa spresnenie podľa tejto vety týka, považuje sa 
+príslušný denný (D-1), týždenný (T-1) a mesačný (M-1) diagram predložený Odberateľom Dodávateľa za Spresnený diagram. 
+V prípade, ak Dodávateľ vyzve Odberateľa na spresňovanie hodnôt dohodnutého množstva, a prípade aj časového priebehu 
+výkonu odberu elektriny na základe Ročného diagramu odberu a dôjde k predĺženiu trvania Zmluvy na nové Predĺžené 
+obdobie trvania Zmluvy, a ak Dodávateľ výslovne neurčí inak, má sa za to, že povinnosť spresňovania podľa výzvy 
+Dodávateľa platí aj pre Predĺžené obdobie trvania Zmluvy. 
+
+4.2.2 Odberateľ je povinný spresňovať hodnoty dohodnutého množstva a/alebo časového priebehu výkonu podľa Ročného 
+
+diagramu odberu s primeranou presnosťou a odbornou starostlivosťou. 
+
+4.2.3 V prípade, že termín spresnenia pripadne na sobotu, nedeľu alebo deň pracovného pokoja, Odberateľ doručí Dodávateľovi 
+príslušné upresnenie v zmysle výzvy Dodávateľa najneskôr v pracovný deň bezprostredne predchádzajúci takémuto dňu 
+pracovného voľna alebo pracovného pokoja, a to v časoch podľa bodu 4.2.1 týchto VOP, ak vo výzve nie je uvedené inak. 
+
+4.2.4 Upresňovanie Ročného diagramu odberu je Odberateľ povinný uskutočňovať elektronickou formou (e-mailom) v dohodnutom 
+
+formáte (xls, csv) alebo iným spôsobom vopred oznámeným Dodávateľom Odberateľovi. 
+
+4.2.5 Porušenie povinnosti spresniť hodnoty dohodnutého množstva a časového priebehu výkonu odberu elektriny na výzvu 
+Dodávateľa sa považuje za podstatné porušenie Zmluvy spojené s právom Dodávateľa od Zmluvy odstúpiť. V prípade, ak 
+Odberateľ nesplní alebo poruší povinnosť spresnenia na výzvu stanoveným spôsobom a v stanovených lehotách, 
+v ktoromkoľvek období trvania Zmluvy, Dodávateľ je oprávnený požadovať od Odberateľa zmluvnú pokutu vo výške 100,- 
+EUR (slovom: jednosto eur) denne za každý, aj začatý deň porušenia predmetnej povinnosti. 
+
+4.2.6 V prípade, ak Odberateľ zašle Dodávateľovi vo vzťahu k príslušnému obdobiu a OM viac Spresnených diagramov resp. 
+upresnení, za relevantné sa považuje Spresnený diagram resp. upresnenie, ktoré bolo Dodávateľovi zaslané ako posledné, 
+za predpokladu, že bolo doručené v príslušnej lehote a štruktúre, inak to, ktoré bolo doručené v príslušnej lehote a štruktúre 
+bezprostredne pred ním. 
+
+4.2.7 Dohodnutý spôsob spresňovania hodnôt dohodnutého množstva a prípadne aj časového priebehu výkonu na výzvu 
+Dodávateľa nie sú dotknuté Notifikačné povinnosti. Účelom spresňovania je najmä predchádzanie vzniku škody, resp. 
+minimalizácia škôd. 
+
+4.3 
+
+4.2.8 Pre vylúčenie akýchkoľvek pochybností spresnenie nemá vplyv na spôsob určenia ceny za dodávku elektriny, pre ktoré je 
+relevantným vždy vyhodnotenie vykonané porovnaním skutočného odberu Odberateľa v príslušnom zúčtovacom období 
+s dohodnutým množstvom podľa Ročného diagramu odberu. Spresnený diagram, resp. spresnenie teda nijakým spôsobom 
+nemenia množstvo elektriny podľa Ročného diagramu odberu, resp. záväznosť odberu podľa Ročného diagramu odberu. 
+Odberateľ je povinný vopred, najmenej desať (10) kalendárnych dní pred rozhodujúcou skutočnosťou alebo bezprostredne 
+po tom ako sa Odberateľ dozvedel o rozhodujúcej skutočnosti, písomne oznámiť Dodávateľovi všetky ním plánované 
+skutočnosti, ktoré môžu mať vplyv na veľkosť a časový priebeh spotreby, najmä opravy, revízie, vopred plánované odstávky 
+výroby, hromadné čerpanie dovolenky zamestnancov Odberateľa a dĺžku trvania týchto skutočností. Porušenie Notifikačnej 
+povinnosti podľa tohto sa považuje za podstatné porušenie Zmluvy. 
+Odberateľ je povinný bez zbytočného odkladu informovať Dodávateľa aj o všetkých náhlych a neplánovaných zmenách 
+odberu elektriny, spolu s predpokladanou dĺžkou trvania tejto zmeny odberu. Za náhlu a neplánovanú zmenu odberu elektriny 
+sa považuje objektívne nepredvídateľná zmena v odbere elektriny, ktorá nastala nezávisle od vôle Odberateľa a Odberateľ 
+nebol pri vynaložení všetkého úsilia spôsobilý zmenu odberu predvídať alebo odstrániť; skutočnosti preukazujúce náhlu 
+
+4.4 
+
+Slovenské elektrárne – energetické služby, s.r.o. – sídlo: Pribinova 40 - 811 09 Bratislava - mestská časť Ružinov – Slovenská republika – IČO: 
+44553412 - Obchodný register Mestského súdu Mestský súd Bratislava III – Oddiel: Sro – Vložka číslo: 56534/B 
+
+ELE_RETAIL_FIX_R_ver102022 
+ELE_RET02FKT 
+Číslo zmluvy dodávateľa: ZDR-2025-A-09335-000 
+
+4.5 
+
+4.6 
+
+4.7 
+
+4.8 
+
+zmenu odberu je Odberateľ povinný na žiadosť Dodávateľa preukázať Dodávateľovi. Odberateľ je povinný vznik a zánik 
+náhlych a neplánovaných zmien odberu elektriny oznámiť Dodávateľovi telefonicky do 12 hodín od momentu vzniku a zániku 
+tejto zmeny na telefónne čísla zamestnancov Dodávateľa uvedených v Prílohe č. 3 Zmluvy určených pre oblasť komunikácie 
+a najneskôr do 24 hodín po telefonickom oznámení potvrdiť písomne zaslaním emailovej správy. Porušenie Notifikačnej 
+povinnosti podľa tohto sa považuje za podstatné porušenie Zmluvy. 
+V prípade porušenia Notifikačných povinností Odberateľom je Dodávateľ oprávnený uplatniť voči Odberateľovi zmluvnú 
+pokutu vo výške 10.000 EUR (slovom: desaťtisíc eur) v každom jednom prípade porušenia Notifikačnej povinnosti. 
+Dodávka elektriny podľa Zmluvy je splnená prechodom elektriny z distribučnej sústavy v OM. Miestom odovzdania a prevzatia 
+elektriny, v ktorom dochádza medzi Dodávateľom a Odberateľom k prechodu vlastníckych práv je meracia sústava PDS a za 
+dodanú a odobratú elektrinu je považovaná elektrina, ktorá je nameraná meracou sústavou PDS. Za správnosť nameraného 
+množstva elektriny v OM zodpovedá PDS. 
+V prípade, ak Dodávateľ na základe Zmluvy zabezpečuje Združenú dodávku elektriny pre viaceré OM Odberateľa, príp. pre 
+viaceré OM, z ktorých niektoré sú OM s priebehovým meraním a niektoré s nepriebehovým meraním a Ročný diagram odberu 
+sa podľa Zmluvy vzťahuje súhrnne pre viaceré OM, pre účely vyhodnotenia, uplatnenia ceny za dodávku elektriny 
+a súvisiacich plnení sa vyhodnocujú OM s rovnakým typom merania spoločne, ak nejde o OM, ktoré má pridelený samostatný 
+Ročný diagram odberu. 
+V prípade, ak v priebehu kalendárneho roka dochádza na OM k zmene typu merania z nepriebehového na priebehové, 
+Odberateľ je povinný o tejto skutočnosti najneskôr ku dňu účinnosti zmeny písomne informovať Dodávateľa a predložiť mu 
+nový Ročný diagram odberu, ktorý bude zohľadňovať aj predpokladaný odber na dotknutom OM, pri ktorom sa odpočtový 
+cyklus mení. Odberateľ berie na vedomie, že v súvislosti so zmenou typu merania dôjde zo strany Dodávateľa k vystaveniu 
+mimoriadnej vyúčtovacej faktúry, zohľadňujúcej dodávku elektriny v dotknutom zúčtovacom období, a to na základe odpočtu 
+určeného meradla na dotknutom OM zo strany PDS. 
+
+5 ZABEZPEČENIE DISTRIBUČNÝCH SLUŽIEB 
+5.1 
+
+Dodávateľ sa zaväzuje zabezpečiť distribučné služby do OM do výšky maximálnej rezervovanej kapacity. Distribučné služby 
+sa uskutočňujú v súlade s platnými všeobecne záväznými právnymi predpismi, Prevádzkovým poriadkom PDS a v kvalite 
+podľa Technických podmienok. 
+Podmienky poskytovania Dodávateľom zabezpečených distribučných služieb súvisiacich s dodávkou elektriny sú stanovené 
+Prevádzkovým poriadkom PDS platným v čase dodávky podľa Zmluvy. 
+Prerušenie, a obmedzenie dodávky a Distribúcie elektriny 
+
+5.3 
+5.3.1 Odberateľ berie na vedomie, že PDS je oprávnený obmedziť alebo prerušiť Distribúciu v nevyhnutnom rozsahu a na 
+
+5.2 
+
+nevyhnutnú dobu v prípadoch: 
+5.3.1.1 
+
+stanovených v § 31 ods. 1 písm. e) Zákona o energetike a v príslušných ustanoveniach Prevádzkového poriadku 
+PDS, a 
+na základe rozhodnutia MH SR v rozsahu podľa § 88 Zákona o energetike. 
+
+5.3.1.2 
+Počas vyššie uvedeného prerušenia alebo obmedzenia nie je Dodávateľ povinný dodávať elektrinu a zabezpečovať 
+Distribúciu elektriny a Odberateľ nemá nárok na náhradu škody. Odberateľ berie na vedomie, že o plánovanom prerušení 
+alebo obmedzení dodávky a Distribúcie elektriny a dobe trvania bude informovaný miestne obvyklým spôsobom a v súlade 
+s Prevádzkovým poriadkom PDS a na webovom sídle PDS pred plánovaným začatím obmedzenia alebo prerušenia dodávky 
+a Distribúcie elektriny. 
+
+5.3.2 Dodávateľ je oprávnený prerušiť alebo ukončiť dodávku elektriny a Distribúciu elektriny do OM a za tým účelom vo vlastnom 
+mene požiadať PDS o prerušenie alebo ukončenie Distribúcie elektriny, ak Odberateľ podstatne porušuje Zmluvu a ak 
+Odberateľ nezjedná nápravu ani v dodatočnej lehote uvedenej v písomnej výzve (upomienke), ktorá nebude kratšia ako päť 
+(5) dní odo dňa doručenia výzvy (upomienky) Odberateľovi s upozornením, že dodávka elektriny a Distribúcia elektriny budú 
+prerušené. Za podstatné porušenie Zmluvy sa považuje aj prípad, keď je Odberateľ v omeškaní s úhradou faktúry alebo 
+zálohovej platby alebo paušálnej platby podľa článku 8 VOP alebo ich časti alebo faktúry. Dodávateľ v takomto prípade 
+nezodpovedá za vzniknuté škody ani za ušlý zisk Odberateľa. 
+
+5.3.3 Dodávka elektriny a Distribúcia elektriny budú opätovne obnovené po odstránení príčin prerušenia a splnení podmienok na 
+
+obnovenie dodávky a Distribúcie elektriny podľa týchto VOP a príslušných predpisov. 
+
+5.4 
+
+5.3.4 V prípade, ak dôjde k prerušeniu alebo obmedzeniu dodávky a Distribúcie elektriny do OM podľa tohto článku VOP z dôvodov 
+na strane Odberateľa, Dodávateľ je v takomto prípade zároveň oprávnený účtovať Odberateľovi náklady spojené 
+s prerušením (vrátane poplatku za storno požiadavky na prerušenie, obmedzenie alebo ukončenie dodávky a Distribúcie 
+elektriny) a opätovným pripojením podľa podmienok PDS a platného cenníka služieb distribúcie príslušného PDS, resp. 
+Cenníka služieb Dodávateľa, ktoré sa Odberateľ zaväzuje uhradiť bezodkladne na základe doručenia výzvy na úhradu zo 
+strany Dodávateľa. Dodávateľ požiada PDS o obnovenie dodávky elektriny a Distribúcie elektriny po úhrade všetkých nárokov 
+Dodávateľa pre neuhradenie ktorých došlo k prerušeniu alebo obmedzeniu dodávky a Distribúcie elektriny, vrátane nákladov 
+a poplatkov spojených s prerušením a obnovením dodávky a Distribúcie elektriny najneskôr v lehote podľa Štandardov 
+kvality. 
+Prekročenie dohodnutej rezervovanej kapacity sa rieši v súlade s Prevádzkovým poriadkom PDS a platným cenovým 
+rozhodnutím ÚRSO. 
+Dodávateľ bude Odberateľovi účtovať distribučné prirážky podľa platného cenového rozhodnutia príslušného PDS 
+schváleného ÚRSO, ktoré vzniknú v dôsledku nedodržania cenníkových podmienok PDS a Odberateľ je povinný tieto 
+distribučné prirážky Dodávateľovi uhradiť bezodkladne na základe doručenia výzvy na úhradu zo strany Dodávateľa. 
+Pri novovzniknutých odberných miestach Odberateľ uzatvorí s príslušným PDS Zmluvu o pripojení a následne poskytne 
+Dodávateľovi všetky potrebné informácie a podklady (technické a netechnické zmluvné parametre) potrebné pre uzatvorenie 
+rámcovej distribučnej zmluvy s príslušným PDS. 
+Odberateľ sa zaväzuje v prípade stavu núdze postupovať podľa príslušných právnych predpisov, najmä podľa ustanovenia § 
+20 Zákona o energetike a Vyhlášky MH SR o stave núdze v elektroenergetike. 
+
+5.5 
+
+5.7 
+
+5.6 
+
+6 ĎALŠIE PRÁVA A POVINNOSTI ZMLUVNÝCH STRÁN, VYHLÁSENIA ODBERATEĽA PRI DODÁVKE 
+
+A DISTRIBÚCII ELEKTRINY 
+
+6.1 
+
+Odberateľ, za ktorého prevzal Dodávateľ touto Zmluvou zodpovednosť za odchýlku, sa zaväzuje počas doby trvania dodávky 
+elektriny podľa Zmluvy odoberať elektrinu pre OM výlučne od Dodávateľa. Odberateľ sa zaväzuje, že v OM nezmení 
+dodávateľa elektriny pred riadnym zánikom Zmluvy, s výnimkou prípadov, keď je ukončenie dodávky elektriny pre konkrétne 
+
+Slovenské elektrárne – energetické služby, s.r.o. – sídlo: Pribinova 40 - 811 09 Bratislava - mestská časť Ružinov – Slovenská republika – IČO: 
+44553412 - Obchodný register Mestského súdu Mestský súd Bratislava III – Oddiel: Sro – Vložka číslo: 56534/B 
+
+ELE_RETAIL_FIX_R_ver102022 
+ELE_RET02FKT 
+Číslo zmluvy dodávateľa: ZDR-2025-A-09335-000 
+
+OM v Zmluve upravené inak. Nedodržanie tohto záväzku sa považuje za podstatné porušenie Zmluvy oprávňujúce 
+Dodávateľa od Zmluvy odstúpiť. 
+Dodávka elektriny podľa tejto Zmluvy je splnená prechodom elektriny z distribučnej sústavy v OM. Miestom odovzdania 
+a prevzatia elektriny, v ktorom dochádza medzi Dodávateľom a Odberateľom k prechodu vlastníckych práv je meracia 
+sústava PDS na OM a za dodanú a odobratú elektrinu je považovaná elektrina, ktorá je nameraná meracou sústavou PDS v 
+OM. Za správnosť nameraného množstva elektriny v OM zodpovedá PDS. 
+Štandardy kvality 
+Dodávateľ je povinný dodržiavať štandardy kvality, evidovať, vyhodnocovať a zverejňovať údaje o štandardoch kvality, a to 
+v súlade so Štandardmi kvality. Vyhodnocovanie štandardov kvality Dodávateľ zverejňuje na svojom webovom sídle 
+www.energetickesluzby.sk. 
+Kvalita dodávanej elektriny a Distribúcie elektriny nemusí byť dodržaná ak: 
+6.4.1 
+6.4.2 
+
+Odberateľ odoberá elektrinu s iným účinníkom ako je uvedený v bode 6.5 týchto VOP, 
+Odberateľ prekračuje hranice prípustného negatívneho spätného pôsobenia na sústavu stanovené technickými 
+predpismi, 
+Odberateľ prekračuje maximálnu rezervovanú kapacitu, 
+ide o stav núdze, 
+vzniknú alebo sa odstraňujú havárie a poruchy na energetických zariadeniach, alebo 
+Odberateľ porušuje ustanovenia Zmluvy, resp. týchto VOP, Zákona o energetike, Prevádzkového poriadku PDS, 
+alebo iných všeobecne záväzných právnych predpisov a predpisov iných účastníkov trhu, ktoré sú pre Zmluvné 
+strany záväzné, ktoré môžu mať vplyv na kvalitu dodávanej elektriny a Distribúcie elektriny. 
+
+6.4.3 
+6.4.4 
+6.4.5 
+6.4.6 
+
+Odberateľ sa zaväzuje dodržať pri odbere elektriny dohodnutý účinník minimálne 0,95 - 1. V prípade odlišného účinníka berie 
+na vedomie, že PDS účtuje prirážku za nedodržania účinníka v súlade s cenníkom príslušného PDS. 
+Odberateľ vyhlasuje a zaručuje Dodávateľovi, že nasledujúce vyhlásenia a záruky sú ku dňu podpisu Zmluvy pravdivé, 
+správne a úplné a vynaloží všetko potrebné úsilie na to, aby ostali pravdivé, správne a úplné počas trvania Zmluvy: 
+6.6.1 
+
+Odberateľ vyhlasuje, že predchádzajúci dodávateľ a/alebo PDS neeviduje voči nemu žiadne pohľadávky po lehote 
+splatnosti, 
+Odberateľ má s PDS uzatvorenú platnú a účinnú zmluvu o pripojení OM do distribučnej sústavy. 
+
+6.6.2 
+Odberateľ je povinný predložiť pri podpise Zmluvy Dodávateľovi: 
+6.7.1 
+
+informácie a podklady potrebné pre zmenu dodávateľa v zmysle bodu 3.6 a 3.8 VOP a správnu fakturáciu za každé 
+OM, 
+technické a netechnické zmluvné parametre každého OM ako aj Zmluvy. 
+
+6.7.2 
+Dodávateľ nie je povinný zabezpečiť plnenie predmetu Zmluvy k dohodnutému Dňu začatia dodávky elektriny v prípade 
+porušenia povinnosti Odberateľa podľa tohto bodu. 
+Odberateľ je povinný bez zbytočného odkladu písomne oznámiť Dodávateľovi akúkoľvek zmenu údajov uvedených v Zmluve 
+alebo v prílohách Zmluvy. 
+Odberateľ vyhlasuje, že ku dňu podpisu Zmluvy má vlastnícke, resp. iné užívacie právo k nehnuteľnosti a k OM, do ktorých 
+sa zabezpečuje dodávka elektriny podľa Zmluvy. Odberateľ je povinný počas trvania Zmluvy mať a kedykoľvek na výzvu 
+Dodávateľa preukázať existenciu a trvanie vlastníckeho alebo iného užívacieho práva k nehnuteľnosti a k OM, do ktorých sa 
+zabezpečuje dodávka elektriny podľa Zmluvy. 
+
+6.2 
+
+6.3 
+
+6.4 
+
+6.5 
+
+6.6 
+
+6.7 
+
+6.8 
+
+6.9 
+
+6.10 Odberateľ môže požiadať Dodávateľa o zabezpečenie úpravy dohodnutej rezervovanej kapacity u PDS iba v súlade a pri 
+rešpektovaní schválených podmienok príslušného PDS a Prevádzkového poriadku PDS, najviac do výšky maximálnej 
+rezervovanej kapacity. Odberateľ požiada Dodávateľa o zabezpečenie úpravy rezervovanej kapacity zaslaním písomnej 
+žiadosti Dodávateľovi. Odberateľ berie na vedomie, že žiadosť o úpravu dohodnutej rezervovanej kapacity sa stáva účinnou 
+doručením žiadosti Dodávateľovi ak: 
+6.10.1 
+
+žiadosť bude doručená Dodávateľovi najneskôr do 12:00 hodiny posledného pracovného dňa pred dňom v ktorom 
+je možné žiadať o zmenu rezervovanej kapacity PDS na obdobie na ktoré sa vzťahuje požadovaná úprava 
+dohodnutej rezervovanej kapacity, 
+bude odsúhlasená PDS pred dňom začatia dodávky elektriny na ktoré sa vzťahuje požadovaná úprava dohodnutej 
+rezervovanej kapacity. 
+
+6.10.2 
+
+Dodávateľ zašle informáciu Odberateľovi o úprave dohodnutej rezervovanej kapacity pre príslušné obdobie, ak ju nezašle 
+Odberateľovi priamo PDS. 
+Žiadosť Odberateľa a informácia Dodávateľa o úprave dohodnutej rezervovanej kapacity pre príslušné obdobie sa budú 
+považovať za uzatvorenie dodatku k Zmluve o zmene dohodnutej rezervovanej kapacity. Tým nie sú dotknuté povinnosti 
+Odberateľa voči Dodávateľovi v súvislosti so zmenou rezervovanej kapacity dohodnuté osobitne v inej zmluve alebo dohode 
+uzavretých medzi Dodávateľom a Odberateľom. V prípade ak podmienky podľa predchádzajúcich viet tohto bodu nebudú 
+splnené, nebude zmena rezervovanej kapacity účinná a platná. Žiadosti a dodržanie zmluvne dohodnutej rezervovanej 
+kapacity sa posudzujú pre každé OM samostatne. Postup a spôsob komunikácie pri úprave dohodnutej rezervovanej kapacity 
+sú uvedené na webovom sídle Dodávateľa. 
+
+6.11 Odberateľ je povinný prijať všetky nevyhnutné technické a prevádzkové opatrenia, ktoré zabezpečia odber elektriny v OM 
+v súlade s technickými a prevádzkovými podmienkami Distribúcie elektriny definovanými príslušnými PDS a vylúčia 
+Dodávateľovi znemožnenie dodania predmetu plnenia podľa Zmluvy ku Dňu začatia dodávky elektriny. 
+
+6.12 Odberateľ vyhlasuje a zaväzuje sa dodržiavať technické a netechnické zmluvné parametre OM podľa Prevádzkového 
+
+poriadku PDS a Technických podmienok, najmä: 
+6.12.1 
+
+dodržiavať podmienky pripojenia stanovené zmluvou o pripojení do sústavy a príslušnými právnymi predpismi 
+a dodržiavať zmluvné a technické podmienky OM (najmä hodnoty rezervovanej kapacity, rezervovaného príkonu 
+a účinníku, typ a spôsob merania a veľkosť ističov), 
+udržiavať svoje odberné zariadenie v stave, ktorý zodpovedá príslušným technickým normám a platným právnym 
+predpisom, 
+poskytovať na požiadanie PDS technické údaje a správy z odbornej prehliadky a z odbornej skúšky, pričom podľa 
+Zákona o energetike odberné elektrické zariadenie zriaďuje, prevádzkuje a za údržbu, bezpečnú a spoľahlivú 
+prevádzku zodpovedá Odberateľ, 
+odpájať zariadenia, ktoré svojou činnosťou poškodzujú kvalitatívne parametre siete na základe žiadosti PDS, 
+konzultovať s PDS pripojenie spotrebičov, u ktorých je predpoklad ovplyvnenia distribučnej sústavy, 
+postupovať v prípade hroziaceho alebo existujúceho stavu núdze podľa príslušných právnych predpisov a 
+Havarijného plánu, ktorý je súčasťou Technických podmienok, a poskytnúť súčinnosť PDS, 
+
+6.12.2 
+
+6.12.3 
+
+6.12.4 
+6.12.5 
+6.12.6 
+
+Slovenské elektrárne – energetické služby, s.r.o. – sídlo: Pribinova 40 - 811 09 Bratislava - mestská časť Ružinov – Slovenská republika – IČO: 
+44553412 - Obchodný register Mestského súdu Mestský súd Bratislava III – Oddiel: Sro – Vložka číslo: 56534/B 
+
+ELE_RETAIL_FIX_R_ver102022 
+ELE_RET02FKT 
+Číslo zmluvy dodávateľa: ZDR-2025-A-09335-000 
+
+6.12.7 
+
+6.12.8 
+
+6.12.9 
+
+umožniť PDS kontrolu OM a elektroenergetických zariadení a spôsob prevádzkovania elektroenergetických 
+zariadení, ktoré ovplyvňujú kvalitu elektriny v neprospech ostatných odberateľov elektriny, 
+umožniť prístup PDS k OM, odbernému elektrickému zariadeniu a určenému meradlu v súlade s Prevádzkovým 
+poriadkom PDS na účel vykonania kontroly, výmeny, odobratia určeného meradla alebo zistenia odobratého 
+množstva elektriny resp. iných údajov, 
+vykonať opatrenia nariadené PDS na zabezpečenie stability sústavy a dodržanie kvality dodávok elektriny v 
+prospech ostatných odberateľov elektriny, 
+
+6.12.10 umožniť bez zdržania zamestnancom PDS a autorizovaným povereným osobám PDS rýchly výkon správy 
+meracieho zariadenia na OM, a to nepretržite, v ľubovoľnú hodinu, aj v čase mimo riadnej pracovnej doby, 
+6.12.11 starať sa o určené meradlo tak, aby neprišlo k jeho poškodeniu alebo odcudzeniu a sledovať jeho riadny chod; 
+všetky závady na určenom meradle vrátane porušenia zabezpečenia proti neoprávnenej manipulácii, ktoré 
+Odberateľ zistí, ohlásiť bezodkladne najneskôr do troch (3) dní PDS; pri pochybnostiach o správnosti údajov 
+určeného meradla môže Odberateľ písomne požiadať PDS o zabezpečenie jeho preskúšania; ak sa na určenom 
+meradle nezistila chyba, Odberateľ sa zaväzuje uhradiť náklady spojené s jeho preskúšaním a výmenou podľa 
+platného cenníka služieb distribúcie príslušného PDS, 
+
+6.12.12 Odberateľ je povinný poskytnúť súčinnosť pri vykonávaní odpočtu alebo výmene elektromera z dôvodu vypršania 
+platnosti overenia alebo požiadavke o preskúšanie správnosti merania alebo poruche alebo zmeny zmluvných 
+podmienok. 
+
+6.13 V prípade porušenia niektorého zo záväzkov uvedených v bodoch 6.12.1 až 6.12.12 týchto VOP je Odberateľ povinný uhradiť 
+Dodávateľovi v celom rozsahu akékoľvek cenové prirážky určené PDS v súlade s predpismi ÚRSO, a tiež prípadné škody, 
+náhrady a ďalšie oprávnené platby a nároky PDS, alebo autorizovanej právnickej osoby, ktorú PDS poveril, a to bezodkladne 
+na základe doručenia výzvy na úhradu zo strany Dodávateľa. Porušenie vyššie uvedených záväzkov a povinností zo strany 
+Odberateľa sa považuje za podstatné porušenie Zmluvy zo strany Odberateľa. 
+
+6.14 Odberateľ je povinný akúkoľvek zmenu technických a netechnických parametrov OM, ktoré sú uvedené v Prílohe č. 1 Zmluvy, 
+ktoré si pre účinnosť svojej zmeny nevyžadujú kladné rozhodnutie, súhlas alebo schválenie PDS a ktoré zmení odo dňa 
+podpisu Zmluvy písomne oznámiť Dodávateľovi najneskôr do piatich (5) kalendárnych dní odo dňa ich zmeny; zmena 
+nadobudne účinnosť vo vzťahu k Dodávateľovi dňom nasledujúcim po dni doručenia písomného oznámenia v prípade súladu 
+so Zmluvou, Prevádzkovým poriadkom PDS a Technickými podmienkami, pričom pre tieto účely nie je potrebné vyhotoviť 
+osobitný dodatok k Zmluve. 
+
+6.15 Odberateľ je povinný najneskôr do piatich (5) dní odo dňa pripojenia alebo odpojenia zariadenia na výrobu a/alebo 
+uskladňovanie elektriny do OM oznámiť Dodávateľovi, že na jeho OM došlo k pripojeniu a/alebo odpojeniu zariadenia na 
+výrobu elektriny a/alebo zariadenia na uskladňovanie elektriny, spolu s informáciou o druhu zariadenia (v prípade výrobného 
+zariadenia), celkovom inštalovanom výkone zariadenia, EIC kóde OM, do ktorého sa dané zariadenie pripája alebo z ktorého 
+sa odpája, EIC kóde odberného a odovzdávacieho miesta príslušného zariadenia, príp. informáciu, že zariadenie nemá 
+pridelený osobitný EIC kód (v takom prípade Odberateľ zároveň uvedie len EIC kód OM, do ktorého sa zariadenie pripája 
+alebo z ktorého sa odpája). V prípade porušenia povinnosti podľa tohto bodu VOP je Dodávateľ oprávnený uplatniť voči 
+Odberateľovi zmluvnú pokutu vo výške 1.000 EUR (slovom: jedentisíc eur). Porušenie povinností podľa tohto bodu VOP sa 
+zároveň považuje za podstatné porušenie Zmluvy. 
+
+6.16 V prípade iných parametrov ako podľa bodov 6.14 a 6.15 týchto VOP, ktorých zmena nastane odo dňa podpisu Zmluvy do 
+dňa predchádzajúceho Dňu začatia dodávky elektriny, je Odberateľ povinný písomne informovať Dodávateľa o predložení 
+žiadosti o udelenie súhlasu PDS do piatich (5) kalendárnych dní odo dňa predloženia žiadosti. Odberateľ je povinný písomne 
+oznámiť Dodávateľovi udelenie/neudelenie rozhodnutia, súhlasu alebo schválenie/neschválenie zmeny parametrov zo strany 
+PDS, do piatich (5) kalendárnych dní odo dňa doručenia rozhodnutia, súhlasu, stanoviska zo strany PDS; dňom nasledujúcim 
+po dni doručenia oznámenia nadobúda zmena účinnosť vo vzťahu k Dodávateľovi, ak z Prevádzkového poriadku PDS, 
+Technických podmienok, rozhodnutia PDS alebo príslušných všeobecne záväzných právnych predpisov nevyplýva inak. 
+
+6.17 V prípade porušenia povinností Odberateľa podľa bodu 6.14 až 6.16 týchto VOP Dodávateľ nie je povinný zabezpečiť plnenie 
+predmetu Zmluvy k dohodnutému Dňu začatia dodávky elektriny. Tým nie je dotknutá povinnosť Odberateľa podľa bodu 3.8 
+týchto VOP. 
+
+6.18 Odberateľ súhlasí a zaväzuje sa, že v prípade porúch na OM alebo porúch s následkom obmedzenia alebo prerušenia 
+Distribúcie elektriny na časti vymedzeného územia príslušného PDS kontaktuje autorizovanú osobu PDS pre styk s 
+odberateľmi (zoznam autorizovaných osôb PDS je uvedený na webovom sídle príslušného PDS). 
+Informácie o pôvode a podiele jednotlivých druhov primárnych energetických zdrojov na dodanej elektrine v predchádzajúcom 
+roku, informácia o vplyve primárnych zdrojov na životné prostredie a informácie týkajúce sa efektívnosti pri používaní energie 
+v zmysle platného Zákona o energetike sú uverejnené na webovom sídle Dodávateľa. 
+
+6.19 
+
+6.20 Odberateľ berie na vedomie, že v zmysle Zákona o regulácii je rozhodnutím ÚRSO schválený Prevádzkový poriadok PDS 
+záväzný pre všetkých účastníkov trhu s elektrinou, vrátane Odberateľa. Odberateľ sa zaväzuje dodržiavať všetky povinnosti 
+Odberateľa podľa Zákona o energetike, Pravidiel trhu, Prevádzkového poriadku PDS a ostatných príslušných všeobecne 
+záväzných právnych predpisov a predpisov ostatných účastníkov na trhu s elektrinou, ktoré sú všeobecne záväzné pre iných 
+účastníkov na trhu s elektrinou. Odberateľ vyhlasuje, že sa s Prevádzkovým poriadkom PDS a Technickými podmienkami, 
+platnými pre obdobie dodávky elektriny a Distribúcie elektriny, vrátane ich zmien riadne oboznámi a berie na vedomie, že ich 
+znenie a každá ich zmena bude zverejnená na webovom sídle príslušného PDS a ÚRSO a zaväzuje sa riadiť Prevádzkovým 
+poriadkom PDS, Technickými podmienkami a dodržiavať podmienky pripojenia k distribučnej sústave. Odberateľ je povinný 
+umožniť kontrolu ich dodržiavania PDS. 
+Zdroj, spôsob a možnosti získavania informácií o cene elektriny vrátane štruktúry ceny, sú uverejnené na webovom sídle 
+Dodávateľa. Na webovom sídle Dodávateľa je uverejnený aj Cenník služieb Dodávateľa. 
+
+6.21 
+
+6.22 Odberateľ vyhlasuje a zaručuje sa, že Odberateľ a ani žiadna z jeho dcérskych spoločností alebo materských spoločností, 
+ani jeho riaditelia a štatutárne orgány a členovia štatutárnych orgánov, nie je fyzickou alebo právnickou osobou, ktorá (i) je 
+osobou, alebo (ii) je vo vlastníctve alebo pod kontrolou osoby, ktorá je uvedená na sankčnom zozname spravovaným 
+príslušným orgánom verejnej moci, úradom alebo orgánom Európskej únie alebo medzinárodným orgánom zriadeným na 
+základe medzinárodnej zmluvy, ktorej členom je Slovenská republika, alebo je registrovaná v krajinách podliehajúcich 
+súhrnným ekonomickým sankciám nariadených príslušnými orgánmi verejnej moci, úradmi alebo orgánmi Európskej únie 
+alebo medzinárodnými orgánmi zriadenými na základe medzinárodnej zmluvy, ktorej členom je Slovenská republika. 
+
+6.23 Neoprávnený odber 
+
+Dodávka elektriny sa uskutoční iba na základe platne uzatvorenej a účinnej Zmluvy, v opačnom prípade sa odber elektriny 
+považuje za neoprávnený odber elektriny. Neoprávneným odberom elektriny je odber elektriny podľa definície uvedenej v § 
+
+Slovenské elektrárne – energetické služby, s.r.o. – sídlo: Pribinova 40 - 811 09 Bratislava - mestská časť Ružinov – Slovenská republika – IČO: 
+44553412 - Obchodný register Mestského súdu Mestský súd Bratislava III – Oddiel: Sro – Vložka číslo: 56534/B 
+
+ELE_RETAIL_FIX_R_ver102022 
+ELE_RET02FKT 
+Číslo zmluvy dodávateľa: ZDR-2025-A-09335-000 
+
+46 ods. 1 Zákona o energetike. Pri neoprávnenom odbere elektriny je ten, kto elektrinu odoberal, povinný uhradiť skutočne 
+vzniknutú škodu. Ak nemožno vyčísliť skutočne vzniknutú škodu na základe objektívnych a spoľahlivých podkladov, použije 
+sa spôsob výpočtu škody spôsobenej neoprávneným odberom elektriny ustanovený všeobecne záväzným právnym 
+predpisom1. 
+
+6.24 Dodávka poslednej inštancie 
+
+Ak Dodávateľ stratí spôsobilosť dodávať elektrinu do OM z dôvodov podľa § 18 ods. 6 Zákona o energetike, nastane dodávka 
+elektriny dodávateľom poslednej inštancie. Dodávateľ poslednej inštancie je určený rozhodnutím ÚRSO alebo zákonom. 
+Dodávka poslednej inštancie trvá najviac tri (3) mesiace. O dôvodoch dodávky poslednej inštancie informuje Odberateľa 
+príslušný PDS, a to v lehote podľa Pravidiel trhu. Dodávka poslednej inštancie môže byť ukončená aj skôr ako uplynutím 3- 
+mesačnej lehoty, a to (i) uzatvorením zmluvy o dodávke elektriny alebo zmluvy o združenej dodávke elektriny s dodávateľom 
+poslednej inštancie alebo iným dodávateľom elektriny, (ii) ukončením odberu elektriny zo strany odberateľa elektriny alebo 
+(iii) pri zmene odberateľa elektriny na OM. Dodávka poslednej inštancie zaniká najneskôr uplynutím troch (3) mesiacov od jej 
+začatia. 
+
+7 MERANIE MNOŽSTVA ODOBRATEJ ELEKTRINY 
+7.1 
+
+7.2 
+
+Poskytovateľom nameraných hodnôt o odbere v OM, ktoré sú podkladom pre fakturáciu, je PDS. Poskytovateľom podkladov 
+pre fakturáciu tarify za systémové služby a tarify za prevádzkovanie systému je OKTE, poverený výkonom činnosti centrálnej 
+fakturácie. Množstvá meranej elektriny sa vyjadrujú v MWh s presnosťou na tri desatinné miesta a výkon v MW s presnosťou 
+na tri desatinné miesta. 
+V prípade, ak je Odberateľ prevádzkovateľom miestnej distribučnej sústavy a Dodávateľ zabezpečuje dodávku elektriny do 
+OM Odberateľa, ktoré je hraničným OM, Odberateľ sa zaväzuje najneskôr do piateho (5.) pracovného dňa po skončení 
+kalendárneho mesiaca dohodnutým spôsobom pre vzájomnú komunikáciu podľa Prílohy č. 3 Zmluvy a článku 10 týchto VOP 
+poskytnúť Dodávateľovi elektronicky namerané údaje na odberných miestach, ktoré sú pripojené do miestnej distribučnej 
+sústavy Odberateľa za predchádzajúci kalendárny mesiac, v rovnakom rozsahu v akom je tieto údaje povinný poskytovať 
+organizátorovi krátkodobého trhu s elektrinou vo formáte XML alebo.xls (excel), najmenej však v rozsahu EIC kód a spotreba 
+na danom odbernom mieste pripojenom do miestnej distribučnej sústavy. Porušenie povinnosti podľa predchádzajúcej vety 
+sa považuje za podstatné porušenie Zmluvy. V prípade, ak sa Odberateľ počas trvania Zmluvy stane prevádzkovateľom 
+miestnej distribučnej sústavy, je povinný túto skutočnosť oznámiť Dodávateľovi bezodkladne po obdržaní všetkých povolení 
+v zmysle príslušnej legislatívy potrebných na prevádzkovanie miestnej distribučnej sústavy, najneskôr však v deň 
+predchádzajúci dňu začatia výkonu činnosti prevádzkovateľa miestnej distribučnej sústavy. V prípade porušenia ktorejkoľvek 
+povinnosti podľa tohto bodu je Dodávateľ oprávnený požadovať od Odberateľa zmluvnú pokutu vo výške 150 EUR (slovom: 
+jednostopäťdesiat eur) za každý, aj začatý deň trvania porušenia predmetnej povinnosti. 
+
+_______________________________________________ 
+1 Vyhláška MH SR č. 292/2012 Z. z., ktorou sa ustanovuje spôsob výpočtu škody spôsobenej neoprávneným odberom elektriny 
+
+7.3 
+
+7.4 
+
+7.5 
+
+7.6 
+
+7.7 
+
+7.8 
+
+Montáž, pripojenie alebo výmenu určeného meradla zabezpečí PDS po splnení stanovených osobitných podmienok pre 
+meranie elektriny. Druh, počet, veľkosť a umiestnenie určeného meradla a ovládacích zariadení určuje PDS v zmysle Zákona 
+o energetike. Úpravy na umiestnenie meradla zabezpečuje Odberateľ na vlastné náklady a v súlade s podmienkami PDS. 
+Odber elektriny sa meria určeným meradlom v zmysle Zákona o metrológii. Odberateľ je povinný bez zbytočného odkladu 
+písomne oznámiť Dodávateľovi všetky poruchy na elektromere alebo ak má pochybnosti o správnosti nameraných údajov. 
+Meranie elektriny a odpočty určeného meradla, vrátane vyhodnocovania, odovzdávania výsledkov merania a ostatných 
+informácií potrebných pre vyúčtovanie dodávky elektriny vykonáva PDS. Odpočet určeného meradla sa vykonáva v súlade 
+s Prevádzkovým poriadkom PDS. Dodávateľ fakturuje dodávku elektriny a Distribúciu elektriny na základe týchto údajov. 
+Spôsob určenia náhradných hodnôt spotreby elektriny, v prípade poruchy určeného meradla alebo mimo určeného termínu 
+odpočtu, sa riadi postupmi Prevádzkového poriadku PDS. Dodávateľ, ktorý v mene Odberateľa požiadal PDS o údaje o 
+spotrebe na jeho odbernom mieste, bude Odberateľa informovať o meraných údajoch spôsobom, v rozsahu a štruktúre 
+stanovenými všeobecne záväzným právnym predpisom. 
+Odberateľ, ktorého OM je/bude pripojené na napäťovú úroveň VN a u ktorého je odber elektriny meraný na sekundárnej 
+strane transformátora, a transformátor je jeho vlastníctvom, overí funkčnosť kompenzačného zariadenia transformátora na 
+vlastné náklady a výsledky merania oznámi Dodávateľovi podľa podmienok príslušného PDS, ktoré sú prístupné na webovom 
+sídle príslušného PDS: 
+7.6.1 
+7.6.2 
+7.6.3 
+Odberateľ v prípade neprístupnosti určeného meradla je povinný premiestniť na vlastné náklady, za podmienok určených 
+PDS, určené meradlo na verejne prístupné miesto. 
+Odberateľ berie na vedomie, že PDS je povinný písomne informovať Odberateľa o termíne plánovanej výmeny určeného 
+meradla aspoň pätnásť (15) dní vopred; to neplatí, ak Odberateľ súhlasí s neskorším oznámením termínu plánovanej výmeny 
+určeného meradla. PDS pri výmene určeného meradla je povinný informovať odberateľa elektriny o stave odobratého 
+množstva elektriny a zároveň je povinný oznámiť stav určeného meradla pred výmenou a stav nového určeného meradla po 
+výmene. Ak sa Odberateľ nezúčastní výmeny určeného meradla, je PDS povinný písomne informovať Odberateľa o výmene, 
+stave určeného meradla pred výmenou a stave nového určeného meradla po výmene a uskladniť demontované určené 
+meradlo minimálne po dobu šesťdesiat (60) dní na účel umožnenia kontroly stavu určeného meradla zo strany Odberateľa. 
+
+keď ide o nové odberné miesto najneskôr do desať (10) dní po pripojení, 
+pri výmene transformátora najneskôr do desať (10) dní po výmene, 
+ak o to Dodávateľ požiada. 
+
+Cena za dodávku elektriny a prevzatie zodpovednosti za odchýlku 
+
+8 CENA, PLATOBNÉ PODMIENKY A FAKTURÁCIA 
+8.1 
+8.1.1 Cena za dodávku elektriny a prevzatie zodpovednosti za odchýlku sú Zmluvnými stranami dohodnuté v Zmluve. Cena za 
+dodávku elektriny a prevzatie zodpovednosti za odchýlku (resp. spôsob ich určenia) platí vždy najviac na obdobie do uplynutia 
+príslušného kalendárneho roka na ktorý sa vzťahuje. Cena za dodávku elektriny na Predĺžené obdobie trvania Zmluvy sa určí 
+postupom podľa bodu 8.1.2 VOP a Prílohy č. 6 Zmluvy. Tým nie sú dotknuté ustanovenia o zmene ceny z dôvodov uvedených 
+v Zmluve v priebehu kalendárneho roku dodávky. 
+
+8.1.2 Dodávateľ každoročne, najneskôr tridsať (30) dní pred skončením kalendárneho roka trvania Zmluvy zašle Odberateľovi e-
+mailom na e-mailovú adresu určenú v Prílohe č. 3 Zmluvy Návrh novej ceny pre Predĺžené obdobie trvania Zmluvy; pre 
+vylúčenie akýchkoľvek pochybností, Návrh novej ceny nemusí byť Dodávateľom podpísaný. Odberateľ je povinný najneskôr 
+do troch (3) pracovných dní odo dňa doručenia Návrhu novej ceny tento Návrh novej ceny písomne akceptovať podpísaním 
+
+Slovenské elektrárne – energetické služby, s.r.o. – sídlo: Pribinova 40 - 811 09 Bratislava - mestská časť Ružinov – Slovenská republika – IČO: 
+44553412 - Obchodný register Mestského súdu Mestský súd Bratislava III – Oddiel: Sro – Vložka číslo: 56534/B 
+
+ELE_RETAIL_FIX_R_ver102022 
+ELE_RET02FKT 
+Číslo zmluvy dodávateľa: ZDR-2025-A-09335-000 
+
+akceptácie Návrhu novej ceny elektronicky - kvalifikovaným elektronickým podpisom s platnou časovou pečaťou alebo 
+opatreným inými znakmi vyžadovanými za účelom použiteľnosti elektronického originálu dokumentu na právne úkony 
+v zmysle príslušných všeobecne záväzných právnych predpisov alebo ako scan podpísaný štatutárnym orgánom alebo 
+osobou oprávnenou konať v mene Odberateľa alebo Dodávateľovi oznámiť, že Návrh novej ceny odmieta. Dodávateľ je 
+Návrhom novej ceny viazaný len do uplynutia lehoty podľa predchádzajúcej vety alebo do jeho odmietnutia Odberateľom. 
+V prípade, ak Odberateľ Návrh novej ceny výslovne neodmietne, alebo sa v lehote podľa predchádzajúcej vety nevyjadrí 
+(alebo návrh odmietne až po lehote podľa predchádzajúcej vety), má sa za to, že s cenovými podmienkami uvedenými v 
+Návrhu novej ceny pre ďalšie Predĺžené obdobie trvania Zmluvy súhlasí. V prípade, ak zo strany Odberateľa došlo 
+k akceptácii Návrhu novej ceny postupom podľa tohto bodu Zmluvy alebo ak sa Návrh novej ceny považuje za akceptovaný, 
+pre Predĺžené obdobie trvania Zmluvy sa na dodávku elektriny Odberateľovi automaticky uplatní cena, resp. spôsob jej 
+určenia uvedené v Návrhu novej ceny, pričom pre tieto účely nie je potrebné vyhotoviť osobitný dodatok k Zmluve. 
+Cena za Distribúciu elektriny a súvisiace služby 
+
+8.2 
+8.2.1 Dodávateľ účtuje Odberateľovi ceny za služby spojené s Distribúciou elektriny v zmysle cenníka PDS alebo iným účastníkom 
+trhu alebo akékoľvek iné poplatky, odvody alebo platby v súlade s platnými cenovými rozhodnutiami ÚRSO a príslušnými 
+všeobecne záväznými právnymi predpismi (vrátane všeobecne záväzných predpisov v oblasti daní). 
+
+8.2.2 Dodávateľ účtuje Odberateľovi ostatné služby súvisiace s Distribúciou elektriny podľa platného cenníka služieb distribúcie 
+
+príslušného PDS. 
+
+8.2.3 Cenové rozhodnutia ÚRSO a cenník služieb distribúcie PDS sú uverejnené a uverejňované na webovom sídle príslušného 
+
+PDS a ÚRSO. 
+
+8.2.4 Ak dôjde k zmene regulovaných cien na základe zmeny cenového rozhodnutia ÚRSO počas zmluvného obdobia, Dodávateľ 
+je oprávnený účtovať Odberateľovi ceny v súlade s podmienkami príslušného nového cenového rozhodnutia ÚRSO. 
+8.2.5 Dodávateľ je oprávnený v prípade zmeny cenníka služieb distribúcie príslušného PDS upraviť fakturovanie ceny Odberateľovi 
+
+za tieto služby v súlade so zmenou tohto cenníka. 
+Iné poplatky 
+
+8.3 
+8.3.1 Dodávateľ je oprávnený účtovať Odberateľovi cenu za ďalšie administratívne služby a výkony, ktoré nie sú zahrnuté v cene 
+za Združenú dodávku elektriny, ale súvisia s dodávkou elektriny alebo Distribúciou elektriny, a ktoré si Odberateľ objednal, 
+alebo ich svojím konaním, nekonaním alebo omeškaním voči Dodávateľovi vyvolal, a to podľa cenníka služieb Dodávateľa, t. 
+j. cenník služieb a výkonov Dodávateľa v súvislosti so Združenou dodávkou elektriny, ktorého aktuálne znenie je uverejnené 
+na webovom sídle Dodávateľa www.energetickesluzby.sk (ďalej ako „Cenník služieb Dodávateľa“). V cene za dodávku 
+elektriny nie je zahrnutý napr. poplatok za systémové a administratívne úkony za správu jedného OM vo výške určenej 
+v Cenníku služieb Dodávateľa. Dodávateľ je oprávnený počas trvania Zmluvy Cenník služieb Dodávateľa meniť. Zmenu 
+Cenníka služieb Dodávateľa oznamuje Dodávateľ na svojom webovom sídle www.energetickesluzby.sk. Dodávateľ informuje 
+Odberateľa o zmene Cenníka Dodávateľa aj oznámením odoslaným na emailovú adresu Odberateľa. 
+Ceny uvedené v cenových rozhodnutiach ÚRSO neobsahujú DPH, spotrebnú daň ani iné dane a poplatky akéhokoľvek 
+charakteru; k cenám sa pri fakturácii pripočítava DPH, poplatky alebo iné podobné peňažné platby v zmysle príslušných 
+právnych predpisov. 
+Platobné podmienky a fakturácia 
+
+8.5 
+8.5.1 OM s priebehovým meraním (OM s mesačným odpočtovým cyklom) 
+
+8.4 
+
+8.5.1.1 Odberateľ je povinný uhrádzať Dodávateľovi za Združenú dodávku elektriny zálohové platby na základe 
+Dodávateľom vystaveného zálohového kalendára pre príslušný mesiac, ktorý vychádza z predpokladaného 
+množstva dodávky a Distribúcie elektriny v kalendárnom mesiaci podľa Ročného diagramu odberu. 
+
+8.5.1.2 V prípade, ak Odberateľ uhrádza Dodávateľovi podľa Zmluvy namiesto zálohových platieb paušálne platby, 
+Odberateľ sa zaväzuje uhrádzať tieto paušálne platby za dodávku elektriny pre príslušné zúčtovacie obdobie 
+(kalendárny mesiac dodávky) mesačne vopred, t. j. pred začiatkom príslušného mesiaca dodávky, za ktorý sa 
+platba hradí, a to na základe Dodávateľom vystaveného harmonogramu paušálnych platieb, ktorý vychádza 
+z predpokladaného množstva dodávky a Distribúcie elektriny v kalendárnom mesiaci podľa Ročného diagramu 
+odberu. 
+
+8.5.1.3 Dodávateľ je oprávnený jednostranne určiť, oznámiť a fakturovať zvýšenú zálohu alebo paušálnu platbu v prípade, 
+ak skutočný odber Odberateľa v prechádzajúcom mesiaci dodávky je najmenej o 10 % vyšší ako dohodnuté 
+množstvo elektriny, na základe ktorého sa určila pôvodná výška zálohy alebo paušálnej platby alebo v prípade, ak 
+v predchádzajúcom kalendárnom mesiaci došlo k zvýšeniu priemernej ceny elektriny na krátkodobom trhu (KT) 
+v porovnaní s Referenčnou cenou dohodnutou pre príslušné obdobie dodávky o viac ako 10 %. Zálohová platba 
+a paušálna platba môžu byť zvýšené pomerne berúc do úvahy (i) výšku pôvodnej dohodnutej zálohovej platby alebo 
+paušálnej platby a množstvo elektriny, vo vzťahu ku ktorému bola určená spotreba elektriny v predchádzajúcom 
+mesiaci dodávky, resp. (ii) v prípade, ak je dôvodom zvýšenia zálohy alebo paušálnej platby zvýšenie ceny elektriny 
+na krátkodobom trhu, tak záloha a paušálna platba môžu byť pomerne zvýšené vychádzajúc z rozdielu medzi 
+Referenčnou cenou a priemernou výškou ceny elektriny na krátkodobom trhu v predchádzajúcom kalendárnom 
+mesiaci. Povinnosť Odberateľa uhrádzať zvýšenú zálohu alebo zvýšenú paušálnu platbu je účinná od prvého dňa 
+mesiaca nasledujúceho po doručení písomného oznámenia Dodávateľa o zmene výšky zálohy alebo paušálnej 
+platby až do ďalšej zmeny, pričom Dodávateľ je oprávnený doručiť toto oznámenie Odberateľovi samostatne alebo 
+spolu s vyúčtovacou faktúrou. Odberateľ sa zaväzuje uhradiť prvú zvýšenú záloh, resp. zvýšenú paušálnu platbu 
+(resp. rozdiel medzi pôvodnou výškou zálohovej platby/paušálnej platby a zvýšenou zálohovou platbou/paušálnou 
+platbou) v termíne splatnosti vyúčtovacej faktúry alebo v termíne splatnosti uvedenom v oznámení o zmene výšky 
+zálohovej platby alebo paušálnej platby a každú ďalšiu zvýšenú zálohu/paušálnu platbu v dohodnutom termíne 
+splatnosti. Takto zvýšená výška zálohovej platby/paušálnej platby sa považuje za dohodnutú výšku zálohovej 
+platby/paušálnej platby. Dodávateľ je oprávnený zvýšiť výšku zálohovej platby/paušálnej platby aj opakovane. 
+
+8.5.1.4 Zmluvné strany sa dohodli, že Dodávateľ je oprávnený jednostranne znížiť výšku zálohovej platby/paušálnej platby 
+v prípade, ak skutočná spotreba Odberateľa za predchádzajúci kalendárny mesiac dodávky je najmenej o 10 % 
+nižšia ako dohodnuté množstvo elektriny, na základe ktorého sa určila pôvodná výška zálohovej platby/paušálnej 
+platby alebo v prípade, ak v predchádzajúcom kalendárnom mesiaci došlo k poklesu priemernej jednotkovej ceny 
+elektriny na krátkodobom trhu v porovnaní s Referenčnou cenou dohodnutou pre príslušné obdobie dodávky 
+v predchádzajúcom kalendárnom mesiaci o viac ako 10%. Zálohová platba/ paušálna platba môže byť znížená 
+pomerne berúc do úvahy (i) výšku pôvodnej dohodnutej zálohovej platby/paušálnej platby a množstvo elektriny, vo 
+vzťahu ku ktorému bola určená spotreba elektriny, v predchádzajúcom mesiaci dodávky, resp. (ii) v prípade, ak je 
+dôvodom možného zníženia zálohovej platby/paušálnej platby zníženie priemernej ceny elektriny na krátkodobom 
+
+Slovenské elektrárne – energetické služby, s.r.o. – sídlo: Pribinova 40 - 811 09 Bratislava - mestská časť Ružinov – Slovenská republika – IČO: 
+44553412 - Obchodný register Mestského súdu Mestský súd Bratislava III – Oddiel: Sro – Vložka číslo: 56534/B 
+
+ELE_RETAIL_FIX_R_ver102022 
+ELE_RET02FKT 
+Číslo zmluvy dodávateľa: ZDR-2025-A-09335-000 
+
+trhu, tak zálohová platba/paušálna platba môže byť pomerne znížená vychádzajúc z pôvodnej výšky 
+zálohovej/paušálnej platby platnej pred znížením a rozdielu medzi Referenčnou cenou pre príslušné obdobie 
+a priemernou cenou elektriny na krátkodobom trhu v predchádzajúcom kalendárnom mesiaci. Proces zníženia 
+výšky zálohovej platby/paušálnej platby sa primerane riadi ustanovením bodu 8.5.1.3 týchto VOP. 
+
+8.5.1.5 Ak je Odberateľ podľa Zmluvy povinný uhrádzať Dodávateľovi zálohové platby, Dodávateľ vystaví vyúčtovacie 
+faktúry na úhradu ceny za skutočnú dodávku a Distribúciu elektriny spätne za príslušný kalendárny mesiac na 
+základe odpočtu meradla. Ostatné poplatky v zmysle Cenníka služieb Dodávateľa za príslušný kalendárny mesiac 
+budú taktiež zúčtované vo vyúčtovacej faktúre za dodávku a Distribúciu elektriny. Vyúčtovaciu faktúru za dodávku 
+a Distribúciu elektriny za dodávku v príslušnom zúčtovacom období, s vyúčtovaním uhradenej zálohovej platby 
+vystaví Dodávateľ v zmysle príslušných všeobecne záväzných právnych predpisov so splatnosťou najneskôr do 
+štrnástich (14) dní odo dňa vystavenia vyúčtovacej faktúry, ak nie je v Zmluve dohodnutá iná lehota splatnosti 
+vyúčtovacej faktúry. 
+
+8.5.1.6 Ak je Odberateľ povinný namiesto úhrady zálohových platieb uhrádzať Dodávateľovi paušálne platby, Dodávateľ 
+doúčtuje rozdiel v cene medzi cenou určenou podľa Zmluvy za skutočnú dodávku a distribúciu elektriny spätne a 
+paušálnou platbou vo vyúčtovacej faktúre, za príslušný kalendárny mesiac na základe odpočtu meradla. Ostatné 
+poplatky v zmysle Cenníka služieb Dodávateľa za príslušný kalendárny mesiac budú taktiež zúčtované vo 
+vyúčtovacej faktúre za dodávku a Distribúciu elektriny. Vyúčtovaciu faktúru za dodávku a distribúciu elektriny za 
+dodávku v príslušnom kalendárnom mesiaci, s vyúčtovaním uhradenej paušálnej platby vystaví Dodávateľ v zmysle 
+príslušných všeobecne záväzných právnych predpisov so splatnosťou najneskôr do štrnástich (14) dní odo dňa 
+vystavenia vyúčtovacej faktúry, ak nie je v Zmluve dohodnutá iná lehota splatnosti vyúčtovacej faktúry. 
+
+8.5.2 OM s nepriebehovým meraním (OM s iným ako mesačným odpočtovým cyklom) 
+
+8.5.2.1 Pre OM s nepriebehovým meraním sa mesačné paušálne platby za opakovanú dodávku a distribúciu elektriny 
+stanovia so zohľadnením histórie spotreby Odberateľa poskytnutej PDS, za predchádzajúci odpočtový cyklus 
+a plánovanej spotreby v príslušnom zúčtovacom období, pokiaľ sa Zmluvné strany nedohodnú inak. Odberateľ sa 
+zaväzuje uhradiť mesačné paušálne platby na základe Dodávateľom vystaveného harmonogramu paušálnych 
+platieb. 
+
+8.5.2.2 Dodávateľ je oprávnený jednostranne určiť, oznámiť a fakturovať Odberateľovi zvýšenie paušálnych platieb 
+platných pre zúčtovacie obdobie v prípade, ak v ktoromkoľvek kalendárnom mesiaci dodávky dôjde v porovnaní 
+s Referenčnou cenou dohodnutou pre príslušné obdobie dodávky k zvýšeniu priemernej ceny elektriny na 
+krátkodobom trhu (KT) o viac ako 10 %. Paušálne platby môžu byť zvýšené pomerne pre celé zúčtovacie obdobie, 
+berúc do úvahy rozdiel medzi pôvodnou výškou Referenčnej ceny a priemernou výškou ceny elektriny na 
+krátkodobom trhu v predchádzajúcom kalendárnom mesiaci pred zvýšením a predpokladanú spotrebu Odberateľa. 
+Povinnosť Odberateľa uhrádzať zvýšené paušálne platby je účinná od prvého dňa mesiaca nasledujúceho po 
+doručení písomného oznámenia o zmene výšky paušálnych platieb, ktorého prílohou bude nový harmonogram 
+paušálnych platieb. Odberateľ sa zaväzuje uhradiť prvú zvýšenú paušálnu platbu (resp. rozdiel medzi pôvodnou 
+výškou paušálnej platby a zvýšenou paušálnou platbou) v termíne splatnosti uvedenom v oznámení o zmene výšky 
+paušálnych platieb, resp. novom harmonograme paušálnych platieb. Takto zvýšené paušálne platby sa považujú 
+za dohodnutú výšku paušálnych platieb. Dodávateľ je oprávnený zvýšiť výšku paušálnych platieb a vystaviť 
+Odberateľovi nový harmonogram paušálnych platieb v priebehu zúčtovacieho obdobia aj opakovane. 
+
+8.5.2.3 Zmluvné strany sa dohodli, že Dodávateľ je oprávnený jednostranne znížiť výšku paušálnych platieb v prípade, ak 
+v ktoromkoľvek kalendárnom mesiaci dodávky dôjde v porovnaní s Referenčnou cenou dohodnutou pre príslušné 
+obdobie dodávky k zníženiu priemernej ceny elektriny na krátkodobom trhu (KT) o viac ako 10 %. Paušálne platby 
+môžu byť znížené pomerne pre celé zostávajúce zúčtovacie obdobie, berúc do úvahy rozdiel medzi pôvodnou 
+výškou Ceny A a priemernou výškou ceny elektriny na krátkodobom trhu v predchádzajúcom kalendárnom mesiaci 
+pred znížením a predpokladanú spotrebu Odberateľa. Proces zníženia výšky paušálnych platieb sa primerane riadi 
+ustanovením bodu 8.5.2.2 týchto VOP. 
+
+8.5.2.4 Zúčtovacie obdobie je kalendárny rok alebo iné časové obdobie stanovené Prevádzkovým poriadkom PDS. 
+V prípade ak dôjde zo strany PDS k odpočtu mimo určeného času, zúčtovacím obdobím sa v takom prípade myslí 
+obdobie od posledného odpočtu do vykonania tohto nadštandardného – mimoriadneho odpočtu, resp. obdobie, pre 
+ktoré PDS vystaví po odpočte určeného meradla vyúčtovaciu faktúru. Dodávateľ sa zaväzuje v súlade s odpočtom 
+meradla OM s nepriebehovým meraním vystaviť vyúčtovaciu faktúru v zmysle príslušných všeobecne záväzných 
+právnych predpisov za príslušné zúčtovacie obdobie. Ostatné poplatky v zmysle Cenníka služieb Dodávateľa za 
+príslušný kalendárny rok budú taktiež zúčtované vo vyúčtovacej faktúre. 
+
+8.5.2.5 Splatnosť vyúčtovacej faktúry bude do štrnásť (14) dní odo dňa vystavenia vyúčtovacej faktúry, ak nie je v Zmluve 
+
+dohodnuté inak. 
+
+8.5.2.6 V prípade ak zúčtovacie obdobie stanovené Prevádzkovým poriadkom PDS bude dlhšie ako kalendárny rok, je 
+Dodávateľ oprávnený vystaviť predbežnú vyúčtovaciu faktúru s odhadovanou ročnou spotrebou Odberateľa za 
+obdobie kalendárneho roka, a to v súlade s príslušnými všeobecne záväznými právnymi predpismi, so splatnosťou 
+do štrnásteho (14) dňa od vystavenia faktúry, ak nie je v Zmluve dohodnuté inak. Úhrada mesačných paušálnych 
+platieb nie je dotknutá. Po uskutočnení odpočtu meradla OM za celé zúčtovacie obdobie, vystaví Dodávateľ 
+záverečnú vyúčtovaciu faktúru so zohľadnením úhrad mesačných paušálnych platieb a úhrady vyššie uvedeného 
+predbežného ročného vyúčtovania. 
+
+8.5.3 V prípade preplatku z vyúčtovacej faktúry Dodávateľ vráti príslušnú čiastku na účet Odberateľa najneskôr do štrnásteho (14) 
+dňa od vystavenia faktúry alebo je oprávnený preplatok (aj nesplatný) započítať s akýmikoľvek (aj nesplatnými) pohľadávkami 
+Dodávateľa voči Odberateľovi; ustanovenie § 359 Obchodného zákonníka sa na započítanie podľa tohto bodu nepoužije. 
+Toto ustanovenie zostáva v platnosti aj po zániku Zmluvy a zánik Zmluvy naň nemá vplyv. 
+
+8.5.4 Dodávateľ bude zasielať faktúry podľa Zmluvy Odberateľovi elektronicky. Odberateľ podpisom Zmluvy vyjadruje súhlas so 
+zasielaním faktúr v elektronickej forme. Odberateľ zároveň potvrdzuje, že má neobmedzený prístup k emailovej adrese (t. j. 
+k adrese elektronickej pošty), ktorá je uvedená v Prílohe č. 3 Zmluvy a túto emailovú adresu bude používať pre zasielanie 
+faktúr v elektronickej forme. Odberateľ sa zaväzuje bezodkladne informovať Dodávateľa o akýchkoľvek zmenách emailovej 
+adresy určenej na zasielanie faktúr v elektronickej forme. Odberateľ vyhlasuje, že bol Dodávateľom poučený o práve odvolať 
+súhlas, a to prostredníctvom písomného oznámenia doručeného Dodávateľovi. Odberateľ berie na vedomie, že Dodávateľ 
+nezodpovedá Odberateľovi za prípadnú škodu spôsobenú technickými problémami (napr. nekvalitné pripojenie na internet, 
+strata pripojenia na internet a pod.) pri doručovaní faktúr v elektronickej forme. Dodávateľ vyhlasuje, že faktúry v elektronickej 
+forme zasielané Odberateľovi budú daňovým dokladom podľa Zákona o DPH a zaväzuje sa doručovať faktúry v elektronickej 
+
+Slovenské elektrárne – energetické služby, s.r.o. – sídlo: Pribinova 40 - 811 09 Bratislava - mestská časť Ružinov – Slovenská republika – IČO: 
+44553412 - Obchodný register Mestského súdu Mestský súd Bratislava III – Oddiel: Sro – Vložka číslo: 56534/B 
+
+ELE_RETAIL_FIX_R_ver102022 
+ELE_RET02FKT 
+Číslo zmluvy dodávateľa: ZDR-2025-A-09335-000 
+
+forme Odberateľovi výlučne na emailovú adresu, ktorá je uvedená v Prílohe č. 3 Zmluvy, príp. na zmenenú adresu písomne 
+oznámenú Odberateľom Dodávateľovi spôsobom podľa článku 10 týchto VOP. Ak Odberateľ odvolá súhlas na zasielanie 
+faktúr v elektronickej forme alebo ak bude požadovať popri doručovaní faktúr v elektronickej forme aj doručovanie faktúr 
+v listinnej forme, doručenie faktúry Odberateľovi v listinnej forme bude spoplatnené podľa príslušnej položky/sadzby Cenníka 
+služieb Dodávateľa. Za rozhodujúci deň pre doručenie faktúry Odberateľovi sa považuje deň doručenia faktúry elektronicky. 
+8.5.5 V prípade omeškania Odberateľa s úhradou zálohovej platby alebo paušálnej platby, vyúčtovacej faktúry za dodávku elektriny 
+a Distribúciu elektriny alebo inej faktúry vystavenej na základe Zmluvy a týchto VOP je Dodávateľ oprávnený, po márnom 
+uplynutí lehoty na dodatočnú úhradu uvedenú v písomnej výzve (upomienke) Odberateľovi, požiadať PDS o prerušenie 
+dodávky elektriny a Distribúcie elektriny do OM. Omeškanie s úhradou zálohovej platby alebo paušálnej platby, vyúčtovacej 
+faktúry alebo akejkoľvek inej faktúry vystavenej na základe Zmluvy a týchto VOP sa považujú za podstatné porušenie Zmluvy. 
+Pred opätovným pripojením je Odberateľ povinný uhradiť Dodávateľovi dlžnú čiastku a za prerušenie a opätovné pripojenie 
+uhradiť Dodávateľovi náklady a poplatky spojené s prerušením a opätovným pripojením. 
+
+8.5.6 Každá faktúra musí byť vystavená v zmysle platných právnych predpisov a obsahovať všetky zákonom predpísané náležitosti 
+daňového dokladu a náležitosti faktúry v zmysle zákona o energetike. Faktúry sa vystavujú spoločne za dodávku elektriny a 
+Distribúciu elektriny. 
+
+8.5.7 Za deň splnenia akéhokoľvek peňažného záväzku podľa Zmluvy a týchto VOP sa považuje deň pripísania dlžnej sumy 
+v prospech účtu Zmluvnej strany. Pri nedodržaní lehoty splatnosti akéhokoľvek peňažného záväzku Odberateľa, má 
+Dodávateľ právo požadovať zmluvnú pokutu vo výške 0,05% denne za každý, aj začatý deň omeškania. Dodávateľ upozorní 
+Odberateľa na omeškanie s úhradou záväzku odoslaním upomienky (výzvy). 
+
+8.5.8 Odberateľ sa zaväzuje, že v prípade, ak požiada Dodávateľa o ukončenie trvania Zmluvy pre OM z dôvodu skrátenia doby 
+
+trvania dodávky s následným prepisom OM na nového odberateľa, Odberateľ uhradí: 
+8.5.8.1 
+
+všetky splatné a neuhradené záväzky voči Dodávateľovi a z vystavených faktúr za predchádzajúce ukončené 
+zúčtovacie obdobia. V prípade posledného zúčtovacieho obdobia Dodávateľ môže vystaviť faktúru s kratšou 
+splatnosťou ako je dohodnutá v predchádzajúcich odsekoch tohto článku, 
+zálohovú platbu a/alebo paušálnu platbu vo výške 100% predpokladaného odberu, z ktorého boli vypočítané 
+pôvodné platby, a to za zúčtovacie obdobie, v ktorom bude prepis zrealizovaný. V prípade, že Odberateľ nemal 
+vopred stanovený predpis zálohových platieb/ harmonogram paušálnych platieb, bude výška zálohovej 
+platby/paušálnej platby vypočítaná na základe spotreby Odberateľa v predchádzajúcom zúčtovacom období; 
+
+8.5.8.2 
+
+a to najneskôr tri (3) pracovné dni pred dňom, v ktorom bude zaslaná požiadavka Dodávateľa na prepis odberateľa v OM. 
+
+8.5.9 Dodávateľ zašle na základe žiadosti Odberateľa na ukončenie Zmluvy pre konkrétne OM Odberateľovi informáciu o všetkých 
+vyššie špecifikovaných záväzkoch v lehote desiatich (10) pracovných dní. Dodávateľ má právo nezrealizovať prepis 
+odberateľa na dotknutom OM k požadovanému dátumu zo strany Odberateľa v prípade, ak nebudú splnené vyššie uvedené 
+podmienky alebo iné podmienky v zmysle Zmluvy. Dodávateľ sa zaväzuje po zrealizovaní prepisu a doručení fakturačných 
+podkladov za príslušné obdobie vystaviť vyúčtovaciu faktúru za príslušnú časť neúplného zúčtovacieho obdobia a vysporiadať 
+prípadné záväzky Dodávateľa voči Odberateľovi bez zbytočného odkladu. Týmto ustanovením nie je dotknuté právo 
+Dodávateľa a povinnosť Odberateľa na vzájomné vysporiadanie záväzkov a pohľadávok, ktoré vzniknú v súvislosti 
+s doručením opravných fakturačných podkladov od PDS a OKTE v budúcnosti. 
+Zabezpečenie 
+
+8.6 
+8.6.1 Dodávateľ je oprávnený požadovať od Odberateľa Zabezpečenie plnenia záväzkov Odberateľa vyplývajúcich zo Zmluvy 
+
+a týchto VOP, ak Dodávateľ identifikuje existenciu alebo riziko ktorejkoľvek z nasledujúcich skutočností: 
+(i) 
+
+(ii) 
+
+(iii) 
+
+(iv) 
+
+(v) 
+
+(vi) 
+
+(vii) 
+
+(viii) 
+
+(ix) 
+
+(x) 
+
+(xi) 
+
+hodnota vlastného imania Odberateľa je podľa poslednej zverejnenej riadnej individuálnej účtovnej závierky alebo 
+mimoriadnej účtovnej závierky Odberateľa menšia ako 0 (nula), 
+zaťaženie majetku Odberateľa v prospech tretích osôb presahuje hodnotu 50 % súčtu hodnoty dlhodobého 
+hmotného majetku a pohľadávok Odberateľa zistených podľa poslednej zverejnenej riadnej účtovnej závierky alebo 
+mimoriadnej účtovnej závierky Odberateľa, 
+Odberateľ je evidovaný na ktoromkoľvek zo zoznamov dlžníkov vedených Sociálnou poisťovňou, jednotlivými 
+zdravotnými poisťovňami alebo Finančným riaditeľstvom Slovenskej republiky, v centrálnom registri exekúcií 
+vedenom Slovenskou komorou exekútorov alebo v akomkoľvek inom verejne dostupnom zozname alebo registri 
+dlžníkov, ak takáto evidencia dlhu Odberateľa v jednom alebo kumulatívne vo viacerých takýchto registroch a/alebo 
+zoznamoch presahuje sumu 5.000,- EUR alebo 1% hodnoty celkových aktív Odberateľa zistených podľa poslednej 
+zverejnenej riadnej účtovnej závierky alebo mimoriadnej účtovnej závierky Odberateľa, 
+Odberateľovi bola za obdobie od uzatvorenia Zmluvy samostatne jedným rozhodnutím alebo kumulatívne viacerými 
+rozhodnutiami súdu právoplatne uložená povinnosť zaplatiť sumu prevyšujúcu 5.000,- EUR alebo sumu 
+prevyšujúcu 1% hodnoty celkových aktív Odberateľa zistených podľa poslednej zverejnenej riadnej účtovnej 
+závierky alebo mimoriadnej účtovnej závierky Odberateľa, 
+majetok Odberateľa bol v predchádzajúcich dvanástich (12) mesiacoch pred uzavretím Zmluvy predmetom 
+konkurzného alebo reštrukturalizačného konania, 
+voči Odberateľovi bola v predchádzajúcich dvanástich (12) mesiacoch pred uzavretím Zmluvy skončená 
+reštrukturalizácia alebo zanikla dočasná ochrana v zmysle zákona č. 111/2022 Z. z. o riešení hroziaceho úpadku 
+a o zmene a doplnení niektorých zákonov, 
+Odberateľ porušil platobné podmienky dohodnuté v Zmluve alebo akejkoľvek inej zmluve uzatvorenej medzi 
+Dodávateľom a Odberateľom tým spôsobom, že Odberateľ sa opakovane (t. j. viac ako raz) v priebehu trvania 
+Zmluvy dostal do omeškania s úhradou faktúry alebo akéhokoľvek záväzku podľa Zmluvy alebo týchto VOP o viac 
+ako päť (5) dní, 
+odber Odberateľa za uplynulé dva (2) mesiace je najmenej o 10% vyšší ako plánovaný odber podľa Ročného 
+diagramu odberu, 
+na majetok Odberateľa bol podaný návrh na vyhlásenie konkurzu, bol návrh na vyhlásenie konkurzu zamietnutý 
+pre nedostatok majetku, začalo sa reštrukturalizačné konanie, začala sa likvidácia Odberateľa, začalo sa proti 
+Odberateľovi exekučné konanie alebo je platobne neschopný alebo predĺžený, 
+voči Odberateľovi bolo začaté niektoré z preventívnych konaní podľa zákona č. 111/2022 Z. z. o riešení hroziaceho 
+úpadku a o zmene a doplnení niektorých zákonov, 
+Odberateľ je personálne prepojený s dlžníkom Dodávateľa, a to tak, že v orgánoch dlžníka Dodávateľa a orgánoch 
+Odberateľa sa nachádza aspoň jedna spoločná fyzická osoba alebo sa v orgánoch Odberateľa nachádza aspoň 
+jedna osoba v postavení blízkych osôb ku ktorémukoľvek z členov orgánov dlžníka Dodávateľa, pričom dlh takéhoto 
+
+Slovenské elektrárne – energetické služby, s.r.o. – sídlo: Pribinova 40 - 811 09 Bratislava - mestská časť Ružinov – Slovenská republika – IČO: 
+44553412 - Obchodný register Mestského súdu Mestský súd Bratislava III – Oddiel: Sro – Vložka číslo: 56534/B 
+
+ELE_RETAIL_FIX_R_ver102022 
+ELE_RET02FKT 
+Číslo zmluvy dodávateľa: ZDR-2025-A-09335-000 
+
+(xii) 
+
+dlžníka voči Dodávateľovi je vyšší ako 5.000,- EUR alebo 1% celkových aktív zistených podľa poslednej zverejnenej 
+riadnej účtovnej závierky alebo mimoriadnej účtovnej závierky dlžníka Dodávateľa, alebo 
+Odberateľ bol podľa poslednej zostavenej riadnej individuálnej účtovnej závierky alebo mimoriadnej účtovnej 
+závierky spoločnosťou v kríze v zmysle jej definície uvedenej v Obchodnom zákonníku a Odberateľ na výzvu 
+Dodávateľa dostatočne nepreukázal, že dôvody na krízu Odberateľa už pominuli. 
+
+8.6.2 Za primerané Zabezpečenie záväzkov Odberateľa sa považuje: 
+
+a) 
+
+b) 
+
+zloženie finančnej zábezpeky v prospech bankového účtu Dodávateľa uvedeného v záhlaví Zmluvy vo výške 3-násobku 
+súčinu priemernej ceny elektriny krátkodobom trhu s elektrinou (KT) v kalendárnom mesiaci bezprostredne 
+predchádzajúcom doručeniu výzvy Dodávateľa podľa bodu 8.6.3 a dohodnutého množstva elektriny, ktoré sa Odberateľ 
+zaviazal od Dodávateľa podľa Ročného diagramu odberu v kalendárnom mesiaci, v ktorom mu Dodávateľ doručí výzvu 
+podľa bodu 8.6.3 týchto VOP odobrať, pričom v prípade OM s nepriebehovým meraním sa výška Zabezpečenia vo 
+vzťahu k týmto OM určí ako 3-násobok súčinu priemernej ceny elektriny krátkodobom trhu s elektrinou (KT) 
+v kalendárnom mesiaci bezprostredne predchádzajúcom doručeniu výzvy Dodávateľa podľa bodu 8.6.3 a 1/12 
+celkového množstva elektriny, ktoré sa Odberateľ zaviazal od Dodávateľa podľa Ročného diagramu odberu 
+v kalendárnom roku dodávky odobrať, a ak sa Zmluva uzaviera v priebehu kalendárneho roku alebo na obdobie kratšie 
+ako je kalendárny rok, tak sa výška Zábezpeky vo vzťahu k OM s nepriebehovým meraním určí ako 3-násobok súčinu 
+priemernej ceny elektriny krátkodobom trhu s elektrinou (KT) v kalendárnom mesiaci bezprostredne predchádzajúcom 
+doručeniu výzvy Dodávateľa podľa bodu 8.6.3 a celkového množstva elektriny, ktoré sa Odberateľ zaviazal od 
+Dodávateľa podľa Ročného diagramu odberu v období najviac uplynulých troch (3) mesiacov pred doručením výzvy 
+Dodávateľa podľa bodu 8.6.3. odobrať, alebo 
+zabezpečenie formou bankovej záruky zriadenej v prospech Dodávateľa vo finančnej inštitúcii s bankovou licenciou 
+v Slovenskej republike vo výške 3-násobku súčinu priemernej ceny elektriny na krátkodobom trhu s elektrinou (KT) 
+v kalendárnom mesiaci bezprostredne predchádzajúcom doručeniu výzvy Dodávateľa podľa bodu 8.6.3 a dohodnutého 
+množstva elektriny, ktoré sa Odberateľ zaviazal od Dodávateľa podľa Ročného diagramu odberu, v kalendárnom 
+mesiaci, v ktorom mu Dodávateľ doručí výzvu podľa bodu 8.6.3 týchto VOP odobrať, pričom v prípade OM 
+s nepriebehovým meraním sa výška Zabezpečenia vo vzťahu k týmto OM určí ako 3-násobok súčinu priemernej ceny 
+elektriny na krátkodobom trhu s elektrinou (KT) v kalendárnom mesiaci bezprostredne predchádzajúcom doručeniu 
+výzvy Dodávateľa podľa bodu 8.6.3 a 1/12 celkového množstva elektriny, ktoré sa Odberateľ zaviazal od Dodávateľa 
+podľa Ročného diagramu odberu v kalendárnom roku dodávky odobrať, a ak sa Zmluva uzaviera v priebehu 
+kalendárneho roku alebo na obdobie kratšie ako je kalendárny rok, tak sa výška Zábezpeky vo vzťahu k OM 
+s nepriebehovým meraním určí ako 3-násobok súčinu priemernej ceny elektriny na krátkodobom trhu s elektrinou (KT) 
+v kalendárnom mesiaci bezprostredne predchádzajúcom doručeniu výzvy Dodávateľa podľa bodu 8.6.3 a celkového 
+množstva elektriny, ktoré sa Odberateľ zaviazal od Dodávateľa podľa Ročného diagramu odberu v období najviac 
+uplynulých troch (3) mesiacov pred doručením výzvy Dodávateľa podľa bodu 8.6.3 odobrať; 
+
+Ak Dodávateľ s Odberateľom dohodol v Zmluve viac Ročných diagramov odberu, vzťahujúcich sa na rôzne OM, Dodávateľ 
+je oprávnený požadovať Zabezpečenie určené podľa písm. a) a b) podľa tohto bodu VOP vo vzťahu ku každému z nich alebo 
+súhrnne, podľa uváženia Dodávateľa. 
+Ceny jednotlivých obchodných hodín na krátkodobom trhu sú zverejňované na stránke www.okte.sk v sekcii krátkodobý trh. 
+8.6.3 Odberateľ je povinný poskytnúť Zabezpečenie najneskôr do siedmich (7) dní odo dňa doručenia písomnej výzvy Dodávateľa 
+na vykonanie Zabezpečenia. Odberateľ sa zaväzuje zabezpečiť, aby Zabezpečenie bolo počas celej doby, po ktorú sa podľa 
+Zabezpečenie vyžaduje minimálne vo výške určenej podľa bodu 8.6.2 týchto VOP. Porušenie povinnosti poskytnúť 
+Zabezpečenie v lehote siedmich (7) dní odo dňa doručenia písomnej výzvy Dodávateľa sa považuje za podstatné porušenie 
+Zmluvy. 
+
+8.6.4 Dodávateľ je oprávnený Zabezpečenie použiť na uspokojenie akýchkoľvek svojich pohľadávok, ktoré má voči Odberateľovi. 
+Použitie Zabezpečenia je Dodávateľ povinný písomne oznámiť Odberateľovi s uvedením výšky a dôvodu jeho použitia. 
+Použitie Zabezpečenia Dodávateľom nepodlieha predchádzajúcemu súhlasu Odberateľa na jeho použitie. Ustanovenie tohto 
+bodu zostáva v platnosti aj po zániku Zmluvy. 
+
+8.6.5 Odberateľ postupuje právo na úroky zo zloženého Zabezpečenia Dodávateľovi. Dodávateľ takto nadobudne vlastnícke právo 
+
+k úrokom momentom, kedy ich banka pripíše v prospech bankového účtu Dodávateľa. 
+
+8.6.6 Vždy, keď bude Zabezpečenie alebo jeho časť použitá na uspokojenie nároku Dodávateľa voči Odberateľovi, Odberateľ je 
+povinný doplniť Zabezpečenie do pôvodnej výšky podľa tohto bodu, najneskôr v lehote siedmich (7) dní odo dňa, kedy mu 
+bolo doručené oznámenie o použití Zabezpečenia alebo jeho časti Dodávateľom. Porušenie povinnosti doplniť Zabezpečenie 
+do pôvodnej výšky v lehote siedmich (7) dní odo dňa doručenia oznámenia Dodávateľa o použití Zabezpečenia alebo jeho 
+časti sa považuje za podstatné porušenie Zmluvy. 
+
+8.6.7 V prípade, že Odberateľ nedoplní Zabezpečenie riadne a včas, Dodávateľovi vzniká právo uplatniť voči Odberateľovi zmluvnú 
+pokutu vo výške 0,05 % denne zo sumy, o ktorú je Odberateľ povinný doplniť Zabezpečenie do pôvodnej výšky. Dodávateľ 
+je oprávnený uspokojiť svoj nárok na zmluvnú pokutu zo Zabezpečenia. 
+
+8.6.8 V prípade, ak dôjde k zániku Zmluvy, Dodávateľ vráti Odberateľovi Zabezpečenie, resp. jeho zostatok do šesťdesiatich (60) 
+
+dní odo dňa zániku Zmluvy. Ustanovenie tohto bodu zostáva v platnosti aj po zániku Zmluvy. 
+
+9 REKLAMÁCIE 
+9.1 
+
+9.2 
+
+Ak nie je v tomto článku uvedené inak, dôvody, spôsob uplatnenia reklamácie, náležitosti reklamácie a postup pri vybavovaní 
+reklamácií sú uvedené v Reklamačnom poriadku Dodávateľa zverejnenom na webovom sídle Dodávateľa 
+www.energetickesluzby.sk. 
+Ak sa stane chyba alebo omyl pri fakturácii, majú Zmluvné strany nárok na vzájomné vyrovnanie rozdielu. Ak Odberateľ zistí 
+chybu vo faktúre, bez zbytočného odkladu zašle Dodávateľovi písomnú žiadosť o overenie správnosti vyúčtovania úhrady 
+s uvedením reklamovaných skutočností a dôvodov, pre ktoré považuje reklamáciu za dôvodnú a priložením podkladov 
+potrebných pre prešetrenie reklamácie a skutočností uvádzaných Odberateľom. V prípade, ak nebude mať reklamácia 
+náležitosti podľa predchádzajúcej vety, Dodávateľ ju bude považovať za neoprávnenú a nebude sa ňou zaoberať. Dodávateľ 
+overí správnosť vyúčtovania úhrady za dodanú elektrinu (dodávku elektriny) a Distribúciu elektriny a v prípade 
+opodstatnenosti reklamácie odstráni zistené nedostatky vo vyúčtovaní vystavením opravnej faktúry bez zbytočného odkladu. 
+Ak chybu zapríčiní Dodávateľ, bezodkladne vyhotoví opravnú faktúru. Pokiaľ si prešetrenie reklamácie vyžaduje súčinnosť 
+tretej strany, môže Dodávateľ primerane predĺžiť lehotu na vybavenie reklamácie. Reklamácia nemá odkladný účinok na 
+úhradu faktúry. 
+
+Slovenské elektrárne – energetické služby, s.r.o. – sídlo: Pribinova 40 - 811 09 Bratislava - mestská časť Ružinov – Slovenská republika – IČO: 
+44553412 - Obchodný register Mestského súdu Mestský súd Bratislava III – Oddiel: Sro – Vložka číslo: 56534/B 
+
+ELE_RETAIL_FIX_R_ver102022 
+ELE_RET02FKT 
+Číslo zmluvy dodávateľa: ZDR-2025-A-09335-000 
+
+9.3 
+
+9.4 
+
+Reklamácia technických podmienok dodávky a správnosti meraných údajov sa riadia Prevádzkovým poriadkom PDS. 
+Reklamáciu uplatňuje Odberateľ písomnou formou u Dodávateľa. 
+Uplatnenie reklamácie nezbavuje Odberateľa povinnosti uhradiť v určenej lehote vyúčtovanie za dodávku elektriny 
+a Distribúciu elektriny. 
+
+10 KOMUNIKÁCIA 
+10.1 
+
+Zmluvné strany v Prílohe č. 3 Zmluvy určia oprávnené osoby pre jednotlivé oblasti komunikácie. V prípade, ak Odberateľ 
+požaduje pre účely vzájomnej komunikácie od Dodávateľa, aby Dodávateľ zasielal e-mailové správy v rámci vzájomnej 
+komunikácie Zmluvných strán súčasne na viac ako päť (5) e-mailových adries Odberateľa, Dodávateľ je oprávnený za každú 
+ďalšiu e-mailovú adresu, vyúčtovať Odberateľovi administratívny poplatok vo výške uvedenej v Cenníku služieb Dodávateľa. 
+10.2 Akékoľvek zmeny v rozsahu oprávnených osôb sú Zmluvné strany povinné bez meškania oznámiť druhej Zmluvnej strane 
+zaslaním všetkých potrebných údajov o nových oprávnených osobách v písomnej podobe, a to niektorým zo spôsobov 
+uvedených v bode 10.5 tohto článku VOP. Zmena nadobúda účinnosť doručením písomného oznámenia druhej Zmluvnej 
+strane, ak nebude v písomnom oznámení uvedený iný časovo neskorší dátum nadobudnutia účinnosti zmeny, pričom pre 
+tieto účely nie je potrebné vyhotoviť dodatok k Zmluve. Rovnakým spôsobom, bez potreby dodatku k Zmluve môžu Zmluvné 
+strany zmeniť aj bankové údaje Zmluvných strán uvedené v záhlaví Zmluvy. 
+
+10.3 Odberateľ je povinný v písomnej podobe niektorým zo spôsobov uvedených v bode 10.5 tohto článku VOP oznámiť 
+Dodávateľovi zmenu obchodného mena, sídla, zmenu IČO, DIČ, právnej formy, štatutárnych orgánov, adresy pre poštový 
+styk a čísla účtu, ako aj informáciu že sa Odberateľ zlučuje s inou spoločnosťou, že dochádza u Odberateľa k splynutiu alebo 
+rozdeleniu alebo k predaju podniku alebo časti podniku Odberateľa, a to najneskôr päť (5) dní pred dňom zmeny, resp. 
+zlúčenia, splynutia alebo rozdelenia alebo predaja podniku alebo jeho časti, s uvedením dňa nadobudnutia účinnosti zmeny, 
+zlúčenia, splynutia, rozdelenia alebo predaja podniku resp. jeho časti. V prípade zmien údajov podľa tohto bodu nie je 
+potrebné vyhotovovať osobitný dodatok k Zmluve. V prípade porušenia povinnosti Odberateľa podľa tohto bodu VOP je 
+Dodávateľ oprávnený požadovať od Odberateľa zmluvnú pokutu vo výške 30,- EUR (slovom: tridsať eur) denne, a to za každý, 
+aj začatý deň omeškania. 
+
+10.4 K rokovaniu o dodávkach elektriny a cenových podmienkach sú oprávnené výlučne určené osoby Odberateľa a Dodávateľa, 
+
+ktorí sú vrátane rozsahu svojho oprávnenia, uvedené v Prílohe č. 3 Zmluvy. 
+
+10.5 Pokiaľ nie je v Zmluve alebo v iných ustanoveniach týchto VOP uvedené inak, akékoľvek oznámenia, žiadosti, výzvy, 
+reklamácie, diagramy dodávok a fakturácie Zmluvné strany uskutočnia písomne. Písomné oznámenia, žiadosti, výzvy, 
+reklamácie, diagramy dodávok a fakturácie sa budú považovať za riadne doručené, ak ich Zmluvná strana doručí oprávnenej 
+osobe druhej Zmluvnej strany určenej pre jednotlivé oblasti komunikácie niektorým z nasledovných spôsobov: 
+10.5.1 
+
+osobným doručením Zmluvnej strane, ktorá je adresátom, na jej adresu uvedenú v záhlaví Zmluvy alebo na inú 
+adresu písomne oznámenú Zmluvnej strane, 
+zaslaním poštou alebo kuriérskou službou Zmluvnej strane, ktorá je adresátom na jej adresu uvedenú v záhlaví 
+Zmluvy alebo na inú adresu písomne oznámenú Zmluvnej strane, alebo 
+elektronicky doručením e-mailovej správy s prílohou naskenovaného oznámenia, žiadosti, výzvy, reklamácie, 
+faktúry podpísaného oprávnenou osobou Zmluvnej strany, diagramu v dohodnutom elektronickom formáte alebo 
+s prílohou elektronického originálu dokumentu podpísaného kvalifikovaným elektronickým podpisom oprávnenej 
+osoby s platnou časovou pečaťou, a to na e-mailovú adresu určenú prijímajúcou Zmluvnou stranou pre príslušnú 
+oblasť komunikácie podľa Prílohy č. 3 Zmluvy alebo v prípade zmeny osôb oprávnených na komunikáciu na e-
+mailovú adresu uvedenú v písomnom oznámení prijímajúcej Zmluvnej strany preukázateľne doručenom 
+odosielajúcej Zmluvnej strane. 
+
+10.6 Ak neexistuje dôkaz o skoršom doručení, akékoľvek písomné oznámenie, žiadosti, výzvy, reklamácie, diagramy dodávok 
+
+a fakturácie ktoré je potrebné podľa Zmluvy doručiť druhej Zmluvnej strane budú považované za doručené 
+10.6.1 
+
+v prípade doručovania podľa bodu 10.5.1 (t.j. osobne) oproti písomnému potvrdeniu jeho prevzatia, a to dňom 
+takéhoto doručenia, alebo 
+prípade doručovania podľa bodu 10.5.2 Zmluvy (t.j. poštou alebo kuriérskou službou): 
+10.6.2.1 (i) dňom doručenia, ak bol doručený na adresu sídla druhej Zmluvnej strany zapísanej v obchodnom 
+registri, a ak bola zmenená, na adresu uvedenú v písomnom oznámení o zmene tejto adresy 
+preukázateľne doručenom druhej Zmluvnej strane, alebo (ii) na siedmy (7) deň po uložení zásielky na 
+pošte, a to aj v prípade ak sa adresát o doručení nedozvedel, podľa toho, čo nastane skôr; a 
+10.6.2.2 ak sa odosielajúcej Zmluvnej strane odosielaná zásielka vrátila ako nedoručiteľná (aj v prípade 
+odmietnutia prevzatia), a to aj napriek skutočnosti, že bola doručovaná na adresu sídla zapísanú 
+v obchodnom registri, a ak bola zmenená, na adresu uvedenú v písomnom oznámení o zmene tejto 
+adresy preukázateľne doručenom druhej Zmluvnej strane, a to dňom vrátenia nedoručenej zásielky 
+odosielajúcej Zmluvnej strane, aj keď sa adresát o doručovaní nedozvedel; 
+
+10.5.2 
+
+10.5.3 
+
+10.6.2 
+
+10.6.3 
+
+v prípade doručovania podľa bodu 10.5.3 (t. j. e-mailom) sa za deň doručenia v prípade, ak bola správa odoslaná 
+do 15:00 hod. pracovného dňa považuje deň odoslania správy, a v prípade, ak bola správa odoslaná po 15:00 
+hod., alebo v sobotu, v nedeľu, v štátny sviatok alebo v deň pracovného pokoja najbližší nasledujúci pracovný 
+deň po dni odoslania správy. 
+
+10.7 
+
+10.8 
+
+Zmluvné strany sa dohodli, že písomnosti majúce za následok zánik Zmluvy môžu byť ostatným Zmluvným stranám 
+doručované výlučne v listinnej forme (osobne alebo poštou alebo kuriérskou službou) spôsobom podľa bodu 10.5.1 alebo 
+10.5.2 alebo elektronicky (e-mailom), avšak výlučne vo forme elektronického originálu dokumentu podpísaného 
+kvalifikovaným elektronickým podpisom s platným certifikátom podpisu a časovou pečiatkou alebo 
+inými znakmi 
+vyžadovanými za účelom použiteľnosti elektronického originálu dokumentu na právne úkony v zmysle príslušných všeobecne 
+záväzných právnych predpisov. 
+Zmluvné strany sú povinné navzájom si potvrdzovať prevzatie osobne doručených písomností. Odmietnutie poskytnutia 
+potvrdenia o prevzatí má účinky odmietnutie prevzatia zásielky adresátom. 
+
+11 VYŠŠIA MOC 
+11.1 
+
+Zmluvné strany sú zbavené zodpovednosti za čiastočné alebo úplné neplnenie povinnosti vyplývajúcich zo Zmluvy, a to v 
+prípadoch, keď toto neplnenie bolo výsledkom OVZ. OVZ môžu byť najmä živelné pohromy, vojna, sabotáž, teroristické akcie, 
+blokáda, požiar, štrajk, epidémia a iné obdobné okolnosti. Rovnaké právne následky môže mať zmena všeobecne záväzných 
+právnych predpisov, pokiaľ zásadným spôsobom ovplyvní plynulé pokračovanie právnych vzťahov, založených Zmluvou 
+a týmito VOP a nebude existovať ekonomicky únosná alternatíva. 
+
+Slovenské elektrárne – energetické služby, s.r.o. – sídlo: Pribinova 40 - 811 09 Bratislava - mestská časť Ružinov – Slovenská republika – IČO: 
+44553412 - Obchodný register Mestského súdu Mestský súd Bratislava III – Oddiel: Sro – Vložka číslo: 56534/B 
+
+11.2 
+
+Zmluvná strana dotknutá OVZ je povinná o týchto okolnostiach bezodkladne písomne informovať druhú Zmluvnú stranu 
+a vyzvať ju k rokovaniu. Na požiadanie predloží Zmluvná strana, odvolávajúca sa na OVZ druhej Zmluvnej strane 
+dôveryhodný dôkaz o takejto skutočnosti. 
+
+11.3 Pokiaľ sa Zmluvné strany nedohodnú inak, pokračujú po vzniku OVZ v plnení svojich záväzkov podľa Zmluvy a VOP, pokiaľ 
+je to rozumne možné a budú hľadať iné alternatívne prostriedky pre plnenie Zmluvy a VOP, ktorým nebránia OVZ. 
+
+ELE_RETAIL_FIX_R_ver102022 
+ELE_RET02FKT 
+Číslo zmluvy dodávateľa: ZDR-2025-A-09335-000 
+
+12.2 
+
+12 PREDCHÁDZANIE ŠKODÁM, NÁHRADA ŠKODY 
+12.1 Dodávateľ a Odberateľ venujú zvýšenú pozornosť predchádzaniu škodám, a to najmä všeobecnej prevencii vzniku škôd. 
+Zmluvná strana, je povinná písomne oznámiť druhej Zmluvnej strane povahu prekážky, ktorá jej bráni alebo bude brániť 
+v plnení povinností vyplývajúcich zo Zmluvy a týchto VOP, a dôsledky prekážky. Prekážka musí byť druhej Zmluvnej strane 
+oznámená bez zbytočného odkladu po tom, kedy sa povinná strana o prekážke dozvedela, alebo sa pri náležitej starostlivosti 
+mohla dozvedieť. 
+Zmluvné strany sú oprávnené požadovať náhradu škody im spôsobenú porušením povinností druhou Zmluvnou stranou. 
+Zmluvné strany budú pri uplatňovaní nárokov na náhradu škody postupovať v súlade s príslušnými ustanoveniami 
+Obchodného zákonníka. Zmluvná strana, ktorej vznikla škoda z dôvodu porušenia povinnosti druhou Zmluvnou stranou je 
+povinná písomne oznámiť túto skutočnosť druhej Zmluvnej strane bez zbytočného odkladu po tom, čo sa o vzniku škody 
+dozvedela a preukázať dôvody vzniku a výšku uplatňovanej škody. V záujme zmierneho vyriešenia veci je druhá Zmluvná 
+strana po doručení písomného oznámenia a riadneho preukázania dôvodu vzniku a výšky škody, oprávnená v termíne do 
+desiatich (10) dní zaslať písomné vyjadrenie k predloženým dôvodom a výške uplatňovanej škody. Ak sa Zmluvné strany do 
+uplynutia tridsiatich (30) dní odo dňa doručenia písomného vyjadrenia (reakcie) druhej Zmluvnej strany nedohodnú na 
+zmiernom vyriešení veci, je ktorákoľvek Zmluvná strana oprávnená uplatňovať svoje nároky súdnou cestou; tým nie sú 
+dotknuté iné ustanovenia, s výnimkou ustanovenia bodu 13.1.1, pred ktorým má ustanovenie tohto bodu prednosť. 
+12.3 Celková náhrada škody, ktorú by bol Dodávateľ povinný Odberateľovi uhradiť v dôsledku porušenia povinnosti Dodávateľa 
+podľa Zmluvy a týchto VOP nepresiahne sumu v EUR, ktorá sa určí ako päťnásobok podielu aritmetického priemeru hodnôt 
+ročných množstiev elektriny podľa príslušného Ročného diagramu odberu/Ročných diagramov odberu, ktoré sa Odberateľ 
+zaviazal od Dodávateľa odobrať v príslušnom kalendárnom roku v MWh, v ktorom došlo k porušeniu povinnosti Dodávateľa. 
+Uvedená maximálna náhrada škody podľa tohto bodu VOP predstavuje zároveň predvídateľnú škodu, ktorá môže 
+Odberateľovi vzniknúť v dôsledku porušenia povinností Dodávateľa podľa tejto Zmluvy. 
+Za porušenie povinnosti Dodávateľa pri dodávke a Distribúcii elektriny sa nepovažujú nasledovné prípady, ktoré sú zároveň 
+spojené s vylúčením nároku Odberateľa na náhradu škody: 
+12.4.1 
+
+12.4 
+
+obmedzenia alebo prerušenia Distribúcie elektriny z dôvodov uvedených v podmienkach PDS a v § 31 ods. 1 
+písm. e) Zákona o energetike, v Zmluve a týchto VOP, s výnimkou ak škoda bola spôsobená zavinením PDS (v 
+takom prípade za škodu zodpovedá PDS), 
+obmedzenia alebo prerušenia dodávky a Distribúcie elektriny pri akomkoľvek neoprávnenom odbere elektriny 
+podľa obchodných podmienok PDS, ktoré sú súčasťou Prevádzkového poriadku PDS a § 46 Zákona 
+o energetike, 
+znemožnenia dodávky a Distribúcie elektriny z dôvodu porušenia povinnosti Odberateľa podľa bodu 3.8 a 6.12 
+Zmluvy alebo z iných dôvodov na strane Odberateľa, 
+nedodania elektriny, ktoré vzniklo pri zabezpečovaní povinností vo všeobecnom hospodárskom záujme v zmysle 
+ustanovení § 24 Zákona o energetike alebo pri stavoch núdze podľa § 20 Zákona o energetike. 
+
+12.4.2 
+
+12.4.3 
+
+12.4.4 
+
+13 RIEŠENIE SPOROV, REŽIM SPOTREBNEJ DANE A ZELENÁ ELEKTRINA 
+13.1 Riešenie sporov 
+13.1.1 Zmluvné strany sa zaväzujú prijať všetky dostupné opatrenia pre konkrétne riešenie akýchkoľvek nezhôd a sporov, ktoré 
+môžu vzniknúť z plnenia Zmluvy, jej ponímania alebo v súvislosti s ňou. Rozpory, ktoré by mohli vzniknúť v dôsledku neplnenia 
+Zmluvy sa zaväzujú Zmluvné strany vyriešiť prednostne vzájomnou dohodu na úrovni štatutárnych zástupcov oboch 
+Zmluvných strán. V prípade, že nedôjde k zmieru, bude predmetný spor predložený na rozhodnutie príslušnému súdu. 
+
+13.1.2 Odberateľ, ktorý je koncovým odberateľom elektriny je oprávnený predložiť ÚRSO na mimosúdne riešenie spor s 
+Dodávateľom v súlade s ustanovením § 37 Zákona o regulácii, ak sa ohľadom predmetu sporu uskutočnilo reklamačné 
+konanie a Odberateľ nesúhlasí s výsledkom reklamácie alebo so spôsobom jej vybavenia; možnosť obrátiť sa na súd tým nie 
+je dotknutá. 
+
+13.2 Režim spotrebnej dane a zelená elektrina 
+13.2.1 Ak je Odberateľ (i) registrovaným oprávneným spotrebiteľom elektriny podľa ustanovenia § 8 ods. 1 Zákona o spotrebnej dani 
+(ďalej ako „registrovaný oprávnený spotrebiteľ“) a / alebo (ii) držiteľom povolenia na odber elektriny oslobodenej od dane 
+v zmysle ustanovenia § 8 ods. 2 Zákona o spotrebnej dani (ďalej len „povolenie na oslobodenú elektrinu“) a / alebo (iii) 
+registrovaným platiteľom dane z elektriny v zmysle ustanovenia § 10 a 11 Zákona o spotrebnej dani (ďalej ako „registrovaný 
+platiteľ elektriny“), je Odberateľ povinný úradne osvedčenú kópiu dokladu preukazujúceho 
+(i) 
+(ii) 
+
+registráciu oprávneného spotrebiteľa (t. j. osvedčenie o registrácii oprávneného spotrebiteľa elektriny), 
+skutočnosť, že Odberateľ je držiteľom povolenia na oslobodenú elektrinu (t. j. povolenia na oslobodenú elektrinu), 
+alebo 
+skutočnosť, že Odberateľ je platiteľom dane z elektriny (t. j. osvedčenie o registrácii platiteľa dane z elektriny) 
+
+(iii) 
+(ďalej spolu ako „doklad preukazujúci režim spotrebnej dane“) odovzdať Dodávateľovi najneskôr päť (5) pracovných dní 
+pred prvým odberom elektriny. Dodávateľ elektriny dodá elektrinu oslobodenú od dane alebo elektrinu bez spotrebnej dane 
+až po predložení dokladu preukazujúceho režim spotrebnej dane (t.j., že Odberateľ je registrovaný oprávnený spotrebiteľ, a 
+/ alebo držiteľ povolenia na oslobodenú elektrinu alebo registrovaný platiteľ elektriny). V prípade nepredloženia dokladu 
+preukazujúceho režim spotrebnej dane podľa toho bodu Dodávateľ účtuje spotrebnú daň z elektriny štandardným režimom, 
+t. j. na všetku dodanú elektrinu sa vzťahuje spotrebná daň z elektriny. V prípade porušenia povinností Odberateľa v zmysle 
+tohto bodu Odberateľ zodpovedá Dodávateľovi za všetky a akékoľvek škody spôsobené porušením týchto povinností vrátane 
+sankcií zo strany príslušných colných alebo správnych orgánov. 
+
+13.2.2 Odberateľ, ktorému bol doklad preukazujúci režim spotrebnej dane doplnený, zmenený, odňatý alebo ktorému bol vydaný 
+nový alebo iný doklad preukazujúci režim spotrebnej dane, je povinný o tejto skutočnosti informovať Dodávateľa najneskôr 
+do dvoch (2) pracovných dní odo dňa vzniku tejto skutočnosti. V prípade neinformovania o zmene vo vzťahu k dokladu 
+preukazujúceho režim spotrebnej dane alebo omeškania s informovaním zo strany Odberateľa podľa tohto bodu má 
+Dodávateľ právo uplatniť voči Odberateľovi zmluvnú pokutu vo výške 5.000 EUR (slovom: päťtisíc eur) za každý jeden prípad 
+
+Slovenské elektrárne – energetické služby, s.r.o. – sídlo: Pribinova 40 - 811 09 Bratislava - mestská časť Ružinov – Slovenská republika – IČO: 
+44553412 - Obchodný register Mestského súdu Mestský súd Bratislava III – Oddiel: Sro – Vložka číslo: 56534/B 
+
+ELE_RETAIL_FIX_R_ver102022 
+ELE_RET02FKT 
+Číslo zmluvy dodávateľa: ZDR-2025-A-09335-000 
+
+porušenia povinnosti Odberateľa v zmysle tohto bodu Zmluvy. Tým nie je dotknutý nárok Dodávateľa na náhradu škody 
+spôsobený porušením týchto povinností Odberateľa (vrátane sankcií zo strany príslušných colných alebo správnych orgánov). 
+13.2.3 Odberateľ sa zaväzuje odobrať elektrinu vyrobenú z OZE v množstve jednostranne určenom Dodávateľom (tým nie je ale 
+dotknutý záväzok Dodávateľa dodať Odberateľovi dohodnuté množstvo elektriny bez ohľadu na jej pôvod) a za podmienok 
+v zmysle Zmluvy a týchto VOP. 
+
+13.2.4 Celé množstvo elektriny alebo jej časť, ktorá bude dodaná Odberateľovi na základe Zmluvy môže byť vyrobené z OZE. Pôvod 
+elektriny dodanej Odberateľovi a vyrobenej z OZE bude preukázateľný na strane Dodávateľa minimálne takým spôsobom, 
+ktorý je nevyhnutne vyžadovaný v zmysle príslušných právnych predpisov, resp. príslušných orgánov verejnej moci, (napr. 
+zárukou pôvodu elektriny alebo potvrdením od výrobcu) pričom podrobnosti vo vzťahu k rozsahu a spôsobu poskytnutia budú 
+upravené v samostatnej dohode. 
+
+13.2.5 Elektrina dodaná koncovému odberateľovi, ktorá bude vyrobená z OZE (t. j. vo vzťahu ku ktorej bude vydaný doklad o pôvode 
+elektriny), v množstve dodanom v jednotlivom kalendárnom mesiaci, je podľa § 7 ods. 1 písm. e) Zákona o spotrebnej dani 
+oslobodená od spotrebnej dane z elektriny za súčasného splnenia ostatných zákonných podmienok v zmysle Zákona o 
+spotrebnej dani a ostatných príslušných právnych predpisov platných v Slovenskej republike. Odberateľ berie na vedomie, že 
+takto vyrobená elektrina je predmetom iných daní a poplatkov akéhokoľvek charakteru v zmysle príslušných platných 
+právnych predpisov. 
+
+13.2.6 Odberateľ berie na vedomie, že možnosť dodávky elektriny z OZE sa vzťahuje len na OM Odberateľa s priebehovým 
+
+meraním. 
+
+13.2.7 Odberateľ berie na vedomie a súhlasí, že Dodávateľ je oprávnený počas dohodnutej doby dodávky podľa Zmluvy 
+jednostranne meniť sčasti alebo v celom rozsahu dohodnutej dodávky podiel elektriny vyrobenej z OZE, ktorá bude dodaná 
+Odberateľovi z celkového dohodnutého množstva dodávky a množstva dodávky v jednotlivých kalendárnych mesiacoch pre 
+Odberateľa, najmä ale nielen z nasledovných dôvodov: 
+13.2.7.1 vzniku akýchkoľvek objektívnych skutočností, nezávislých od vôle Dodávateľa a výrobcu tejto elektriny, ktoré je 
+možné rozumne predvídať s prihliadnutím na spôsob výroby elektriny z OZE (napríklad nedostatočný prietok vody 
+pri výrobe elektriny vo vodnej elektrárni výrobcu), a ktoré znemožnia/obmedzia možnosti výroby elektriny z OZE a 
+tým jej dodávku výrobcom Dodávateľovi, 
+
+13.2.7.2 akýchkoľvek legislatívnych úprav právnych predpisov platných v čase uzatvorenia Zmluvy, ktoré zmenia podmienky 
+vystavovania záruk pôvodu elektriny vyrobených z OZE, výroby elektriny z OZE, daňového oslobodenia takto 
+vyrobenej elektriny od spotrebnej dane z elektriny a iných legislatívnych úprav, dôsledkom ktorých nastane 
+nemožnosť/obmedzenie plnenia dodávky elektriny vyrobenej z OZE na strane Dodávateľa alebo daňového 
+oslobodenia dodávky takto vyrobenej elektriny, 
+
+13.2.7.3 ak pri vyúčtovaní dodávky elektriny dôjde k rozdielu oproti pôvodne predpokladanému množstvu dodávky elektriny. 
+Dodávateľ spätne písomne oznámi Odberateľovi zmenu podielu elektriny vyrobenej z OZE dodanej Odberateľovi v príslušnom 
+kalendárnom mesiaci dodávky na celkovom množstve dodávky v danom kalendárnom mesiaci. 
+
+13.2.8 Odberateľ ďalej berie na vedomie a súhlasí s tým, že dodaná elektrina, ktorá nebude vyrobená z OZE alebo ktorej pôvod 
+nebude preukázateľný dokladom o pôvode elektriny z OZE, bude predmetom spotrebnej dane z elektriny a cena takto dodanej 
+elektriny bude zaťažená sadzbou spotrebnej dane z elektriny platnou v čase dodávky; Odberateľ sa zaväzuje cenu za dodávku 
+elektriny zaťaženej spotrebnou daňou elektriny vrátane spotrebnej dane uhradiť. 
+
+13.2.9 Ak sa počas doby trvania dodávky elektriny podľa Zmluvy, výlučne z dôvodov legislatívnych úprav právnych predpisov 
+upravujúcich spotrebnú daň z elektriny, zmenia podmienky daňového oslobodenia /daňového zaťaženia elektriny vyrobenej 
+z OZE od spotrebnej dane z elektriny v porovnaní s daňovým zaťažením takto vyrobenej elektriny v čase uzatvorenia Zmluvy, 
+zaväzujú sa Zmluvné strany bezodkladne pristúpiť k rokovaniu o určení ceny za dodávku elektriny vyrobenej z OZE a uzatvoriť 
+osobitnú dohodu o výške ceny. 
+
+13.2.10 Dodávateľ a Odberateľ upravia vzájomné práva a povinnosti vo vzťahu k dodávke elektriny vyrobenej z OZE, ak Odberateľ: 
+13.2.10.1 vyhlási (alebo vo vzťahu ku ktorému sa preukáže), že sa na neho vzťahuje špeciálny režim spotrebnej dane v 
+zmysle bodu 13.2.1 Zmluvy, (držiteľ povolenia na oslobodenú elektrinu a / alebo registrovaný platiteľ elektriny), 
+
+13.2.10.2 má záujem o dodávku elektriny vyrobenej z OZE, 
+13.2.10.3 má záujem o uskutočnenie prevodu dokladu (záruky) o pôvode elektriny vyrobenej z OZE, a súčasne 
+13.2.10.4 má uzatvorenú zmluvu o činnostiach spojených s vydávaním a použitím dokladov (záruk) pôvodu u OKTE v 
+zmysle Zákona o podpore OZE a prevádzkového poriadku OKTE, a splnil všetky podmienky Zákona o 
+podpore OZE, príslušných právnych predpisov a prevádzkového poriadku OKTE pre uskutočnenie prevodu 
+záruky pôvodu elektriny vyrobenej z OZE z Dodávateľa na Odberateľa a poskytol Dodávateľovi všetku súčinnosť 
+potrebnú pre uskutočnenie prevodu záruky pôvodu elektriny z OZE, 
+
+a to v samostatnej dohode. Uzatvorenie takejto dohody nie je zo strany Odberateľa vo vzťahu k Dodávateľovi právne 
+nárokovateľné. 
+
+14 TRVANIE ZMLUVY 
+14.1 
+
+Zmluva sa uzaviera na dobu určitú a to do 31.12. kalendárneho roka, v ktorom došlo ku Dňu začatia dodávky elektriny. Ak 
+nie je ďalej uvedené inak, trvanie Zmluvy sa automaticky predĺži o ďalších dvanásť (12) mesiacov, a to aj opakovane, ibaže 
+Zmluvná strana písomne oznámi druhej Zmluvnej strane aspoň šesťdesiat (60) dní pred uplynutím doby trvania Zmluvy, aj 
+bez uvedenia dôvodu, že nesúhlasí s predĺžením Zmluvy alebo ak v lehote podľa bodu 8.1.2 týchto VOP dôjde k odmietnutiu 
+Návrhu novej ceny za dodávku elektriny na Predĺžené obdobie trvania Zmluvy v zmysle bodu 8.1.2 týchto VOP. V prípade, 
+ak ktorákoľvek zo Zmluvných oznámi druhej Zmluvnej strane, že nesúhlasí s predĺžením Zmluvy alebo ak dôjde zo strany 
+Odberateľa k odmietnutiu Návrhu novej ceny v zmysle bodu 8.1.2 týchto VOP Zmluva zaniká uplynutím 31.12. kalendárneho 
+roka bezprostredne predchádzajúceho obdobiu, na ktoré malo dôjsť k jej predĺženiu. V prípade, ak dôjde k automatickému 
+predĺženiu trvania Zmluvy, trvanie Zmluvy sa predlžuje na Predĺžené obdobie trvania Zmluvy za rovnakých podmienok ako 
+v predchádzajúcom období, s výnimkou ceny za dodávku elektriny, ktorá sa vo vzťahu k príslušnému Predĺženému obdobiu 
+trvania Zmluvy uplatní v súlade s Návrhom novej ceny v zmysle bodu 8.1.2 týchto VOP. Tým nie je dotknuté právo Dodávateľa 
+na zmenu ceny za dodávku elektriny a zmluvných podmienok z dôvodov uvedených v Zmluve a týchto VOP v priebehu trvania 
+dodávky. 
+Zmluvné strany sú oprávnené od Zmluvy odstúpiť z dôvodov uvedených v Zmluve, týchto VOP a príslušných ustanoveniach 
+Obchodného zákonníka. 
+
+14.2 
+
+14.3 Dodávateľ je oprávnený, okrem dôvodov už uvedených v iných ustanoveniach týchto VOP odstúpiť od Zmluvy v nasledovných 
+
+prípadoch: 
+
+Slovenské elektrárne – energetické služby, s.r.o. – sídlo: Pribinova 40 - 811 09 Bratislava - mestská časť Ružinov – Slovenská republika – IČO: 
+44553412 - Obchodný register Mestského súdu Mestský súd Bratislava III – Oddiel: Sro – Vložka číslo: 56534/B 
+
+ELE_RETAIL_FIX_R_ver102022 
+ELE_RET02FKT 
+Číslo zmluvy dodávateľa: ZDR-2025-A-09335-000 
+
+14.3.1 
+
+14.3.2 
+
+14.3.3 
+
+14.3.4 
+
+14.3.5 
+14.3.6 
+
+14.3.7 
+
+14.3.8 
+14.3.9 
+
+14.3.10 
+
+14.3.11 
+
+14.3.12 
+
+14.3.13 
+14.3.14 
+14.3.15 
+14.3.16 
+
+14.3.17 
+14.3.18 
+
+neuhradenie akýchkoľvek peňažných nárokov Dodávateľa, ktoré vznikli v súvislosti so Zmluvou v lehote ich 
+splatnosti, a to ani do desať (10) dní od doručenia písomnej výzvy Dodávateľa na nápravu a úhradu, 
+ak sa Odberateľ viac ako dva (2) krát v priebehu kalendárneho roka dostane do omeškania s úhradou zálohovej 
+platby alebo paušálnej platby alebo vyúčtovacej faktúry, pričom Dodávateľ je v takomto prípade oprávnený od 
+Zmluvy odstúpiť aj bez poskytnutia dodatočnej lehoty na zjednanie nápravy v zmysle bodu 14.3.1 týchto VOP, 
+neposkytnutie Zabezpečenia v lehote podľa bodu 8.6.3 alebo nedoplnenie Zabezpečenia v lehote podľa bodu 
+8.6.6 týchto VOP, 
+opakované (t. j. viac ako 1 krát) porušenie povinnosti Odberateľa spresniť hodnoty dohodnutého množstva odberu 
+elektriny podľa Ročného diagramu odberu na základe Spresneného diagramu alebo na výzvu Dodávateľa 
+v akomkoľvek období počas trvania Zmluvy, 
+neoprávnený odber elektriny v zmysle Zmluvy, Prevádzkového poriadku PDS a Zákona o energetike na OM, 
+zmarenie začatia dodávky a Distribúcie elektriny podľa Zmluvy Odberateľom, z dôvodu porušenia povinnosti 
+podľa bodu 3.8 alebo bodu 6.14 alebo bodu 6.15 VOP, 
+porušenie Notifikačných povinností, ak nedôjde k zjednaniu nápravy ani do piatich (5) dní odo dňa doručenia 
+písomnej výzvy Dodávateľa na nápravu, alebo 
+akékoľvek opakované (t. j. viac ako 1 krát) porušenie Notifikačných povinnosti v priebehu kalendárneho štvrťroka, 
+v prípade, ak je skutočný odber Odberateľa v ktoromkoľvek kalendárnom mesiaci najmenej o 10% vyšší ako jeho 
+plánovaný odber pripadajúci na príslušný kalendárny mesiac podľa platného Ročného diagramu odberu, 
+ak Odberateľ na výzvu Dodávateľa nepreukáže Dodávateľovi, že má vlastnícke alebo iné užívacie právo 
+k nehnuteľnosti, do ktorej sa zabezpečuje dodávka a distribúcia elektriny podľa Zmluvy a/alebo ku ktorémukoľvek 
+OM uvedenému v Zmluve, 
+Odberateľ v lehote podľa bodu 7.2 týchto VOP neposkytol Dodávateľovi namerané údaje na OM za 
+predchádzajúci kalendárny mesiac minimálne v rozsahu údajov o spotrebe jednotlivých odberných miest 
+pripojených do miestnej distribučnej sústavy a EIC kódov alebo neoznámil začatie výkonu činnosti 
+prevádzkovateľa miestnej distribučnej sústavy, a nezjedná nápravu ani v dodatočnej lehote päť (5) dní od 
+doručenia písomnej výzvy Dodávateľa na nápravu, 
+ktorékoľvek z vyhlásení alebo záruk uvedených v Zmluve alebo týchto VOP Odberateľom bolo ku dňu podpisu 
+Zmluvy alebo ku dňu, ku ktorému bolo poskytnuté, nepravdivé, skreslené, nesprávne alebo neúplné alebo sa 
+počas trvania Zmluvy stane nepravdivé, nesprávne alebo neúplné, a toto porušenie nebude odstránené ani v 
+dodatočnej primeranej lehote, ktorá bola poskytnutá Odberateľovi v písomnej výzve, ktorá nesmie byť kratšia ako 
+desať (10) dní od doručenia písomnej výzvy Odberateľovi, 
+neustanovenie štatutárneho orgánu Odberateľa, 
+Odberateľ je v kríze, 
+došlo k zlúčeniu, splynutiu alebo rozdeleniu Odberateľa s inou obchodnou spoločnosťou, 
+ak sa ukáže, že vyhlásenie Odberateľa podľa bodu 6.22 týchto VOP je nepravdivé alebo ak sa stane nepravdivým 
+počas trvania Zmluvy, 
+porušenie akéhokoľvek záväzku alebo povinnosti zo strany Odberateľa uvedenom v bode 6.12 týchto VOP, 
+porušenie alebo neplnenie ostatných povinností vyplývajúcich Odberateľovi zo Zmluvy, týchto VOP, zo Zákona o 
+energetike alebo iných súvisiacich právnych predpisov, ak Odberateľ nezjedná nápravu ani v dodatočnej lehote 
+desať (10) dní od doručenia písomnej výzvy Dodávateľa na nápravu. 
+
+14.4 V prípade ak nastane skutočnosť uvedená v bode 14.3.14 alebo 14.3.15 týchto VOP, Odberateľ je povinný o tom 
+bezodkladne, najneskôr do piatich (5) dní informovať Dodávateľa spôsobom podľa bodu 10.5.1 alebo 10.5.2 Zmluvy. 
+14.5 Za podstatné porušenie povinnosti Dodávateľa podľa Zmluvy spojené s právom Odberateľa od Zmluvy odstúpiť sa považuje 
+najmä bezdôvodné obmedzenie alebo prerušenie dodávok elektriny, ktoré napriek písomnému upozorneniu Odberateľa 
+nebude odstránené do pätnástich (15) kalendárnych dní odo dňa doručenia písomnej výzvy Odberateľa. 
+
+14.6 Každá Zmluvná strana je tiež oprávnená od Zmluvy odstúpiť v prípadoch: 
+
+14.6.1 
+
+14.6.2 
+
+14.6.3 
+
+14.6.4 
+14.6.5 
+
+druhá Zmluvná strana podala na seba návrh na vyhlásenie konkurzu, pričom dotknutá Zmluvná strana je platobne 
+neschopná alebo sú tu iné okolnosti, ktoré odôvodňujú začatie konkurzného konania, 
+ak bol voči druhej Zmluvnej strane podaný oprávnený návrh na vyhlásenie konkurzu treťou stranou, pričom 
+dotknutá Zmluvná strana je platobne neschopná alebo sú tu iné okolnosti, ktoré odôvodňujú začatie konkurzného 
+konania, 
+v rozsahu nesplnených alebo čiastočne splnených záväzkov vyplývajúcich zo Zmluvy ak bol vyhlásený konkurz 
+na majetok druhej Zmluvnej strany, 
+ak bol zamietnutý návrh na vyhlásenie konkurzu voči druhej Zmluvnej strane pre nedostatok majetku alebo 
+druhá Zmluvná strana vstúpila do likvidácie. 
+
+14.7 Odstúpenie od Zmluvy musí byť vykonané písomnou formou s uvedením dôvodu odstúpenia a musí byť doručené druhej 
+Zmluvnej strane spôsobom podľa bodu 10.5.1 alebo 10.5.2 alebo elektronicky spôsobom podľa bodu 10.7 týchto VOP. 
+Odstúpením od Zmluvy sa Zmluva zrušuje od okamihu doručenia oznámenia o odstúpení druhej Zmluvnej strane, pričom 
+Zmluvné strany výslovne vyhlasujú, že odstúpením od Zmluvy nezanikajú práva na uplatnenie a úhradu prípadnej zmluvnej 
+pokuty alebo náhrady škody, ako aj iné práva a nároky vzniknuté pred zánikom Zmluvy ani práva a povinnosti Zmluvných 
+strán, o ktorých táto Zmluva alebo VOP výslovne ustanovujú, že trvajú aj po zániku Zmluvy, ani tie práva a povinnosti, ktoré 
+podľa prejavenej vôle Zmluvných strán alebo vzhľadom na svoju povahu majú trvať aj po zániku Zmluvy. 
+
+14.8 V prípade predčasného zániku Zmluvy z dôvodu na strane Odberateľa je Dodávateľ oprávnený uplatniť voči Odberateľovi 
+poplatok za každú neodobratú jednu MWh elektriny z dohodnutého celkového množstva elektriny poplatok, ktorého výška sa 
+určí spôsobom uvedeným v Zmluve. Uplatnením poplatku podľa tohto bodu Zmluvy nie je dotknutý nárok Dodávateľa na 
+náhradu škody vzniknutej Dodávateľovi v dôsledku predčasného zániku Zmluvy z dôvodov na strane Odberateľa. Právo na 
+uplatnenie poplatku Dodávateľom podľa tohto bodu Zmluvy sa však nevzťahuje na prípady predčasného skončenia Zmluvy 
+z dôvodov podľa bodu 14.3.14 až 14.3.16 a podľa bodu 14.6 týchto VOP. 
+
+14.9 V prípade zániku Zmluvy Dodávateľ oprávnený ukončiť dodávku elektriny a Distribúciu elektriny do OM Odberateľa ku dňu 
+zániku Zmluvy. Odberateľ berie na vedomie, že ku dňu zániku Zmluvy dochádza aj k ukončeniu režimu prevzatia 
+zodpovednosti za odchýlku podľa Zmluvy vo vzťahu k OM. 
+
+14.10 Bez ohľadu na spôsob zániku Zmluvy, Odberateľ sa zaväzuje uhradiť Dodávateľovi cenu a ostatné súvisiace platby za 
+Združenú dodávku elektriny odo dňa ukončenia Zmluvy do faktického ukončenia Združenej dodávky elektriny Dodávateľom 
+vo výške určenej podľa Zmluvy, bez ohľadu na to, že ide o elektrinu odobratú po zániku Zmluvy, ak nie je v bode 14.12 
+uvedené inak. Za účelom splnenia povinnosti Odberateľa uhradiť Dodávateľovi cenu za Združenú dodávku elektriny 
+
+Slovenské elektrárne – energetické služby, s.r.o. – sídlo: Pribinova 40 - 811 09 Bratislava - mestská časť Ružinov – Slovenská republika – IČO: 
+44553412 - Obchodný register Mestského súdu Mestský súd Bratislava III – Oddiel: Sro – Vložka číslo: 56534/B 
+
+ELE_RETAIL_FIX_R_ver102022 
+ELE_RET02FKT 
+Číslo zmluvy dodávateľa: ZDR-2025-A-09335-000 
+
+a súvisiace platby v čase od ukončenia Zmluvy do faktického skončenia dodávky elektriny je Dodávateľ oprávnený vystaviť 
+Odberateľovi faktúru podľa podmienok dohodnutých v Zmluve a týchto VOP. 
+
+14.11 V prípade, ak dôjde k zániku Zmluvy z dôvodu odmietnutia Návrhu novej ceny zo strany Odberateľa v zmysle bodu 8.1.2 
+týchto VOP alebo z dôvodu podľa bodu 4.1.3 týchto VOP a zo strany Odberateľa následne dôjde v období od 1.1. 
+nasledujúceho kalendárneho roka k odberu elektriny od Dodávateľa, Odberateľ sa zaväzuje uhradiť Dodávateľovi za odber 
+elektriny v období od 01.01.,00.00 hod do faktického vyradenia OM Odberateľa z bilančnej skupiny Dodávateľa cenu za 
+dodávku elektriny vo výške uvedenej v Návrhu novej ceny, bez ohľadu na to, že ide o elektrinu odobratú po zániku Zmluvy 
+a bez ohľadu na to, či zo strany Odberateľa došlo k odmietnutiu Návrhu novej ceny. Pre vylúčenie akýchkoľvek pochybností 
+odber elektriny Odberateľom v zmysle tohto bodu Zmluvy sa nepovažuje za predĺženie trvania Zmluvy na ďalšie obdobie, ale 
+za osobitnú dohodu Zmluvných strán vo vzťahu k vysporiadaniu nároku Dodávateľa na úhradu ceny za dodávku elektriny v 
+období do faktického ukončenia Združenej dodávky elektriny Dodávateľom do OM Odberateľa. Za účelom splnenia povinnosti 
+Odberateľa uhradiť Dodávateľovi cenu za Združenú dodávku elektriny a súvisiace platby v čase od ukončenia Zmluvy do 
+faktického skončenia dodávky elektriny je Dodávateľ oprávnený vystaviť Odberateľovi faktúru podľa podmienok dohodnutých 
+v Zmluve a týchto VOP. 
+
+15 MLČANLIVOSŤ 
+15.1 Dodávateľ a Odberateľ sú povinní zachovávať mlčanlivosť o všetkých skutočnostiach, informáciách a údajoch týkajúcich sa 
+Zmluvy alebo Zmluvných strán, ktoré Zmluvné strany získali alebo sa dozvedeli akýmkoľvek spôsobom a súvisia s uzavretím 
+a plnením Zmluvy, vrátane informácií, ktoré sa dostali do ich dispozície pred uzavretím Zmluvy, ak nejde preukázateľne o 
+verejne dostupné informácie (Dôverné informácie). Zmluvné strany sa zaväzujú Dôverné informácie používať výlučne na 
+účely plnenia Zmluvy, neposkytnúť a nesprístupniť Dôverné informácie tretím osobám, ak nie je nižšie uvedené inak, a prijať 
+všetky potrebné opatrenia na ochranu a zabezpečenie Dôverných informácií pred ich zverejnením alebo poskytnutím tretej 
+osobe. Toto ustanovenie sa nebude vzťahovať na poskytnutie informácií v prípade: 
+15.1.1 
+
+ak to bude potrebné pre plnenie jej povinností a/alebo pre výkon práv Zmluvnej strany alebo zo záväzkového 
+vzťahu vzniknutého v súvislosti so Zmluvou a zverejnenie a sprístupnenie Dôverných informácií tretím osobám 
+bude vyžadované platnými právnymi predpismi Slovenskej republiky alebo pôjde o ich sprístupnenie orgánom 
+verejnej moci v súvislosti s plnením povinností vyplývajúcich zo všeobecne záväzných právnych predpisov 
+uložených orgánmi verejnej moci, 
+ak na to bude Zmluvná strana povinná podľa všeobecne záväzného právneho predpisu alebo podľa 
+vykonateľného rozhodnutia, opatrenia, príkazu alebo výzvy príslušného orgánu verejnej moci, 
+ak to bude potrebné v súdnych, rozhodcovských, správnych a iných obdobných konaniach, 
+ak treťou osobou bude právny zástupca, audítor, daňový poradca alebo iný poradca alebo subdodávateľ Zmluvnej 
+strany, ktorý zároveň vo vzťahu k poskytnutým alebo sprístupneným informáciám bude mať zákonom alebo 
+zmluvou uloženú povinnosť zachovávania mlčanlivosti v obdobnom rozsahu ako je uvedený v tomto článku VOP, 
+ak treťou osobou bude osoba, ktorá má vo vzťahu k Dodávateľovi postavenie ovládanej alebo ovládajúcej osoby 
+podľa § 66 a 66a Obchodného zákonníka, ktorá zároveň vo vzťahu k poskytnutým alebo sprístupneným 
+informáciám bude mať zákonom alebo zmluvou uloženú povinnosť zachovávania mlčanlivosti v obdobnom 
+rozsahu ako je uvedený v tomto článku, 
+v prípade podľa bodu 15.3 týchto VOP. 
+
+15.1.2 
+
+15.1.3 
+15.1.4 
+
+15.1.5 
+
+15.1.6 
+
+15.2 Obsah Zmluvy je taktiež dôverný v zmysle § 271 Obchodného zákonníka a tvorí spolu s Dôvernými informáciami predmet 
+obchodného tajomstva podľa § 17 Obchodného zákonníka. Obe Zmluvné strany a ich zástupcovia sú povinní obsah Zmluvy 
+vrátane jej príloh (s výnimkou VOP, ktoré sú verejne dostupné) uchovávať v tajnosti a s výnimkou situácií opísaných 
+v Obchodnom zákonníku alebo stanovených všeobecne záväznými právnymi predpismi nesmú obsah Zmluvy a príloh 
+sprístupniť žiadnej tretej osobe bez predchádzajúceho písomného súhlasu druhej Zmluvnej strany. Povinnosť zachovávať 
+dôvernosť o obsahu Zmluvy voči tretím osobám sa nevzťahuje na poskytovanie týchto informácií: 
+15.2.1 
+
+osobám uvedeným v bode 15.1 týchto VOP, zamestnancom, spoločníkom alebo akcionárom Zmluvných strán v 
+rozsahu, ktorý je nevyhnutne potrebný pre výkon ich práce alebo práv, za predpokladu, že je zákonom alebo 
+zmluvou viazaný povinnosťou mlčanlivosti v obdobnom rozsahu, aký je dojednaný v tomto článku VOP, alebo 
+právnym poradcom, daňovým poradcom, iným poradcom, audítorom, bankám, za predpokladu, že tieto osoby 
+budú mať zákonom alebo zmluvou uloženú povinnosť mlčanlivosti v obdobnom rozsahu, aký je dojednaný v tomto 
+článku VOP, alebo 
+oprávneným orgánom verejnej moci alebo súdom, a to v rozsahu, v akom je nevyhnutné tieto informácie 
+poskytnúť na základe platných právnych predpisov alebo uznesení, rozhodnutí alebo žiadostí príslušných 
+orgánov. 
+
+15.2.2 
+
+15.2.3 
+
+15.3 Dodávateľ je oprávnený poskytovať informácie o Zmluve a o rozsahu a povahe zmluvných povinností a informácie o platobnej 
+disciplíne tretím osobám, ktoré vedú register resp. databázy na účel overovania a hodnotenia platobnej disciplíny odberateľov 
+elektriny. Právo Dodávateľa podľa tohto bodu trvá po celú dobu trvania Zmluvy a po dobu troch (3) rokov od úhrady 
+posledného finančného záväzku Odberateľa voči Dodávateľovi. Dodávateľ poskytne údaje tretím osobám vždy len 
+v nevyhnutnom rozsahu. 
+
+15.4 V prípade porušenia povinnosti zachovávať mlčanlivosť o Dôverných informáciách v rozsahu podľa tohto článku VOP alebo 
+povinnosti, ktorá je uvedená v bode 15.2, má dotknutá Zmluvná strana právo požadovať od druhej Zmluvnej strany zmluvnú 
+pokutu vo výške 5.000 EUR (slovom: päťtisíc eur). 
+
+16 OSTATNÉ A ZÁVEREČNÉ USTANOVENIA 
+16.1 Všade tam, kde sa v Zmluve alebo jej prílohách používa pojem „mesačný odpočtový cyklus“, má sa na mysli priebehové 
+
+meranie a ak pojem „iný ako mesačný odpočtový cyklus“ má sa na mysli nepriebehové meranie. 
+
+16.3 
+
+16.2 Všetky platby (poplatky, doplatky, zmluvné pokuty a obdobné plnenia peňažného charakteru) uvedené v Zmluve alebo v 
+týchto VOP sú bez DPH. V prípade, ak tieto peňažné plnenia podliehajú podľa príslušných všeobecne záväzných právnych 
+predpisov DPH, k sumám týchto plnení uvedených, resp. určených podľa Zmluvy a týchto VOP sa uplatní DPH v zmysle 
+príslušných všeobecne záväzných právnych predpisov. 
+Zaplatenie zmluvnej pokuty podľa Zmluvy a týchto VOP zo strany povinnej Zmluvnej strany nemá vplyv na povinnosť splniť 
+nesplnenú povinnosť povinnou Zmluvnou stranou. Ak nie je v Zmluve alebo týchto VOP uvedené inak, zmluvné pokuty podľa 
+Zmluvy a týchto VOP sú splatné do jedného (1) mesiaca odo dňa doručenia výzvy oprávnenej Zmluvnej strany povinnej 
+Zmluvnej strane na úhradu zmluvnej pokuty; zaplatením zmluvnej pokuty nie je dotknutý nárok poškodenej Zmluvnej strany 
+na náhradu škody spôsobenej porušením povinností, na ktorú sa zmluvná pokuta vzťahuje, ani právo dotknutej Zmluvnej 
+
+Slovenské elektrárne – energetické služby, s.r.o. – sídlo: Pribinova 40 - 811 09 Bratislava - mestská časť Ružinov – Slovenská republika – IČO: 
+44553412 - Obchodný register Mestského súdu Mestský súd Bratislava III – Oddiel: Sro – Vložka číslo: 56534/B 
+
+ELE_RETAIL_FIX_R_ver102022 
+ELE_RET02FKT 
+Číslo zmluvy dodávateľa: ZDR-2025-A-09335-000 
+
+strany od Zmluvy odstúpiť. Ustanovenie tohto bodu zostáva platné a účinné aj po zániku Zmluvy a zánik Zmluvy naň nemá 
+vplyv. 
+
+16.4 V prípade, že ktorékoľvek ustanovenie týchto VOP alebo Zmluvy bude súdom alebo príslušným štátnym orgánom 
+z akéhokoľvek dôvodu vyhlásené za neplatné, nedostatočne určité alebo nevykonateľné, táto skutočnosť nemá vplyv na 
+platnosť a vykonateľnosť zostávajúcich častí VOP a Zmluvy a Zmluvné strany sa zaväzujú odstrániť dodatkom k Zmluve takú 
+neplatnosť, nedostatočnú určitosť alebo nevykonateľnosť takým spôsobom, aby bol zmysel Zmluvy naplnený. 
+
+16.5 Odberateľ nie je oprávnený postúpiť svoje práva a povinnosti zo Zmluvy na tretiu osobu bez predchádzajúceho písomného 
+
+súhlasu Dodávateľa. 
+
+16.6 Odberateľ nie je oprávnený jednostranne započítať svoje pohľadávky voči Dodávateľovi vzniknuté v súvislosti s touto 
+
+Zmluvou. 
+
+16.7 V prípade, ak je Zmluva vyhotovená vo viacerých jazykových verziách a dôjde k rozporu medzi jednotlivými jazykovými 
+
+16.8 
+
+16.9 
+
+verziami, prednosť má znenie v slovenskom jazyku. 
+Zmluvné strany sú oboznámené so skutočnosťou, že obchodné aktivity a vnútropodniková činnosť Dodávateľa sa riadia a sú 
+viazané Princípmi, ktorých znenia sú zverejnené na webovom sídle Dodávateľa https://energetickesluzby.sk. Zmluvné strany 
+sa týmto zaväzujú dodržiavať tieto Princípy, vrátane odmietania akejkoľvek formy korupcie. 
+Tieto VOP nadobúdajú platnosť a účinnosť dňa 01.12.2023. Prijatím týchto VOP nie sú dotknuté Zmluvy a práva a povinnosti 
+Zmluvných strán vzniknuté do 01.12.2023. 
+
+Slovenské elektrárne – energetické služby, s.r.o. – sídlo: Pribinova 40 - 811 09 Bratislava - mestská časť Ružinov – Slovenská republika – IČO: 
+44553412 - Obchodný register Mestského súdu Mestský súd Bratislava III – Oddiel: Sro – Vložka číslo: 56534/B

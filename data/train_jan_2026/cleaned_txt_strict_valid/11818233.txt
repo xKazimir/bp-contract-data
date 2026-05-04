@@ -1,0 +1,363 @@
+SERVISNÁ ZMLUVA č. 2025/153 
+
+uzatvorená podľa § 269 ods. 2 zákona č. 513/1991 Z. z. Obchodný zákonník v platnom 
+znení na servis výpočtovej, kancelárskej a telekomunikačnej techniky 
+(ďalej len „zmluva“) 
+
+Zmluvné strany 
+
+Poskytovateľ: 
+
+Názov: 
+Štatutárny orgán: 
+
+Sídlo: 
+
+IČO: 
+DIČ: 
+Zapísaný v: 
+Bankové spojenie: 
+Číslo účtu: 
+
+Tel: 
+e-mail: 
+
+EVISION SERVIS, spol. s r. o. 
+Meško Martin, konateľ 
+Vyšovec 20, 976 11 Selce 
+Slovenská republika 
+Vajnorská 137, Bratislava 831 04 
+Slovenská republika 
+46634029 
+2023530014 
+OR SR Bratislava I, Oddiel: Sro, Vložka číslo: 81514/B 
+2929877556/1100, Tatra banka, a.s. 
+
+SWIFT TATRSKBX 
++421 905 368 821 
+martin.mesko@evision.sk 
+
+(ďalej len „poskytovateľ“) 
+
+ a 
+
+Objednávateľ: 
+
+Názov: 
+Štatutárny orgán: 
+Sídlo: 
+IČO: 
+DIČ: 
+Registrácia: 
+
+UMELECKÝ SÚBOR LÚČNICA 
+Ing. Mgr. art. Pavol Pilař, generálny riaditeľ 
+Kollárovo nám. 10, 811 07 Bratislava 
+00164828 
+2020829976 
+
+ Zriadený Ministerstvom kultúry SR na základe zriaďovacej listiny 
+
+Bankové spojenie: 
+Číslo účtu: 
+
+Tel: 
+e-mail: 
+
+č. MK–1510/2000–1 z 20. 9. 2000 a v zmysle neskorších rozhodnutí MK SR 
+o doplnení zriaďovacej listiny 
+Štátna pokladnica 
+
+SWIFT SPSRSKBA 
++421 2 204 86 103 
+lucnica@lucnica.sk 
+
+(ďalej len „objednávateľ“ 
+
+(objednávateľ a poskytovateľ ďalej spolu ako „zmluvné strany“) 
+
+Článok 1 - Predmet zmluvy 
+
+1.1. 
+
+Predmetom zmluvy je výkon záručného a pozáručného servisu výpočtovej, kancelárskej a 
+telekomunikačnej techniky dodanej poskytovateľom, inštalovanej v objektoch objednávateľa, 
+podpory pri inštalovaní a upgrade programového vybavenia na techniku objednávateľa a 
+poskytnutí znalostí pracovníkmi poskytovateľa pri riešení problémov systémových úloh na 
+žiadosť objednávateľa. 
+
+1.1.1 Základom tejto zmluvy sú bezpečnostné smernice objednávateľa a všeobecne platné záväzné 
+
+predpisy v oblasti informačných systémov verejnej správy. 
+
+1.1.2 Objednávateľ si vyhradzuje právo meniť, resp. dopĺňať bezpečnostné smernice podľa 
+vlastného uváženia v zmysle platných právnych predpisov alebo podľa pokynov Ministerstva 
+kultúry Slovenskej republiky. Zmeny a doplnenia sa stanú súčasťou tejto zmluvy po ich 
+odovzdaní poskytovateľovi, pričom poskytovateľ sa touto zmluvou zaväzuje ich dôsledne 
+dodržiavať a presadzovať aj ich nové znenie. 
+
+Technická špecifikácia vykonávaných úkonov: 
+
+1.2. 
+1.2.1 mesačné činnosti: 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+
+kontrola funkčnosti Windows 
+kontrola systémových registrov Windows 
+kontrola systémových logov Windows 
+kontrola integrity dát na klientských staniciach a serveroch 
+kontrola diskovej kapacity 
+kontrola archivácie klientských súborov podľa klientových požiadaviek 
+antivírusová kontrola 
+archivácia systémových súborov 
+konzultácie, školenie (v rozsahu jednej hodiny) 
+vyčistenie nepotrebných (dočasných ) súborov 
+
+1.2.2 
+
+štvrťročné činností 
+
+- mesačné činnosti 
+- 
+
+defragmentácia diskov 
+
+1.2.3 
+
+polročné činnosti 
+
+- mesačné činnosti 
+- 
+- 
+
+štvrťročné činnosti 
+profilaktika: 
+
+fyzické vyčistenie mechaník CD, DVD-ROM, RW 
+povysávanie PC z vnútra 
+mechanické čistenie klávesníc 
+kontrola vnútornej kabeláže PC 
+kontrola vonkajšej kabeláže PC 
+
+- 
+- 
+
+testovanie pamäte, procesoru 
+testovanie chybovosti siete 
+
+1.3. Odborné poradenstvo a konzultácie v oblasti výpočtovej a kancelárskej techniky pre optimálne 
+
+riešenie a implementáciu v závislostí od parametrov a výkonu internej siete LAN. 
+
+Článok 2 - Práva a povinnosti objednávateľa 
+
+2.1. 
+
+2.2. 
+
+Objednávateľ nahlasuje poruchy zariadení spolu s doplnkovými informáciami ako je model, sériové 
+čísla, popis alebo prejav poruchy, umiestnenie zariadenia, meno nahlasovateľa a jeho 
+kontaktného telefónneho čísla, a to súčasne telefonicky spolu s písomnou formou /elektronickou 
+poštou, faxom, alebo poštou/. 
+
+Objednávateľ určuje zodpovedného zamestnanca na komunikáciu, p. Valériu Šomšákovú, 
+kontakt: +421 2 204 86 103, valeria.somsakova@lucnica.sk, ktorá bude zodpovedná za kontakt s 
+poskytovateľom (ohlasovanie závad, porúch, požiadaviek na poskytovateľa) a ktorá bude 
+zodpovedať za poskytnutie včasných informácií a údajov pre poskytovateľa, potrebných pre 
+
+úspešné riešenie vzniknutých problémov. Objednávateľ je povinný včas písomne oznámiť 
+poskytovateľovi zmenu zodpovednej osoby. 
+
+2.3. 
+
+Objednávateľ zabezpečí nerušený prístup k zariadeniu po ohlásení poruchy poskytovateľovi vo 
+svojom riadnom pracovnom čase alebo po vzájomnej dohode aj v inom čase. 
+
+2.4. Objednávateľ sa zaväzuje po preverení funkčnosti opraveného zariadenia potvrdiť prevzatie 
+opraveného zariadenia, použitých náhradných dielov a prác pracovníkovi poskytovateľa písomnou 
+formou. 
+
+Článok 3 - Práva a povinnosti poskytovateľa 
+
+3.1. 
+
+3.2. 
+
+Poskytovateľ sa zaväzuje zabezpečiť opravu zariadenia výmenou vadného dielu, alebo použitím 
+ekvivalentného zariadenia na mieste inštalácie techniky. 
+
+Poskytovateľ odstráni nahlásenú poruchu v závislosti od jej povahy najneskôr do 24 hodín od jej 
+nahlásenia, pri zohľadnení dní pracovného voľna a pracovného pokoja. V prípade, že sa jedná o 
+poruchy, ktorých povaha bráni chodu prevádzky objednávateľa, je poskytovateľ povinný 
+zabezpečiť začiatok servisného zásahu najneskôr do 6 hodín od nahlásenia. Pri nahlásení poruchy 
+mimo pracovnej doby (p.d. 8:30 hod. - 17:00 hod.) poskytovateľa (prostredníctvom 
+elektronickej pošty ) sa lehota počíta od 8.30 hod. nasledujúceho pracovného dňa. Pri 
+dlhodobom riešení opravy zariadenia je poskytovateľ povinný zabezpečiť na nevyhnutú dobu 
+použitia náhradné zariadenie. 
+
+3.3. Ak si závada na zariadení vyžaduje opravu v servisnom stredisku poskytovateľa, prepravu 
+
+zariadenia na miesto určenia zabezpečí poskytovateľ. 
+
+3.4. 
+
+3.5. 
+
+3.6. 
+
+3.7. 
+
+3.8. 
+
+Poskytovateľ určuje zodpovedného zamestnanca, p. Martin Meško mob: +421 905 368 821, 
+e-mail: evision@evision.sk, ako kontaktnú osobu pre objednávateľa. Poskytovateľ je povinný 
+včas písomne oznámiť objednávateľovi zmenu zodpovednej osoby. Poskytovateľ je povinný 
+zabezpečiť prijatie nahlásenej poruchy, alebo iných požiadaviek zo strany objednávateľa aj v 
+prípade, že určená zodpovedná osoba je neprítomná alebo nedosiahnuteľná. 
+
+Poskytovateľ môže pozastaviť (bez vypovedania zmluvy) zmluvný servis zariadení, ak 
+objednávateľ neplní podmienky dojednané podľa 
+tejto zmluvy ani po písomnom 
+upozornení, alebo mešká s platbami viac ako 30 dní od termínu splátky. 
+
+Poskytovateľ sa zaväzuje zachovávať absolútnu mlčanlivosť o údajoch a informáciách 
+nadobudnutých u objednávateľa, nebude vykonávať žiadne kópie zo súborov a informácií 
+umiestnených na médiách objednávateľa pre svoju potrebu. 
+
+Poskytovateľ sa zaväzuje, že v prípade živelnej pohromy, alebo iných nepredvídaných udalostí 
+majúcich za následok zničenie hardware a dátových údajov zabezpečí náhradné PC zariadenia 
+tak, aby mohol byť zabezpečený základný chod prevádzky objednávateľa a to v lehote do 48 
+hodín od písomného nahlásenia v stredisku poskytovateľa. 
+
+Poskytovateľ zodpovedá za vady poskytovaných služieb spôsobené nedodržaním záväzkov 
+uvedených v tejto zmluve. Poskytovateľ nezodpovedá za vady služieb spôsobené neodborným 
+zásahom alebo nedostatkom súčinnosti zo strany objednávateľa. 
+
+3.9. Dĺžka záruky na poskytnuté služby sa stanoví na 12 mesiacov odo dňa potvrdenia prevzatia 
+opraveného zariadenia. Poskytovateľ zodpovedá objednávateľovi za škodu, ktorá mu vznikne 
+v dôsledku úmyselného alebo nedbanlivého konania poskytovateľa pri realizácii predmetu tejto 
+zmluvy. 
+
+3.10. Poskytovateľ má prístup do siete LAN objednávateľa na základe pridelenia výnimky Ministerstva 
+kultúry Slovenskej republiky cez vzdialenú správu Remote Administration, ktorá je povolená len z IP 
+
+adresy poskytovateľa 217.73.19.134. Vzdialenú správu vykonávajú len poučené a oboznámené osoby 
+poskytovateľa. Tieto osoby musia byť poučené o bezpečnostných smerniciach podľa bodu 1.1.1. 
+
+Článok 4 – Cena 
+
+4.1. 
+
+Výška poplatku za prácu pri oprave, udržiavaní zásob servisných dielov, pracovnú pohotovosť, 
+znalostnú bázu a služby systémovej administrácie, a je stanovená dohodou nasledovne: 
+
+a) základný paušál vo výške 256,- Eur/8 človeko-hodín vykonanej práce 
+
+(slovom: 
+dvestopäťdesiatšesť Eur) vrátane dopravy do sídla objednávateľa (234,- Eur/8 hod. + 22,- 
+Eur/2xdoprava/mesiac). Medzi hodiny obsiahnuté v mesačnom paušále patria aj hodiny 
+vykonané pri údržbe servera a zálohovaní určených elektronických dát. 
+
+b) servis nad rámec základného paušálu vo výške 32,- Eur/1 človeko-hodina vykonanej 
+práce (slovom: tridsaťdva Eur + doprava 11,- Eur (slovom: jedenásť Eur). Suma za práce nad 
+rámec základného paušálu bude fakturovaná za každú začatú pol hodinu. 
+
+c) zastúpenie na stretnutiach pracovníkov IKT v rezorte MKSR bude účtované nad rámec základného 
+
+paušálu podľa bodu 4.1 b). 
+
+4.2. Celková cena je konečná a nebude sa k nej účtovať DPH, nakoľko poskytovateľ nie je platcom 
+
+DPH. 
+
+4.3. 
+
+Cena bude uvádzaná v základnej mene Slovenskej republiky. 
+
+Článok 5 - Fakturácia a platby 
+
+5.1. 
+
+5.2. 
+
+5.3. 
+
+Poplatok sa fakturuje mesačne, posledný pracovný deň v mesiaci, kedy boli služby 
+vykonané, na základe písomného výkazu vykonaných prác, potvrdeného zodpovedným 
+zamestnancom objednávateľa. Mesačný výkaz prác bude súčasťou každej faktúry. 
+
+Fakturácia náhradných dielov 
+zariadenia. 
+
+sa vykoná následne po odovzdaní opraveného 
+
+Splatnosť faktúry za servisné služby je 21 dní od dátumu vystavenia. V prípade omeškania 
+objednávateľa s úhradou faktúry je objednávateľ povinný zaplatiť úrok z omeškania vo výške 
+0.05 % z dlžnej sumy za každý deň omeškania. 
+
+5.4. V prípade omeškania poskytovateľa - ak poskytovateľ v stanovenej lehote nevykoná opravu, 
+alebo nenastúpi na odstránenie nahlásenej poruchy, je povinný zaplatiť zmluvnú pokutu vo výške 
+23,- Eur za každý deň omeškania. 
+
+Článok 6 - Záverečné ustanovenia 
+
+6.1. 
+
+6.2. 
+
+Táto zmluva nadobúda platnosť dňom jej podpísania zmluvnými stranami a účinnosť dňom 
+nasledujúcim po dni jej zverejnenia v Centrálnom registri zmlúv Úradu vlády slovenskej 
+republiky. Uzatvára sa na dobu určitú od 1.1.2026 do 31.12.2026. 
+
+Skončenie zmluvy pred termínom uvedeným v bode 6.1 je možné písomnou výpoveďou 
+ktoroukoľvek zo zmluvných strán; výpovedná lehota je jednomesačná. Výpovedná lehota začína 
+plynúť od prvého dňa nasledujúceho mesiaca po mesiaci, kedy bola výpoveď doručená druhej 
+strane. 
+
+6.3. 
+
+Zmeny ustanovení 
+zmluve písomnou formou a podpisom zmluvných strán. 
+
+tejto zmluvy sa vykonávajú výlučne formou dodatku k 
+
+tejto 
+
+6.4. 
+
+6.5. 
+
+6.6. 
+
+Táto zmluva bola vyhotovená v dvoch rovnopisoch, z ktorých jeden dostane objednávateľ a 
+jeden poskytovateľ. 
+
+Zmluvné strany po prečítaní prehlasujú, že prejavy ich vôle sú vážne, slobodné, určité a zrozumiteľné. 
+Žiaden z účastníkov neuzavrel zmluvu v omyle alebo za nápadne nevýhodných podmienok. Zmluvu si 
+účastníci riadne prečítali, porozumeli jej obsahu a na znak súhlasu ju podpisujú. 
+
+Poskytovateľ berie na vedomie povinnosť objednávateľa zverejniť túto zmluvu podľa § 5a) zák. č. 
+211/2000 Z. z. o slobodnom prístupe k informáciám v znení neskorších predpisov a na tento účel 
+legislatívy. 
+poskytovateľ prehlasuje, že súhlasí so zverejnením zmluvy v rozsahu platnej 
+
+V Bratislave dňa 
+
+ Objednávateľ: 
+
+ Poskytovateľ:....................................................... 
+ Ing. Mgr. art. Pavol Pilař 
+ generálny riaditeľ 
+ Umelecký súbor LÚČNICA....................................................... 
+ Martin Meško 
+ konateľ 
+ EVISION SERVIS, spol. s r.o.

@@ -1,0 +1,300 @@
+row,contract_id,field,annotated,supported_in_txt,crz_value,same_as_crz
+2,290997,contract_title,Dodatok č. 2 K u Zmluve o servisnom prenájme čistiacich rohoží č.6868,True,Dodatok č. 2 Ku Zmluve o servisnom prenájme čistiacich rohoží č.6868,False
+2,290997,contract_subject,"Rozšírenie prenájmu na prevádzke Univerzitná knižnica, Michalská 1, Bratislava",True,6868,False
+2,290997,contract_number,6868,True,6868,True
+2,290997,date_signed,2011-10-13 00:00:00,True,0000-00-00,False
+2,290997,date_effective,2011-10-24 00:00:00,True,2011-10-21,False
+2,290997,party_1_name,Univerzitná knižnica,True,Univerzitná knižnica v Bratislave,False
+2,290997,party_1_ico,00164631,True,35742364,False
+2,290997,party_1_address,"Michalská 1, 814 17 Bratislava",True,"Orešianska ulica 3, 917 01 Trnava",False
+2,290997,party_2_name,Lindstrom s.r.o.,True,Lindstrom s.r.o.,True
+2,290997,party_2_ico,35742364,True,164631,False
+2,290997,party_2_address,"Orešianska ulica 3, 917 01 Trnava",True,"Michalská 1, 814 17 Bratislava",False
+3,1702725,contract_title,DOHODA O SPLÁTKACH DLHU,True,Dohoda o splátkach dlhu podľa § 47a ods. 1 zák. 546/2010,False
+3,1702725,contract_subject,uzatvárajú na základe ustanovení § 7 zákona NR SR č. 374/2014 Z. z. o pohľadávkach štátu a o zmene a doplnení niektorých zákonov nasledovnú dohodu,True,POH-2015-2181-1,False
+3,1702725,amount_total,613.8,True,465.8,False
+3,1702725,party_1_name,"Slovenská republika – Ústredie práce, sociálnych vecí a rodiny,
+Úrad práce, sociálnych vecí a rodiny Lučenec",True,"Úrad práce, sociálnych vecí a rodiny Lučenec",False
+3,1702725,party_1_ico,30794536,True,,False
+3,1702725,party_1_address,"F. Lehára 18, 984 01 Lučenec",True,"Boľkovce 171, 984 01 Boľkovce",False
+3,1702725,party_2_name,Elena Adamovičová,True,Elena Adamovičová,True
+4,1891003,contract_title,Zmluva o prevode práva na riešenie,True,Zmluva o prevode práva na riešenie č. 9001/0038/15,False
+4,1891003,contract_subject,"Predmetom tejto zmluvy je záväzok Spolupôvodcu vynálezu previesť právo na riešenie na STU,
+záväzok STU uhradiť odmenu dohodnutú v tejto zmluve a úprava súvisiacich práv a povinností.",True,9001/0038/15,False
+4,1891003,party_1_name,Ing. Alexandra Sládková,True,Slovenská technická univerzita v Bratislave,False
+4,1891003,party_1_address,"Tehelná 24, Trnava, 917 01",True,"Tehelná 24, 917 01 Trnava",False
+4,1891003,party_2_name,Slovenská technická univerzita v Bratislave,True,Ing. Alexandra Sládková,False
+4,1891003,party_2_ico,00397687,True,00397687,True
+4,1891003,party_2_address,"Vazovova 5, 812 43 Bratislava 1",True,"Vazovova 5, 812 43 Bratislava",False
+5,1919917,contract_title,Zmluva o prevode práva na ochranu úžitkovým vzorom,True,Zmluva o prevode práva na ochranu úžitkovým vzorom č. 9001/0043/15,False
+5,1919917,contract_subject,"Predmetom tejto zmluvy je záväzok Spolupôvodcu technického riešenia previesť právo na ochranu úžitkovým vzorom na STU, záväzok STU uhradiť odmenu dohodnutú v tejto zmluve a úprava súvisiacich práv a povinností.",True,9001/0043/15,False
+5,1919917,party_1_name,Ing. Jana Gavačová,True,Slovenská technická univerzita v Bratislave,False
+5,1919917,party_1_address,"Námestie sv. Mikuláša 161/45, 922 02 Krakovany",True,"Námestie sv. Mikuláša 161/45, 922 02 Krakovany",True
+5,1919917,party_2_name,Slovenská technická univerzita v Bratislave,True,Ing. Jana Gavačová,False
+5,1919917,party_2_ico,00397687,True,00397687,True
+5,1919917,party_2_address,"Vazovova 5, 812 43 Bratislava 1",True,"Vazovova 5, 812 43 Bratislava",False
+6,3375421,contract_title,DOHODA,True,Dohoda o poskytnutí príspevku na úhradu prevádzkových nákladov CHD-CHP,False
+6,3375421,contract_subject,Účelom dohody je úprava práv a povinností účastníkov dohody pri poskytovaní finančného príspevku na úhradu prevádzkových nákladov chráneného pracoviska (CHP) (ďalej len „príspevok“) podľa § 60 zákona č. 5/2004 Z. z. o službách zamestnanosti a o zmene a doplnení niektorých zákonov v znení neskorších predpisov (ďalej len „zákon o službách zamestnanosti“).,True,18/34/060/196,False
+6,3375421,contract_number,18/34/060/196,True,18/34/060/196,True
+6,3375421,amount_total,3126.47,True,3126.47,True
+6,3375421,party_1_name,"Úradom práce, sociálnych vecí a rodiny Bardejov",True,Úrad práce sociálnych vecí a rodiny Bardejov,False
+6,3375421,party_1_ico,307 945 36,True,34238395,False
+6,3375421,party_1_address,"Dlhý rad 17, 085 01 Bardejov",True,"8. mája 490/1, 089 01 Svvidník",False
+6,3375421,party_2_name,Labantová Irena,True,Labantová Irena,True
+6,3375421,party_2_ico,34238395,True,30794536,False
+6,3375421,party_2_address,"8. mája 490/1, 089 01Svidník",True,"Dlhý rad 17, 085 01 Bardejov",False
+7,3985938,contract_title,DOHODA,True,Dohoda o poskytnutí príspevku na úhradu prevádzkových nákladov chránenej dielne alebo chráneného pracoviska a na úhradu nákladov na dopravu zamestnancov podľa § 60 ods. 2 zákona č.5/2004 Z.z. o službách zamestnanosti a o zmene a doplnení niektorých zákono,False
+7,3985938,contract_subject,Účelom dohody je úprava práv a povinností účastníkov dohody pri poskytovaní finančného príspevku na úhradu prevádzkových nákladov chráneného pracoviska (CHP) (ďalej len „príspevok“) podľa § 60 zákona č. 5/2004 Z. z. o službách zamestnanosti a o zmene a doplnení niektorých zákonov v znení neskorších predpisov (ďalej len „zákon o službách zamestnanosti“).,True,19/34/060/212,False
+7,3985938,contract_number,19/34/060/212,True,19/34/060/212,True
+7,3985938,party_1_name,"Úradom práce, sociálnych vecí a rodiny Bardejov",True,Úrad práce sociálnych vecí a rodiny Bardejov,False
+7,3985938,party_1_ico,30794536,True,45419256,False
+7,3985938,party_1_address,"Dlhý rad 17, 085 01 Bardejov",True,"Stebník 120, 086 33",False
+7,3985938,party_2_name,Lenka Ratvajová - LERA,True,Lenka Ratvajová,False
+7,3985938,party_2_ico,45419256,True,30794536,False
+7,3985938,party_2_address,"Hviezdoslavova 3, 085 01 Bardejov",True,"Dlhý rad 17, 085 01 Bardejov",False
+8,5108687,contract_title,DOHODA o poskytnutí finančného príspevku,False,"Dohoda o poskytnutí finančného príspevku v rámci projektu ""Prvá pomoc"" - Opatrenie č. 2",False
+8,5108687,contract_subject,"Účelom dohody je úprava práv a povinností účastníkov dohody pri poskytovaní finančného príspevku (ďalej len „príspevok“) na podporu SZČO, ktorej v čase vyhlásenia mimoriadnej situácie, núdzového stavu alebo výnimočného stavu na základe opatrenia Úradu verejného zdravotníctva SR poklesli tržby, v rámci projektu „Prvá pomoc“",True,20/32/54E/1533,False
+8,5108687,contract_number,20/32/54E/1533,True,20/32/54E/1533,True
+8,5108687,date_valid_to,2028-12-31 00:00:00,True,2021-12-31,False
+8,5108687,party_1_name,Úradom práce sociálnych vecí a rodiny Veľký Krtíš,True,"Úrad práce, sociálnych vecí a rodiny Veľký Krtíš",False
+8,5108687,party_1_ico,30794536,True,46052852,False
+8,5108687,party_1_address,"Madácha 2 , Veľký Krtíš, 99001",False,"Športová 2/20, 991 11 Balog nad Ipľom",False
+8,5108687,party_2_name,Tímea Nedeľová LIAWILL,True,Tímea Nedeľová LIAWILL,True
+8,5108687,party_2_ico,46052852,True,30794536,False
+8,5108687,party_2_address,"Športová 2/20, 991 11 Balog nad Ipľom",True,"Madácha 2, 990 01 Veľký Krtíš",False
+9,5193652,contract_title,Dodatok č. 1 k DOHODE,False,Dodatok k dohode o poskytnutí príspevku,False
+9,5193652,contract_subject,Účelom dodatku je zmena práv a povinností účastníkov dohody uzatvorenej dňa 2.6.2020,True,Dodatok č. 1 k dohode č. 20/44/54E/1877,False
+9,5193652,contract_number,20/44/54E/1877,True,Dodatok č. 1 k dohode č. 20/44/54E/1877,False
+9,5193652,date_signed,2020-11-16 00:00:00,True,2020-11-27,False
+9,5193652,date_effective,2020-03-13 00:00:00,True,2020-12-04,False
+9,5193652,date_valid_to,2021-12-31 00:00:00,True,0000-00-00,False
+9,5193652,amount_total,315.00,True,0,False
+9,5193652,party_1_name,Úradom práce sociálnych vecí a rodiny Spišská Nová Ves,True,"Úrad práce, sociálnych vecí a rodiny Spišská Nová Ves",False
+9,5193652,party_1_ico,30794536,True,,False
+9,5193652,party_1_address,"Odborárov 53, 052 21 Spišská Nová Ves",True,,False
+9,5193652,party_2_name,Ľubomír Prokop,True,Prokop Ľubomír,False
+10,5623965,contract_title,DOHODA o ukončení dohody č. 20/18/54E/496 zo dňa 04.05.2020,True,Dohoda o ukončení dohody č.20/18/54E/496 zo dňa 04.05.2020,False
+10,5623965,date_signed,2021-03-23 00:00:00,True,2021-03-24,False
+10,5623965,party_1_name,Úradom práce sociálnych vecí a rodiny Topoľčany,True,"Úrad práce, sociálnych vecí a rodiny Topoľčany",False
+10,5623965,party_1_ico,30794536,True,45594961,False
+10,5623965,party_1_address,"Škultétyho 1577/8, 955 01 Topoľčany",True,"Streďanská 1531/8, 955 01 Topoľčany",False
+10,5623965,party_2_name,Monika Chudá,True,Monika Chudá,True
+10,5623965,party_2_ico,45594961,True,30794536,False
+10,5623965,party_2_address,"Streďanská 1531/8, 955 01 Topoľčany",True,"Škultétyho 1577/8,, 955 01 Topoľčany",False
+11,3825656,contract_title,Zmluva o vytvorení diela a licenčná zmluva ,True,Zmluva o vytvorení diela a licenčná zmluva,True
+11,3825656,contract_subject,"Predmetom Zmluvy je záväzok Autora vytvoriť pre Objednávateľa dielo a udeliť súhlas na jeho používanie, povinnosť Objednávateľa uhradiť Autorovi odmenu aúprava súvisiacich práv
+a povinností Zmluvných strán.",False,3/2019,False
+11,3825656,amount_total,540,True,0,False
+11,3825656,party_1_name,Centrum spoločných činností SAV,True,"Centrum spoločných činností Slovenskej akadémie vied, v. v. i.",False
+11,3825656,party_1_ico,00 398 144,True,,False
+11,3825656,party_1_address,"Bradáčova 7, 851 02 Bratislava",True,,False
+11,3825656,party_2_name,"Mgr. Kristína Jakubovská, PhD.",True,"Mgr. Kristína Jakubovská, PhD.",True
+12,8947610,contract_title,ZMLUVA O POSKYTOVANÍ SLUŽIEB,True,Zmluva o poskytovaní služieb,True
+12,8947610,contract_subject,Predmetom tejto Zmluvy je implementácia optimalizácie elektronických podaní v zmysle prílohy č. 1 tejto zmluvy,True,2024/0446,False
+12,8947610,date_signed,2024-01-22 00:00:00,False,2024-02-16,False
+12,8947610,amount_total,80000,True,80400,False
+12,8947610,party_1_name,Trenčiansky samosprávny kraj,True,Trenčiansky samosprávny kraj,True
+12,8947610,party_1_ico,36126624,True,36396222,False
+12,8947610,party_1_address,"K dolnej stanici 7282/20A, 911 01 Trenčín",True,"Krasovského 3986/14, Bratislava - mestská časť Petržalka",False
+12,8947610,party_2_name,Aricoma Systems s.r.o.,True,Aricoma Systems s.r.o.,True
+12,8947610,party_2_ico,36396222,True,36126624,False
+12,8947610,party_2_address,"Krasovského 14, Bratislava - mestská časť Petržalka 851 01",True,"K dolnej stanici 7282/20A, 91101 Trenčín",False
+13,10796818,contract_title,DOHODA O NÁHRADE ZA NÚTENÉ OBMEDZENIE UŽÍVANIA NEHNUTEĽNOSTÍ,True,"DoNZNOUN - CETIN Networks, s.r.o., MZ č. 1068/2022",False
+13,10796818,contract_subject,"Predmetom tejto dohody je úprava spôsobu vykonávania práv vyplývajúcich zo zákona č. 452/2021 Z. z. o elektronických komunikáciách v znení neskorších predpisov (ďalej len „zákon o elektronických komunikáciách“) k pozemkom vo vlastníctve Mesta Trnava
+uvedeným v čl. I. ods. 1 písm. a) a b) tejto dohody, na ktorých plánuje Podnik vybudovať
+rozvody optickej siete",False,388/2023,False
+13,10796818,contract_number,388/2023,True,388/2023,True
+13,10796818,amount_total,1823.25,True,1677.17,False
+13,10796818,party_1_name,"CETIN Networks, s.r.o.",True,"CETIN Networks, s.r.o.",True
+13,10796818,party_1_ico,54639425,True,00313114,False
+13,10796818,party_1_address,"Pribinova 40, 851 01 Bratislava",True,"Ulica Hlavná 1/1, Trnava, 91701",False
+13,10796818,party_2_name,Mesto Trnava,True,Mesto Trnava,True
+13,10796818,party_2_ico,00 313 114,True,54 639 425,False
+13,10796818,party_2_address,"Hlavná 1, 917 71 Trnava",True,"Pribinova 40, 851 01 Bratislava",False
+14,10830911,contract_title,ZMLUVA č. ČOV - 3/2025 o odvádzaní odpadových vôd pre domácnosti,True,Zmluva č. ČOV - 3/2025 o odvádzaní odpadových vôd pre domácností,True
+14,10830911,contract_subject,"Predmetom zmluvy je odvádzanie odpadových vôd z odberného miesta
+Producenta verejnou kanalizáciou v rozsahu a za podmienok dohodnutých
+touto Zmluvou v súlade so zákonom o verejných vodovodoch a verejných
+kanalizáciách.",True,Žak-26/2025-Z,False
+14,10830911,date_signed,2025-05-22 00:00:00,True,2025-05-22,True
+14,10830911,party_1_name,Obec Žakovce,True,"Obec Žakovce, 05973 Žakovce 55",False
+14,10830911,party_1_ico,00326771,True,,False
+14,10830911,party_1_address,059 73 Žakovce 55,True,,False
+14,10830911,party_2_name,Milan Novák,True,"Milan Novák, Žakovce",False
+14,10830911,party_2_address,059 73 Žakovce,True,,False
+15,10875720,contract_title,MANDÁTNA ZMLUVA,True,Mandátna zmluva,True
+15,10875720,contract_subject,"Mandatár sa zaväzuje, že zariadi za podmienok dohodnutých v tejto zmluve za odplatu pre mandanta výkon inžinierske činnosti - stavebného dozoru počas realizácie stavby/projektu s názvom: „Červenica pri Sabinove, miestna komunikácia MK2""",True,ČpS 13/2025,False
+15,10875720,date_signed,2025-05-26 00:00:00,True,2025-06-02,False
+15,10875720,amount_total,2000,True,2,False
+15,10875720,party_1_name,Obec Červenica pri Sabinove,True,Obec Červenica pri Sabinove,True
+15,10875720,party_1_ico,00326925,True,54468671,False
+15,10875720,party_1_address,"Červenica pri Sabinove 122, 052 56 Pečovská Nová Ves",True,"Prostějovská 4843/42, Prešov",False
+15,10875720,party_2_name,Ing. Vladimír Anderko,True,Ing. Vladimír Anderko,True
+15,10875720,party_2_ico,54468671,True,00327719,False
+15,10875720,party_2_address,"Prostějovská 4843/42, 080 01 Prešov",True,"Červenica pri Sabinove 122, 082 56 Pečovská Nová Ves",False
+16,10875739,contract_title,Príkazná zmluva,True,Príkazná zmluva,True
+16,10875739,contract_subject,"Predmetom zmluvy je záväzok príkazníka vykonať pre príkazcu činnosť, ktorá spočíva v:Expertné stanovisko k nápravným opatreniam Vypracovanie Ostatných zistení z posudz. na mieste Preštudovanie šp. technickej dokumentácie Preskúmanie zložiek Expertná činnosť pri posúdení na mieste Poskyt. exp. poznatkov a posudkov posudzovateľom Sledovanie výkonu skúšok Pohovory s pracovníkmi položky RA: 1,2,4,7,8 posúdenie vykonaných programov PT v podľa rozsahu akreditácie",False,25/1/12236/1,False
+16,10875739,contract_number,25/1/12236/1,True,25/1/12236/1,True
+16,10875739,date_signed,2025-06-03 00:00:00,True,2025-06-03,True
+16,10875739,amount_total,1020,True,1020,True
+16,10875739,party_1_name,Slovenská národná akreditačná služba,True,Slovenská národná akreditačná služba,True
+16,10875739,party_1_ico,30809673,True,,False
+16,10875739,party_1_address,"Karloveská 63, P. O. Box 74 840 00 Bratislava 4",True,,False
+16,10875739,party_2_name,"doc. Ing. Šrámek Juraj,PhD. ",True,"Šrámek  Juraj, doc. Ing., PhD.",False
+17,10875718,contract_title,Zmluva o spolupráci pri starostlivosti o túlavých psov,True,Zmluva o spolupráci pri starostlivosti o túlavých psov,True
+17,10875718,contract_subject,"Predmetom zmluvy je činnosť poskytovateľa služby podľa zákona NR SR č. 39/2007 Z. z. O veterinárnej starostlivosti v znení neskorších predpisov a spočíva v umiestnení zabehnutých, opustených a túlavých zvierat na verejných priestranstvách objednávateľa do karanténnej stanice.",True,ČpS 12/2025,False
+17,10875718,party_1_name,Obec Červenica pri Sabinove,True,Obec Červenica pri Sabinove,True
+17,10875718,party_1_ico,00326925,True,37790595,False
+17,10875718,party_1_address,"Červenica pri Sabinove 122, 082 56",True,"Mýtna 0, Stará Ľubovňa",False
+17,10875718,party_2_name,Kynologický klub & Karanténna stanica Stará Ľubovňa,True,Kynologický klub  & Karanténna stanica Stará Ľubovňa,True
+17,10875718,party_2_ico,37790595,True,00327719,False
+17,10875718,party_2_address,"Mýtna 0, 064 01 Stará Ľubovňa",True,"Červenica pri Sabinove 122, 082 56 Pečovská Nová Ves",False
+18,10875716,contract_title,ZMLUVA,True,Zmluva č. 1094/2025/OPR o poskytnutí dotácie,False
+18,10875716,contract_subject," Predmetom tejto zmluvy je úprava zmluvných podmienok, práv a povinností zmluvných strán pri poskytnutí dotácie z rozpočtu Prešovského samosprávneho kraja (ďalej aj ako „PSK“).",True,ČpS 11/2025,False
+18,10875716,contract_number,1094/2025/OPR,True,ČpS 11/2025,False
+18,10875716,date_effective,2025-01-01 00:00:00,True,2025-06-05,False
+18,10875716,date_valid_to,2025-10-31 00:00:00,True,0000-00-00,False
+18,10875716,amount_total,3000,True,3000,True
+18,10875716,party_1_name,Prešovský samosprávny kraj,True,Obec Červenica pri Sabinove,False
+18,10875716,party_1_ico,37870475,True,37870475,True
+18,10875716,party_1_address,"Námestie mieru 2, 080 01 Prešov",True,"Námestie mieru 2, Prešov",False
+18,10875716,party_2_name,Obec Červenica pri Sabinove,True,Prešovský samosprávny kraj,False
+18,10875716,party_2_ico,00326925,True,00327719,False
+18,10875716,party_2_address,"Červenica pri Sabinove 122, 082 56 Červenica",True,"Červenica pri Sabinove 122, 082 56 Pečovská Nová Ves",False
+19,10716801,contract_title,Nájomná zmluva,True,Nájomná zmluva č. 873586006-2-2025-NZS,False
+19,10716801,contract_subject,Prenajímateľ prenajíma Nájomcovi nehnuteľnosti opísané v ods. 2.1 Zmluvy ,True,873586006-2-2025-NZS,False
+19,10716801,contract_number,873586006-2-2025-NZS,True,873586006-2-2025-NZS,True
+19,10716801,amount_total,10100,True,10100,True
+19,10716801,party_1_name,Železnice Slovenskej republiky,True,"RELEVANT Investment, a.s.",False
+19,10716801,party_1_ico,31364501,True,31364501,True
+19,10716801,party_1_address,"Klemensova 8, 813 61 Bratislava",True,"Klemensova 8, 813 61 Bratislava",True
+19,10716801,party_2_name,"RELEVANT Investment, a.s.",True,Železnice Slovenskej republiky,False
+19,10716801,party_2_ico,52375901,True,52375901,True
+19,10716801,party_2_address,"Jakubovo námestie 3, 811 09 Bratislava",True,"Jakubovo námestie 3, 811 09  Bratislava",True
+20,10875737,contract_title,ZMLUVA O NÁJME PRIESTORU- KRÁTKODOBÝ NÁJOM,True,"Zmluva o nájme priestoru - Krátkodobý nájom 
+84/2025
+Ministerstvo zahraničných vecí a európskych záležitostí Slovenskej republiky
+9. stretnutie Honorárnych Konzulov SR
+Zrkadlová sieň, Mezanín",False
+20,10875737,contract_subject,"Prenajímateľ prenajíma nájomcovi priestory Zrkadlovej siene, Predsália a Zasália Zrkadlovej siene, Mezanínu a miestnosti na prípravu jedál a nápojov, prenájom veľkorozmernej TV – 86/214 cm v počte 2ks. Nájomca je oprávnený počas doby nájmu podľa čl. 3 bod 1., priľahlé priestory chodby, schodisko, šatňa, používať WC (ďalej len „predmet nájmu“).",False,842025,False
+20,10875737,contract_number,84/2025,True,842025,False
+20,10875737,date_effective,2025-06-05 00:00:00,True,2025-06-05,True
+20,10875737,amount_total,1500,True,1500,True
+20,10875737,party_1_name,Hlavné mesto Slovenskej republiky Bratislava,True,Hlavné mesto SR Bratislava,False
+20,10875737,party_1_ico,00603481,True,00699021,False
+20,10875737,party_1_address,"Primaciálne nám. 1, 814 99 Bratislava",True,"Hlboká cesta 2, 83336 Bratislava",False
+20,10875737,party_2_name,Ministerstvo zahraničných vecí a európskych záležitostí Slovenskej republiky,True,Ministerstvo zahraničných vecí a európskych záležitostí Slovenskej republiky,True
+20,10875737,party_2_ico,00699021,True,00603481,False
+20,10875737,party_2_address,"Hlboká cesta 2, 833 36 Bratislava",True,,False
+21,10875722,contract_title,ZMLUVA O NÁJME HROBOVÉHO MIESTA,True,nájom za hrobové miesto,False
+21,10875722,contract_subject,"Prenajímateľ prenecháva a nájomca prijíma do nájmu, za dohodnutú odplatu a za podmienok uvedených v tejto zmluve, typ miesta Hrobové miesto, sektor 19, chodník -, číslo 380, predchádzajúce číslo hrobu XIX-321, na pohrebisku Cintorín Vrakuňa, Gagarinova 29, 821 07 Bratislava – Vrakuňa v Bratislave za účelom uloženia ľudských pozostatkov alebo ostatkov, (ďalej len hrobové miesto).",True,2025/1020002265,False
+21,10875722,contract_number,2025/1020002265,True,2025/1020002265,True
+21,10875722,date_signed,2025-06-03 00:00:00,True,2025-06-03,True
+21,10875722,party_1_name,MARIANUM - Pohrebníctvo mesta Bratislavy,True,Ing. Milan Kmec,False
+21,10875722,party_1_ico,17330190,True,17330190,True
+21,10875722,party_1_address,"Šafárikovo námestie č. 3, 811 02 Bratislava",True,"Šafárikovo námestie č. 3, 81102 Bratislava",False
+21,10875722,party_2_name,Ing. Milan Kmec,True,Marianum,False
+21,10875722,party_2_address,"Jabloňová 1547/25, 90029 Nová dedinka",True,,False
+22,9942598,contract_title,Kúpna zmluva,True,Kúpna zmluva,True
+22,9942598,contract_subject,"Zmluvné strany sa dohodli, že predávajúci prevádza a kupujúci Mesto Prievidza nadobúda do svojho výlučného vlastníctva nehnuteľnosti v k. ú. Prievidza Okresného úradu – katastrálneho odboru Prievidza",True,746/2024,False
+22,9942598,amount_total,1584.96,True,1584.94,False
+22,9942598,party_1_name,Martin Petráš,True,Mesto Prievidza,False
+22,9942598,party_1_address,"Zakvášov 1520/40, Považská Bystrica, PSČ 017",True,,False
+22,9942598,party_2_name,Mesto Prievidza,True,Martin Petráš,False
+22,9942598,party_2_ico,00 318 442,True,00318442,True
+22,9942598,party_2_address,"Mestský úrad, Námestie slobody č. 14, Prievidza",True,"Námestie slobody 14, 971 01, Prievidza",False
+23,10832100,contract_title,KÚPNA ZMLUVA,True,Kúpna zmluva,True
+23,10832100,contract_subject,"Predmetom tejto kúpnej zmluvy je odplatný prevod vlastníckeho práva k pozemku uvedenému v bode 1. tohto článku, a to z predávajúceho ako výlučného vlastníka do bezpodielového spoluvlastníctva manželov – kupujúcich v 1/1 za kúpnu cenu v zmysle Čl. III. tejto kúpnej zmluvy a za podmienok vzájomne dohodnutých v tejto Zmluve.",True,19/2025,False
+23,10832100,amount_total,3225,True,3225,True
+23,10832100,party_1_name,Obec Plevník – Drienové,True,"Ing. Jozef Halgaš, Mgr. Dominika Halgašová",False
+23,10832100,party_1_ico,00317608,True,00317608,True
+23,10832100,party_1_address,018 26 Plevník - Drienové č.255,True,"Obecný úrad, Plevník-Drienové 255, 01826",False
+23,10832100,party_2_name,"Ing. Jozef Halgaš, rod. Halgaš",True,Obec Plevník-Drienové,False
+24,10852134,contract_title,Kúpna zmluva,True,Kúpna zmluva,True
+24,10852134,contract_subject,"Všeobecná špecifikácia predmetu Zmluvy: 2.2 Názov: Združená dodávka plynu Kľúčové slová: dodávka zemného plynu, preprava a distribúcia CPV: 09123000-7 - Zemný plyn; 65200000-5 - Rozvod plynu a súvisiace služby Druh/y: Tovar; Služba",False,Z20252296_Z,False
+24,10852134,contract_number,Z20252296_Z,True,Z20252296_Z,True
+24,10852134,date_signed,2025-05-28 00:00:00,True,2025-05-28,True
+24,10852134,date_effective,2026-01-01 00:00:00,True,2025-05-29,False
+24,10852134,date_valid_to,2027-12-31 00:00:00,True,0000-00-00,False
+24,10852134,amount_total,65789.99,True,65789.99,True
+24,10852134,party_1_name,Základná škola,True,Základná škola,True
+24,10852134,party_1_ico,34008900,True,50060872,False
+24,10852134,party_1_address,"J. Braneckého 130/15, 91401 Trenčianska Teplá, Slovenská republika",True,"Ivánska cesta 30/B, 82104 Bratislava - mestská časť Ružinov SVK",False
+24,10852134,party_2_name,MVM CEEnergy Slovakia s.r.o.,True,MVM CEEnergy Slovakia s.r.o.,True
+24,10852134,party_2_ico,50060872,True,34008900,False
+24,10852134,party_2_address,"Ivánska cesta 30/B, 82104 Bratislava - mestská časť Ružinov, Slovenská republika",True,"J. Braneckého 130/15, 91401 Trenčianska Teplá SVK",False
+25,10875730,contract_title,ZMLUVA O DIELO,True,Zmluva o dielo,True
+25,10875730,contract_subject,Predmetom zmluvy je záväzok Zhotoviteľa riadne a včas a v požadovanej kvalite vykonať dielo Komplexná sanácia nelegálnej skládky odpadov a revitalizácia prírodného prostredia Podhorany podľa Prílohy č. 1 tejto zmluvy a taktiež záväzok Zhotoviteľa dodať Objedná-vateľovi všetky s tým súvisiace doklady týkajúce sa realizácie diela a jeho kvality.,False,6/2025,False
+25,10875730,contract_number,6/2025,True,6/2025,True
+25,10875730,amount_total,101527.03,True,101527.03,True
+25,10875730,party_1_name,Obec Podhorany,True,Obec Podhorany,True
+25,10875730,party_1_ico,00326461,True,52247694,False
+25,10875730,party_1_address,"Podhorany 114, 059 93 Bušovce",True,"Malá 2944, 022 01 Čadca",False
+25,10875730,party_2_name,MD4real s.r.o.,True,MD4real s.r.o.,True
+25,10875730,party_2_ico,52247694,True,,False
+25,10875730,party_2_address,"ul Malá 2944, 022 01 Čadca",True,,False
+26,5108847,contract_title,DOHODA,True,"Dohoda o poskytnutí finančného príspevku v rámci projektu ""Prvá pomoc"" - Opatrenie č. 3B",False
+26,5108847,contract_subject,"Účelom dohody je úprava práv a povinností účastníkov dohody pri poskytovaní finančného príspevku (ďalej len „príspevok“) na úhradu časti mzdových nákladov pre zamestnávateľa, ktorý v čase vyhlásenia mimoriadnej situácie udrží pracovné miesta aj v prípade prerušenia alebo obmedzenia svojej prevádzkovej činnosti z dôvodu",True,20/32/54E/1530,False
+26,5108847,contract_number,20/32/54E/1530,True,20/32/54E/1530,True
+26,5108847,date_valid_to,31.12.2028.,True,2021-12-31,False
+26,5108847,party_1_name,Úradom práce sociálnych vecí a rodiny Veľký Krtíš,True,"Úrad práce, sociálnych vecí a rodiny Veľký Krtíš",False
+26,5108847,party_1_ico,30794536,True,33259763,False
+26,5108847,party_1_address,"Madácha 2 , Veľký Krtíš, 99001",False,"Lučenská 431/20, 990 01 Veľký Krtíš",False
+26,5108847,party_2_name,Adrian Krňan A + M,True,Adrian Krňan A+M,False
+26,5108847,party_2_ico,33259763,True,30794536,False
+26,5108847,party_2_address,"Lučenská 431/20, 990 01 Veľký Krtíš",True,"Madácha 2, 990 01 Veľký Krtíš",False
+27,6627154,contract_title,DOHODA,True,DOHODA o poskytnutí finančných príspevkov na podporu mentorovaného zapracovania ako súčasti pracovného pomeru znevýhodneného UoZ,False
+27,6627154,contract_subject,"Účelom dohody je úprava práv a povinností účastníkov dohody pri poskytovaní finančných príspevkov na podporu mentorovaného zapracovania ako súčasti pracovného pomeru znevýhodneného UoZ podľa §8 zákona o službách zamestnanosti (ďalej len „ZUoZ“) a mladého UoZ - NEET do 30 rokov veku (30 rokov mínus jeden deň), ktorí nie sú zamestnaní, nepokračujú v procese vzdelávania, ani sa nezúčastňujú na odbornej príprave",True,22/45/054/162,False
+27,6627154,contract_number,22/45/054/162,True,22/45/054/162,True
+27,6627154,party_1_name,Úradom práce sociálnych vecí a rodiny Trebišov,True,"Úrad práce, sociálnych vecí a rodiny Trebišov",False
+27,6627154,party_1_ico,30794536,True,51008068,False
+27,6627154,party_1_address,"M. R. Štefánika 73/23, 075 01 Trebišov",True,"Berehovská 2214/15, 075 01 Trebišov",False
+27,6627154,party_2_name,Ing. Bibiana Hreha Bakytová PROTEXT,True,Ing. Bibiana Hreha Bakytová PROTEXT Trebišov,False
+27,6627154,party_2_ico,51008068,True,30794536,False
+27,6627154,party_2_address,"Berehovská 2214/15, 075 01 Trebišov",True,"M.R. Štefánika 73/23, 075 01  TREBIŠOV",False
+28,408841,contract_title,Dohoda,True,Dohoda o úhrade oprávnených výdavkov za služby na vzdelávanie a prípravu pre trh práce dodávateľovi služieb vzdelávania a prípravy pre trh práce,False
+28,408841,contract_subject,Predmetom dohody je úprava práv a povinností účastníkov dohody pri,True,04/§46/UoZ/2012/TO,False
+28,408841,contract_number,04/§ 46/ UoZ/2012,True,04/§46/UoZ/2012/TO,False
+28,408841,date_signed,2012-02-15 00:00:00,True,2012-02-15,True
+28,408841,date_effective,2012-02-20 00:00:00,True,2012-02-21,False
+28,408841,date_valid_to,2012-02-29 00:00:00,True,0000-00-00,False
+28,408841,amount_total,1800,True,1800,True
+28,408841,party_1_name,"Úrad práce, sociálnych vecí a rodiny Topoľčany",True,"Úrad práce, sociálnych vecí a rodiny  Topoľčany",True
+28,408841,party_1_ico,37961225,True,36 233 6,False
+28,408841,party_1_address,"Škultétyho 1577/ 8, 955 01 Topoľčany",True,"Priemyselná 278,              905 01 Senice",False
+28,408841,party_2_name,"SAPA, s. r. o",True,"SAPA s.r.o, Senica",False
+28,408841,party_2_ico,36233692,True,37961225,False
+28,408841,party_2_address,"Priemyselná 278, 905 01 Senica",True,"Škultétyho 1577/8, 955 01  Topoľčany",False
+29,1000227,contract_title,Dohoda,True,Dohoda o poskytnutí príspevku na činnosť pracovného asistenta podľa § 59 zákona č. 5/2004 Z. z. o službách zamestnanosti a o zmene a doplnení niektorých zákonov v znení neskorších predpisov,False
+29,1000227,contract_subject,Predmetom dohody je poskytovanie príspevku na činnosť pracovného asistenta podľa § 59 zákona o službách zamestnanosti.,True,12/59/2013 UPSVR LC,False
+29,1000227,contract_number,12/§59/2013,True,12/59/2013 UPSVR LC,False
+29,1000227,party_1_name,"Úradom práce, sociálnych vecí a rodiny Lučenec",False,"Úrad práce, sociálnych  vecí a rodiny",False
+29,1000227,party_1_ico,37949616,True,32624271,False
+29,1000227,party_1_address,"F. Lehára 18, 984 01 Lučenec",True,"Sládkovičova 1208/1, 986 01 Fiľakovo",False
+29,1000227,party_2_name,Pavel Vranský,True,Pavel Vranský,True
+29,1000227,party_2_ico,32624271,True,37949616,False
+29,1000227,party_2_address,"Sládkovičova 1208/1, 986 01 Fiľakovo",True,"F. Lehára 18, 984 01 Lučenec",False
+30,10373290,contract_title,Dohoda,True,"Dohoda §59, zamestnávateľ, ŠR",False
+30,10373290,contract_subject,Predmetom dohody je poskytovanie príspevku na činnosť pracovného asistenta podľa § 59 zákona o službách zamestnanosti.,True,25/12/059/47,False
+30,10373290,contract_number,25/12/059/47,True,25/12/059/47,True
+30,10373290,date_effective,2025-01-01 00:00:00,True,2025-02-01,False
+30,10373290,date_valid_to,31.12.2025 ,True,0000-00-00,False
+30,10373290,amount_total,1402.85,True,13824.96,False
+30,10373290,party_1_name,"Úradom práce, sociálnych vecí a rodiny Prievidza",True,"Úrad práce, sociálnych vecí a rodiny Prievidza",False
+30,10373290,party_1_ico,30794536,True,36324621,False
+30,10373290,party_1_address,"Šumperská 1, 971 01 Prievidza",True,"Severná I. 2529/37, 97101, Prievidza",False
+30,10373290,party_2_name,"Karton.sk, s. r. o.",True,"Karton.sk, s. r. o.",True
+30,10373290,party_2_ico,36324621,True,30794536,False
+30,10373290,party_2_address,"Severná I. 2529/37, 971 01 Prievidza",True,"Šumperská 1, Prievidza",False
+31,10373292,contract_title,Dohoda,True,"Dohoda §59, SZČO so ZP, ŠR",False
+31,10373292,contract_subject,"Účelom dohody je úprava záväzkov účastníkov dohody pri poskytnutí príspevku na činnosť pracovného asistenta podľa § 59 zákona o službách zamestnanosti, ktorý sa poskytuje zo zdrojov štátneho rozpočtu Slovenskej republiky v zmysle",True,25/12/059/48,False
+31,10373292,contract_number,25/12/059/48,True,25/12/059/48,True
+31,10373292,date_effective,2025-01-01 00:00:00,True,2025-02-01,False
+31,10373292,date_valid_to,2025-12-31 00:00:00,True,0000-00-00,False
+31,10373292,amount_total,929.75,True,11157,False
+31,10373292,party_1_name,"Úradom práce, sociálnych vecí a rodiny Prievidza",True,"Úrad práce, sociálnych vecí a rodiny Prievidza",False
+31,10373292,party_1_ico,30794536,True,30423902,False
+31,10373292,party_1_address,"Šumperská 1, 971 01 Prievidza",True,"Bojnická cesta 45C, 97101, Prievidza",False
+31,10373292,party_2_name,Tatiana Slošiarová RST-ODEVY A TEXTIL,True,Tatiana Slošiarová RST-ODEVY A TEXTIL,True
+31,10373292,party_2_ico,30423902,True,30794536,False
+31,10373292,party_2_address,"Školská 72, 972 01 Bojnice",True,"Šumperská 1, Prievidza",False

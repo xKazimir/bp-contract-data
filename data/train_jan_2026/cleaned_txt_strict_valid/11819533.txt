@@ -1,0 +1,189 @@
+Úrad vlády Slovenskej republiky
+Nám. Slobody 1, 813 70 Bratislava
+
+Potvrdenie o zverejnení zmluvy
+
+Podľa zákona § 5a ods. 7 zákona č. 211/2000 Z. z. o slobodnom prístupe k informáciám a o zmene a doplnení
+niektorých zákonov (zákon o slobode informácií) v znení neskorších predpisov
+
+Účastníci zmluvy:
+
+Centrum poradenstva a prevencie, Námestovo
+
+DSI DATA a.s.
+
+Predmet zmluvy – číslo zmluvy:
+
+Zmluva o poskytovaní verejných služieb - Zmluva č. 1/26
+
+Zmluvne dohodnutá čiastka:
+
+0 €
+
+Identifikačné číslo zmluvy v rámci systému CRZ:
+
+11819533
+
+Dátum uzavretia zmluvy
+03.01.2026
+
+Dátum zverejnenia zmluvy
+03.01.2026
+
+Dátum účinnosti zmluvy
+04.01.2026
+
+Dátum: 03.01.2026
+
+Sekcia informačných technológií
+Úrad vlády Slovenskej republiky
+
+[[ATTACHMENT_BOUNDARY idx=2 total=2 source=11819533_2.pdf]]
+
+DSI DATA, a. s.
+Nám. A. Bernoláka 377, 029 01 Námestovo
+zákaznícka linka: 0850 888019
+linka tech.podpory: 0800 601116
+faktury@dsidata.sk | www.dsidata.sk
+
+ Užívateľ
+
+Zmluvné strany
+
+D O D A T O K č. 13
+k zmluve č. 2004827/759
+podpísanej 01.08.2010
+(ďalej len Zmluva)
+Špeciﬁkácia služieb
+
+Adresa / sídlo:
+
+Centrum poradenstva a prevencie, Námestie A. Bernoláka
+378/7, Námestovo
+Námestie Antona Bernoláka 378/7
+029 01 Námestovo
+
+Štatutárny zástupca Mgr. Matejčíková Šareková Zuzana
+IČO:
+DIČ:
+Kontaktný e-mail:
+
+37976699
+2022101796
+zuzana.sarekova@cppno.sk, andrea.hvolkova@cppno.sk,
+jaro@randjak.eu
+
+ Poskytovateľ
+
+Adresa / sídlo:
+
+DSI DATA, a. s.
+Nám. A. Bernoláka 377
+029 01 Námestovo
+
+Štatutárny zástupca Mgr. Rastislav Dravecký, predseda predstavenstva
+SK30 7500 0000 0040 0763 1524
+IBAN:
+CEKOSKBX
+SWIFT:
+36399493
+IČO:
+IČ DPH:
+SK2020129727
+Výpis z obch. registra: OR OS v Žiline, odd. Sa, vl.č. 10965/L
+
+Predmetom tohto dodatku k Zmluve o poskytovaní verejných služieb Poskytovateľa (ďalej tiež „Zmluva“) je zmena,
+resp. doplnenie Zmluvy a jej príloh a špeciﬁkácia poskytovaných služieb na základe objednávky užívateľa zo dňa
+30.12.2025 podanej prostredníctvom e-mailového kontaktu. Dodatok je na základe objednávky užívateľa doručený
+a veriﬁkovaný elektronicky. Ide o nasledovné zmeny, resp. doplnenia:
+
+čl. I. Predmet dodatku
+
+Špeciﬁkácia služieb:
+
+A/ Názov a obsah poskytovaných služieb:
+
+Názov a obsah služieb
+
+Cena
+
+Základný Optic FTTH internet
+
+• Základný Optic FTTH internet 80/15 Mbit/s
+
+12,00 € s DPH / mesiac
+s viazanosťou 24 mesiacov,
+poskytnutá výhoda vyplývajúca
+z viazanosti -5,00 € / mesiac
+
+(17,00 € s DPH bez viazanosti)
+
+Zúčtovacie obdobie je kalendárny mesiac, cena za poskytnutú službu je splatná na základe faktúry s lehotou splatnosti
+uvedenou vo faktúre. Forma doručenia faktúry: e-mailom. Týmto sa dopĺňa, respektíve mení článok I odsek 1 Zmluvy v
+znení jej dodatkov.
+
+B/ Doba poskytovania služieb:
+Bez zmeny viazanosti.
+
+C/ Miesto a čas poskytovania služby:
+
+Námestie Antona Bernoláka 377/5
+029 01 Námestovo
+
+od 01.01.2026
+
+Týmto sa mení špeciﬁkácia miesta a času poskytovania služieb uvedených v Zmluve v znení jej dodatkov.
+
+D/ Nájom zariadenia/í:
+Pre účely používania služieb je dohodnutý nájom nasledujúcich zariadení podľa §663 a §721 Občianskeho zákonníka
+
+medzi Poskytovateľom ako prenajímateľom a Užívateľom ako nájomcom:
+
+Názov / Typ
+
+HALNY GPON ONT, HL-1GE
+
+Počet ks
+
+1
+
+Cena prenájmu za 1 ks / mesačne
+
+0,50 € s DPH
+
+Podmienky nájmu sú špeciﬁkované v čl.13 Všeobecných podmienok Poskytovateľa, s obsahom ktorých sa Užívateľ
+oboznámil. V zmysle čl. 11 Všeobecných podmienok Poskytovateľa má Poskytovateľ právo nárokovať si zmluvnú
+pokutu vo výške 95€ v prípade nevrátenia zariadenia. Týmto sa nahrádzajú doterajšie dojednania o nájme vyššie
+uvedených zariadení Užívateľom uvedené v Zmluve v znení jej dodatkov, respektíve v osobitných nájomných
+zmluvách, ktoré podpisom tohoto dodatku strácajú platnosť.
+
+čl. II. Spoločné a záverečné ustanovenia
+
+1.
+2.
+3.
+
+4.
+
+5.
+
+6.
+
+Dodatok sa stáva neoddeliteľnou súčasťou Zmluvy.
+Ustanovenia Zmluvy, nedotknuté týmto dodatkom zostávajú v platnosti.
+Dodatok je vyhotovený v dvoch vyhotoveniach, z ktorých jeden exemplár obdrží Poskytovateľ a jeden exemplár
+obdrží Užívateľ v písomnej forme, respektíve v elektronickej forme.
+Užívateľ vyhlasuje, že dodatok ako aj Všeobecné podmienky Poskytovateľa zverejnené na webovom sídle
+Poskytovateľa si podrobne prečítal, porozumel ich textu a na znak súhlasu s ich obsahom dodatok vlastnoručne
+podpisuje, resp. pri elektronickej forme uzavretia dodatku tak činí potvrdením elektronického formulára.
+Tento Dodatok nadobúda platnosť a účinnosť dňom jeho podpisu, resp. potvrdením elektronického formulára, ak
+v tomto dodatku nie je uvedené inak.
+Ceny sú uvádzané s DPH 23%, pokiaľ nie je uvedené inak.
+
+Námestovo 30.12.2025
+
+za Poskytovateľa
+
+Dodatok potvrdený Užívateľom elektronicky dňa
+03.01.2026 09:12:46
+za Užívateľa

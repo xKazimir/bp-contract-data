@@ -1,0 +1,866 @@
+ZMLUVA O POSKYTOVANÍ SLUŽIEB 
+
+uzatvorená podľa§ 269 ods. 2 a nasl. zákona č. 513/1991 Zb. Obchodný zákonník v znení 
+neskorších predpisov (ďalej len „zmluva") medzi: 
+
+Článokl 
+ZMLUVNÉ STRANY 
+
+Názov organizácie: 
+Sídlo organizácie: 
+IČO: 
+DIČ: 
+IBAN: 
+V mene, ktorého koná: 
+
+Trenčiansky samosprávny kraj 
+K dolnej stanici 7282/20A, 911 01 Trenčín 
+36126624 
+2021613275 
+
+Ing. Jaroslav Baška, predseda TSK 
+
+( ďalej len „objednávate/"' alebo „ TSK" v príslušnom gramatickom tvare) 
+
+Názov organizácie: 
+Sf dlo organizácie: 
+štatutárny orgán: 
+IBAN: 
+Bankové spojenie: 
+IČO: 
+DIČ: 
+IČ DPH: 
+Spoločnosť zapísaná v: 
+Email: 
+
+Aricoma Systems s.r.o. 
+Krasovského 14, Bratislava - mestská časť Petržalka 851 01 
+Maria Háronik, konateľ 
+
+36396222 
+2020105428 
+SK2020105428 
+OR MS Bratislava III, Oddiel: Sro, vložka č. 130357 /B 
+
+(ďalej len „zhotovíte/"' v príslušnom gramatickom tvare) 
+
+sa dohodli na uzatvorení tejto mandátnej zmluvy (ďalej len „zmluva" v príslušnom 
+gramatickom tvare). 
+
+Zhotoviteľ a Objednávateľ sa dohodli na úprave a optimalizácií informačných systémov 
+TSK z dôvodu odstránenia externého napojenia na ÚPVS a zabezpečenie priameho 
+prepojenia. Za týmto účelom uzatvárajú zmluvné strany túto Zmluvu. 
+
+Článok II. 
+PREDMET ZMLUVY 
+
+1. Predmetom tejto Zmluvy je implementácia optimalizácie elektronických podaní v zmysle 
+
+prílohy č. 1 tejto zmluvy, a to najmä: 
+
+a) Rekonfigurovať a implementovať priamu integráciu na modul eForm ÚPVS 
+b) Zabezpečiť synchronizáciu stavov formulárov medzi ÚPVS eForm a súčasným 
+portálom elektronických podaní, prostredníctvom synchronizácie pomocou 
+notifikácií SubscriptionService.Receive, prípadne dopytom do eForm ÚPVS 
+
+c) Rekonfigurovať a implementovať integráciu na modul eDesk ÚPVS pre 
+
+odosielanie elektronických podaní do schránky ÚPVS 
+
+1 
+
+d) Poskytnúť technickú dokumentáciu k úprave integračného scenára ÚPVS 
+e) Testovanie úprav a súčinnosť s ďalšími dodávateľmi naviazanych systémov pri 
+
+ladení integrácií 
+
+t) Nasadenie a konfigurácia úprav na TEST a PROD prostredí TSK 
+g) Dodanie integračného komponentu, ktorý bude sprístupňovať služby spoločných 
+
+modulov ÚPVS pre interné agendové a evidenčné systémov 
+
+h) Spracovanie dohody o integračnom zámere s ÚPVS pre využívanie spoločných 
+
+modulov Ústredného portálu verejnej správy a prístupových komponentov. 
+
+2. Miestom poskytovania služieb je infraštruktúra Objednávateľa, pričom služby môžu byť 
+telefónnymi 
+poskytnuté prostredníctvom bezpečného vzdialeného pripojenia, 
+konzultáciami alebo zásahom na mieste Objednávateľa, resp. na mieste určenom 
+Objednávateľom. 
+
+3. Objednávateľ sa zaväzuje za služby poskytované Poskytovateľom na základe tejto Zmluvy 
+
+zaplatiť Zhotoviteľovi odmenu v súlade s čl. IV. tejto Zmluvy. 
+
+4. Špecifikácia funkcionality novej integrácie je uvedená v prílohe č. 1 "Opis predmetu 
+
+zmluvy". 
+
+Článok III. 
+ČAS PLNENIA 
+
+1. Zmluva sa uzatvára na dobu určitú, 6 mesiacov od nadobudnutia účinnosti zmluvy. Zmluva 
+nadobúda platnosť dňom jej podpisu oboma zmluvnými stranami a účinnosť dňom jej 
+zverejnenia objednávateľom podľa osobitných právnych predpisov. 
+
+Článok IV. 
+ODMENA A NÁHRADA NÁKLADOV 
+
+1. Celková cena za dodanie diela definovaného v bode 1.1 čl. II tejto zmluvy je dohodnutá vo 
+výške 67.000 EUR (slovom: šesťdesiatsedemtisíc EUR) bez DPH. Výška DPH pri sadzbe 
+20% je 13.400 EUR (slovom: trinásťtisícštyristo EUR), celková cena s DPH je vo výške 
+80.400,- EUR (slovom: osemdesiattisícštyristo EUR). Celková cena diela sa skladá z ceny 
+za: 
+1.1. Cena analýzu a dizajn bola dohodnutá vo výške 15.950 EUR 
+
+(slovom: 
+pätnásťtisícdeväťstopäťdesiat EUR) bez DPH ako jednorazová platba po ukončení 
+fázy analýzy. Výška DPH pri sadzbe 20% je 3.190 EUR (slovom: tritisícstodeväťdesiat 
+EUR), 
+(slovom: 
+je vo 
+devätnásťtisícstoštyridsať EUR). 
+
+s DPH 
+
+celková 
+
+19.140,-
+
+výške 
+
+cena 
+
+EUR 
+
+1.2. Cena za implementáciu a testovanie bola dohodnutá vo výške 30.250,- EUR (slovom: 
+tridsaťtisícdvestopäťdesiat EUR) bez DPH ako jednorazová platba hradená po 
+implementovaní a otestovaní systému. Výška DPH pri sadzbe 20% je 6.050,- EUR 
+(slovom: šesťtisícpäťdesiat EUR), celková cena s DPH je vo výške 36.300,- EUR 
+(slovom: tridsaťšesťtisíctristo EUR). 
+
+1.3. Cena za nasadenie bola dohodnutá vo výške 20.800,- EUR 
+
+(slovom: 
+dvadsaťtisícosemsto EUR) bez DPH ako jednorazová platba hradená po úplnom 
+odovzdaní predmetu zmluvy do produkčnej prevádzky. Výška DPH pri sadzbe 20% je 
+4.160,- EUR (slovom: štyritisícstošesťdesiat EUR), celková cena s DPH je vo výške 
+24.960,- EUR (slovom: dvadsaťštyritisícdeväťstošesťdesiat EUR). 
+
+2. Objednávateľ uhradí cenu podľa bodu 1.1, 1.2, 1.3 na základe faktúry vystavenej 
+zhotoviteľom. Faktúra bude vystavená najneskôr do 30 dní po vzniku nároku na 
+fakturáciu. 
+
+2 
+
+3. Zhotoviteľ má právo na fakturáciu po ukončení jednotlivých fáz na základe podpísaného 
+
+akceptačného protokolu podľa harmonogramu v zmysle prílohy č. 2 tejto zmluvy. 
+
+4. Ak faktúra bude obsahovať nesprávne údaje alebo nebude mať požadované prílohy, 
+prípadne ak nebude obsahovať náležitosti podľa zákona č. 222/2004 Z. z. o dani z pridanej 
+hodnoty v znení neskorších predpisov, je objednávateľ do 10 pracovných dní odo dňa 
+doručenia oprávnený vrátiť faktúru na prepracovanie zhotoviteľovi, čím sa preruší 
+splatnosť faktúry a nová splatnosť začína plynúť od doručenia novej faktúry. 
+
+S. Elektronická fakturácia v zmysle zákona č. 215/2019 Z. z. o za ručenej elektronickej 
+fakturácii a centrálnom ekonomickom systéme v platnom znení sa umožňuje a TSK 
+akceptuje predloženie elektronickej fakturácie. 
+
+Článok V. 
+SÚČINNOSŤ ZMLUVNÝCH STRÁN A VZÁJOMNÁ KOMUNIKÁCIA 
+
+1. Objednávateľ vynaloží primerané úsilie na to, aby ostatné subjekty, ktorých činnosť je 
+predpokladom poskytovania služieb podľa tejto zmluvy, poskytovali Zhotoviteľovi 
+súčinnosť potrebnú pre plnenie tejto Zmluvy. Zhotoviteľ pritom nezodpovedá za 
+včasnosť, úplnosť a kvalitu poskytovania takejto súčinnosti zo strany ostatných subjektov. 
+2. Zmluvné strany sa zaväzujú vzájomne spolupracovať a poskytovať si všetky informácie 
+potrebné pre riadne plnenie svojich záväzkov. Zmluvné strany sú povinné informovať 
+druhú zmluvnú stranu o všetkých skutočnostiach, ktoré sú alebo môžu byt' dôležité pre 
+riadne plnenie tejto Zmluvy. 
+
+3. Zmluvné strany sú povinné plniť svoje záväzky vyplývajúce z tejto Zmluvy tak, aby 
+nedochádzalo k omeškaniu s plnením jednotlivých termínov a s omeškaním úhrad 
+jednotlivých peňažných záväzkov. 
+
+4. Každá komunikácia medzi zmluvnými stranami bude prebiehať prostredníctvom 
+oprávnených osôb, štatutárnych orgánov zmluvných strán, prípadne nimi poverenými 
+zamestnancami. 
+
+S. Všetky oznámenia medzi zmluvnými stranami, ktoré sa vzťahujú k tejto Zmluve, alebo 
+ktoré majú byť vykonané na základe tejto Zmluvy, musia byť vykonané v písomnej 
+podobe a druhej strane doručené buď osobne alebo doporučeným listom či inou formou 
+registrovaného poštového styku na adresu uvedenú v tejto Zmluve, ak nie je ustanovené 
+alebo medzi zmluvnými stranami dohodnuté inak. 
+
+6. Objednávateľ zabezpečí prístup podľa potreby zamestnancom Zhotoviteľa do priestorov 
+Objednávateľa, ak si riadne poskytovanie služieb podľa tejto Zmluvy bude vyžadovať 
+vstup Zhotoviteľa do priestorov Objednávateľa. 
+
+7. Objednávateľ umožní Zhotoviteľovi prístup k dotknutým informačným systémom u 
+Objednávateľa pomocou diaľkového prenosu dát, pričom Zhotoviteľ je povinný absolútne 
+rešpektovať ochranu všetkých dát Objednávateľa. 
+
+8. Objednávateľ poskytne Zhotoviteľovi nevyhnutné informácie a dokumenty podľa 
+
+požiadaviek Zhotoviteľa, ktoré sú nevyhnutné pre plnenia tejto Zmluvy. 
+
+Článok VI. 
+ZÁRUČNÉ PODMIENKY 
+
+1. Zhotoviteľ zodpovedá za to, že služby budú poskytované v najvyššej dostupnej kvalite tak, 
+
+aby vyhovovali potrebám Objednávateľa. 
+
+3 
+
+2. Pri výskyte vady poskytovaných služieb Objednávateľ na ňu upozorní a Zhotoviteľ ju na 
+vlastné náklady a vo vopred oboma zmluvnými stranami dohodnutom termíne odstráni. 
+3. V prípadoch, keď vada vznikla preukázateľne zavineným konaním zamestnancov 
+Objednávateľa, najmä nesprávnym zaobchádzaním alebo neoprávnenými zásahmi do 
+modulu prepojenia schránky na ÚPVS, vo vzťahu ku ktorému sú služby poskytované, 
+Zhotoviteľ odstráni spôsobené vady na základe požiadavky a na náklady Objednávateľa. 
+4. Zhotoviteľ nezodpovedá za vady, ktoré boli spôsobené použitím podkladov prevzatých 
+od Objednávateľa a/alebo iných subjektov pokiaľ Zhotoviteľ ani pri vynaložení všetkej 
+odbornej starostlivosti nemohol zistiť ich nevhodnosť, prípadne na ich nevhodnosť 
+upozornil Objednávateľa, ktorý však na ich použití trval. 
+
+S. Objednávateľ berie na vedomie, že Zhotoviteľ nenesie žiadnu zodpovednosť za poruchy 
+modulu prepojenia schránky na ÚPVS čo i len čiastočne spôsobené poruchami v prevádzke 
+internetového 
+Ústredného portálu verejnej správy, poruchami alebo výpadkom 
+pripojenia a za poruchy modulu prepojenia registratúry na ÚPVS, ktoré sám nespôsobil. 
+6. Zhotoviteľ ďalej nezodpovedá za vady spôsobené treťou osobou inou ako Zhotoviteľom, 
+jeho zamestnancom alebo osobou ním poverenou alebo oprávnenou na poskytovanie 
+služieb podľa tejto Zmluvy. Zhotoviteľ ďalej nezodpovedá za vady spôsobené udalosťou 
+za ktorú táto tretia osoba zodpovedá, alebo za vady spôsobené neodvrátiteľnou udalosťou 
+napr. požiarom, alebo inou udalosťou, napríklad vyššou mocou. 
+
+Článok VII. 
+MLČANLIVOSŤ 
+
+1. Zmluvné strany sa dohodli, že táto Zmluva, jej obsah, ako aj všetky informácie (vrátane 
+obchodných, technických a iných informácií), ktoré (i) budú Zhotoviteľom poskytnuté 
+alebo zverené Objednávateľovi na jej základe alebo v súvislosti s ňou, alebo (ii) ktoré sa 
+dozvie Zhotoviteľ pri poskytovaní služieb pre Objednávateľa, alebo (iii) ktoré sa dozvie 
+ktorákoľvek zmluvná strana pri plnení svojich povinností alebo vykonávaní dohodnutých 
+činností podľa Zmluvy a týkajú sa najmä, ale nie výlučne pracovných postupov a know 
+how druhej zmluvnej strany, sa v zmysle ustanovenia § 271 Obchodného zákonníka 
+považujú za prísne dôverné a podľa svojej povahy môžu byť za splnenia všetkých 
+zákonných predpokladov predmetom obchodného tajomstva príslušnej zmluvnej strany 
+( ďalej len „Dôverné informácie"). 
+
+2. Pokiaľ to nie je nevyhnutné pre účely plnia povinností podľa Zmluvy (plnenia 
+dohodnutých činností), zmluvné strany sa zaväzujú chrániť a uchovávať v tajnosti 
+Dôverné informácie, a bez predchádzajúceho výslovného písomného súhlasu druhej 
+zmluvnej strany ich nezverejňovať, neposkytovať a ani inak nesprístupňovať tretím 
+osobám. Povinnosť mlčanlivosti a ochrany Dôverných informácií podľa tohto bodu 
+Zmluvy trvá tiež po ukončení zmluvného vzťahu založeného touto Zmluvou. 
+
+3. Za porušenie povinností podľa bodu 2 tohto článku Zmluvy sa nepovažujú prípady kedy 
+pôjde o informácie, ktoré (i) sú v dobe ich poskytnutia verejne dostupnými, alebo sa stanú 
+verejne dostupnými inak než porušením povinnosti mlčanlivosti niektorej zo zmluvných 
+strán tejto Zmluvy, (ii) ktorých poskytnutie sa vyžaduje zákonom, alebo na základe zákona 
+rozhodnutím súdu alebo iného príslušného orgánu štátu alebo (iii) boli ktoroukoľvek 
+zmluvnou stranou poskytnuté jej právnym, ekonomickým, daňovým, resp. obdobným 
+poradcom za účelom plnenia zákonných povinností alebo uplatňovania nárokov. 
+
+4 
+
+4. Zmluvné strany sa zaväzuJu, ze k povinnosti mlčanlivosti zav1azu všetkých svojich 
+zamestnancov, spolupracovníkov, externých partnerov, ako aj ďalšie spolupracujúce 
+osoby, ktoré z dôvodu pracovnoprávneho, obchodného či iného vzťahu k danej zmluvnej 
+strane prídu, alebo môžu prísť do styku s Dôvernými informáciami 
+súvisiacimi s 
+predmetom plnenia podľa Zmluvy, pričom za porušenie povinnosti mlčanlivosti týchto 
+osôb zodpovedá príslušná zmluvná strana rovnako, ako by sa porušenia dopustila sama. 
+Zmluvné strany sa zaväzujú, že Dôverné informácie poskytnú svojim spolupracujúcim 
+osobám len v nevyhnutnej miere. 
+
+5. Porušenie akejkoľvek z povinností podľa tohto článku Zmluvy bude považované za 
+
+podstatné porušenie tejto Zmluvy. 
+
+6. Zhotoviteľ zodpovedá objednávateľovi za zavinenú škodu, ktorá mu v súvislosti s 
+
+porušením povinnosti zachovávať mlčanlivosť podľa tohto článku vznikla. 
+
+Článok VIII. 
+Zmluvné sankcie 
+
+1. Pre prípad porušenia zmluvnej povinnosti zhotoviteľa dodať dielo v termíne podľa Čl. III, 
+je objednávateľ oprávnený požadovať od zhotoviteľa zmluvnú pokutu vo výške 0,05 % zo 
+zmluvnej ceny s DPH uvedenej v bode 1. čl. IV. tejto zmluvy, a to za každý deň porušenia 
+povinnosti. 
+
+2. Pre prípad porušenia zmluvnej povinnosti zhotoviteľa odstrániť vady softvéru v 
+termínoch určených v ČL VI bod 3, je objednávateľ oprávnený požadovať od zhotoviteľa 
+zmluvnú pokutu vo výške 0,05 % zo zmluvnej ceny s DPH uvedenej v bode 2. Čl. IV. tejto 
+zmluvy, a to za každý deň porušenia povinnosti odstrániť vady softvéru, a to za každú 
+zabezpečovanú povinnosť samostatne. 
+
+3. Za každý deň nedodržania termínu splatnosti faktúry v zmysle Čl. IV. tejto zmluvy má 
+zhotoviteľ právo požadovať od objednávateľa zmluvnú pokutu vo výške 0,05% z dlžnej 
+sumy za každý deň omeškania a objednávateľ sa zaväzuje v prípade uplatnenia tohto 
+práva zhotoviteľom zmluvnú pokutu zaplatiť. 
+
+4. Zmluvné pokuty dohodnuté touto zmluvou hradí povinná strana nezávisle na tom, v akej 
+výške vznikne druhej strane v tejto súvislosti škoda. Zmluvné strany sa dohodli, že 
+zmluvná pokuta sa nezapočítava na náhradu škody. Zmluvné pokuty sú splatné do 15 dní 
+odo dňa uplatnenia nároku na ich zaplatenie. 
+
+Článok IX. 
+ZÁVEREČNÉ USTANOVENIA 
+
+1. Miestom pre doručovanie písomností sú adresy zmluvných strán uvedené v záhlaví tejto 
+zmluvy. Každá zo zmluvných strán je povinná písomne oznámiť druhej zmluvnej strane 
+akúkoľvek zmenu ohľadne doručovania, a to bezodkladne po tom, čo k takejto zmene 
+dôjde. Pokiaľ sa z dôvodu oneskoreného alebo nevykonaného oznámenia o zmene miesta 
+doručovania nepodarí doručiť písomnosť druhej zmluvnej strane, považuje sa deň 
+vrátenia zásielky odosielateľovi za deň doručenia aj keď sa o tom adresát nedozvedel. 
+
+2. Za deň doručenia písomností sa bude považovať deň osobného prevzatia písomností, deň 
+prevzatia poštovej zásielky, deň odmietnutia prevzatia písomnosti alebo poštovej 
+zásielky, tretí deň úložnej lehoty na pošte a to aj v prípade, že sa o tom adresát nedozvedel. 
+5 
+
+3. V prípade, že objednávateľ bude v budúcnosti pretransformovaný na iný právny subjekt, 
+alebo iné právne subjekty, alebo dôjde zmene názvu alebo iným zmenám v štruktúre 
+nadobúdateľa a pod., tak práva a povinnosti vyplývajúce z tejto zmluvy prechádzajú v 
+plnom rozsahu na prípadného právneho nástupcu objednávateľa. 
+
+4. Zhotoviteľ garantuje práva z tejto zmluvy náležiace objednávateľovi zachovať aj v prípade 
+
+vlastnej reorganizácie. 
+
+5. Objednávateľ sa zaväzuje zverejniť zmluvu do S pracovných dní od podpísania zmluvy na 
+
+svojom webovom sídle. 
+
+6. Zmluvu možno meniť len písomnými dodatkami, podpísanými oprávnenými zástupcami 
+
+obidvoch zmluvných strán. 
+
+7. Zmluvné strany prehlasujú, že zmluvu uzatvorili vážne a slobodne, že ustanovenia zmluvy 
+sú pre nich zrozumiteľné, že si zmluvu prečítali, porozumeli jej obsahu a na znak súhlasu 
+ju vlastnoručne podpísali. 
+
+8. Zmluva je vyhotovená v 3 vyhotoveniach, dva pre objednávateľa a jedno vyhotovenie pre 
+
+zhotoviteľa. 
+
+Prílohy: 
+1. Opis predmetu plnenia 
+2. Rozpis ceny 
+
+Za Objednávateľa: 
+
+Trenčín dňa ·i··;;;r ·'ŕ-··· 
+
+1 6~. 202&...............'....... "..... f....................... 
+Ing. Jaroslav Bai ka 
+predseda 
+Trenčiansky samosprávny kraj 
+
+Za Zhotoviteľa: 
+
+Bratislava dňa...!..l.-.J?..1...l-:r?.;.:t... 
+
+l 
+
+Ing. Mar) o Háronik 
+konaťeŕ 
+Aricoma Systems s.r.o. 
+
+lJ I,J lt!•hlV.af\11 L 1, \.I,,., -.J •.._.,,., v 
+
+l 
+
+/ 
+
+6 
+
+Príloha č. 1:Opis predmetu zmluvy 
+
+Popis súčasného stavu: 
+Verejný obstarávateľ disponuje externou schránkou napojenou na ÚPVS čo prináša možné 
+komplikácie pri využívaní elektronickej schránky ako aj pri zmenách dotknutých systémov. Pre 
+zjednodušenie celého procesu bude potrebné napojiť dotknuté systémy priamo na schránku ÚPVS. 
+
+Požiadavky na elektronické podania: 
+
+Na strane elektronických podaní bude potrebné: 
+
+podaní, 
+
+• 
+• 
+
+• 
+
+Rekonfigurovať a implementovať priamu integráciu na modul eForm ÚPVS 
+Zabezpečiť synchronizáciu stavov formulárov medzi ÚPVS eForm a súčasným portálom 
+elektronických 
+notifikácií 
+synchronizácie 
+SubscriptionService.Receive, prípadne dopytom do eForm ÚPVS 
+Rekonfigurovať a implementovať integráciu na modul eDesk ÚPVS pre odosielanie 
+elektronických podaní do schránky ÚPVS 
+Poskytnúť technickú dokumentáciu k úprave integračného scenára ÚPVS 
+
+• 
+• Testovanie úprav a súčinnosť s ďalšími dodávateľmi naviazanych systémov pri ladení 
+
+prostredníctvom 
+
+pomocou 
+
+integrácií 
+
+• Nasadenie a konfigurácia úprav na TEST a PROD prostredí TSK 
+
+Požiadavky na ÚPVS integráciu: 
+
+Na strane internej komunikácie s ÚPVS bude potrebné: 
+
+• Vypracovanie harmonogramu a stratégie pre preklopenie využívania ÚPVS externej 
+schránky v systéme inštitúcie, reprezentovanej vlastným integračným rozhraním ešte 
+podľa špecifikácie zákona č. 305/2013, na štandardnú el. schránku v prostredí ÚPVS. 
+• Spracovanie dohody o integračnom zámere s ÚPVS pre využívanie spoločných modulov 
+
+Ústredného portálu verejnej správy a prístupových komponentov. 
+
+• Dodanie integračného komponentu, ktorý bude sprístupňovať služby spoločných 
+modulov ÚPVS pre interné agendové a evidenčné systémov (1AM, eDesk, MED, MDU, 
+CUD) pre potreby automatizovaného sťahovania a odosielania el. správ a súvisiacich 
+technických správ. 
+Zabezpečiť súčinnosť a konzultácie pre potreby 
+evidenčných systémov s novými modulmi. 
+
+integrácií interných agendových a 
+
+• 
+
+• Nasadenie a konfigurácia úprav na TEST a PROD prostredí TSK 
+• Vykonanie UAT testov voči štandardnému rozhraniu ÚPVS a spracovanie potrebných 
+
+protokolov. 
+
+7 
+
+Nefunkčné požiadavky 
+
+OBLASŤ 
+POŽIADAVKY 
+
+NÁZOV 
+POŽIADAVKY 
+
+DETAILNÝ POPIS POŽIADAVKY 
+
+NÁZOV MODULU 
+(príslušnosť 
+požiadavky k modulu) 
+
+Elektronické podania Dokumentácia 
+
+Zabezpečiť technickú dokumentáciu 
+integračných scenárov 
+
+Elektronické podania Harmonogram 
+
+Vypracovanie harmonogramu integrácie 
+
+Elektronické podania modul eDesk 
+
+Implementovať modul eDesk ÚPVS pre 
+odosielanie elektronických podaní. 
+
+Elektronické podania Testovanie 
+
+Vykonanie štandardných UA T testov 
+
+Základné funkčné požiadavky 
+
+OBLASŤ 
+POŽIADAVKY 
+
+NÁZOV 
+POŽIADAVKY 
+
+DETAILNÝ POPIS POŽIADAVKY 
+
+Elektronické 
+podania 
+
+Priama integrácia na 
+ÚPVS 
+
+Elektronické 
+podania 
+
+Synchronizácia 
+formulárov 
+
+Je potrebné rekonfigurovať napojenie 
+a odstrániť externý modul elektronickej 
+schránky 
+Zabezpečiť synchronizáciu stavov 
+formulárov medzi ÚPVS eForm a súčasným 
+portálom 
+
+Elektronické 
+podania 
+
+Elektronické 
+podania 
+
+modul eDesk 
+
+Implementovať modul eDesk ÚPVS pre 
+odosielanie elektronických podaní. 
+
+Integrácia 
+
+Zabezpečenie funkčnosti pre agendové a 
+evidenčné systémov (1AM, eDesk, MED, 
+MDU,CUD) 
+
+NÁZOV 
+MODULU 
+(príslušnosť 
+požiadavky k 
+modulu) 
+
+Harmonogram realizácie akceptačných míľnikov: 
+
+Každý uchádzač vo svojej ponuke predloží detailný harmonogram realizácie akceptačných míľnikov, 
+
+ktorý musí spÍňať nasledovné požiadavky: 
+
+• maximálna lehota na realizáciu predmetu zákazky je 6 mesiacov odo dňa nadobudnutia 
+
+účinnosti zmluvy podľa prílohy č. 2 tejto výzvy; 
+
+8 
+
+• 
+
+každá aktivita uvedená v rámci každého z fakturačných míľnikov štruktúrovaného rozpočtu a 
+
+zmluvy uvedenej v prílohe č. 2 tejto výzvy je akceptačným míľnikom. Akceptačný míľnik 
+
+uvedený v rámci jedného fakturačného míľnika nie je možné presunúť do iného fakturačného 
+
+míľnika; 
+
+uchádzač môže navrhnúť predlžené alebo skrátené plnenia jednotlivých akceptačných míľnikov v 
+
+rámci každého fakturačného míľnika v takom rozsahu a za predpokladu, že nebude predlžené plnenie 
+
+daného fakturačného míľnika. Uchádzač môže navrh núť skrátené plnenia jednotlivých fakturačných 
+
+míľnikov. Maximálna lehota plnenia jednotlivých fakturačných míľnikov nemôže byť prekročená 
+
+Technická podpora 
+Verejný obstarávateľ v rámci zákazky požaduje služby technickej podpory poskytované po dobu 12 
+
+mesiacov od odovzdania predmetu zákazky do produkčnej prevádzky. 
+
+Technická podpora pozostáva predovšetkým z podpory a predmetu zákazky, riešenia bežnej údržby, 
+
+technických závad, chýb a incidentov a prípadne vykonanie zmien, ktoré sú potrebné pre správne 
+
+fungovanie modulov. 
+
+Základné požiadavky na technickú podporu: 
+
+štandardná reakčná doba do 1 pracovného dňa {24 hodín) od nahlásenia chyby (úroveň 
+
+Normálna), 
+
+aktualizácie a legislatívny upgrade softvérového systému 
+
+HelpDesk systém, telefonický alebo emailový prístup k technickému supportu v pracovných 
+
+dňoch od 8:30 do 15:30, 
+
+9 
+
+Príloha č. 2: Rozpis ceny 
+
+Pol. Fáza 
+č. 
+
+Názov položky 
+
+Počet jednotiek 
+
+Merná 
+Jednotka 
+(MJ) 
+
+Jednotková cena Sadzba DPH 
+za MJ v EUR bez 
+DPH 
+
+v% 
+
+DPH v EUR 
+
+Jednotková cena 
+Celková cena za 
+za MJ v EUR s DPH požadovaný počet požadovaný počet 
+
+Celková cena za 
+
+MJ v EUR bez DPH MJ v EUR s DPH 
+
+1. 
+
+2. 
+
+3. 
+
+4. 
+
+5. 
+
+6. 
+
+Analýza a dizajn 
+
+IT architekt 
+
+Analýza a dizajn 
+
+1T analytik 
+
+Implementácia a 
+testovanie 
+Implementácia a 
+testovanie 
+Implementácia a 
+testovanie 
+
+1T architekt 
+
+IT programátor/vývojár 
+
+Špecialista pre databázy 
+
+Nasadenie 
+
+1T programátor/vývojár 
+
+7. 
+
+Nasadenie 
+
+Špecialista pre databázy 
+
+8. 
+
+Nasadenie 
+
+Tester 
+
+ČD 
+
+ČD 
+
+ČD 
+
+ČD 
+
+ČD 
+
+ČD 
+
+ČD 
+
+ČD 
+
+5 
+
+30 
+
+5 
+
+60 
+
+10 
+
+30 
+
+10 
+
+10 
+
+590,00 
+
+20% 
+
+118,00€ 
+
+708,00€ 
+
+2 950,00€ 
+
+3 540,00 € 
+
+520,00 
+
+20% 
+
+104,00€ 
+
+624,00€ 
+
+590,00 
+
+20% 
+
+118,00€ 
+
+420,00 
+
+20% 
+
+420,00 
+
+20% 
+
+84,00€ 
+
+84,00€ 
+
+- -
+
+13 000,00{ 
+
+-
+2 950,00€ 
+
+-
+
+15 600,00 ť 
+-
+3 540,00 ť 
+
+23100,00{ 
+
+27 720,00 € 
+
+708,00€ 
+---
+504,00€ 
+
+504,00€ 
+
+4 200,00{ 
+
+5 040,00€ 
+-
+15 120,00€ 
+
+420,00 
+
+20% 
+
+84,00€ 
+
+504,00€ 
+
+12 600,00( 
+
+420,00 
+
+20% 
+
+84,00€ 
+
+504,00 € 
+
+4 200,00( 
+
+5 040,00 € 
+
+400,00 
+
+20% 
+
+80,00 € 
+
+480,00 € 
+
+4000,00{ 
+
+4 800,00€ 
+
+Celková cena: 
+
+67 000,00{ 
+
+80 400,00€ 
+
+10 
+
+Harmonogram fakturačných míľnikov 
+
+Etapa 
+
+Obsah etapy 
+
+Cena spolu v EUR bez DPH 
+
+za etapu/ čiastkové plnenie 
+
+Výška DPH 
+
+Cena spolu v EUR s DPH za 
+
+Fakturačný míľnik (v 
+
+etapu/ čiastkové plnenie 
+
+mesiacoch)!.etapa/čiastkové plnenie 
+
+Analýza a dizajn 
+
+15 950,00€ 
+
+2.etapa/čiastkové plnenie 
+
+Implementácia a 
+
+Testovanie 
+
+30 250,00 € 
+
+3. etapa/čiastkové plnenie 
+
+Nasadenie 
+
+20 800,00€ 
+
+20% 
+
+20% 
+
+20% 
+
+19140,00 € 
+
+36 300,00 € 
+
+24960,00€ 
+
+T+2* 
+
+T + 4* 
+
+T + 6* 
+
+11

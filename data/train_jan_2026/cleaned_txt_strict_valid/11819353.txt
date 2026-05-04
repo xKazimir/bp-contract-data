@@ -1,0 +1,352 @@
+ZMLUVA č. ZO/2025OP26359-2 
+O POSKYTOVANÍ SLUŽIEB ONLINE PORADCA 
+uzatvorená s poukazom na ust. § 269 ods. 2 zák. č. 513/1991 Zb. Obchodný zákonník v platnom znení, na zákon č. 
+586/2003 Z. z. o advokácii a o zmene a doplnení zákona č. 455/1991 Zb. o živnostenskom podnikaní (živnostenský 
+zákon) v znení neskorších predpisov v platnom znení a na ďalšie príslušné právne predpisy 
+
+1.1. Poskytovateľ /1./: 
+
+1.2. Poskytovateľ /2./: 
+
+medzi 
+
+čl. I. 
+Zmluvné strany 
+
+Obchodné meno: 
+MG LEGAL s.r.o. 
+Korešpondenčná adresa: Námestie osloboditeľov 3/A, 040 01 Košice 
+Konajúci: 
+IČO: 
+DIČ: 
+IČ DPH: 
+Sídlo: 
+Emailové spojenie: 
+Telefonický kontakt: 0908 087 297 
+
+JUDr. Maroš Gondek, konateľ 
+53549996 
+2121410236 
+SK2121410236 
+Námestie osloboditeľov 3/A, 040 01 Košice 
+office@mglegal.sk 
+
+(ďalej len „ poskytovateľ /1./“ alebo aj „advokátska kancelária“) 
+
+Obchodné meno: 
+osobnyudaj.sk, s.r.o. 
+Korešpondenčná adresa: Námestie osloboditeľov 3/A, 040 01 Košice 
+Konajúci: 
+
+Ing. Tomáš Dopirák, konateľ 
+JUDr. Jakub Pavčík, konateľ 
+50528041 
+2120357041 
+SK7120001878 
+Mlynské Nivy 5, Bratislava 821 09 
+pravne@osobnyudaj.sk 
+
+IČO: 
+DIČ: 
+IČ DPH: 
+Sídlo: 
+Emailové spojenie: 
+Telefonický kontakt: 02 / 800 800 80 
+
+(ďalej len „ poskytovateľ /2./“ alebo aj „spoločnosť osobnyudaj.sk“) 
+
+1.3. Objednávateľom: 
+
+Obchodné meno: 
+Sídlo: 
+Konajúci: 
+IČO: 
+DIČ: 
+
+Materská škola, Ul. SNP 14, Modra 
+Ul. SNP 14, 900 01, Modra 
+PaedDr. Beata Kozmonová 
+30864411 
+2022204921 
+
+(ďalej len „objednávateľ“ alebo „klient“) 
+
+(poskytovatelia a objednávateľ ďalej spoločne tiež ako „zmluvné strany“) 
+
+1 
+
+čl. II. 
+Úvodné ustanovenia a vymedzenie pojmov 
+
+2.1. Poskytovateľ /1./ je advokátska kancelária evidovaná v zozname Slovenskej advokátskej komory, ktorá 
+poskytuje právne služby podľa zákona č. 586/2003 Z. z. o advokácii a o zmene a doplnení zákona č. 455/1991 
+Zb. o živnostenskom podnikaní (živnostenský zákon) v znení neskorších predpisov v platnom znení a ostatných 
+príslušných predpisov, v rámci celého územia Slovenskej republiky. V mene advokátskej kancelárie koná jej 
+konateľ a advokát, JUDr. Maroš Gondek, zapísaný v zozname advokátov Slovenskej advokátskej komory pod č. 
+7907. 
+
+2.2. Poskytovateľ /2./ je obchodná spoločnosť so sídlom v Slovenskej republike, ktorá je autorom a zároveň 
+
+prevádzkovateľom online rozhrania poradca.osobnyudaj.sk 
+
+2.3. Ak v zmluve výslovne nie je uvedené inak, rozumie sa pod pojmom: 
+
+2.3.1. právne služby: služby, ktoré v zmysle príslušných právnych predpisov môže na území Slovenskej republiky 
+poskytovať sústavne a za odplatu advokát, a to najmä poskytovanie právnych rád, vypracovanie právnych 
+analýz, spisovanie listín o právnych úkonoch, zastupovanie osôb pred súdmi, orgánmi verejnej moci a inými 
+subjektmi, a ďalšie formy právneho poradenstva a právnej pomoci. 
+
+2.3.2. online rozhraním: webové sídlo prevádzkované spoločnosťou osobnyudaj.sk, ktoré je dostupné na internete 
+prostredníctvom domény www.poradca.osobnyudaj.sk, ktoré umožňuje klientovi prístup k službám, ktoré sú 
+predmetom tejto zmluvy. 
+
+2.4. Neoddeliteľnou súčasťou tejto zmluvy sú Všeobecné obchodné podmienky advokátskej kancelárie, zverejnené 
+v online rozhraní, ktoré upravujú ďalšie práva a povinnosti advokátskej kancelárie a klienta v súvislosti 
+s poskytovaním objednaných právnych služieb, ako aj niektoré aspekty spôsobu ich poskytovania. Klient 
+vyhlasuje, že sa pred podpisom tejto zmluvy oboznámil so znením Všeobecných obchodných podmienok 
+a súhlasí s nimi. 
+
+čl. III. 
+Predmet zmluvy 
+
+3.1. Predmetom tejto zmluvy je záväzok advokátskej kancelárie, poskytnúť klientovi ním požadované právne služby 
+v rozsahu a za podmienok dojednaných v tejto zmluve, a to oproti záväzku klienta zaplatiť advokátskej 
+kancelárii za poskytnuté služby odplatu dohodnutú touto zmluvou. Predmetom tejto zmluvy je tiež záväzok 
+spoločnosti osobnyudaj.sk, umožniť klientovi ako aj advokátskej kancelárii, prístup do online rozhrania 
+a zabezpečiť jeho funkčnosť. 
+
+3.2. Advokátska kancelária sa zaväzuje poskytnúť klientovi objednané služby podľa tejto zmluvy riadne, odborne 
+
+a včas. 
+
+3.3. Klient zaväzuje advokátskej kancelárii za poskytnutie objednaných služieb zaplatiť odmenu dohodnutú v tejto 
+
+zmluve riadne a včas. 
+
+čl. IV. 
+Rozsah a spôsob poskytovania objednaných služieb 
+
+4.1. Objednaná služba oprávňuje objednávateľa v rozsahu, spôsobom a za podmienok dojednaných v tejto zmluve, 
+požadovať od advokátskej kancelárie poskytnutie právnych služieb, a to podľa konkrétnych zadaní a dotazov 
+objednávateľa, ktoré je objednávateľ oprávnený advokátskej kancelárii zadať prostredníctvom online rozhrania. 
+
+2 
+
+4.2. Objednaná služba sa objednávateľovi poskytuje v časovo neobmedzenom rozsahu, t.j. mesačná odmena je fixná, 
+bez ohľadu na rozsah a množstvo poskytnutých právnych služieb a počet hodín, ktoré si poskytovanie právnych 
+služieb v konkrétnom kalendárnom mesiaci vyžiadalo. Advokátska kancelária nemá nárok na vyššiu sumu 
+mesačnej odmeny ako tá, ktorá je uvedená v článku V. tejto zmluvy ani v prípade neprimerane vysokého rozsahu 
+poskytovaných právnych služieb a nie je za žiadnych okolností oprávnená, túto sumu jednostranne navýšiť. 
+
+4.3. Zmluvné strany sa zároveň dohodli, z dôvodu objektívnej možnosti plniť túto zmluvu zo strany advokátskej 
+kancelárie, ako aj z dôvodu zabezpečenia kvalitných právnych služieb, že v prípade, ak rozsah poskytnutých 
+právnych služieb presiahne v rámci jedného kalendárneho mesiaca 10 hodín, môžu zmluvné strany pristúpiť 
+k rokovaniu o výške mesačnej odplaty, avšak akákoľvek jej zmena je možná výlučne na základe vzájomnej 
+dohody strán, t.j. zvýšenie odplaty nie je možné na základe jednostranného rozhodnutia advokátskej kancelárie, 
+pričom zároveň zmluvné strany prehlasujú, že zvýšenie odplaty nie je povinné a objednávateľ nie je povinný, 
+akceptovať návrh advokátskej kancelárie na zvýšenie odplaty. V prípade, ak nastane situácia podľa prvej vety 
+tohto bodu (t.j. prekročenie rozsahu právnych služieb v rámci jedného kalendárneho mesiaca) a zmluvné strany 
+sa nedohodnú na úprave mesačnej odplaty, je advokátska kancelária oprávnená, odstúpiť od tejto zmluvy, 
+nakoľko s ohľadom na výšku mesačnej odplaty a rozsah poskytovaných právnych služieb, môže byť na strane 
+advokátskej kancelárie podstatne sťažené poskytovanie kvalitného a časovo dostupného právneho poradenstva. 
+
+4.4. Ak sa zmluvné strany vzájomne nedohodnú inak, objednaná služba nezahŕňa: 
+
+4.4.1. osobné stretnutia zmluvných strán a osobnú účasť advokátskej kancelárie pri rôznych úkonoch, 
+
+4.4.2. 
+
+zastupovanie klienta v súdnych konaniach, 
+
+4.4.3. 
+
+cestovné náhrady advokátskej kancelárie, ak by boli potrebné a vopred odsúhlasené zo strany klienta. 
+
+4.5. Advokátska kancelária môže objednávateľovi v prípade jeho záujmu poskytnúť aj služby vymedzené v bode 4.4. 
+
+tohto článku zmluvy, avšak výlučne na základe osobitnej písomnej dohody zmluvných strán. 
+
+4.6. Zmluvné strany sa dohodli, že advokátska kancelária je oprávnená vyžadovať pre riadne plnenie tejto zmluvy 
+
+plnú súčinnosť zo strany objednávateľa. Za týmto účelom sa objednávateľ zaväzuje najmä: 
+
+4.6.1. poskytnúť na požiadanie, ktoré môže byť vznesené akoukoľvek preukázateľnou formou (primárne 
+prostredníctvom online rozhrania) tie informácie, ktoré sú nevyhnutné pre advokátsku kanceláriu na 
+riadne a včasné plnenie tejto zmluvy, 
+
+4.6.2. 
+
+že bude informovať advokátsku kanceláriu o všetkých zmenách a skutočnostiach dôležitých pre plnenie 
+povinností advokátskej kancelárie, ktoré jej vyplývajú z tejto zmluvy alebo príslušných právnych 
+predpisov. 
+
+čl. V. 
+Odplata a platobné podmienky 
+
+5.1. Za poskytnutie objednanej služby podľa tejto zmluvy prináleží advokátskej kancelárii odplata vo výške: 100,- 
+EUR (slovom: jednosto eur), a to za každý mesiac trvania tejto zmluvy. Uvedená suma je sumou bez DPH. DPH 
+bude účtovaná v aktuálnej sadzbe podľa všeobecne záväzných právnych predpisov, platných v čase fakturácie. 
+Zmena sadzby DPH nevyžaduje uzavretie dodatku k zmluve. Ku dňu uzatvorenia zmluvy tak mesačná odplata 
+pozostáva zo sumy uvedenej vyššie a zo sadzby DPH: 23,- EUR, t.j. odplata vrátane DPH je 123,- EUR. 
+
+5.2. Objednávateľ je povinný odplatu za objednanú službu podľa predošlého bodu advokátskej kancelárii uhradiť 
+bezhotovostným prevodom na základe faktúry, ktorú advokátska kancelária vystaví a doručí objednávateľovi 
+vždy najneskôr do 5. dňa v mesiaci, za ktorý je odplata účtovaná; v prípade, ak sa objednaná služba v prvom 
+
+3 
+
+mesiaci trvania zmluvy začala poskytovať po 5. dni v kalendárnom mesiaci, prvá faktúra bude objednávateľovi 
+vystavená a doručená do 5. dňa odo dňa uzatvorenia zmluvy. 
+
+5.3. Objednávateľ podľa zákona o dani z pridanej hodnoty č. 222/2004 Z. z. v platnom znení (ďalej len,,zákon o dani 
+z pridanej hodnoty“) súhlasí s tým, že advokátska kancelária bude zasielať elektronické faktúry za objednané 
+služby vo formáte PDF prostredníctvom elektronickej pošty na e-mailovú adresu objednávateľa. 
+
+5.4. Elektronická faktúra je plnohodnotnou náhradou faktúry v papierovej forme. 
+
+5.5. Elektronická faktúra je faktúra, ktorá obsahuje všetky náležitosti stanovené zákonom. 
+
+5.6. Objednávateľ súhlasí, že v prípade pochybností sa elektronická faktúra považuje za doručenú po uplynutí troch 
+dní odo dňa preukázateľného odoslania dokladu objednávateľovi. V prípade, ak objednávateľ neobdrží 
+elektronickú faktúru v obvyklom čase, je povinný oznámiť túto skutočnosť advokátskej kancelárii. 
+
+5.7. Objednávateľ sa zaväzuje bezodkladne oznámiť advokátskej kancelárii zmenu e-mailovej adresy prípadne 
+
+akékoľvek zmeny, ktoré môžu mať vplyv na doručovanie elektronickej faktúry podľa týchto podmienok. 
+
+5.8. Súhlas so zasielaním elektronickej faktúry nadobúda platnosť a účinnosť dňom nadobudnutia platnosti a účinnosti 
+tejto zmluvy a udeľuje sa na dobu neurčitú. Objednávateľ je oprávnený udelený súhlas odvolať písomnou formou 
+adresovanou advokátskej kancelárii. 
+
+5.9. Zmluvné strany sa dohodli, že poskytovateľ je oprávnený jedenkrát ročne upraviť cenu za poskytované služby o 
+mieru inflácie zverejnenú Štatistickým úradom Slovenskej republiky za predchádzajúci kalendárny rok. 
+Upravená cena sa uplatní odo dňa oznámenia tejto skutočnosti objednávateľovi. 
+
+5.10. Splatnosť fakturovanej odplaty je dojednaná na 15 dní od doručenia faktúry. 
+
+čl. VI. 
+Prevádzka online rozhrania 
+
+6.1. Spoločnosť osobnyudaj.sk je prevádzkovateľom online rozhrania na doméne poradca.osobnyudaj.sk 
+
+6.2. Spoločnosť osobnyudaj.sk sa zaväzuje, že zriadi klientovi užívateľský účet v online rozhraní, prostredníctvom 
+ktorého bude klientovi umožnené, kontaktovať advokátsku kanceláriu, objednávať právne služby, ako aj zasielať 
+advokátskej kancelárii akékoľvek požiadavky, otázky a dopyty. 
+
+6.3. Po prihlásení sa do užívateľského účtu: 
+
+a) 
+
+je klient oprávnený, zasielať advokátskej kancelárii objednávky právnych služieb (otázky, požiadavky, 
+dopyty), 
+
+b) má klient k dispozícii všetky dokumenty, ktoré pre neho boli advokátskou kanceláriou počas platnosti tejto 
+
+zmluvy, vypracované, 
+
+c) má klient k dispozícii všetky svoje požiadavky, dotazy a otázky zaslané advokátskej kancelárii, ako aj 
+
+odpovede na nich. 
+
+6.4. Služby podľa tohto článku poskytuje spoločnosť osobnyudaj.sk klientovi bezodplatne. 
+
+čl. VII. 
+Služby poskytované spoločnosťou osobnyudaj.sk 
+
+4 
+
+7.1. Zmluvné strany sa dohodli, že v prípade, keď bude advokátskej kancelárii doručená požiadavka klienta, 
+predmetom ktorej nebude požiadavka na poskytnutie právnych služieb, ale iných ako právnych služieb (napr. 
+konzultačné alebo poradenské služby v inej oblasti ako právnej, príprava interných smerníc a podobne), 
+advokátska kancelária nie je povinná, túto požiadavku klienta vybaviť, t.j. nie je povinná poskytnúť službu, ktorá 
+nemá charakter právnej služby. 
+
+7.2. V prípade požiadavky klienta podľa bodu 7.1. tohto článku, sa zmluvné strany dohodli, že advokátska kancelária, 
+je oprávnená požiadavku klienta postúpiť spoločnosti osobnyudaj.sk, za účelom jej vybavenia spoločnosťou 
+osobnyudaj.sk. Klient vyhlasuje, že súhlasí s postupom advokátskej kancelárie podľa predchádzajúcej vety tohto 
+bodu a s tým, aby bola jeho otázka vrátane poskytnutých údajov a informácií, v celom rozsahu sprístupnená 
+spoločnosti osobnyudaj.sk. 
+
+7.3. V prípade, ak v dôsledku postupu podľa bodu 7.1. a 7.2., spoločnosť osobnyudaj.sk, poskytne klientovi 
+akékoľvek služby alebo poradenstvo, nemá spoločnosť osobnyudaj.sk vo vzťahu ku klientovi nárok na žiadnu 
+odmenu ani inú formu odplaty. Činnosť spoločnosti osobnyudaj.sk a prípadné služby ňou poskytnuté podľa tohto 
+článku, nemajú vplyv na počet spotrebovaných kreditov. 
+
+čl. VIII. 
+Mlčanlivosť 
+
+8.1. Zmluvné strany sa zaväzujú zachovávať mlčanlivosť o všetkých skutočnostiach, o ktorých sa v súvislosti 
+s plnením tejto zmluvy dozvedia, ak osobitný predpis na úseku predchádzania a odhaľovania legalizácie príjmov 
+z trestnej činnosti a financovania terorizmu neustanovuje inak. Povinnosť mlčanlivosti sa vzťahuje aj na 
+zamestnancov zmluvných strán a ostatné osoby, ktoré pri plnení tejto zmluvy použili. 
+
+8.2. Ďalšie podrobnosti o zachovávaní mlčanlivosti upravujú Všeobecné obchodné podmienky. 
+
+9.1. Táto zmluva sa uzatvára na dobu neurčitú. 
+
+čl. IX. 
+Doba trvania zmluvy 
+
+9.3. Zmluvné strany sa dohodli, že každá zmluvná strana môže ukončiť zmluvu výpoveďou aj bez uvedenia dôvodu, 
+a to tak, že výpoveď zo strany objednávateľa musí byť doručená druhej zmluvnej strane v lehote najskôr 30 dní 
+pred uplynutím výročia účinnosti tejto zmluvy a najneskôr v deň zročnosti zmluvy. Výpovedná lehota sú 3 
+kalendárne mesiace počítané od prvého dňa mesiaca nasledujúceho po mesiaci v ktorom bola výpoveď doručená 
+druhej zmluvnej strane. 
+
+9.4. V prípade zániku zmluvy voči niektorej zo zmluvných strán zmluva zanikne ako celok, vo vzťahu k všetkým 
+
+zmluvným stranám, ak sa zmluvné strany písomne nedohodnú inak. 
+
+9.5. Ostatné dôvody zániku zmluvy upravujú Všeobecné obchodné podmienky a/alebo príslušné právny predpisy. 
+
+5 
+
+čl. X. 
+Záverečné ustanovenia 
+
+10.1.Všetky vzájomné nároky zmluvných strán musia byť uplatnené preukázateľne doporučeným listom, pokiaľ táto 
+zmluva nestanovuje inak. Písomnosť sa považuje za doručenú dňom jej prevzatia, potvrdeného doručenia, 
+bezdôvodného odmietnutia jej prevzatia alebo okamihom vrátenia sa písomnosti späť ako nedoručenej bez 
+ohľadu na dôvod nedoručenia, pokiaľ bola písomnosť správne zasielaná na poslednú oznámenú adresu jej 
+adresáta. Rozhodujúcim pre doručenie je okamih, ktorý nastane najskôr. 
+
+10.2.Ak zo zmluvy výslovne nevyplýva inak, akékoľvek iné zmeny alebo dodatky tejto zmluvy musia byť vyhotovené 
+písomnou formou a schválené podpisom všetkých zmluvných strán. Takéto dodatky sa stávajú neoddeliteľnou 
+súčasťou tejto zmluvy okamihom ich účinnosti. 
+
+10.3.Neoddeliteľnou súčasťou tejto zmluvy sú aj Všeobecné obchodné podmienky, ktoré sú tiež zverejnené v online 
+
+rozhraní. 
+
+10.4.Práva a povinnosti zmluvných strán neupravené touto zmluvou a Všeobecnými obchodnými podmienkami sa 
+
+spravujú ustanoveniami príslušných právnych predpisov. 
+
+10.5.Zmluvné strany prehlasujú, že sa oboznámili s jej obsahom, porozumeli mu, súhlasia s ním, čo potvrdzujú 
+
+svojimi podpismi. 
+
+10.6.Zmluva je vyhotovená v troch rovnopisoch, pre každú zmluvnú stranu po jednom rovnopise. 
+
+V Košiciach, dňa................................ 
+
+V Bratislave, dňa................................ 
+
+Poskytovateľ /1./: 
+
+Poskytovateľ /2./: 
+
+_____________________________ 
+MG LEGAL s.r.o. 
+
+_____________________________ 
+osobnyudaj.sk, s.r.o. 
+
+V..................................., dňa................ 
+
+Objednávateľ: 
+
+_____________________________ 
+Materská škola, Ul. SNP 14, Modra 
+
+6

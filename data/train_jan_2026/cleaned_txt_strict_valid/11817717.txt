@@ -1,0 +1,1024 @@
+Evid. CISIO.....cessefoes cxesceneinens
+
+Fad| Lous”
+Ye|dal foue
+
+Cislo spisu.l.0¢/ Actecessesesees
+
+Zmluva o udrzbe, servise a podpore systemu NUNTIO
+é. 4/2025
+
+(dalej len,zmluva")
+
+uzavreta podia § 536 - 565 Obchodného zakonnika ¢. 513/1991 Z. z.
+v zneni neskorSich predpisov
+
+Zmluvné strany:
+
+Odberatel’:
+
+Obchodné meno
+ICO
+
+Sidlo
+Bankové spojenie:
+IBAN
+Zastupena
+
+-na strane jednej-
+
+a
+
+Dodavatel’:
+
+Obchodné meno
+ICO
+
+DIC
+
+IC DPH
+Sidlo
+Registracia
+
+Bankové spojenie:
+IBAN
+Zastupena: INFOSTAT,Institut informatiky a Statistiky: 00003964: LeSkova 16, 817 95 Bratislava 15: Statna pokladnica: SK 30 8180 0000 0070 0008 8737: JUDr. Peter Nemec, riaditel’: DIMANO, a.s.: 30775094: 2020344865: SK2020344865: Prievozska 14, 821 09 Bratislava: Obchod. register: M.s. Bratislava III., Oddiel: Sa,
+Vilozka: 276/B: Slovenska sporitelna, a. s., Bratislava: SK73 0900 0000 0000 1145 5844: Ing. Peter Distler, Glen predstavenstva
+
+Zmluvné strany, vedomési svojich zavazkov v tejto zmluve obsiahnutych a s Umyslom
+byt touto zmluvou viazané, dohodli sa na nasledujucom zneni zmluvy:
+
+1 PREAMBULA
+
+Informa¢ny systém NUNTIO (dalej
+
+je produktom dodavatela.
+Led
+Dodavatel’ je viastnikom autorskych prava
+IS NUNTIO je dodany
+odberatelovi na zaklade zmluvy o dielo Cislo 17/2003 u dodavatela; Ccislo 593/2003-10
+u odberatela uzatvorenej medzi zmluvnymi stranami dha 16. 10. 2003 a Objednavky
+€. 9/2024.
+
+IS NUNTIO)
+
+IS NUNTIO.
+
+na
+
+Odberatel’
+
+1.2.
+je
+viastnikom prav na uZivanie systému.
+
+prevadzkovatelom informacného
+
+systému
+
+IS NUNTIO a
+
+je
+
+1.3
+
+IS NUNTIO obsahuje nasledovné Casti a moduly:
+
+a) Podatelna
+
+b) Sprava_
+
+registratury:
+
+Zaznamy,
+
+Spisy, Adresar,
+
+Prirucna
+
+Dokumentdacia,
+
+Registraturny
+
+ registratura,
+plan,
+
+Organizacna_
+Registraturne stredisko, Vypozicky.
+
+Struktura,
+
+Formuldare,
+
+1.4
+nasledovnych modulov a poctu licencii:
+
+Odberatel’ je prevadzkovatelom IS NUNTIO a je viastnikom prav na uZivanie
+
+a) NUNTIO Podatelfa - 1 licencia
+b) NUNTIO Sprava registratury - 4 licencie
+
+2 PREDMET ZMLUVY
+
+2.1
+licenénu uUdrzbu NUNTIO.
+
+Dodavatel’ sa zavazuje, za podmienok stanovenych v tejto zmluve,
+
+poskytovat
+
+Dodavatel’ sa zavazuje, za podmienok stanovenych v tejto zmluve,
+2.2
+sluzby na zabezpecenie servisu a podpory pocas produkénej prevadzky NUNTIO.
+
+poskytovat
+
+2.3
+sluzby na zabezpecenie dalSieho rozvoja NUNTIO.
+
+Dodavatel’ sa zavazuje, za podmienok stanovenych v tejto zmluve,
+
+poskytovat
+
+ze
+
+sa
+
+Dodavatel’
+
+2.4
+a nepoveri
+
+predmetu tejto zmluvy sam
+jeho vykonanim tretiu osobu. Dodavatel’ sa zavazuje, Ze pri poskytovani
+
+zavazuje,
+
+sluzieb bude postupovat v stlade s poziadavkami odberatela a za jeho spoluprace.
+zavazuje poskytnut odberatelovi
+sa
+rozvoj NUNTIO, poskytnut odberatelovi
+
+dodavku
+
+vykona
+
+Dodavatel
+2.5
+sluzieb pre dalsi
+avySkoleni
+sluzby
+na
+a Vv pozadovanej, najmenej Standardnej kvalite.
+
+zamestnancov
+svoje
+
+naklady
+
+svoje
+
+ana
+
+odberatela. Dodavatel’ sa zavazuje
+
+nebezpecie
+
+podporu
+
+uZivacie prava k vysledkom
+pri nasadzovani
+a odovzdat
+terminoch
+
+zhotovit
+vdohodnutych
+
+2.6
+nasledovné sluzby:
+
+Dodavatel’ sa zavazuje pocas doby zaruky na NUNTIO poskytovat bezplatne
+
+e
+
+e
+
+sluzby na odstrdnenie zistenych portch systému,
+v Prilohe 1,
+vedenie agendy poruch, termin a formu odstranenia poruchy.
+Odberatel’ sa zavazuje odovzdat dodavatelovi podklady pre riadne splinenie jeho
+
+podla metodiky uvedenej
+
+2.7
+poziadaviek a vykonavat sucinnost pri plneni zavazkov tejto zmluvy.
+2.8
+pocitacovej
+
+infraStruktury (serveru), na ktorej je prevadzkovany NUNTIO.
+
+Odberatel’ sa zavazuje zabezpecit Dodavatelovi vzdialeny pristup k tej éasti
+
+Odberatel’ sa zavazuje za podmienok stanovenych touto zmluvou sluZby prevziat
+
+2.9
+a zaplatit za ne dohodnutu cenu.
+
+3 LICENCNA UDRZBA
+
+Licenéna udrzba NUNTIO (licenény upgrade) obsahuje prava k pouZivaniu
+3.1
+funkcii a dizajnu systému doplnenych priebezne
+(licenciu) vSetkych novych vlastnosti,
+pocas kazdoroéného rozvoja systému a Upravy systému na zaklade zmien v relevantnej
+legislative, ktory bude vykonavany poéas trvania zmluvy v nasledujucich rokoch po
+instalacii systému.
+
+3.2
+
+Licenéna Udrzba neobsahuje sluzby na reinstalaciu systému.
+
+Zarucna lehota na kazdoroény licenény upgrade systému je 24 mesiacov a zacne
+3.3
+plynit diom akceptacie a prevzatia prisluSného roéného licenéného upgrade systému
+lehoty Dodavatel’ odstrani
+do produkénej prevadzky. Poruchy zistené pocas zaruénej
+bezodplatne a podila metodiky uvedenej v Prilohe 1.
+
+ Sluzby, ktoré nie su obsahom licenénej Udrzby (vratane
+
+budu dodané
+
+podla
+
+reinStalacie
+
+systému
+pravidiel dodavky servisu
+
+3.4
+kaZdoroénom licenénom upgrade),
+a podpory prevadzky.
+
+Dodavatel
+
+3.5
+podla
+zmeny pravnych
+legislativnych
+predpisov, bola vykonana Uprava programového vybavenia IS NUNTIO a IS NUNTIO bol
+plne funkény, aktualny a kompatibilny s platnou pravnou upravou.
+
+vykonavat Upravu
+aby ku
+
+IS NUNTIO priebezne
+
+zavazuje
+to tak,
+
+sa
+zmien a
+
+dnhu U¢innosti
+
+prisluSnej
+
+4 SERVIS A PODPORA
+
+4.1
+poskytnuté dodavatelom:
+
+Servis a podpora produkénej prevadzky NUNTIO obsahuje nasledovné sluzby
+
+reinstalacia systému pri zmene infrastruktury,
+
+rieSenie kritickych situacii a neocakavanych situacii, mimo zaruky
+
+a)
+b) hot line v pracovnom éase od 7:00 hod. do 16:00 hod,
+c)
+d) doSkolenie pracovnikov odberatela,
+e) konzultacie pri rieSeni problémov, mimo zaruky
+f)
+g) vykonanie jednoduchych uprav systému na zaklade poziadaviek odberatela,
+h) vedenie agendy poziadaviek odberatela na Upravy a dalsi rozvoj systému.
+bude
+Poskytnutie
+
+prispdsobenie systému organizaénym zmenadm spoloénosti
+
+realizované
+
+4.2
+konzultacii
+a poziadaviek odberatela, ktoré bud uvedené v agende poziadaviek na upravy. Agenda
+poziadaviek na Upravy bude obsahovat zoznam poZiadaviek odberatela na Upravu
+vlastnosti alebo funkcii a termin uskuto¢nenia. Dodavatel’ sa zavazuje postupovat pri
+vykonavani jednoduchych uprav systému na zaklade poziadaviek odberatela s odbornou
+starostlivostou tak, aby uvedené poziadavky boli zrealizované v Go najkratsom moznom
+case od schvalenia navrhovaného rieSenia poziadavky odberatelom.
+
+podpory
+
+servisu.
+
+zaklade_
+
+na
+
+a
+
+4.3
+poziadaviek.
+
+Prevzatie a akceptaciu realizovanej poziadavky odberatel’ potvrdi v agende
+
+5 CENAA PLATOBNE PODMIENKY
+
+Licenéna Udrzba
+
+Cena
+
+5.1
+Styristoosemdesiatdevat eur Sestdesiat centov bez DPH).
+
+udrzbu
+
+licenénud
+
+roénu
+
+za
+
+je
+
+489,60
+
+€
+
+bez
+
+DPH
+
+(slovom
+
+Cena sa bude fakturovat vzdy k poslednému dau prislusného mesiaca vo vySke
+
+5.2
+40,80 € bez DPH (slovom Styridsat eur osemdesiat centov bez DPH).
+
+5.3
+Cena
+u odberatela.
+
+za
+
+licenénu
+
+Uudrzbu
+
+sa
+
+tyka
+
+vSetkych
+
+instalacii
+
+systému NUNTIO
+
+Servis a podpora
+5.4
+Cena za mesacny servis a podporu je pauSalne 300,- € bez DPH (slovom tristo
+eur bez DPH) a obsahuje poskytnutie sluzby podla Clanku 4 bod 4.1 pism. a) az g) v
+casovom rozsahu 4 (Sstyri) Clovekohodiny v mesiaci.
+
+V pripade prekrocenia stanoveného alebo kumulovaného Gasového rozsahu, ak
+je cena za kazdu ¢lovekohodinu sluzby 75,- € bez
+
+5.5
+sluzby odberatel’ dopredu schvali,
+DPH (slovom sedemdesiatpat eur bez DPH).
+
+Cena za servis a podporu bude fakturovana mesacne, vzdy na konci prisluSného
+5.6
+mesiaca. Vykaz pracasluzieb realizovanych v ramci servisu a podpory su prilohou
+faktury.
+
+5.7
+
+K cenam bude pripocitana dan z pridanej hodnoty v zakonnej vyske.
+
+Splatnost
+
+faktur je 14 (Strnast) kalendarnych dni odo dha doruéenia riadne
+5.8
+vystavenej faktury odberatelovi. Podmienkou zaplatenia faktury odberatelom je to, ze
+kazda faktura bude mat ndalezitosti dafového dokladu podla prava Slovenskej
+republiky
+av pripadoch dohodnutych v tejto zmluve bude k fakture dolozena dohodnuta priloha
+podia zmluvy.
+
+Zmluvné
+
+strany sa
+
+5.9
+elektronickej
+mrackova@infostat.sk Zmluvné strany berU na vedomie a
+elektronickej podobe je plnohodnotnou nahradou faktury v papierovej forme.
+
+faktury v
+e-mail Odberatela:
+suhlasia s tym, ze faktura v
+
+ze Dodavatel’ vystavi Odberatelovi
+
+dohodli,
+ich
+
+zasielat vo
+
+a bude
+
+pdf na
+
+forme
+
+forme
+
+V pripade meskania odberatela s platenim faktur
+
+5.10
+je dodavatel opravneny
+pozadovat urok z omeSkania vo vySke 0,05% z dlznej ciastky za kazdy i zaéaty den
+
+omeskania, najviac vSak 20%z dlznej Ciastky.
+
+6 TERMIN A MIESTO PLNENIA
+
+6.1
+
+6.2
+
+6.3
+
+Zmluva nadobuda platnost diom jej podpisu oboma zmluvnymi stranami.
+Zmluva nadobuda Uéinnost dhom zverejnenia v Centralnom registri zmluv.
+
+Zmluva sa uzatvara na dobu urcitu do 31.12.2026.
+Miestom plnenia predmetu tejto zmluvyje pracovisko odberatela, na ktorom je
+
+6.4
+inStalovany IS NUNTIO.
+
+7 SPOLUPRACA ZMLUVNYCH STRAN
+
+Zmluvné strany su povinné informovat sa navzajom o vSetkych skutocnostiach
+
+Fuk
+dolezitych pre plnenie zavazkov z tejto zmluvy.
+
+7.2.
+
+Zodpovedni zastupcovia zmluvnych stransu:
+Za odberatela:
+
+Ing. Ladislav Lelkes
+
+Za dodavatela: Jan Ivanéo
+
+7.3.
+
+Zodpovedni
+
+chyby, definovat a vyjadrovat sa k poziadavkama podpisovat protokoly tejto zmluvy.
+
+su opravneni vzajomne komunikovat,
+
+zastupcovia
+
+Zodpovedny zastupca za odberatela je opravneny hlavne nahlasovat poruchy
+7.4
+dodavatelovi a potvrdzovat odstranenie poruchy odberatelom, nahlasovat poziadavky
+na servis, podporu a dalsi rozvoj systému NUNTIO a protokolarne preberat realizované
+poziadavky podla tejto zmluvy.
+
+Specifikovat
+
+Zodpovedny zastupca za dodavatela je povinny hlavne zabezpecit odstranenie
+7.5
+nahlasenej poruchy, vyjadrovat sa k poziadavkam odberatela na servis, podporu a dalsi
+rozvoj systému NUNTIO a protokolarne odovzdavat realizované sluzby.
+
+Zmluvné strany sa zavazuju nemenit zodpovednych zastupcov bez zavaznych
+7.6
+dévodov. V pripade zmeny zodpovedného zastupcu je strana, ktora zodpovedného
+zastupcu zmenila, povinna menovat bez zbyto¢ného meskania nového zodpovedného
+zastupcu a informovat o tejto skutoénosti druhu zmluvnd stranu najneskér do 30 dni po
+uskutocneni tejto zmeny.
+
+8 UTAJENIE PODKLADOV A INFORMACIIL
+
+zmluvné
+
+strany
+
+Obidve
+
+8.1
+zavazuju
+o vSetkych
+skutocnostiach, o ktorych sa dozvedeli na zaklade tejto zmluvy za informacie déverné
+a zavazuju sa zachovavat mliéanlivost o takychto skutoénostiach a to az do doby, kedy
+stanu vSeobecne zname za predpokladu,
+tak nestane
+sa
+porusenim povinnosti mléanlivosti.
+
+tieto informacie
+
+povazovat
+
+informacie
+
+ze sa
+
+sa
+
+sa
+
+Dodavatel
+
+ochranu
+
+zavazuje
+
+zabezpecit
+
+8.2
+nestcich
+informacie 0 osobnych Udajoch Objednavatela alebo jeho klientov, zakaznikov a pod.,
+jeho zamestnanci, do styku pri plneni podla tejto zmluvy,
+s ktorymi pride Dodavatel’,
+a to v sulade so zakonom €¢. 18/2018 Z.z. 0 ochrane osobnych Udajov v platnom zneni,
+to znamena zabezpecit,
+aby zamestnanci Dodavatela zachovali mléanlivost o tychto
+Udajoch, ako aj o vSetkych bezpetnostnych opatreniach smerujucich k ochrane tychto
+udajov, a aby vyvijali snahu zabranit akémukolvek vyuZitiu (zneuZitiu) tychto osobnych
+Udajov tretou osobou.
+
+dat Objednavatela
+
+Za poruSsenie povinnosti mlcanlivosti sa nepoklada, ak je zmluvna strana povinna
+
+8.3
+dévernu informaciu oznamit na zaklade z4konom stanovenej povinnosti.
+8.4
+je druha
+opravnena poZzadovat zaplatenie nahrady Skodyv preukazanej vySke.
+8.5
+tejto zmluvy.
+
+tejto povinnosti mléanlivosti
+
+Povinnost mlcanlivosti
+
+V pripade
+
+poruSenia
+
+trva bez ohladu na ukonéenie Uéinnosti alebo platnosti
+
+zmluvna
+
+strana
+
+9
+
+PRAVA DUSEVNEHO VLASTNICTVA
+
+9,1
+duSevného vlastnictva tretich os6b.
+
+Dodavatel’ prehlasuje, ze plnenim zavazkov podlia tejto zmluvy neporuSuje prava
+
+Vopripade,
+ndarok
+
+ze ktorakolvek tretia osoba, vratane
+
+9.2
+uplatni
+v suvislosti
+zavazuje preukazat opravnenost uZivania vysledkov poskytnutych sluzieb.
+
+s riadnym pouZivanim vysledkov
+
+dodavatela,
+prav duSevného vlastnictva
+sa
+
+poskytnutych sluzieb,
+
+zamestnancov
+
+odberatelovi
+
+dodavatel’
+
+poruSenia
+
+titulu
+
+proti
+
+z
+
+K produktu
+
+9.3.
+NUNTIO
+€. 185/2015 Z. z. v platnom zneni (autorsky zakon).
+
+DIMANO-
+
+ma
+
+autorské
+
+prava_
+
+podla
+
+ zakona
+
+10 ODSTUPENIE OD ZMLUVY
+
+10.1
+
+Od zmluvy mozno odstupit za podmienok stanovenych zakonom.
+
+10.2 Odstupenie je ucinné dhom dorucenia pisomného oznamenia o odstupeni druhej
+zmluvnej strane.
+
+11 VYPOVED
+
+Vypovedna lehota zmluvy je 3 (tri) mesiace a zacina sa prvym diiom mesiaca
+
+11.1
+nasledujuceho po mesiaci, v ktorom bola vypoved’ doruéena druhej zmluvnej strane.
+
+11.2 Kazda zmluvna strana je opravnena vypovedat zmluvu i bez uvedenia dévodu.
+Ucinnostou vypovede zmluvy strdca U¢innost
+avSak U¢innostou vypovede
+zmluvy nie je dotknuta Ucinnost ustanoveni zmluvy, ktoré sa tykaju uZivacich a dalsich
+prav odberatela k vysledkom uz realizovanych sluzZieb.
+
+zmluva,
+
+12 ROZHODNE PRAVOA RIESENIE SPOROV
+Zmluva akoi prava a povinnosti z nej vyplyvajuce,
+
+12.1.
+Slovenskej
+
+republiky.
+
+sa riadia pravnym poriadkom
+
+12.2 VSetky
+zalozenych
+vynalozeni vSetkého usilia k zmierovaciemu rieSeniu.
+
+spory medzi
+zmluvou
+
+v suvislosti
+
+zmluvnymi
+
+stranami,
+
+touto
+
+alebo
+
+s fou,
+
+vzniknuté
+budu
+
+zpravnych
+
+vztahov
+jednanim pri
+
+rieSené
+
+13 ZAVERECNE USTANOVENIA
+
+zo
+
+ Ziadna
+
+Zmluva
+
+platnost
+
+nadobuda
+
+opravnenymi
+
+dhom podpisu
+
+13.1
+zmluvnych stran.
+13.2
+spdsobené
+okolnostami
+sa
+povazuje prekazka, ak nastala nezavisle na véli povinnej strany a brani jej v spineni jej
+povinnosti,
+strana tuto prekazku
+alebo jej nasledky odvratila alebo prekonala a dalej, Ze by v dobe vzniku prekazku
+predpovedala. Zodpovednost nevylucuje prekdzka, ktoré vznikla prave v dobe, ked’
+
+ak sa neda rozumne predpokladat, Ze by povinna
+
+zodpovednd za meSkanie
+okolnosti vylucujuce
+
+je
+zodpovednost. Za
+
+zodpovednost
+
+zastupcami
+
+vylucujucimi
+
+zmluvnych
+
+oboch
+
+stran
+
+nie
+
+strana bola v omeskani
+
+z jej
+s plnenim svojej
+povinna
+hospodarskych pomerov. Udinky vylucujice zodpovednost su obmedzené iba na dobu,
+pokial’ trva prekazka,
+tieto povinnosti
+vylucujuce
+stran je opravnena
+trvaji
+zodpovednost
+jednostranne od zmluvy odstupit.
+
+ako 6 mesiacov, ktorakolvek zo
+
+s ktorou st
+dihSie
+
+spojené. Ak okolnosti
+
+alebo vznikla
+
+povinnosti
+
+oboch
+
+zastupcami
+
+Zmluvu mozZno menit alebo doplfovat
+
+iba pisomnymi dodatkami podpisanymi
+13.3.
+stran. Adresy, mena
+zamestnancov a
+opravnenymi
+zastupcov zmluvnych
+i jednostrannym
+pisomnym oznamenim; zmluvné strany sa zavazuju neodkladne oznamovat
+zmeny
+uvedenych udajov druhej
+sa
+zavazuju uhradit vSetky Skody anaklady, ktoré druhej zmluvnej strane z poruSenia
+tejto povinnosti vznikli.
+
+telefénne a faxové Gisla mozno menit
+
+strane av pripade poruSenia
+
+tejto povinnosti
+
+zmluvnych
+
+zmluvnej
+
+stran,
+
+Akékolvek
+
+informacie,
+
+ktoré maju
+
+oznamenia,
+
+13.4
+zo
+zmluvnych stran druhej zmluvnej strane, budd povazované za riadne odovzdané, pokial’
+budu osobne odovzdané druhej zmluvnej strane alebo pokial’ budu zaslané dorucenou
+postou alebo faxom na adresy uvedené v zmiuve alebo na adresy oznamené druhou
+a oznameni zaslanych na
+zmluvnou
+adresy uvedené v zmluve alebo na adresy oznamené druhou zmluvnou
+stranou
+nastavaju tiez dhom vratenia tychto informacii a oznameni ako nedorucitel'nych zasielok
+odosielajucej strane.
+
+stranou. Ucinky dorucenia vSetkych
+
+byt oznamené
+
+informacii
+
+jednou
+
+13.5
+
+13.6
+stranu.
+
+Prilohy zmluvy:
+Priloha ¢. 1 - Poruchy,
+Zmluva
+je
+
+spisanaé
+
+ich ohlasovanie a rieSenie
+
+v dvoch vyhotoveniach, po jednom pre kazdu
+
+zmluvnu
+
+Zmluvné strany prehlasuju, Ze tato zmluva je prejavom ich pravej a slobodnej
+
+13.7.
+véle a na dékaz dohody o vSetkych ¢lankoch tejto zmluvy pripojuju svoje podpisy.
+
+V Bratislave, dna
+
+V Bratislave, dna
+
+Za Odberatela:
+
+Za Dodavatela:
+
+juDr./peter Nemec
+riaditel’
+
+DIM.
+Prig
+
+ez
+
+Ing. Peter Distler
+Clen predstavenstva
+
+Priloha é. 1 - Poruchy, ich ohlasovanie a rieSenie
+
+ktoraé
+
+rozumie
+
+znemoznuje
+
+kritickaé porucha,
+
+Poruchy
+1. Poruchou NUNTIO kategérie Asa rozumie
+vyuzivanie NUNTIO ako celku.
+2. Poruchou NUNTIO kategorie Bsa
+znemozhuje
+vyuzivanie Casti NUNTIO alebo spdédsobuje vazne prevadzkové problémy alebo hrubo
+poruSuje bezpecnostné poziadavky odberatela.
+3. Poruchou NUNTIO kategoérie Csa rozumie
+spdésobuje
+problémy pri vyuZivani a prevadzkovani NUNTIO, ale umoznhuje prevadzku, ktora nema
+problémy je mozné doéasne riesit
+vplyv na
+organizacnymi opatreniami.
+4. Poruchou NUNTIO kategorie D sa rozumie nevyznamna porucha.
+5. Kategorizaciu poruch urcuje odberatel’ po konzultacii s dodavatelom.
+odruhu
+6. Vspornych
+pripadoch
+zodpovednymi zastupcami zmluvnych stran.
+
+- stredna porucha, ktora
+
+rokovanim medzi
+
+vazZna porucha,
+
+spracovania,
+
+kvalitu dat
+
+rozhodnuté
+
+avysledky
+
+poruchy
+
+bude
+
+ktoraé
+
+Ohlasovanie poruchy
+7. Odberatel’ sa zavazuje, Ze vSetky poruchy, ktoré sa vyskytnu pocas produkénej
+prevadzky NUNTIO, oznami bezodkladne dodavatelovi:
+vypInenim formulara v internetovom helpdesku na www.dimano.sk alebo v pripade
+nefunkénosti www.dimano.sk telefonicky na Cislo 02/55 56 75 80 alebo e-mailom na
+snaslednym vyplnenim
+v internetovom
+adresu.
+helpdesk@dimano.sk
+helpdesku na www.dimano.sk.
+8. Dodavatel’
+zavazuje,
+sa
+telefonicky alebo e-mailom.
+9. Dodavatel’ ma pravo doziadat dalSie Udaje a
+poruchy.
+adresach a wwwstrankach
+10. VSetky zmeny v telefonnych Cislach, v e-mailovych
+uvedenych v bode 7 tejto prilohy tejto zmluvy sa zavaézuju zmluvné strany v pripade
+stavaju
+zmeny
+automatickou nahradou prisluSnych Cisiel a adries v tomto bode zmluvy.
+
+Ze oznamenia odberatela
+
+oznamit druhej
+
+informacie na
+
+atieto sa
+
+identifikaciu
+
+o poruche
+
+pisomnou
+
+zmluvnej
+
+formulara_
+
+nasledne_
+
+formou
+
+potvrdi
+
+strane
+
+lepsiu
+
+pre
+
+zavazuje
+
+Odstranenie poruchy
+11. Dodavatel’ sa
+poruchy kategorie AaB, Ze zacne pracovat na
+odstraneni poruchy do 4 hodin od nahlasenia poruchy a poruchu odstrani do 24 hodin
+od nahlasenia,
+12. Dodavatel’ sa zavazuje pre poruchy kategérie C, ze zaéne pracovat na odstraneni
+poruchy do 24 hodin od nahlasenia poruchy a poruchu odstrani do 3 pracovnych dni od
+nahlasenia,
+13. Dodavatel’ sa zavazuje pre poruchy kategérie D, ze zaéne pracovat na odstraneni
+poruchy do 2 dni od nahlasenia poruchy a poruchu odstrani do 4 pracovnych dni od
+nahlasenia.
+14. Do zavaznej
+NUNTIO u odberatela, ktora bude vykonana az po suhlase odberatela.
+15. V pripade omeSkania dodavatela s odstranenim akejkolvek poruchy kategérie A, B
+alebo C alebo D je odberatel’ opravneny pozadovat zaplatenie zmluvnej pokuty vo vySke
+50 €, a to za kazdy aj zacaty pracovny def omeskania. Zaplatenim zmluvnej pokuty nie
+je dotknuty narok odberatela na nadhradu Skodyv celej vySke.
+
+poruchy sa nezapoéitava éas na
+
+lehoty odstranenia
+
+reinStalaciu

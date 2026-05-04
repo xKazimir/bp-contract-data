@@ -1,0 +1,652 @@
+Delimitačný protokol CRZ č. 04745/2025-OS-0140166/25.00
+o odovzdaní a prevzatí správy nehnuteľností vo vlastníctve štátu
+podľa zákona č. 326/2005 Z.z. o lesoch v znení neskorších predpisov (ďalej len „Protokol“)
+
+Odovzdávajúci: Slovenská republika – Slovenský pozemkový fond
+Sídlo: Búdková 36, 817 15 Bratislava
+Štatutárny orgán: generálny riaditeľ a námestník generálneho riaditeľa
+ podľa výpisu z obchodného registra
+IČO: 17 335 345
+DIČ: 2021007021
+Bankové spojenie: Štátna pokladnica
+Číslo účtu IBAN: SK35 8180 0000007000001638
+zapísaný v Obchodnom registri Mestského súdu Bratislava III, oddiel: PO, vložka 35/B
+(ďalej len „odovzdávajúci“)
+
+a
+
+Preberajúci: 
+
+Slovenská republika - LESY Slovenskej republiky, štátny podnik
+so sídlom: Námestie SNP 8, 97566, Banská Bystrica
+štatutárny orgán: Ing. Juraj Marko – riaditeľ
+IČO: 36038351 
+DIČ: 2020087982 
+
+(ďalej len „preberajúci“ a spolu s odovzdávajúcim „účastníci protokolu“)
+
+Čl. I
+Predmet a dôvod odovzdania správy nehnuteľného majetku štátu
+
+1.
+
+Odovzdávajúci odovzdáva a preberajúci preberá podľa § 50 zákona č. 326/2005 Z.z. 
+o lesoch v znení neskorších predpisov správu k nehnuteľnému majetku vo vlastníctve 
+Slovenskej republiky:
+
+Okres: Gelnica
+Obec: Švedlár
+Katastrálne územie: Švedlár
+
+Parcely registra C
+
+Číslo 
+parcely
+
+Výmera 
+v m2
+
+Druh pozemku
+
+Číslo listu 
+vlastníctva
+
+Spoluvlastnícky 
+podiel
+
+1643
+
+12128
+
+1039
+
+trvalý trávny porast 
+
+záhrada 
+
+469 1/1
+
+469 1/1
+
+1
+
+CRZč.6776/2025/LSR 
+
+Spolu
+
+1441
+
+18727
+
+záhrada 
+
+469 1/1
+
+Parcely registra E
+
+Číslo 
+parcely
+
+Výmera 
+v m2
+
+1462
+
+1464
+
+1465
+
+1466
+
+1467
+
+1468
+
+1469
+
+1470
+
+1471
+
+1472
+
+1473
+
+1474
+
+1475
+
+1476
+
+1477
+
+1478
+
+1479
+
+1491
+
+1492
+
+1499
+
+5478
+
+Druh pozemku
+
+lesný pozemok
+
+trvalý trávny porast
+
+trvalý trávny porast
+
+trvalý trávny porast
+
+1362
+
+9292
+
+4645
+
+4646
+
+11693
+
+trvalý trávny porast
+
+1954
+
+4004
+
+5176
+
+5704
+
+5455
+
+4396
+
+5340
+
+3169
+
+3253
+
+trvalý trávny porast
+
+trvalý trávny porast
+
+trvalý trávny porast
+
+trvalý trávny porast
+
+trvalý trávny porast
+
+trvalý trávny porast
+
+trvalý trávny porast
+
+trvalý trávny porast
+
+trvalý trávny porast
+
+11186
+
+trvalý trávny porast
+
+9206
+
+3339
+
+7400
+
+3580
+
+10346
+
+8079
+
+2936
+
+12471
+
+3317
+
+2233
+
+3987
+
+571
+
+3466
+
+3433
+
+727
+
+15820
+
+3323
+
+3235
+
+3240
+
+trvalý trávny porast
+
+trvalý trávny porast
+
+trvalý trávny porast
+
+trvalý trávny porast
+
+trvalý trávny porast
+
+trvalý trávny porast
+
+trvalý trávny porast
+
+trvalý trávny porast
+
+trvalý trávny porast
+
+lesný pozemok
+
+trvalý trávny porast
+
+trvalý trávny porast
+
+orná pôda
+
+orná pôda
+
+orná pôda
+
+trvalý trávny porast
+
+trvalý trávny porast
+
+trvalý trávny porast
+
+trvalý trávny porast
+
+Číslo listu 
+vlastníctva
+
+Spoluvlastnícky 
+podiel
+
+571 1/1
+
+571 1/1
+
+571 1/1
+
+571 1/1
+
+571 1/1
+
+571 1/1
+
+571 1/1
+
+571 1/1
+
+571 1/1
+
+571 1/1
+
+571 1/1
+
+571 1/1
+
+571 1/1
+
+571 1/1
+
+571 1/1
+
+571 1/1
+
+571 1/1
+
+571 1/1
+
+571 1/1
+
+571 1/1
+
+571 1/1
+
+571 1/1
+
+571 1/1
+
+571 1/1
+
+571 1/1
+
+571 1/1
+
+571 1/1
+
+571 1/1
+
+571 1/1
+
+571 1/1
+
+571 1/1
+
+571 1/1
+
+571 1/1
+
+571 1/1
+
+2
+
+5485
+
+5486
+
+5488
+
+5490
+
+5491
+
+5493
+
+5496
+
+5498
+
+5508
+
+5509
+
+5510
+
+5511
+
+5541
+
+5542
+
+5668
+
+5691
+
+5692
+
+5693
+
+5694
+
+5695
+
+5696
+
+5704
+
+3240
+
+1008
+
+6699
+
+7956
+
+3710
+
+9128
+
+7305
+
+7137
+
+6928
+
+4768
+
+10452
+
+10568
+
+12642
+
+11214
+
+22461
+
+13962
+
+198
+
+4859
+
+1405
+
+1770
+
+trvalý trávny porast
+
+trvalý trávny porast
+
+trvalý trávny porast
+
+trvalý trávny porast
+
+trvalý trávny porast
+
+trvalý trávny porast
+
+trvalý trávny porast
+
+trvalý trávny porast
+
+trvalý trávny porast
+
+trvalý trávny porast
+
+trvalý trávny porast
+
+trvalý trávny porast
+
+trvalý trávny porast
+
+trvalý trávny porast
+
+trvalý trávny porast
+
+trvalý trávny porast
+
+ostatná plocha
+
+zastavaná plocha a nádvorie
+
+zastavaná plocha a nádvorie
+
+zastavaná plocha a nádvorie
+
+11965
+
+zastavaná plocha a nádvorie
+
+1212
+
+5578
+
+2261
+
+424
+
+271
+
+zastavaná plocha a nádvorie
+
+zastavaná plocha a nádvorie
+
+zastavaná plocha a nádvorie
+
+zastavaná plocha a nádvorie
+
+zastavaná plocha a nádvorie
+
+571 1/1
+
+571 1/1
+
+571 1/1
+
+571 1/1
+
+571 1/1
+
+571 1/1
+
+571 1/1
+
+571 1/1
+
+571 1/1
+
+571 1/1
+
+571 1/1
+
+571 1/1
+
+571 1/1
+
+571 1/1
+
+571 1/1
+
+571 1/1
+
+571 1/1
+
+571 1/1
+
+571 1/1
+
+571 1/1
+
+571 1/1
+
+571 1/1
+
+571 1/1
+
+571 1/1
+
+571 1/1
+
+571 1/1
+
+Spolu
+
+351105
+
+ďalej len („predmet odovzdania“).
+
+* poznámka:
+Druh pozemkov pri parcelách KNE je v nesúlade so stavom KN-C resp. so 
+skutočným stavom, orná pôda = trvalý trávny porast, ostatná plocha = zastavaná 
+plocha a nádvorie, trvalý trávny porast = lesný pozemok, zastavaná plocha a 
+nádvorie = lesný pozemok.
+
+Druh pozemku je v nesúlade so skutočným stavom, zmenu druhu pozemku na lesný 
+pozemok, resp. ostatnú plochu zabezpečuje preberajúci.
+
+2.
+
+Odovzdávajúci odovzdáva a preberajúci preberá nehnuteľný majetok vo vlastníctve 
+Slovenskej republiky bezodplatne.
+
+3
+
+3.
+
+1.
+
+2.
+
+Dôvodom odovzdania je skutočnosť, že predmet odovzdania tvorí lesné pozemky podľa 
+§ 3 alebo ostatný majetok vo vlastníctve štátu podľa § 50a zákona č. 326/2005 Z.z. o 
+lesoch v znení neskorších predpisov, ktoré sú podľa § 50 zákona č. 326/2005 Z.z. o 
+lesoch v znení neskorších predpisov v zákonnej správe preberajúceho. Predmet 
+odovzdania zároveň nie je majetkom, ktorý spravuje odovzdávajúci podľa § 34 ods. 3 
+zákona č. 330/1991 Zb. o pozemkových úpravách, usporiadaní pozemkového 
+vlastníctva, pozemkových úradoch, pozemkovom fonde a o pozemkových 
+spoločenstvách v znení neskorších predpisov.
+
+Čl. II
+Osobitné ustanovenia
+
+Odovzdávajúci vyhlasuje, že na predmet odovzdania sa nevzťahujú reštitučné nároky 
+alebo neboli uplatnené reštitučné nároky podľa zákona č. 229/1991 Zb. o úprave 
+vlastníckych vzťahov k pôde a inému poľnohospodárskemu majetku v znení neskorších 
+predpisov, zákona č. 503/2003 Z.z. o navrátení vlastníctva k pozemkom a o zmene 
+a doplnení zákona č. 180/1995 Z.z. o niektorých opatreniach na usporiadanie vlastníctva 
+k pozemkom v znení neskorších predpisov, zákona č. 282/1993 Z.z. o zmiernení 
+niektorých majetkových krívd spôsobených cirkvám a náboženským spoločnostiam 
+v znení neskorších predpisov a zákona č. 161/2005 Z.z. o navrátení vlastníctva k 
+nehnuteľným veciam cirkvám a náboženským spoločnostiam a prechode vlastníctva k 
+niektorým nehnuteľnostiam. 
+
+Odovzdávajúci vyhlasuje, že na LV č. 469 je v časti C: Ťarchy zapísané: Vecné 
+bremeno podľa zák. č. 251/2012 Z.z.o energetike, v prospech oprávneného z vecného 
+bremena -Východoslovenská distribučná, a.s., Mlynská 31, 042 91 Košice, IČO 
+36599361, s obsahom oprávnení na výkon povolenej činnosti podľa zák. č. 251/2012 
+Z.z. o energetike a o zmene a doplnení niektorých zákonov, najmä vstupovať na cudzie 
+pozemky a do cudzích objektov a zariadení a na umiestnenie elektroenergetického 
+zariadenia na parcelu C KN č. 5524/3, záhrada o výmere 4119 m2, v rozsahu 
+Geometrického plánu overeného pod č. G1-197/2023, Z-881/2025 - 123/25, iné záložné 
+právo ani vecné bremeno známe nie je. Odovzdávajúci vyhlasuje, že mu nie sú známe 
+žiadne skryté alebo právne vady na predmete odovzdania.
+
+3.
+
+S predmetom odovzdania neprechádzajú na preberajúceho žiadne záväzky ku dňu 
+prechodu správy tohto majetku štátu na preberajúceho.
+
+Čl. III
+Záverečné ustanovenia
+
+4
+
+1.
+
+2.
+
+3.
+
+Protokol nadobúda platnosť dňom podpísania oboma účastníkmi protokolu a účinnosť 
+dňom nasledujúcim po dni zverejnenia v zmysle právnych predpisov upravujúcich jeho 
+zverejnenie v Centrálnom registri zmlúv vedenom Úradom vlády Slovenskej republiky. 
+
+Účastníci protokolu sa dohodli, že návrh na zápis práv vyplývajúcich z protokolu 
+k majetku štátu záznamom spolu s príslušnými listinami na katastrálny odbor 
+príslušného okresného úradu podá v elektronickej podobe preberajúci. 
+
+Účastníci protokolu vyhlasujú, že si tento protokol prečítali, jeho obsahu porozumeli 
+a na znak súhlasu podpísali.
+
+V Bratislave, dňa
+
+Odovzdávajúci:
+
+V Banskej Bystrici, dňa 
+
+Preberajúci:..........................................................................................
+generálny riaditeľ Ing. Juraj Marko 
+Slovenský pozemkový fond 
+
+ riaditeľ LESOV SR, š.p.................................................
+námestník generálneho riaditeľa
+Slovenský pozemkový fond 
+
+5

@@ -1,0 +1,1436 @@
+Číslo z Registra zmlúv EASR PSK: 2025/026 
+
+Čiastková zmluva Rámcovej zmluvy o poskytovaní služieb 
+„Odborné prehliadky, odborné skúšky technických zariadení” č. 2025/026 
+
+uzavretá podľa § 269 a nasledovných ustanovení č. 513/1991 Zb. Obchodný zákonník v znení 
+
+neskorších predpisov (ďalej len „Zmluva“) 
+medzi zmluvnými stranami 
+
+Odberateľ: 
+Názov: 
+
+Zariadenie sociálnych služieb Egídius 
+
+Sídlo organizácie: Ťačevská 1644/38, 085 01 Bardejov 
+Štatutárny orgán: Mgr. Oľga Hviščová, riaditeľka 
+
+IČO: 
+DIČ: 
+
+50595318 
+2120399369 
+
+Bankové spojenie: XXXX 
+IBAN, SWIFT: 
+
+SKXX XXXX XXXX XXXX XXXX XXXX 
+
+(ďalej aj ako „Odberateľ“) 
+
+a 
+
+Poskytovateľ: 
+
+Názov: 
+Sídlo organizácie: Levočská 6114/1, 080 01 Prešov 
+
+Energetická Agentúra Smart Regiónu PSK 
+
+Štatutárny orgán: 
+IČO: 
+
+Ing. Martin Lukáč, riaditeľ 
+51295130 
+
+DIČ: 
+Bankové spojenie: Štátna pokladnica 
+
+2120670827 
+
+IBAN: 
+e-mail: sekretariat@smartp.sk 
+
+SK35 8180 0000 0070 0059 2271 
+
+(ďalej aj ako „EASR PSK“ alebo „Poskytovateľ“) 
+(spolu ako „Zmluvné strany“) 
+
+Preambula 
+1. Prešovský samosprávny kraj má záujem o zabezpečenie centrálneho vykonávania 
+odborných prehliadok a odborných skúšok technických zariadení v rámci vlastných 
+
+organizácií v zriaďovateľskej pôsobnosti v rámci sociálnej a kultúrnej oblasti, preto bola 
+dňa 15.12.2025 medzi Prešovským samosprávnym krajom (ďalej tiež „Objednávateľ“) 
+
+a Energetickou Agentúrou Smart Regiónu PSK (ďalej tiež „Poskytovateľ“) uzavretá 
+Rámcová zmluva o poskytovaní služieb č. 1818/2025/DSB (ďalej len „Rámcová 
+
+zmluva“), ktorou sa stanovili rámcové podmienky spolupráce pri poskytovaní a 
+
+vykonávaní odborných prehliadok a odborných skúšok technických zariadení, revízií a 
+kontroly elektrických spotrebičov a ručného elektrického náradia v zmysle Vyhlášky 
+
+MPSVaR SR č. 508/2009 Z. z. ktorou sa ustanovujú podrobnosti na zaistenie bezpečnosti 
+tlakovými, zdvíhacími, 
+a ochrany zdravia pri práci s 
+
+technickými zariadeniami 
+
+elektrickými a plynovými a ktorou sa ustanovujú technické zariadenia, ktoré sa považujú 
+za vyhradené technické zariadenia v znení neskorších predpisov (ďalej len „Vyhláška č. 
+
+508/2009 Z. z.“) 
+
+2. Poskytovateľ je príspevkovou organizáciou so sídlom Levočská 6114/1, 080 01 Prešov, 
+ktorej zriaďovateľom je Objednávateľ - Prešovský samosprávny kraj a je oprávnený 
+vykonávať odborné prehliadky a odborné skúšky vyhradených technických zariadení, 
+
+vrátane elektrických, tlakových a plynových, uznesením Zastupiteľstva Prešovského 
+samosprávneho kraja č. 266/2023 zo dňa 23.10.2023. 
+
+3. Zmluvné strany uzatvárajú túto Čiastkovú zmluvu Rámcovej zmluvy o poskytovaní 
+služieb v nadväznosti na Rámcovú zmluvu o poskytovaní služieb č. 1818/2025/DSB, 
+
+uzavretú dňa 15.12.2025, medzi Objednávateľom a Poskytovateľom, v ktorej si stanovujú: 
+rozsah služieb poskytovaných Poskytovateľom pre Odberateľa, spôsob vykonávania 
+
+odborných prehliadok a skúšok, podmienky komunikácie a kontroly plnenia, finančné a 
+organizačné podmienky poskytovania služieb. 
+
+4. Čiastková zmluva nadväzuje na ustanovenia Rámcovej zmluvy a rozpracúva ich do 
+konkrétnych praktických postupov, pričom všetky všeobecné práva a povinnosti z 
+
+Rámcovej zmluvy zostávajú v platnosti, pokiaľ nie sú upravené inak. 
+
+5. Poskytovateľ vykonáva služby v súlade s Vyhláškou č. 508/2009 Z. z., zákonom č. 
+124/2006 Z. z. o bezpečnosti a ochrane zdravia pri práci, Vyhláškou SÚBP č. 25/1984 Zb. 
+v znení vyhlášky č. 75/1996 Z. z. na zaistenie bezpečnosti práce v nízkotlakových 
+
+kotolniach a ďalšími platnými právnymi predpismi. 
+
+Definície 
+
+V tejto Zmluve budú mať nasledovné výrazy a slová napísané s veľkým začiatočným písmenom 
+nižšie uvedený význam: 
+
+• „Cena za poskytovanie služieb“ predstavuje cenu, ktorú je Odberateľ povinný uhradiť 
+Poskytovateľovi za vykonanie odborných prehliadok, odborných skúšok, revízií, 
+
+kontrol a súvisiacich činností podľa tejto Zmluvy. 
+
+• „Cenník Poskytovateľa”, ktorý tvorí neoddeliteľnú prílohu tejto Zmluvy predstavuje 
+podrobnú špecifikáciu 
+jednotlivých poskytovaných služieb 
+vychádzajúc z Cenovej ponuky Poskytovateľa (Príloha č. 6 Rámcovej zmluvy). 
+
+jednotkových cien 
+
+Jednotkové ceny za služby/položky stanovené v Cenovej ponuke predstavujú 
+maximálne ceny za konkrétny typ služby alebo položky, ktorá môže byť Odberateľovi 
+
+fakturovaná. 
+
+• „Čiastková zmluva” predstavuje túto Zmluvu uzatvorenú medzi Poskytovateľom a 
+Odberateľom služieb, ktorá bližšie špecifikuje plnenie predmetu Zmluvy v konkrétnom 
+
+prípade Odberateľa. 
+
+• „Doplnkové služby nad rámec plánu / Doplnkové služby“ sú služby, ktoré neboli 
+zahrnuté v pôvodnej Cenovej ponuke podľa Prílohy č. 6, avšak môžu byť poskytované 
+na základe individuálnej potreby Odberateľa v zmysle zákona č. 124/2006 Z. z.. Tieto 
+
+služby nepredstavujú rozšírenie predmetu tejto Rámcovej zmluvy, avšak započítavajú 
+sa do Finančného limitu Zmluvy a môžu mať za následok jeho skoršie vyčerpanie. 
+
+• „Finančný limit Zmluvy” znamená celkovú cenu všetkých plnení poskytovaných 
+podľa Rámcovej zmluvy počas celej doby jej platnosti a účinnosti, pričom tento limit je 
+
+stanovený ako konečný a nesmie byť prekročený, okrem prípadov uvedených v článku 
+III, v bode 7., 8., 9. a 10. avšak najviac do výšky 10 % pôvodne dohodnutej sumy. 
+
+• „Informácie” predstavujú všetky skutočnosti, o ktorých sa Poskytovateľ dozvedel od 
+
+Odberateľa pri Poskytovaní služieb. 
+
+• „In-house zákazka” je typ zákazky, ktorý sa zadáva priamo bez súťaže a je to výnimka 
+z pravidiel verejného obstarávania. Umožňuje verejnému obstarávateľovi zadať 
+zákazku inej verejnej inštitúcii, ktorá sa spravuje verejným právom, ak sú splnené 
+
+zákonné podmienky 
+
+• „Objednávateľ“ znamená Objednávateľa v Rámcovej zmluve, ako aj Objednávateľa 
+
+tejto Zmluvy, t. j. Prešovský samosprávny kraj. 
+
+• „Odberateľ“ predstavuje organizáciu v zriaďovateľskej pôsobnosti Objednávateľa. 
+
+• „Odborné prehliadky“ (ďalej tiež „OP“). 
+
+• „Odborné skúšky“ (ďalej tiež „OS“). 
+
+• „Okolnosti vylučujúce zodpovednosť“ predstavujú okolnosti, ktoré nastali nezávisle 
+od vôle Zmluvných strán a bránia im v splnení povinností, pričom nemožno rozumne 
+predpokladať, že by Zmluvná strana túto prekážku alebo jej následky odvrátila alebo 
+
+prekonala. 
+
+• „OvZp PSK“ predstavuje skratku pre pojem organizácie v zriaďovateľskej pôsobnosti 
+
+Prešovského samosprávneho kraja 
+
+• „Poskytovateľ“ znamená osobu menovanú ako poskytovateľ v záhlaví tejto Zmluvy. 
+
+• „Poskytovanie služieb“ predstavuje predmet Zmluvy podľa článku I., bodu 1 tejto 
+
+Zmluvy 
+
+• „Rámcová zmluva” predstavuje zmluvu podpísanú medzi Prešovským samosprávnym 
+krajom (ďalej tiež „Objednávateľ“) a Energetickou Agentúrou Smart Regiónu PSK 
+(ďalej tiež „Poskytovateľ“), ktorou sa stanovili rámcové podmienky spolupráce pri 
+
+poskytovaní a vykonávaní odborných prehliadok a odborných skúšok technických 
+zariadení, revízií a kontroly elektrických spotrebičov a ručného elektrického náradia. 
+
+• „Reklamácia služby” písomné uplatnenie nedostatkov alebo nepresností poskytovanej 
+
+Služby v zmysle článku VI. 
+
+• „Subdodávateľ“ je hospodársky subjekt, ktorý uzavrie alebo uzavrel s Poskytovateľom 
+
+písomnú odplatnú zmluvu na plnenie určitej časti tejto Zmluvy. 
+
+• „Zmluva“ znamená túto čiastkovú zmluvu o poskytovaní služieb v znení všetkých jej 
+
+príloh a doplnení. 
+
+• 
+
+• 
+
+•,,Zmluvná strana“ znamená Odberateľa alebo Poskytovateľa podľa kontextu. V 
+prípade označenia ako Zmluvné strany, zahŕňa tento pojem aj Odberateľa aj 
+Poskytovateľa.,,Zmluvné strany Rámcovej zmluvy“ predstavujú Poskytovateľa a Objednávateľa 
+(Prešovský samosprávny kraj) poskytovaných Služieb.,,ZVO” predstavuje skratku pre zákon č. 343/2015 Z.z. o verejnom obstarávaní a o 
+zmene a doplnení niektorých predpisov. 
+
+Článok I. 
+Predmet zmluvy 
+
+6. Predmetom Zmluvy je Poskytovanie služieb, ktoré sú bližšie špecifikované v Prílohe č. 1 
+
+Rámcovej zmluvy (ďalej len „Poskytovanie služieb“), ktoré predstavujú: 
+
+a) vykonanie revízií, odborných prehliadok a odborných skúšok elektrickej inštalácie 
+
+NN a VN podľa Vyhlášky č. 508/2009 Z. z., 
+
+b) vykonanie revízií, odborných prehliadok a odborných skúšok systému ochrany pred 
+
+bleskom podľa Vyhlášky č. 508/2009 Z. z., 
+
+c) vykonanie revízií, odborných prehliadok a odborných skúšok elektrickej inštalácie 
+v priestoroch s nebezpečenstvom výbuchu podľa Vyhlášky č. 508/2009 Z. z., 
+d) vykonanie revízií, odborných prehliadok a odborných skúšok elektrických 
+
+spotrebičov a predlžovacích prívodov podľa Vyhlášky č. 508/2009 Z. z., 
+
+e) vykonanie revízií, odborných prehliadok a odborných skúšok plynových zariadení 
+
+podľa Vyhlášky č. 508/2009 Z. z., 
+
+f) vykonanie revízií, odborných prehliadok a odborných skúšok tlakových zariadení 
+
+podľa Vyhlášky č. 508/2009 Z. z., 
+
+g) vykonanie odborných prehliadok nízkotlakových kotolní podľa Vyhlášky SÚBP č. 
+25/1984 Zb. v znení vyhlášky č. 75/1996 Z. z. na zaistenie bezpečnosti práce v 
+nízkotlakových kotolniach, 
+
+h) dodanie revíznych správ týchto zariadení do 30 pracovných dní odo dňa vykonania 
+revízie, v jednom originály v sídle Odberateľa alebo doporučenou listovou 
+zásielkou na adresu Odberateľa, vydaných oprávnenou organizáciou v zmysle § 15 
+ods. 1 zákona č. 124/2006 Z. z. o bezpečnosti a ochrane zdravia pri práci a o zmene 
+a doplnení niektorých zákonov (ďalej len „zákon č. 124/2006 Z. z.“). 
+
+7. Poskytovateľ sa zaväzuje na Poskytovanie služieb pre Objednávateľa podľa podmienok 
+dohodnutých v tejto Zmluve, podľa podmienok dohodnutých v Rámcovej zmluve a 
+v súlade so zákonom č. 124/2006 Z. z.. Odberateľ sa v tejto Zmluve zaväzuje za 
+
+Poskytovanie služieb zaplatiť cenu podľa ustanovení článku III. tejto Zmluvy. 
+
+8. Táto Zmluva sa uzatvára ako zmluva podľa § 269 ods. 2 zákona č. 513/1991 Zb. Obchodný 
+zákonník v znení neskorších predpisov, t. j. ako inominátny zmluvný typ, ktorého 
+predmetom je poskytovanie služieb, a nie ako zmluva o dielo podľa § 536 a nasl. 
+
+Obchodného zákonníka. 
+
+9. Čiastková zmluva sa uzatvára v rozsahu a za podmienok stanovených Rámcovou zmluvou 
+a jej prílohami. Ustanovenia Rámcovej zmluvy majú prednosť pred ustanoveniami 
+Čiastkovej zmluvy, pokiaľ nie je výslovne dohodnuté inak. 
+
+10. Táto Čiastková zmluva sa uzatvára na obdobie platnosti Rámcovej zmluvy, t. j. na roky 
+2026 – 2029, pričom plánovaný technický rozsah a termíny plnenia sú stanovené v Prílohe 
+
+č. 2 tejto Zmluvy. 
+
+Článok II. 
+Podmienky poskytovania služieb 
+
+1. Spôsob plnenia predmetu Zmluvy, t. j. Poskytovanie služieb uvedených podľa článku I., 
+bodu 1 sa realizuje internými kapacitami Poskytovateľa, prostredníctvom odborne 
+
+spôsobilých a zákonom oprávnených osôb na výkon predmetných činností a postupmi, 
+ktoré budú v súlade s príslušnými všeobecne záväznými právnymi predpismi, prípadne 
+
+ďalšími osobami, vždy pri zachovaní odbornej starostlivosti, kvality poskytovaných 
+služieb a povinnosti mlčanlivosti podľa čl. IV bodu 7. a 8. tejto Zmluvy. 
+
+2. V prípade potreby Poskytovania služby podľa tejto Zmluvy prostredníctvom tretích osôb 
+(Subdodávateľov) je povinnosťou Poskytovateľa vopred písomne požiadať Objednávateľa 
+
+o súhlas na využívanie Subdodávateľa v zmysle článku IX. bodu 3 tejto Zmluvy. 
+Poskytovania služby Subdodávateľom bez predchádzajúceho písomného súhlasu 
+
+Objednávateľa bude považované za porušenie zmluvných podmienok. 
+
+3. V prípade Poskytovania služieb podľa tejto Zmluvy prostredníctvom Subdodávateľa 
+v akomkoľvek stupni, zodpovedá Poskytovateľ Odberateľovi za splnenie záväzku riadne 
+vykonať činnosť podľa tejto Zmluvy, akoby činnosť vykonával sám. 
+
+4. V priebehu účinnosti tejto Zmluvy môže nastať situácia, v ktorej sa skutočný rozsah 
+potrebných odborných prehliadok a odborných skúšok technických zariadení môže líšiť od 
+
+plánovaného technického rozsahu uvedeného v Prílohe č. 2 tejto Zmluvy (napr. v dôsledku 
+zistenia opomenutých zákonných revízií, poruchy zariadenia, zmeny počtu alebo kategórie 
+
+technológií, mimoriadnej revízie alebo požiadavky technického dozoru). Na účely tejto 
+Zmluvy sa takýto rozsah plnenia označuje ako „Doplnkové služby nad rámec plánu“ (ďalej 
+
+len „Doplnkové služby“), pričom ide o služby, ktoré neboli zahrnuté v pôvodnej Cenovej 
+
+ponuke podľa Prílohy č. 6 Rámcovej zmluvy, avšak môžu byť poskytnuté v rámci 
+
+celkového Finančného limitu Rámcovej zmluvy. 
+
+5. Ak potrebu Doplnkových služieb zistí Poskytovateľ, je povinný bezodkladne o tejto 
+skutočnosti informovať Odberateľa prostredníctvom kontaktných osôb uvedených v tejto 
+Zmluve. Poskytovateľ je oprávnený na poskytovanie Doplnkových služieb u Odberateľa 
+
+ihneď po zistení potreby priamo na mieste v objekte Odberateľa tak, aby Poskytovanie 
+služieb bolo v súlade so zákonom č. 124/2006 Z. z. Ak potrebu Doplnkových služieb zistí 
+
+Odberateľ, je povinný bezodkladne o tejto skutočnosti informovať Poskytovateľa. V oboch 
+prípadoch Poskytovateľ následne vypracuje a doručí Odberateľovi aktualizáciu 
+
+plánovaného technického rozsahu služieb (Príloha č. 2 Zmluvy). Doplnkové služby sa 
+fakturujú samostatne, na základe Cenníka Poskytovateľa (Príloha č. 3 Rámcovej zmluvy a 
+
+Príloha č. 1 Zmluvy) a podľa skutočne vykonaného rozsahu plnenia, pričom sa započítavajú 
+do Finančného limitu Rámcovej zmluvy a môžu viesť k jeho skoršiemu vyčerpaniu. 
+
+6. Poskytovanie služieb podľa článku I., bodu 1 písm. a) až g) je Poskytovateľ povinný 
+
+zabezpečovať v objektoch Odberateľa (miesto plnenia). 
+
+7. Poskytovateľ je povinný viesť evidenciu vykonaných odborných prehliadok a skúšok a 
+
+umožniť Objednávateľovi nahliadnuť do nej na vyžiadanie. 
+
+8. Poskytovateľ sa zaväzuje, že bude na e-mailovú adresu: martin.brodnansky@psk.sk 4x 
+ročne, pravidelne po skončení kvartálu roka každého kalendárneho roka zasielať zoznam 
+
+(technický rozsah) a sumu vyúčtovaných revízií za každú OvZp PSK, t.j. za každého 
+Odberateľa (štvrťročná správa o čerpaní finančného limitu z dôvodu sledovania plnenia 
+
+Zmluvy). 
+
+9. V prípade, že v priebehu účinnosti Zmluvy dôjde k zmene v údajoch Odberateľa (zmena 
+adresy, zmena identifikačných údajov a pod.), Zmluvné strany si tieto administratívne 
+zmeny oznámia formou elektronickej komunikácie prostredníctvom kontaktných osôb 
+
+(uvedených v Prílohe č. 3 tejto Zmluvy) bez potreby uzatvorenia dodatku k tejto Zmluve. 
+10. Termín vykonania predmetu Zmluvy bude realizovaný pravidelne v zmysle zákona, avšak 
+
+najneskôr do ukončenia platnosti aktuálne platnej revíznej správy. 
+
+11. Zmluvné strany si po uzavretí Zmluvy prostredníctvom kontaktných osôb uvedených 
+v Prílohe č. 3 tejto Zmluvy upresnia spôsob realizácie, ich vzájomnej spolupráce a výmeny 
+potrebných informácií. Prípadnú zmenu kontaktných osôb si Zmluvné strany oznámia 
+
+písomnou alebo elektronickou formou. 
+
+12. Zmluvné strany sa zaväzujú vzájomne spolupracovať a poskytovať si všetky informácie 
+a súčinnosť potrebnú pre riadne plnenie záväzkov vyplývajúcich z tejto Zmluvy. Zmluvné 
+
+strany sú povinné informovať druhú Zmluvnú stranu o všetkých skutočnostiach, ktoré sú, 
+alebo môžu byť dôležité pre riadne plnenie tejto Zmluvy. 
+
+Článok III. 
+Cena a platobné podmienky 
+
+1. Cena za poskytovanie služieb bola dohodnutá v súlade so zákonom č. 18/1996 Z. z. o 
+cenách v znení neskorších právnych predpisov a vyhláškou MF SR č. 87/1996 Z. z., ktorou 
+sa vykonáva zákon NR SR č. 18/1996 Z. z. o cenách v znení neskorších predpisov a zahŕňa 
+
+všetky náklady Poskytovateľa súvisiace s Poskytovaním služieb. 
+
+2. Cena za poskytovanie služieb podľa tejto Zmluvy je určená v súlade s rozpočtovou 
+klasifikáciou Prešovského samosprávneho kraja podľa zákona č. 523/2004 Z. z. o 
+rozpočtových pravidlách verejnej správy a zákona č. 583/2004 Z. z. o rozpočtových 
+
+pravidlách územnej samosprávy v znení neskorších predpisov. 
+
+3. Cena za poskytovanie služieb počas trvania platnosti a účinnosti tejto Zmluvy sa určuje na 
+základe plánovaného technického rozsahu OP a OS pre Odberateľa uvedeného v Prílohe č. 
+2 Zmluvy a podľa jednotkových cien v Cenníku Poskytovateľa, ktorý tvorí Prílohu č. 1 
+
+Zmluvy. 
+
+4. Cena za poskytovanie služieb podľa tejto Zmluvy je konečná, to znamená, že zahŕňa všetky 
+náklady Poskytovateľa t. j. akékoľvek dane, poplatky a iné súvisiace služby alebo ďalšie 
+náklady Poskytovateľa alebo inej tretej osoby súvisiace s Poskytovaním služieb a 
+
+primeraný zisk. 
+
+5. Zmluvné strany Rámcovej zmluvy sa dohodli, že Finančný limit Rámcovej zmluvy môže 
+byť počas jej trvania upravený z dôvodu zmeny ekonomických podmienok, najmä z 
+dôvodu inflácie, zmeny cien vstupov, miezd, energií alebo materiálov, ktoré majú 
+
+preukázateľný vplyv na výšku nákladov Poskytovateľa spojených s plnením predmetu 
+zmluvy. 
+
+6. Úprava ceny sa vykonáva raz ročne, vždy k 1. januáru kalendárneho roka, na základe: 
+
+a) medziročnej zmeny indexu spotrebiteľských cien (CPI) zverejnenej Štatistickým 
+
+úradom Slovenskej republiky za predchádzajúci kalendárny rok, 
+alebo iného objektívneho indexu, ktorý lepšie zodpovedá povahe predmetu plnenia, ak 
+
+b) 
+
+sa na tom strany dohodnú písomne (napr. index cien priemyselnej výroby, stavebných 
+prác, energií a pod.). 
+
+7. Metóda výpočtu inflačného koeficientu: 
+
+a) Percentuálna zmena ceny (ďalej len „inflačný koeficient“) sa určí podľa vzorca: 
+
+Cnová=Cpôvodná×(1+CPIaktuálny−100) 
+
+100 
+
+pričom CPIaktuálny predstavuje medziročný index rastu cien za príslušný kalendárny rok 
+zverejnený Štatistickým úradom SR (napr. ak CPI = 106, znamená to medziročný rast cien 
+o 6 %). 
+
+b) Úprava ceny podľa tejto doložky sa vykoná automaticky, bez potreby uzavretia 
+dodatku k Zmluve, na základe písomného oznámenia Poskytovateľa o výške novej 
+ceny, doručeného Objednávateľovi najneskôr do 31. januára príslušného roka. 
+
+c) Objednávateľ je oprávnený požadovať od Poskytovateľa preukázanie výpočtu a 
+
+relevantných údajov Štatistického úradu SR. 
+
+d) Ak v danom kalendárnom roku dôjde k poklesu indexu CPI (deflácii), cena sa 
+
+primerane zníži podľa rovnakého postupu. 
+
+e) Úprava ceny podľa tejto doložky nenahrádza zmenu ceny z dôvodu podstatnej 
+zmeny okolností podľa osobitných právnych predpisov a nemá povahu dodatku podľa 
+
+zákona o verejnom obstarávaní, keďže sa uplatňuje v rámci in-house vzťahu podľa § 
+1 ods. 4 a), b), c) zákona č. 343/2015 Z. z. 
+
+8. Ročná úprava ceny podľa indexu spotrebiteľských cien (CPI) nesmie presiahnuť 10 % 
+oproti cene platnej v predchádzajúcom kalendárnom roku, a to bez ohľadu na výšku 
+
+zverejneného indexu. Ak by medziročný nárast indexu CPI prekročil 10 %, na účely tejto 
+zmluvy sa uplatní maximálna prípustná úprava vo výške 10 %. 
+
+9. Všetky ceny uvedené v tejto Zmluve a jej prílohách sa uvádzajú v eurách (€) a zaokrúhľujú 
+sa na dve desatinné miesta smerom nahor, v súlade s § 2 ods. 3 zákona č. 18/1996 Z. z. o 
+
+cenách v znení neskorších predpisov. 
+
+10. Poskytovateľ nie je platcom DPH v súlade s § 3, ods. 4 zákona č. 222/2004 Z. z. o dani 
+
+z pridanej hodnoty. 
+
+11. Poskytovateľ je počas trvania Zmluvy povinný písomne oznámiť Objednávateľovi dátum 
+zrušenia registrácie platiteľa DPH, resp. dátum registrácie platiteľa DPH, a to najneskôr do 
+piatich (5) pracovných dní odo dňa, kedy nastane rozhodujúca skutočnosť. 
+
+12. Po riadnom vykonaní Poskytovania služieb v zmysle článku I, bodu 1 Zmluvy je 
+
+Poskytovateľ oprávnený vstaviť Odberateľovi faktúru za Poskytovanie služieb. 
+
+13. Faktúra za Poskytovanie služieb je splatná v štrnásťdňovej (14) lehote odo dňa riadneho 
+
+doručenia faktúry Odberateľovi. 
+
+14. Faktúra vystavená na základe tejto Zmluvy musí obsahovať všetky náležitosti podľa 
+zákona č. 222/2004 Z. z. o dani z pridanej hodnoty v znení neskorších predpisov. V prípade 
+že faktúra nebude obsahovať všetky náležitosti podľa zákona č. 222/2004 Z. z. o dani z 
+pridanej hodnoty v znení neskorších predpisov, alebo k nej nebudú priložené doklady 
+
+dohodnuté Zmluvnými stranami je Odberateľ oprávnený do troch (3) dní od riadneho 
+doručenia vrátiť faktúru Poskytovateľovi na doplnenie s uvedením nedostatkov, ktoré sa 
+majú odstrániť. V takom prípade sa preruší plynutie lehoty splatnosti a nová lehota 
+
+splatnosti začne plynúť doručením opravenej alebo doplnenej faktúry Odberateľovi. 
+15. Jednotlivé faktúry Poskytovateľ doručí Odberateľovi písomne v listinnej forme na adresu 
+
+sídla Odberateľa, alebo v elektronickej forme na emailový kontakt Odberateľa. 
+
+16. Zmluvné strany budú pri fakturácii dodržiavať ustanovenia zákona č. 215/2019 Z. z. o 
+zaručenej elektronickej fakturácii a centrálnom ekonomickom systéme a o doplnení 
+niektorých zákonov, v platnom znení, pokiaľ im z tohto zákona takáto povinnosť vyplýva. 
+17. Táto Zmluva je uzatvorená v súlade s § 19 zákona č. 583/2004 Z. z. o rozpočtových 
+pravidlách územnej samosprávy a o zmene a doplnení niektorých zákonov v znení 
+
+neskorších predpisov. Finančné vzťahy medzi Odberateľom a Poskytovateľom, ako 
+príspevkovou organizáciou v zriaďovateľskej pôsobnosti Objednávateľa, sa riadia týmto 
+
+zákonom. 
+
+18. Zmluvné plnenia podľa tejto Zmluvy sa uskutočňujú v rámci schválených rozpočtov oboch 
+Zmluvných strán a sú predmetom rozpočtového hospodárenia podľa platných právnych 
+predpisov. 
+
+Článok IV. 
+Povinnosti Poskytovateľa 
+
+1. Poskytovateľ sa zaväzuje k vykonávaniu činností, ktoré mu podľa článku I. tejto Zmluvy 
+
+vyplývajú. 
+2. Poskytovateľ 
+
+je povinný 
+
+realizovať Poskytovanie 
+
+služieb v súlade 
+
+s touto 
+
+Zmluvou, v súlade s dohodnutými podmienkami v tejto Zmluve a v Rámcovej Zmluve 
+a v súlade so všeobecnými záväznými právnymi predpismi a inými predpismi platnými 
+
+v Slovenskej republike. 
+
+3. Počas Poskytovania 
+
+služieb 
+
+je Poskytovateľ povinný 
+
+riadne 
+
+spolupracovať 
+
+s Objednávateľom a Odberateľom. 
+
+4. Poskytovateľ zabezpečuje svoje záväzky vyplývajúce z tejto Zmluvy počas pracovných 
+dní, v pracovnom čase od 08.00 hod. do 16.00 hod., pokiaľ sa s Odberateľom písomne 
+alebo telefonicky nedohodol inak. 
+
+5. Keďže k plneniu tejto Zmluvy dochádza v sídle, priestoroch, objektoch alebo na 
+pracoviskách Odberateľa, Poskytovateľ sa zaväzuje plniť povinnosti a zásady dodržiavania 
+
+bezpečnosti a ochrany zdravia pri práci (BOZP) a ochrany pred požiarmi (OPP) platnými 
+v danom sídle Odberateľa a v súlade so všeobecnými záväznými právnymi predpismi 
+
+a inými predpismi. 
+
+6. Poskytovateľ sa zaväzuje viesť podrobnú evidenciu vykonaných revízií v elektronickej 
+
+podobe a evidenciu revíznych správ v elektronickej aj tlačenej podobe. 
+
+7. Poskytovateľ sa zaväzuje, že v súvislosti s plnením záväzkov podľa článku I. tejto Zmluvy 
+je povinný zachovávať mlčanlivosť o všetkých skutočnostiach, o ktorých sa počas trvania 
+Zmluvy dozvie (ďalej len „Informácie“), a to aj po zániku Zmluvy. Informácie, ktoré 
+
+Poskytovateľ spracúva v súvislosti s plnením svojich záväzkov, je povinný starostlivo 
+uchovávať a chrániť ich najmä pred stratou, zničením, príp. odcudzením. 
+
+8. Poskytovateľ sa súčasne zaväzuje, že takéto Informácie nesprístupní tretím stranám bez 
+vopred vyžiadaného súhlasu Odberateľa. Poskytovateľ sa tiež zaväzuje, že v prípade 
+spracúvania Informácii jeho zamestnancami zabezpečí len nevyhnutný okruh osôb, ktoré 
+
+môžu s Informáciami prísť do styku. Za porušenie povinností zamestnancami podľa tohto 
+článku ručí Poskytovateľ tak, ako keby ich porušil sám. 
+
+9. Poskytovateľ je povinný uchovávať všetku dokumentáciu súvisiacu s plnením Zmluvy 
+
+počas 10 rokov od jej skončenia. 
+
+10. Poskytovateľ je povinný odmietnuť plnenie na základe tejto Zmluvy v okamihu, v ktorom 
+zistil, že pri plnení Zmluvy vo vzťahu k nemu alebo jeho zamestnancovi existuje konflikt 
+
+záujmov. Podľa § 23 ZVO sa konfliktom záujmov rozumie situácia, v ktorej má osoba 
+zapojená do plnenia osobný alebo finančný záujem na výsledku plnenia. O tejto skutočnosti 
+
+je Poskytovateľ povinný informovať Objednávateľa bezodkladne t. j. v okamihu, v ktorom 
+zistil, že vo vzťahu k nemu alebo k jeho zamestnancovi existuje konflikt záujmov, a od 
+
+tohto okamihu sa zdržať akéhokoľvek ďalšieho konania vo vzťahu k predmetnému plneniu. 
+Objednávateľ po tomto oznámení vykoná príslušné opatrenia, vedúce k odstráneniu 
+
+konfliktu záujmu a o výsledku Objednávateľ bezodkladne informuje Poskytovateľa. 
+11. Poskytovateľ je povinný byť počas celej doby platnosti a účinnosti tejto Zmluvy poistený 
+pre prípad vzniku škody spôsobenej pri výkone činností podľa tejto zmluvy, a to najmenej 
+vo výške 100 000 € (slovom: jednostotisíc eur). Uvedenú zmluvu predloží Poskytovateľ 
+
+Objednávateľovi pri podpise Rámcovej Zmluvy. Poskytovateľ sa zaväzuje predložiť 
+Objednávateľovi na jeho vyžiadanie doklad o platnom poistení, vrátane dokladu o zaplatení 
+
+poistného. V prípade zániku alebo neobnovenia poistenia je Poskytovateľ povinný 
+bezodkladne o tejto skutočnosti informovať Objednávateľa a bezodkladne uzavrieť nové 
+
+poistenie v rovnakej alebo vyššej poistnej sume. Nesplnenie tejto povinnosti sa považuje 
+za podstatné porušenie Zmluvy. 
+
+12. Poskytovateľ sa zaväzuje po zániku tejto Zmluvy a po skončení Poskytovania služieb vrátiť 
+Odberateľovi všetky nepoužité doklady a iné veci, ktoré od Odberateľa prevzal na účely 
+
+Poskytovania služieb. 
+
+Článok V. 
+Povinnosti Odberateľa 
+
+1. Odberateľ sa zaväzuje: 
+
+a) oboznámiť sa s Rámcovou zmluvou, 
+b) umožniť vstup zástupcov Poskytovateľa do všetkých priestorov a objektov Odberateľa 
+súvisiacich s výkonom predmetu Zmluvy, t. j. s Poskytovaním služieb a poskytnúť 
+
+požadovanú dokumentáciu, 
+
+c) na požiadanie poskytnúť Poskytovateľovi všetky potrebné informácie, podklady, 
+doklady nevyhnutné pre jeho činnosť, ako aj poskytnúť akúkoľvek súčinnosť na 
+
+požiadanie Poskytovateľa; ak Odberateľ neposkytne Poskytovateľovi potrebnú 
+
+súčinnosť, Poskytovateľ nezodpovedá za škodu, ktorá tým môže vzniknúť, 
+
+d) odovzdávať Poskytovateľovi doklady a poskytovať doplňujúce údaje v lehotách 
+
+umožňujúcich riadne splnenie povinností Poskytovateľa podľa tejto Zmluvy. 
+
+Článok VI. 
+Zodpovednosť za kvalitu poskytovaných služieb, reklamácie a zmluvné pokuty 
+
+1. Poskytovateľ zodpovedá za to, že Poskytovanie služieb Odberateľovi bolo vykonané 
+riadne, odborne a v súlade s platnými technickými normami. Poskytovateľ zodpovedá za 
+správnosť a úplnosť obsahu dokumentácie a iných výstupov vyhotovených v zmysle 
+
+Zmluvy a za ich súlad s príslušnými právnymi predpismi. Odberateľ nie je povinný 
+preskúmavať správnosť ani úplnosť obsahu dokumentácie a iných výstupov. 
+
+2. Ak Objednávateľ zistí nedostatky alebo nepresnosti v Poskytovaní služieb (napr. v revíznej 
+správe), je oprávnený bezodkladne od kedy sa o nich dozvedel, najneskôr však tridsiatich 
+
+(30) dní odo dňa doručenia revíznej správy Odberateľovi uplatniť reklamáciu. Reklamácia 
+musí byť podaná písomne a doručená podľa spôsobu komunikácie Zmluvných strán v 
+
+zmysle článku IX, bodu 2. Poskytovateľ je povinný bezodkladne, najneskôr do tridsiatich 
+(30) dní odo dňa doručenia reklamácie, odstrániť zistené nedostatky na vlastné náklady, ak 
+
+sa Zmluvné strany nedohodnú inak a tak, aby bol naplnený účel Zmluvy. 
+
+3. Poskytovateľ nezodpovedá za nedostatky alebo nepresnosti, ktoré boli spôsobené použitím 
+podkladov prevzatých od Odberateľa a Poskytovateľ ani pri vynaložení všetkej náležitej 
+starostlivosti nemohol zistiť ich nevhodnosť, resp. ak na ňu upozornil a Odberateľ na ich 
+
+použití písomne trval. 
+
+4. Poskytovateľ nezodpovedá za škodu, ktorá Odberateľovi vznikne nedodržaním doporučení 
+
+Poskytovateľa poskytnutých podľa tejto Zmluvy. 
+
+5. Ak sú nedostatky odstránené po márnom uplynutí lehoty na ich odstránenie, má 
+Objednávateľ právo na nárok na zľavu vo výške 0,5 % z ceny príslušnej faktúry za každý, 
+a to aj začatý deň omeškania. Ustanovenia o náhrade škody týmto nie sú dotknuté. 
+
+6. Ak je Poskytovateľ v omeškaní s plnením (odovzdaním predmetu Zmluvy v zmysle lehoty 
+v článku I., bodu 1., písm. h) ) má Odberateľ právo od Poskytovateľa požadovať zmluvnú 
+
+pokutu vo výške 0,05 % z celkovej ceny za Poskytovanie služieb na základe príslušnej 
+faktúry a to za každý aj začatý deň omeškania. 
+
+7. V prípade, ak Poskytovateľ poruší povinnosti vyplývajúce z tejto Zmluvy (v zmysle článku 
+II. bodu 2; článku IV. bodu 8), Odberateľ je oprávnený uplatniť si voči Poskytovateľovi 
+
+zmluvnú pokutu vo výške 50 € (slovom päťdesiat eur) za každé jednotlivé porušenie tejto 
+Zmluvy alebo za každý začatý deň omeškania, ak v tejto Zmluve nie je dohodnuté inak. 
+
+8. V prípade omeškania sa Odberateľa s úhradou faktúry za Poskytovanie služieb si Zmluvné 
+strany dohodli úrok z omeškania vo výške podľa § 1 nariadenia vlády Slovenskej republiky 
+č. 21/2013, ktorým sa vykonávajú niektoré ustanovenia Obchodného zákonníka. 
+
+9. Celková výška zmluvných pokút nepresiahne 10 % hodnoty Zmluvy. 
+10. Zmluvné pokuty podľa tejto Zmluvy sú splatné na základe písomnej výzvy oprávnenej 
+Zmluvnej strany doručenej Zmluvnej strane, ktorá sa dostala do porušenia povinnosti. Za 
+oprávnenú Zmluvnú stranu sa považuje tá Zmluvná strana, ktorej vznikol nárok na 
+
+uplatnenie zmluvnej pokuty v dôsledku porušenia povinností druhej Zmluvnej strany. 
+11. Uplatnením zmluvnej pokuty podľa tejto Zmluvy nie je dotknutý nárok na náhradu škody 
+
+spôsobenej porušením zmluvných povinností. 
+
+12. Poskytovateľ je povinný mať uzavretú zmluvu o poistení za škodu, ktorá by mohla 
+vzniknúť v súvislosti podľa tejto Zmluvy s výkonom jeho činnosti v zmysle článku IV. 
+bodu 10. 
+
+13. Ak jedna zo Zmluvných strán spôsobí porušením svojich povinností vyplývajúcich jej 
+z tejto Zmluvy akúkoľvek škodu druhej Zmluvnej strane, jej zodpovednosť za túto škodu 
+
+a povinnosť na náhradu škody takto spôsobenej druhej Zmluvnej strane sa bude spravovať 
+ustanoveniami § 373 a nasl. zákona č. 513/1991 Zb. Obchodný zákonník v znení neskorších 
+
+predpisov (ďalej len,,Obchodný zákonník”). 
+
+14. Poskytovateľ zodpovedá za škodu, ktorú spôsobí svojím konaním alebo nesplnením 
+povinnosti pri plnení tejto Zmluvy, najmä za škodu spôsobenú porušením právnych 
+predpisov súvisiacich s predmetom Zmluvy, pričom akékoľvek finančné zákonné sankcie, 
+
+ktoré budú dôsledkom spôsobenej škody, je Poskytovateľ povinný tieto v plnej výške 
+Odberateľovi nahradiť. 
+
+15. Odberateľ nemá nárok na náhradu škody, ak konanie alebo nesplnenie povinnosti 
+Poskytovateľa bolo spôsobené konaním Odberateľa alebo nedostatkom poskytnutej 
+
+súčinnosti Poskytovateľovi zo strany Odberateľa. 
+
+16. Ak niektorej zo Zmluvných strán vznikne v zmysle tejto Zmluvy nárok na zmluvnú pokutu, 
+jej nárok na náhradu škody spôsobenej porušením povinnosti zabezpečenej zmluvnou 
+pokutou tým nie je dotknutý. Zmluvná pokuta sa v takomto prípade nezapočíta na náhradu 
+škody; náhrada škody môže byť uplatňovaná Odberateľom voči Poskytovateľovi v plnej 
+výške. 
+
+17. Žiadna Zmluvná strana nebude zodpovedná inej Zmluvnej strane za nesplnenie alebo 
+omeškanie s plnením svojich zmluvných záväzkov, ak takéto neplnenie bude vychádzať z 
+„Okolností vylučujúcich zodpovednosť” v zmysle článku IX., bodu 1. Účinky vylučujúce 
+
+zodpovednosť sú obmedzené na dobu, pokiaľ trvá prekážka, s ktorou sú účinky spojené. 
+Ustanovenie tohto bodu sa uplatní za predpokladu, že príslušná Zmluvná strana bola 
+
+oboznámená písomne o týchto okolnostiach a predpokladanej dobe ich trvania postihnutou 
+Zmluvnou stranou, akonáhle sa o ich výskyte dozvedela. 
+
+Článok VII. 
+
+Ochrana osobných údajov 
+
+1. Poskytovateľ a Odberateľ sú povinní postupovať pri realizácii ustanovení tejto Zmluvy tak, 
+aby pri spracúvaní osobných údajov postupovali v súlade s ustanoveniami zákona č. 
+18/2018 Z. z. o ochrane osobných údajov, s nariadením Európskeho parlamentu a Rady 
+
+EÚ 2016/679 o ochrane fyzických osôb pri spracúvaní osobných údajov a voľnom pohybe 
+takýchto údajov, ako aj zákonom č. 343/2015 Z. z. o verejnom obstarávaní a o zmene a 
+
+doplnení niektorých zákonov. 
+
+2. Poskytovateľ je povinný zabezpečiť osobné údaje, ktoré bude spracúvať, pred 
+odcudzením, stratou, poškodením, neoprávneným prístupom tretích osôb, zmenou a 
+rozširovaním. Na tento účel prijme primerané technické, organizačné a personálne 
+
+opatrenia zodpovedajúce spôsobu spracúvania. 
+
+3. Odberateľ je oprávnený požadovať od Poskytovateľa preukázanie vykonania všetkých 
+predpísaných bezpečnostných opatrení na ochranu osobných údajov podľa ustanovení 
+tohto článku Zmluvy. 
+
+4. Poskytovateľ je oprávnený využiť osobné údaje poskytnuté mu Odberateľom výlučne len 
+
+na účely poskytovania služieb v zmysle tejto Zmluvy. 
+
+5. Osobné údaje eviduje Poskytovateľ vo fyzickej (písomnej) podobe a/alebo v elektronickej 
+podobe počas plnenia tejto Zmluvy. Po uplynutí platnosti a účinnosti Zmluvy je 
+
+poskytovateľ povinný súbor osobných údajov vrátiť Odberateľovi v termíne do pätnástich 
+(15) dní a bezodkladne zlikvidovať poskytnuté osobné údaje vo všetkých svojich 
+
+informačných systémoch. 
+
+6. Poskytovateľ je povinný zachovávať mlčanlivosť o všetkých poskytnutých osobných 
+údajoch, ktoré bude spracúvať vo svojom informačnom systéme. Povinnosť mlčanlivosti 
+trvá aj po skončení spracúvania. O tejto povinnosti je Poskytovateľ povinný poučiť aj 
+
+svojich zamestnancov, ostatné ním poverené osoby, subdodávateľov, ako aj všetky osoby, 
+ktoré prídu do styku s poskytnutými osobnými údajmi. 
+
+Článok VIII. 
+Trvanie zmluvy a jej ukončenie 
+
+1. Táto Zmluva sa uzatvára na dobu určitú, a to na obdobie do zániku Rámcovej zmluvy alebo 
+do vyčerpania Finančného limitu uvedeného v článku III. Rámcovej zmluvy, podľa toho, 
+ktorá skutočnosť nastane skôr. 
+
+2. Táto Zmluva zaniká: 
+
+a) uplynutím času v zmysle bodu 1. tohto článku, 
+b) vyčerpaním finančného limitu zmysle bodu 1. tohto článku, 
+c) písomnou dohodou Zmluvných strán, 
+
+d) písomným odstúpením od Zmluvy v prípade jej podstatného porušenia druhou 
+Zmluvnou stranou, ak porušujúca strana nevykoná nápravu po písomnom upozornení 
+do štrnástich (14) kalendárnych dní od doručenia upozornenia; účinky odstúpenia od 
+
+Zmluvy nastávajú dňom doručenia písomného odstúpenia druhej Zmluvnej strane. 
+
+e) písomnou výpoveďou. 
+
+3. Ktorákoľvek Zmluvná strana je oprávnená túto Zmluvu kedykoľvek písomne vypovedať, 
+a to aj bez uvedenia dôvodu. Výpovedná lehota je šesť (6) mesiacov a začína plynúť prvým 
+
+dňom kalendárneho mesiaca, nasledujúceho po kalendárnom mesiaci, v ktorom bola 
+výpoveď doručená druhej Zmluvnej strane. 
+
+4. Ku dňu zániku Rámcovej Zmluvy zanikajú automaticky aj jednotlivé Čiastkové zmluvy 
+uzavreté na jej základe, pokiaľ sa Zmluvné strany nedohodnú inak v písomnej forme. 
+
+Poskytovateľ je povinný bezodkladne po zániku Rámcovej zmluvy informovať všetkých 
+Odberateľov o tejto skutočnosti, a to spôsobom doručovania podľa článku IX bodu 2 tejto 
+
+Zmluvy. Oznámenie sa doručuje: 
+
+a) poštou (doporučene) na adresu Odberateľa uvedenú v záhlaví Čiastkovej zmluvy, 
+
+b) alebo elektronicky prostredníctvom e-mailovej adresy Odberateľa uvedenej v Prílohe 
+
+č. 3 Zmluvy, 
+
+c) prípadne prostredníctvom elektronickej schránky podľa zákona č. 305/2013 Z. z. 
+Oznámenie sa považuje za doručené v súlade s článkom IX bodom 2 písm. c) a d) tejto 
+
+Zmluvy. 
+
+5. V prípade ukončenia tejto Zmluvy sú Zmluvné strany povinné zabezpečiť riadne uzavretie 
+
+všetkých rozpracovaných plnení a odovzdanie dokumentácie. 
+6. Za podstatné porušenie tejto Zmluvy Poskytovateľom sa považuje: 
+
+a) preukázateľné opakované neplnenie záväzkov podľa Zmluvy, a to napriek písomnému 
+
+upozorneniu zo strany Objednávateľa, 
+
+b) strata oprávnenia na výkon príslušných činností, 
+c) spôsobenie škody súvisiacej s neplnením povinností podľa Zmluvy riadne a včas a 
+
+škody súvisiacej s porušením povinností podľa Zmluvy, 
+
+d) neposkytnutie dostatočnej 
+
+súčinnosti Poskytovateľovi, a 
+
+to ani po 
+
+jeho 
+
+predchádzajúcom písomnom upozornení, 
+
+e) porušenie zmluvnej povinnosti v zmysle článku IV. bodu 11, 
+f) prejavený úmysel nepokračovať v plnení tejto Zmluvy. 
+
+Článok IX. 
+Spoločné ustanovenia 
+
+1. Vyššia moc 
+
+a) Zmluvné strany, ako účastníci záväzkového vzťahu, nezodpovedajú za porušenie 
+a omeškanie svojich záväzkov, a to v zmysle ustanovenia§ 374 a nasl. Obchodného 
+
+zákonníka, spôsobené tzv. vyššou mocou, t. j. okolnosťami, ktoré nastali nezávisle od 
+vôle Zmluvných strán a bránia im v splnení povinností, pričom nemožno rozumne 
+
+predpokladať, že by Zmluvná strana túto prekážku alebo jej následky odvrátila alebo 
+prekonala (ďalej len „Okolnosti vylučujúce zodpovednosť”).  
+
+b) Každá zo Zmluvných strán sa zaväzuje upozorniť druhú Zmluvnú stranu bez 
+zbytočného odkladu na vznik Okolností vylučujúcich zodpovednosť brániacich 
+
+riadnemu plneniu Zmluvy. 
+
+c) V prípade omeškania s plnením záväzku spôsobeného Okolnosťami vylučujúcimi 
+zodpovednosť platí, že Zmluvná strana nie je v omeškaní po dobu trvania takýchto 
+prekážok. 
+
+d) Na právny vzťah medzi Zmluvnými stranami sa nepoužije ustanovenie § 356 a nasl. 
+
+Obchodného zákonníka (zmarenie účelu Zmluvy).  
+
+2. Komunikácia 
+
+a) Všetky písomnosti a oznámenia týkajúce sa právnych vzťahov založených medzi 
+účastníkmi touto Zmluvou, vrátane tých, ktoré vyvolávajú právne účinky sa doručujú 
+
+osobne, poštou (doporučene na adresu účastníka uvedenú v záhlaví Zmluvy), 
+autorizovaným elektronickým podaním do elektronickej schránky v zmysle zákona č. 
+
+305/2013 Z. z. alebo iným doručovateľom oprávneným doručovať zásielky. Zmluvné 
+strany sa ďalej dohodli, že bežná komunikácia (napr. komunikácia týkajúca sa 
+
+organizácii stretnutí alebo iných organizačných záležitosti alebo podkladov pre 
+fakturáciu a pod.) bude vykonávaná prostredníctvom emailu prostredníctvom 
+
+oprávnenej osoby v zmysle Prílohy č. 3 tejto Zmluvy. 
+
+b) Zmluvné strany sa zaväzujú oznamovať si navzájom akékoľvek zmeny údajov, ktoré 
+sa ich týkajú a sú potrebné na prípadné uplatnenie oznámenia, najmä zmenu, či zánik 
+ich právnej subjektivity, zmenu adresy ich sídla, zmenu štatutárneho orgánu, zmenu 
+
+osoby oprávnenej rokovať vo veciach zmluvných a technických, zmenu bankového 
+likvidácie 
+spojenia, vstup do konkurzného konania, reštrukturalizácie alebo 
+
+ktorejkoľvek Zmluvnej strany. Takéto oznámenie je možné uskutočniť jednostranne 
+bez nutnosti zmeny Zmluvy vo forme dodatku. Ak niektorá zmluvná strana nesplní 
+
+povinnosť uvedenú vyššie, nebude oprávnená namietať, že neobdŕžala akékoľvek 
+písomnosti, a zároveň zodpovedá za akúkoľvek takto spôsobenú škodu. 
+
+c) Písomnosti sa považujú za doručené v deň doručenia, pokiaľ boli doručené osobne; v 
+deň prevzatia, pokiaľ boli zaslané formou doporučenej listovej zásielky alebo 
+elektronickej pošty; v nasledujúci pracovný deň, pokiaľ boli zaslané rýchlou kuriérskou 
+
+službou; v momente prenosu, inak v nasledujúci pracovný deň, aj keď si ju adresát 
+neprečítal ak boli doručené emailom. 
+
+d) Za deň doručenia písomnosti sa považuje aj deň, v ktorý Zmluvná strana, ktorá je 
+adresátom, odoprie doručovanú písomnosť prevziať, alebo v ktorý márne uplynie 
+
+odberná lehota pre vyzdvihnutie si zásielky na pošte doručovanej poštou Zmluvnej 
+strane, alebo v ktorý je na zásielke, doručovanej poštou Zmluvnej strane, preukázateľne 
+
+poštou vyznačená poznámka, že „adresát sa odsťahoval“, „adresát je neznámy“ alebo 
+iná poznámka podobného významu. 
+
+e) Zmluvné strany sa dohodli, že písomnosti obsahujúce prejav vôle predčasne ukončiť 
+túto zmluvu (napr. odstúpenie od Zmluvy) sa musia doručovať prostredníctvom pošty 
+
+alebo autorizovaným elektronickým podaním do elektronickej schránky v zmysle 
+zákona č. 305/2013 Z. z. s doručenkou preukazujúcou doručenie. 
+
+f) Komunikácia medzi Objednávateľom a Poskytovateľom bude prebiehať výlučne v 
+slovenskom jazyku a prostredníctvom kontaktných osôb uvedených v Prílohe č.3 tejto 
+
+Zmluvy. 
+
+3. Subdodávatelia 
+
+a) Poskytovateľ je povinný uviesť zoznam svojich subdodávateľov známych v čase 
+uzavretia Rámcovej zmluvy spolu s predmetom subdodávky a podielom na celkovej 
+
+realizácii predmetu Rámcovej zmluvy v Prílohe č. 5 Rámcovej Zmluvy. 
+
+b) Poskytovateľ je počas trvania Rámcovej zmluvy oprávnený zmeniť alebo doplniť 
+subdodávateľa 
+len s predchádzajúcim písomným súhlasom Objednávateľa. 
+Poskytovateľ je povinný bezodkladne, ako sa dozvedel o potrebe zmeniť, alebo doplniť 
+
+subdodávateľa, predložiť Objednávateľovi písomnú Žiadosť o zmenu alebo doplnenie 
+subdodávateľa minimálne päť (5) pracovných dní pred plánovaným dátumom zmeny 
+
+subdodávateľa. Písomná žiadosť Poskytovateľa musí obsahovať aktualizovanú Prílohu 
+č. 5 Rámcovej zmluvy. Poskytovateľ je v súlade s § 41 ZVO povinný uvádzať aktuálne 
+údaje o svojich subdodávateľoch, údaje o osobách oprávnených konať za 
+subdodávateľov v rozsahu podľa Prílohy č. 5 Rámcovej zmluvy. Poskytovateľ je 
+
+povinný preukázať splnenie podmienok účasti zmeneného alebo doplneného 
+subdodávateľa v takom rozsahu, ako to bolo voči subdodávateľom požadované v rámci 
+podmienok účasti v postupe verejného obstarávania, alebo v takom rozsahu, v akom 
+
+Poskytovateľ(uchádzač) využil kapacity subdodávateľa, na preukázanie podmienok 
+účasti. 
+
+c) V prípade, ak Poskytovateľ nedodrží vyššie uvedený postup týkajúci sa nahradenia 
+subdodávateľa, 
+subdodávateľa a/alebo nástup/doplnenie nového 
+
+pôvodného 
+
+Objednávateľ 
+
+je oprávnený nahradenie pôvodného 
+
+subdodávateľa a/alebo 
+
+nástup/doplnenie nového subdodávateľa, ktorý nie je uvedený v Prílohe č. 5 Rámcovej 
+
+zmluvy neschváliť. V prípade ak Objednávateľ zistí, že Poskytovateľ využíva 
+subdodávateľa, ktorý nie je uvedený v Prílohe č. 5, bude to považovať považované za 
+
+porušenie zmluvných podmienok. 
+
+d) Bez ohľadu na vyššie uvedené, ak Poskytovateľ použije na plnenie povinností 
+Poskytovateľa podľa Rámcovej zmluvy akúkoľvek tretiu osobu, zodpovedá voči 
+Objednávateľovi v celom rozsahu za plnenie povinností podľa Rámcovej zmluvy ako 
+
+keby ich plnil sám. Pre vylúčenie pochybností sa Zmluvné strany Rámcovej zmluvy 
+dohodli, že pre zmenu alebo doplnenie Subdodávateľov nie je potrebné uzatvárať 
+
+dodatok k Rámcovej zmluve v prípade, ak nový subdodávateľ nemá povinnosť byť 
+zapísaný do registra partnerov verejného sektora a pokiaľ bude dodržaný postup podľa 
+
+tohto bodu. V prípade subdodávateľov, ktorí majú povinnosť byť zapísaní v registri 
+partnerov verejného sektora podľa zákona č. 315/2016 Z. z. o registri partnerov 
+
+verejného sektora a o zmene a doplnení niektorých zákonov, je potrebné uzatvárať 
+osobitný dodatok k Rámcovej zmluve, ktorým Zmluvné strany Rámcovej zmluvy 
+
+aktualizujú Prílohu č. 5 Rámcovej zmluvy o údaje o novom subdodávateľovi. 
+
+e) V prípade zmeny subdodávateľa, ktorá si vyžaduje formu uzatvorenia samostatného 
+dodatku k Rámcovej zmluve podľa tohto bodu sa pri uzatváraní dodatku zároveň 
+Príloha č. 5 Rámcovej zmluvy vždy aktualizuje aj o všetkých subdodávateľov, ktorí 
+
+boli zmenení postupom podľa tohto bodu bez potreby dodatku tak, aby bola Príloha č. 
+5 Rámcovej zmluvy v rámci dodatku vždy aktuálna s uvedením všetkých aktuálnych 
+
+subdodávateľov. 
+
+4. Záväzky vo vzťahu k nelegálnemu zamestnávaniu 
+
+a) Poskytovateľ je povinný dodržiavať zákazy, obmedzenia a povinnosti vyplývajúce zo 
+Zákona o nelegálnom zamestnávaní, najmä je však povinný postupovať tak, aby 
+
+plnenie Zmluvy nedodával prostredníctvom fyzickej osoby, ktorá je nelegálne 
+zamestnaná. Poskytovateľ vyhlasuje, že plnenie, ktoré bude dodávať na základe 
+
+Zmluvy bude po celý čas jej platnosti a účinnosti dodávať len prostredníctvom fyzickej 
+osoby, ktorú zamestnáva v súlade s právnou úpravou platnou na území domovského 
+štátu Poskytovateľa, kde má zriadené svoje sídlo a súčasne vyhlasuje, že žiadne 
+plnenie alebo jeho časť nedodá prostredníctvom fyzickej osoby, ktorá je nelegálne 
+
+zamestnaná. 
+
+b) Poskytovateľ je povinný na požiadanie Objednávateľa bezodkladne poskytnúť v 
+požadovanom rozsahu doklady a osobné údaje fyzických osôb, prostredníctvom 
+
+ktorých dodáva plnenie podľa Zmluvy, ktoré sú potrebné na to, aby Objednávateľ 
+mohol skontrolovať či Poskytovateľ neporušuje zákaz nelegálneho zamestnávania 
+
+podľa osobitného predpisu, t. j. podľa Zákona o nelegálnom zamestnávaní. Žiadosť o 
+poskytnutie dokladov, ako aj samotné doklady, je možné doručiť aj v elektronickej 
+
+forme na určenú e-mailovú adresu Objednávateľa. 
+
+c) Ak Poskytovateľ poruší povinnosti vyplývajúce zo Zmluvy alebo z osobitných 
+všeobecne záväzných právnych predpisov v oblasti zamestnávania a z uvedeného 
+dôvodu bude Objednávateľovi uložená pokuta alebo iná sankcia za porušenie zákazu 
+
+prijať plnenie dodané Poskytovateľom prostredníctvom fyzickej osoby nelegálne 
+zamestnanej, alebo pokuta uložená Poskytovateľovi bude od Objednávateľa vymáhaná 
+
+v zmysle zákona o nelegálnom zamestnávaní, zaväzuje sa Poskytovateľ uhradiť 
+Objednávateľovi škodu tým spôsobenú, a to vrátane škody spôsobenej uhradením 
+
+pokuty alebo sankcie uloženej príslušným orgánom verejnej správy. Poskytovateľ je 
+povinný uhradiť Objednávateľovi skutočnú škodu, ktorá mu vznikla, a to najneskôr do 
+
+15 (pätnástich) pracovných dní odo dňa doručenia faktúry spolu so žiadosťou o 
+uhradenie spôsobenej škody. Jedným z podkladov pre určenie skutočnej škody 
+
+spôsobenej Objednávateľovi bude aj kópia právoplatného rozhodnutia príslušného 
+orgánu verejnej správy o uložení pokuty alebo inej sankcie alebo o vymáhaní pokuty 
+
+uloženej Poskytovateľovi od Objednávateľa. 
+
+5. Register partnerov verejného sektora 
+
+a) Poskytovateľ vyhlasuje, že si riadne a včas plní, a počas trvania Zmluvy sa zaväzuje 
+riadne a včas plniť, svoje povinnosti vyplývajúce zo Zákona o registri partnerov 
+
+verejného sektora (ďalej aj ako „Zákon o registri partnerov“), najmä sa zaväzuje 
+zabezpečiť aktuálne, úplné, správne a pravdivé údaje zapisované v registri 
+
+partnerov prostredníctvom oprávnenej osoby, a zároveň sa zaväzuje bez 
+zbytočného odkladu písomne informovať Objednávateľa o tom, že: 
+
+− bol vymazaný z registra partnerov vedeného v zmysle Zákona o registri 
+
+partnerov; 
+
+− nastala akákoľvek zmena akéhokoľvek údaju zapísaného v registri partnerov 
+
+vedenom v zmysle Zákona o registri partnerov; 
+
+− nastala skutočnosť, ktorá vedie alebo môže viesť k jeho výmazu z registra 
+partnerov podľa § 13 ods. 2 Zákona o registri partnerov; po dobu dlhšiu ako 30 
+(tridsať) kalendárnych dní nemá v registri partnerov vedenom v zmysle Zákona 
+
+o registri partnerov zapísanú oprávnenú osobu. 
+
+b) Touto Zmluvou sa nezakladá osobitná registračná povinnosť v prípade, ak 
+
+požiadavka registrácie nevyplýva zo Zákona o registri partnerov. 
+
+c) Poskytovateľ je povinný zabezpečiť, aby subdodávatelia, ktorí spĺňajú definíciu 
+partnera verejného sektora podľa § 2 ods. 1 písm. a) bod 7 Zákona o registri 
+partnerov, ktorí budú subdodávateľmi pre plnenie poskytované na základe Zmluvy, 
+
+zabezpečili svoju registráciu ako partneri verejného sektora a túto registráciu 
+udržiavali v platnosti počas trvania Zmluvy a plnili si všetky povinnosti 
+resp. zabezpečili plnenie povinností 
+vyplývajúce z 
+vyplývajúcich z takejto registrácie. Za účelom kontroly splnenia povinnosti podľa 
+prvej vety tohto bodu článku Zmluvy je Objednávateľ oprávnený požadovať od 
+
+registrácie, 
+
+takejto 
+
+Poskytovateľa predloženie všetkých zmlúv a súvisiacich dokumentov so 
+
+subdodávateľmi; Poskytovateľ je povinný takejto požiadavke Objednávateľa 
+vyhovieť v lehote uvedenej vo výzve Objednávateľa; v prípade, ak Poskytovateľ 
+
+tejto výzve nevyhovie, má sa za to, že povinnosť podľa prvej vety tohto bodu tohto 
+článku Zmluvy bola porušená. 
+
+d) Zmluvné strany, ako účastníci záväzkového vzťahu, nezodpovedajú za porušenie 
+a omeškanie svojich záväzkov, a to v zmysle ustanovenia§ 374 a nasl. Obchodného 
+
+zákonníka, spôsobené tzv. vyššou mocou, t. j. okolnosťami, ktoré nastali nezávisle 
+od vôle Zmluvných strán a bránia im v splnení povinností, pričom nemožno 
+
+rozumne predpokladať, že by Zmluvná strana túto prekážku alebo jej následky 
+odvrátila alebo prekonala (ďalej len „Okolnosti vylučujúce zodpovednosť”). 
+e) Každá zo Zmluvných strán sa zaväzuje upozorniť druhú Zmluvnú stranu bez 
+zbytočného odkladu na vznik Okolností vylučujúcich zodpovednosť brániacich 
+
+riadnemu plneniu Zmluvy. V prípade omeškania s plnením záväzku spôsobeného 
+Okolnosťami vylučujúcimi zodpovednosť platí, že Zmluvná strana nie je v 
+
+omeškaní po dobu trvania takýchto prekážok. 
+Na právny vzťah medzi Zmluvnými stranami sa nepoužije ustanovenie § 356 a nasl. 
+
+Obchodného zákonníka (zmarenie účelu zmluvy). 
+
+Článok X. 
+Záverečné ustanovenia 
+
+1. Práva a povinnosti Zmluvných strán sa riadia právnym poriadkom Slovenskej republiky. 
+Právne vzťahy, ktoré nie sú upravené v tejto Zmluve sa spravujú príslušnými 
+
+ustanoveniami Obchodného zákonníka a ostatných všeobecne záväzných platných 
+právnych predpisov. 
+
+2. Ak nie je uvedené inak, meniť alebo dopĺňať ustanovenia tejto Zmluvy je možné iba 
+
+formou písomných dodatkov, podpísaných Zmluvnými stranami. 
+
+3. Akékoľvek nezhody, spory alebo nároky, vznikajúce zo Zmluvy alebo v súvislosti s ňou 
+budú riešené dohodou Zmluvných strán, ak k tejto dohode nedôjde, rozhodne príslušný 
+
+súd. 
+
+4. Ak sa niektoré z ustanovení tejto Zmluvy stane neplatným z dôvodu rozporu so zákonom, 
+Zmluvné strany sa dohodnú na takej zmene Zmluvy, aby sa dotknuté ustanovenia Zmluvy 
+stali platnými a ich obsah bol v najväčšej možnej miere podobný pôvodnej úprave. 
+
+5. Zmluvné strany týmto spoločne prehlasujú, že sú si vedomé skutočnosti, že táto Zmluva je 
+povinne zverejňovanou zmluvou v zmysle ustanovenia § 5a zákona č. 211/2000 Z. z. o 
+
+slobodnom prístupe k informáciám v znení neskorších predpisov. 
+
+v súlade s § 47a Občianskeho zákonníka č. 40/1964 Zb. v znení neskorších predpisov dňom 
+
+nasledujúcim po dni jej prvého zverejnenia v Centrálnom registri zmlúv, najskôr dňom 
+01.01.2026. 
+
+7. Zmluva je vyhotovená v štyroch rovnopisoch, každý s právnou silou originálu, z ktorých 
+
+každá Zmluvná strana obdrží po dvoch vyhotoveniach. 
+
+8. Zmluvné strany prehlasujú, že Zmluvu neuzatvárajú v tiesni ani za nápadne nevýhodných 
+podmienok, a že si Zmluvu prečítali, porozumeli jej, je jasná, určitá a zrozumiteľná a na 
+znak súhlasu s jej obsahom ju vlastnoručne podpisujú. 
+
+9. Neoddeliteľnou súčasťou tejto Zmluvy sú nasledujúce prílohy: 
+
+Príloha č.1 – Cenník Poskytovateľa 
+
+Príloha č.2 – Plánovaný technický rozsah služieb OP a OS pre Odberateľa na roky 
+2026 – 2029 
+
+Príloha č. 3- Zoznam kontaktných osôb Zmluvných strán 
+
+Za Odberateľa: 
+
+V Bardejove, dňa 29.12.2025 
+
+Mgr. Oľga Hviščová, riaditeľka.......................v.r............................ 
+
+Za Poskytovateľa 
+V Prešove, dňa 17.12.2025 
+
+Ing. Martin Lukáč, riaditeľ.......................v.r............................ 
+
+Táto zmluva bola zverejnená dňa: 02.01.2026 
+
+Táto zmluva nadobúda účinnosť dňa: 03.01.2026 
+
+[[ATTACHMENT_BOUNDARY idx=2 total=4 source=11819112_2.pdf]]
+
+Príloha č.1– Čiastkovej zmluvy Rámcovej zmluvy o poskytovaní služieb „Odborné prehliadky, odborné skúšky technických zariadení"
+
+Cenník Poskytovateľa*
+ROK 2026
+
+ typ „OP“ a „OS“ 
+odborná prehliadka kotla nad 100 kW - vonkajšia
+odborná prehliadka kotla nad 100 kW - vnútorná
+tlaková nádoba - vonkajšia
+tlaková nádoba - vnútorná
+prehliadka plynovej kotolne III. kategórie
+opakovaná úradná skúška
+tlaková skúška kotla nad 100 kW
+tlaková skúška tlakovej nádoby B/b1
+odborná prehliadka / skúška kotla do 100 kW
+odborná prehliadka / skúška kotla nad 100 kW
+odborná prehliadka / skúška - kuchynské zariadenie 
+odborná prehliadka / skúška NTL rozvod plynu
+odborná prehliadka / skúška NTL rozvod plynu - vrátane regulačného zariadenia
+odborná prehliadka / skúška regulačné zariadenie na znižovanie tlaku plynu
+1 ks elektrický obvod
+1 ks zvod bleskozvodu
+1 ks ručného náradia alebo elektrospotrebiča
+príplatky
+dopravné náklady
+administratívne náklady - technický úsek
+administratívne náklady - ekonomický úsek
+
+typ technického zariadenia
+tlakové zariadenie
+tlakové zariadenie
+tlakové zariadenie
+tlakové zariadenie
+tlakové zariadenie
+tlakové zariadenie
+tlakové zariadenie
+tlakové zariadenie
+plynové zariadenie
+plynové zariadenie
+plynové zariadenie
+plynové zariadenie
+plynové zariadenie
+plynové zariadenie
+elektrické zariadenie
+elektrické zariadenie
+elektrické zariadenie
+
+interval
+1 x za rok
+1 x za rok
+1 x za rok
+1 x za rok
+1 x za rok
+1 x za 10 rokov
+1 x za 10 rokov
+1 x za 10 rokov
+1 x za rok
+1 x za rok
+1 x za rok
+1 x za rok
+1 x za rok
+1 x za rok
+
+jednotka
+1 km
+1 hod
+1 hod
+
+jednotková cena
+
+110,00 €
+110,00 €
+50,00 €
+50,00 €
+67,00 €
+85,00 €
+120,00 €
+120,00 €
+110,00 €
+110,00 €
+50,00 €
+100,00 €
+105,00 €
+105,00 €
+6,40 €
+20,00 €
+3,60 €
+jednotková cena
+0,44 €
+17,31 €
+17,31 €
+
+* Cenník Poskytovateľa predstavuje podrobnú špecifikáciu jednotkových cien jednotlivých poskytovaných služieb vychádzajúc z Cenovej ponuky 
+Poskytovateľa (Príloha č. 6 Rámcovej zmluvy). Jednotkové ceny za služby/položky stanovené v Cenovej ponuke predstavujú maximálnu cenu za konkrétny 
+typ služby alebo položky, ktorá môže byť Odberateľovi účtovaná.
+
+[[ATTACHMENT_BOUNDARY idx=3 total=4 source=11819112_3.pdf]]
+
+Príloha č.2 - Čiastkovej zmluvy Rámcovej zmluvy o poskytovaní služieb „Odborné prehliadky, odborné skúšky technických zariadení" 
+
+Plánovaný technický rozsah služieb OP a OS pre Odberateľa na roky 2026 – 2029 
+
+Odberateľ:
+Adresa:
+IČO:
+
+Zariadenie sociálnych služieb Egídius
+
+Ťačevská 38, 085 01 Bardejov
+
+50595318
+
+Revízie plynových zariadení a tlakových zariadení (podľa článku I, bodu 1, písm. e), f), g) a h) Zmluvy
+
+rok 2026
+
+rok 2027
+
+PČ podklad pre fakturáciu
+1 expanzná nádoba Viessmann Reflex N 14O05094549
+2 expanzná nádoba Flamco CONTRA-FLEX 25 002632 14-09-20 26233
+3 plynový kotol K2 JUNKERS ZBR42-3 A 23 S7323 3730-075-170109-7712231492
+4 plynová stolička Stalgast Top line P587921/2019
+5 plynová stolička Stalgast Top line P694613/2019
+6 plynový sporák GASTRO HAAL SPE-940 C
+7 plynový sporák GASTRO HAAL SPE-940 C
+8 plynový kotol K1 VAILLANT VU CZ 280/2-5 R3
+
+PČ podklad pre fakturáciu
+1 expanzná nádoba Viessmann Reflex N 14O05094549
+2 expanzná nádoba Flamco CONTRA-FLEX 25 002632 14-09-20 26233
+3 plynový kotol K2 JUNKERS ZBR42-3 A 23 S7323 3730-075-170109-7712231492
+4 plynová stolička Stalgast Top line P587921/2019
+5 plynová stolička Stalgast Top line P694613/2019
+6 plynový sporák GASTRO HAAL SPE-940 C
+7 plynový sporák GASTRO HAAL SPE-940 C
+8 plynový kotol K1 VAILLANT VU CZ 280/2-5 R3
+
+rok 2028
+
+rok 2029
+
+PČ podklad pre fakturáciu
+1 expanzná nádoba Viessmann Reflex N 14O05094549
+2 expanzná nádoba Flamco CONTRA-FLEX 25 002632 14-09-20 26233
+3 plynový kotol K2 JUNKERS ZBR42-3 A 23 S7323 3730-075-170109-7712231492
+4 plynová stolička Stalgast Top line P587921/2019
+5 plynová stolička Stalgast Top line P694613/2019
+6 plynový sporák GASTRO HAAL SPE-940 C
+7 plynový sporák GASTRO HAAL SPE-940 C
+8 plynový kotol K1 VAILLANT VU CZ 280/2-5 R3
+
+PČ podklad pre fakturáciu
+1 expanzná nádoba Viessmann Reflex N 14O05094549
+2 expanzná nádoba Flamco CONTRA-FLEX 25 002632 14-09-20 26233
+3 plynový kotol K2 JUNKERS ZBR42-3 A 23 S7323 3730-075-170109-7712231492
+4 plynová stolička Stalgast Top line P587921/2019
+5 plynová stolička Stalgast Top line P694613/2019
+6 plynový sporák GASTRO HAAL SPE-940 C
+7 plynový sporák GASTRO HAAL SPE-940 C
+8 plynový kotol K1 VAILLANT VU CZ 280/2-5 R3
+
+PČ podklad pre fakturáciu
+1 ručné náradie a spotrebiče 170 ks
+2
+3
+4
+
+PČ podklad pre fakturáciu
+1 ručné náradie a spotrebiče 170 ks
+
+Revízie elektrických zariadení (podľa článku I, bodu 1, písm. a), b), c), d) a h) Zmluvy 
+
+rok 2026
+
+rok 2027
+
+PČ podklad pre fakturáciu
+1 ručné náradie a spotrebiče 170 ks
+2 ZSS EgídiusBardejov - budova - bleskozvod
+3 ZSS EgídiusBardejov - budova
+4 ZSS EgídiusBardejov - kuchyňa, práčovňa
+
+rok 2028
+
+rok 2029
+
+PČ podklad pre fakturáciu
+1 ručné náradie a spotrebiče 170 ks
+
+[[ATTACHMENT_BOUNDARY idx=4 total=4 source=11819112_4.pdf]]
+
+Príloha č.3 - Čiastkovej zmluvy Rámcovej zmluvy o poskytovaní služieb „Odborné prehliadky, 
+odborné skúšky technických zariadení" 
+
+Zoznam kontaktných osôb Zmluvných strán 
+
+Poskytovateľ 
+
+P. č. Meno a priezvisko 
+
+1. 
+
+2. 
+
+Energetická Agentúra Smart 
+Regiónu PSK 
+IČO: 51295130 
+Levočská 6114/1, 
+080 01 Prešov 
+Ján Švirloch 
+Energetická Agentúra Smart 
+Regiónu PSK 
+IČO: 51295130 
+Levočská 6114/1, 
+080 01 Prešov 
+Mgr. Miriam Sorgerová 
+
+Odberateľ 
+P. č. 
+
+Meno a priezvisko 
+
+1. Mgr. Oľga Hviščová 
+
+V Prešove, dňa: 17.12.2025 
+
+Pracovná pozícia 
+/ Zodpovednosť 
+energetik / 
+technické plnenie 
+Zmluvy 
+
+Telefón/Mobil; 
+E-mail 
+0917 498 207; 
+energetik@smartp.sk 
+
+asistent / 
+finančné plnenie 
+Zmluvy 
+
+0905 881 025; 
+sekretariat@smartp.sk 
+
+Pracovná pozícia 
+/ Zodpovednosť 
+riaditeľ / 
+zmluvné vzťahy 
+
+Telefón/Mobil; 
+E-mail 
+054/4722313 (101,103) 
+riaditel@zssegidius-bj.psk.sk...........................................v.r..................................................... 
+
+Ing. Martin Lukáč 
+
+riaditeľ, štatutárny zástupca Poskytovateľa

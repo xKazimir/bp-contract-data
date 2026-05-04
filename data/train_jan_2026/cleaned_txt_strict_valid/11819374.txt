@@ -1,0 +1,362 @@
+Zmluva o poskytovaní služieb 
+č......................... 
+
+uzatvorená podľa § 269 ods. 2 zákona č. 513/1991 Zb. Obchodný zákonník v znení neskorších 
+predpisov (ďalej len „Obchodný zákonník“) 
+
+medzi: 
+
+1. Objednávateľ 
+Názov: 
+Sídlo: 
+Štatutárny orgán: 
+IČO: 
+DIČ: 
+Bankové spojenie: 
+Číslo účtu IBAN: 
+Kontakt: 
+
+(ďalej len „Objednávateľ“) 
+
+2. Poskytovateľ 
+Obchodné meno: 
+Sídlo: 
+Štatutárny orgán: 
+IČO: 
+DIČ: 
+IČ DPH: 
+Bankové spojenie: 
+Číslo účtu IBAN: 
+Kontakt: 
+
+Zapísaný: 
+
+ Mesto Prešov 
+Mestský úrad, Hlavná 73, 080 01 Prešov 
+Ing. František Oľha, primátor mesta 
+00 327 646 
+2021225679 
+UniCredit Bank Czech Republic and Slovakia, a.s. 
+SK05 1111 0000 0066 1991 1008 
+Ing. Adrián Harvan, LL.M. 
+
+a 
+
+Technická univerzita v Košiciach 
+Letná 1/9, 042 00 Košice - Sever 
+prof. Ing. Peter Mésároš, PhD., rektor univerzity 
+00 397 610 
+2020486710 
+SK2020486710 
+Štátna pokladnica 
+SK77 8180 0000 0070 0008 1877 
+doc. Ing. Peter Oravec, CSc. 
+
+je verejnoprávna 
+
+ Organizácia 
+inštitúcia v súlade so zákonom 
+č.131/2002 Z. z. o vysokých školách a o zmene a doplnení niektorých 
+zákonov v znení neskorších predpisov, zapísaná v registri Okresného 
+úradu Košice, číslo živnostenského registra 802-15283. 
+
+(ďalej len „Poskytovateľ“) 
+(Objednávateľ a Poskytovateľ ďalej aj ako „Zmluvné strany“) 
+
+uzatvárajú za nižšie uvedených podmienok túto Zmluvu o poskytovaní služieb (ďalej len „Zmluva“) 
+
+Článok I. 
+Predmet Zmluvy 
+
+1. Predmetom tejto Zmluvy je záväzok Poskytovateľa riadne a včas poskytovať Objednávateľovi 
+Služby súvisiace s kontrolou, odborným dohľadom, správou a obstarávaním informačných 
+systémov projektu s názvom: „Zavádzanie IoT smart riešení v meste Prešov“, kód projektu: 
+NFP401000D257, v rozsahu podľa prílohy č. 1 tejto Zmluvy - Špecifikácia predmetu Zmluvy a 
+záväzok Objednávateľa zaplatiť Poskytovateľovi za riadne a včas poskytnuté služby cenu podľa 
+tejto Zmluvy. Projekt bude realizovaný v rámci výzvy na predkladanie žiadostí o poskytnutie 
+
+nenávratného finančného príspevku, vyhlásenej Ministerstvom investícií, regionálneho rozvoja 
+a informatizácie Slovenskej republiky, ako Riadiacim orgánom pre Program Slovensko 2021-2027, 
+s kódom: PSK-MIRRI-619-2024-ITI-EFRR. 
+
+Článok II. 
+Spôsob a miesto poskytovania služieb 
+
+1. Poskytovateľ sa zaväzuje poskytovať služby s odbornou starostlivosťou, včas a riadne podľa tejto 
+Zmluvy a podľa pokynov Objednávateľa. Poskytovateľ je povinný upozorniť Objednávateľa na 
+pokyny, ktoré nie sú vhodné alebo by boli v rozpore so zámerom tejto Zmluvy. 
+
+2. Poskytovateľ o vykonaní služieb poskytnutých na základe tejto Zmluvy vypracuje za každý 
+kalendárny štvrťrok/priebežne počas trvania tejto zmluvy pre Objednávateľa výkaz skutočne 
+poskytnutých služieb, ktorý bude prílohou každej faktúry Poskytovateľa. 
+
+3. Zmluvné strany sa dohodli, že v prípade potreby je Poskytovateľ oprávnený zastupovať 
+Objednávateľa na určených úkonoch a Objednávateľ pre tento účel splnomocní písomným 
+splnomocnením Poskytovateľa alebo ním určené osoby na jeho zastupovanie, najmä pred 
+relevantnými orgánmi štátnej a verejnej správy. 
+
+4. Miestom poskytovania služieb je na základe vzájomnej dohody zmluvných strán sídlo 
+
+Objednávateľa alebo sídlo Poskytovateľa služieb. 
+
+5. Zmluvné strany sa dohodli, že za záväznú budú uznávať aj emailovú komunikáciu, ktorá bude 
+zasielaná a doručená na vzájomne odsúhlasené emailové adresy, ak táto Zmluva výslovne 
+nevyžaduje písomnú formu na uskutočnenie úkonu, pričom za doručenie takejto písomnosti sa 
+považuje doručenie osobne, prostredníctvom poštového podniku alebo elektronickým podaním do 
+elektronickej schránky zriadenej na ÚPVS. 
+
+Článok III. 
+Povinnosti Zmluvných strán 
+
+1. Poskytovateľ sa zaväzuje pre Objednávateľa poskytovať služby v súlade s podmienkami 
+
+dohodnutými v tejto Zmluve a v súlade s príslušnými právnymi predpismi. 
+
+2. Zmluvné strany sú si navzájom povinné poskytovať potrebnú súčinnosť, informácie, podklady, 
+zdroje, dáta a rozhodnutia nevyhnutne potrebné na plnenie povinností vyplývajúcich z tejto Zmluvy. 
+3. Poskytovateľ nezodpovedá za omeškanie a/alebo chyby poskytovaných služieb v rozsahu, v akom 
+také chyby, alebo omeškanie boli spôsobené chýbajúcimi, alebo nesprávnymi informáciami a/alebo 
+nedostatkom inej súčinnosti na strane Objednávateľa v prípade, že Objednávateľ bol o takýchto 
+chýbajúcich, alebo nesprávnych informáciách, alebo na poskytnutie súčinnosti Poskytovateľom včas 
+a písomne oboznámený. 
+
+4. Poskytovateľ sa zaväzuje bezodkladne písomne/emailom informovať Objednávateľa o akýchkoľvek 
+
+okolnostiach, ktoré by mu mohli prekážať pri realizácii tejto Zmluvy. 
+
+5. Zmluvné strany sa v súlade s § 525 ods. 2 zákona č. 40/1964 Zb. Občiansky zákonník v znení 
+neskorších predpisov (ďalej len „Občiansky zákonník“) dohodli, že v prípade vzniku pohľadávky 
+Poskytovateľa voči Objednávateľovi je Poskytovateľ oprávnený postúpiť pohľadávku na tretiu osobu 
+len s predchádzajúcim písomným súhlasom Objednávateľa. 
+
+6. Poskytovateľ je povinný strpieť výkon kontroly/auditu súvisiaceho s dodávanými službami 
+kedykoľvek počas platnosti a účinnosti Zmluvy o poskytnutí nenávratného finančného príspevku, a 
+to oprávnenými osobami na výkon tejto kontroly/auditu a poskytnúť im všetku potrebnú súčinnosť. 
+
+Článok IV. 
+Cena a platobné podmienky 
+
+1. Zmluvné strany sa na základe predloženej ponuky Poskytovateľa dohodli na cene za poskytované 
+
+služby v rozsahu podľa článku I. bod 1 tejto zmluvy: 
+
+Cena celkom bez DPH: 
+DPH 23%: 
+Cena celkom v EUR s DPH: 
+
+64.000,00 EUR 
+14.720,00 EUR 
+78.720,00 EUR 
+
+2. V prípade zmeny sadzby DPH počas trvania tejto Zmluvy sa uplatní § 25 ods. 5 zákona č. 222/2004 
+Z. z. o dani z pridanej hodnoty v znení neskorších predpisov bez nutnosti uzatvárania dodatku k tejto 
+Zmluve. Poskytovateľ je oprávnený vystaviť a doručiť Objednávateľovi čiastkové faktúry za riadne 
+a včas poskytnuté služby v zmysle tejto zmluvy, na základe Objednávateľom odsúhlaseného výkazu 
+poskytnutých služieb, s lehotou splatnosti 60 dní od jej doručenia v písomnej forme, pokiaľ nebude 
+dohodnuté inak. 
+
+3. Faktúra musí obsahovať všetky potrebné náležitosti a prílohu (odsúhlasený výkaz poskytnutých 
+služieb). V opačnom prípade môže Objednávateľ takúto faktúru vrátiť Poskytovateľovi s uvedením 
+nedostatkov, ktoré sa majú odstrániť, resp. doplniť. V takomto prípade začína plynúť nová 60-dňová 
+lehota splatnosti, a to dňom riadneho doručenia opravenej faktúry Objednávateľovi. 
+
+Článok V. 
+Zodpovednosť za vady a práva duševného vlastníctva 
+
+1. Poskytovateľ zodpovedá za kvalitu a úplnosť služieb poskytnutých na základe tejto Zmluvy podľa 
+požiadaviek Objednávateľa. Poskytovateľ garantuje, že plnenie podľa tejto Zmluvy bude spĺňať 
+všetky požiadavky vyplývajúce zo všeobecne záväzných právnych predpisov, nebude mať právne 
+vady, bude presné, úplné a nebude porušovať práva žiadnej tretej osoby. 
+
+2. Poskytovateľ nezodpovedá za vady poskytnutej služby, ktoré boli spôsobené nesprávnymi alebo 
+
+neúplnými pokynmi, ktoré Objednávateľ dal Poskytovateľovi. 
+
+3. Ak pri plnení predmetu tejto Zmluvy vznikne autorské dielo alebo iný predmet práv duševného 
+vlastníctva, v rozsahu, v akom to príslušné všeobecne záväzné právne predpisy vyslovene 
+nezakazujú, Poskytovateľ momentom prevzatia služby Objednávateľom prevádza na Objednávateľa 
+všetky práva viažuce sa k takémuto autorskému dielu, alebo predmetu práv duševného vlastníctva, 
+bez obmedzenia na to, či ide v danom prípade o majetkové autorské práva, alebo iné práva duševného 
+vlastníctva tak, aby Objednávateľ bol výlučne a neobmedzene oprávnený tieto nerušene a 
+neobmedzene aplikovať, užívať, požívať, šíriť, rozmnožovať, prepracovať, spracovať, adaptovať, 
+ďalej vyvíjať, chrániť a nakladať s nimi bez osobitného súhlasu Poskytovateľa, pričom jednorazová 
+odmena za prevod je obsiahnutá v cene služby. 
+
+4. V rozsahu, v akom príslušné všeobecne záväzné právne predpisy neumožňujú prevod práv tak, ako 
+je uvedené v ods. 3. tohto článku Zmluvy, Poskytovateľ poskytuje Objednávateľovi momentom 
+prevzatia služby Objednávateľom trvalú, výhradnú a neobmedzenú, bez osobitného súhlasu 
+Poskytovateľa prevoditeľnú licenciu (súhlas) na používanie takéhoto autorského diela a/alebo 
+takýchto predmetov práv duševného vlastníctva tak, aby Objednávateľ bol výlučne a neobmedzene 
+oprávnený tieto práva nerušene pod svojím vlastným názvom akýmkoľvek známym spôsobom 
+aplikovať, užívať, požívať, šíriť, rozmnožovať, prepracovať, spracovať, adaptovať, ďalej vyvíjať a 
+nakladať s nimi na ľubovoľný účel, prípadne v rovnakom rozsahu ich previesť, či poskytnúť 
+čiastočne, alebo v celosti tretej strane, pričom takáto licencia sa poskytuje bezodplatne a 
+Objednávateľ nie je povinný výhradnú licenciu využiť. 
+
+Čl. VI. 
+Ochrana dôverných informácií a osobných údajov 
+
+1. Poskytovateľ a Objednávateľ sa dohodli, že na účely tejto Zmluvy sa považujú za dôverné všetky 
+informácie, ktoré súvisia s touto Zmluvou a poskytovaním služieb podľa nej. Poskytovateľ sa 
+zaväzuje zachovávať mlčanlivosť o všetkých skutočnostiach, ktorých zverejnenie alebo 
+sprístupnenie by mohlo spôsobiť poškodenie oprávnených záujmov Objednávateľa. Poskytovateľ sa 
+zaväzuje zabezpečiť ochranu všetkých informácií a podkladov poskytnutých Objednávateľom na 
+základe tejto Zmluvy, alebo v súvislosti s ňou bez ohľadu na to, či sú obsiahnuté v listinách, 
+elektronických dokumentoch, náčrtoch, alebo návrhoch, ktoré Objednávateľ sprístupní 
+Poskytovateľovi na základe alebo v spojení s touto Zmluvou a zverejniť ich len po písomnom 
+
+súhlase Poskytovateľa. 
+
+2. Poskytovateľ je povinný v prípade zániku tejto Zmluvy bez zbytočného odkladu vrátiť 
+Objednávateľovi všetky informácie bez ohľadu na to, akou formou sú tieto údaje zachytené (napr. 
+listinné, elektronicky na hmotných nosičoch a pod.). Poskytovateľ je zároveň povinný vykonať 
+likvidáciu dôverných informácií zachytených na elektronických médiách. 
+
+3. Poskytovateľ berie na vedomie, že je povinný dbať o to, aby nedochádzalo k ohrozovaniu a 
+porušovaniu práv a oprávnených záujmov Objednávateľa a zaväzuje sa dodržiavať prvotnú 
+prevenčnú povinnosť, ako aj ustanovenia zákona č. 18/2018 Z. z. o ochrane osobných údajov 
+a o zmene a doplnení niektorých zákonov v znení neskorších predpisov. Za účelom zabezpečenia 
+tejto svojej povinnosti sa Poskytovateľ zaväzuje priebežne uskutočňovať zodpovedajúce opatrenia 
+vo vzťahu ku svojim pracovníkom a tretím osobám, ktoré sú s Poskytovateľom v zmluvnom vzťahu 
+súvisiacom s plnením záväzkov Poskytovateľa voči Objednávateľovi podľa tejto Zmluvy. 
+
+4. V prípadoch, ak si poskytovanie služieb na základe tejto Zmluvy bude vyžadovať sprístupnenie 
+osobných údajov klientov Objednávateľa, jeho zamestnancov, či iných osôb v nevyhnutnej možnej 
+miere, Poskytovateľ sa zaväzuje takéto osobné údaje spracovať, alebo použiť len spôsobom, ktorý 
+je v súlade s ustanoveniami tejto Zmluvy a len v rozsahu, ktorý je nevyhnutný na legitímne 
+dosiahnutie jej účelu. Poskytovateľ môže byť v tomto prípade Sprostredkovateľom pri spracúvaní 
+osobných údajov. Poskytovateľ je povinný pri takomto spracovaní osobných údajov postupovať v 
+súlade so zákonom č. 18/2018 Z. z. o ochrane osobných údajov a o zmene a doplnení niektorých 
+zákonov v znení neskorších predpisov. Poskytovateľovi sa v tejto súvislosti zakazuje najmä 
+kopírovať, skenovať, akokoľvek zaznamenávať, využívať, uchovávať, prenášať, poskytovať, 
+sprístupňovať alebo zverejniť osobné údaje, s ktorými prichádza do styku pri poskytovaní služieb 
+na základe tejto Zmluvy na iné účely ako poskytovanie služieb pre Objednávateľa. Poskytovateľ je 
+povinný bezodkladne po splnení účelu spracovania predmetných osobných údajov, najneskôr však 
+po poskytnutí služby a to aj jednotlivej objednávky, ukončiť spracúvanie príslušných osobných 
+údajov a osobné údaje zlikvidovať. 
+
+5. Zmluvné strany sú povinné zachovávať mlčanlivosť o všetkých informáciách a údajoch týkajúcich 
+
+sa vlastnej spolupráce a vnútorných záležitostí Zmluvných strán. 
+
+Článok VII. 
+Doba trvania a zánik Zmluvy 
+
+1. Táto Zmluva sa uzatvára na dobu určitú, odo dňa nadobudnutia účinnosti tejto zmluvy do dňa 
+
+schválenia záverečnej žiadosti o platbu projektu „Zavádzanie IoT smart riešení v meste Prešov“. 
+
+2. Zmluva môže pred uplynutím doby uvedenej v ods. 1 tohto Článku zaniknúť aj: 
+
+a) na základe písomnej dohody Zmluvných strán, a to dňom určeným v predmetnej dohode, 
+b) uplynutím výpovednej doby na základe výpovede za podmienok dohodnutých v ods. 3 tohto 
+
+Článku, 
+
+c) odstúpením od Zmluvy ktorejkoľvek zo Zmluvných strán za podmienok dohodnutých v ods. 
+
+4 tohto Článku. 
+
+3. Písomnú výpoveď, a to aj bez uvedenia dôvodu, je oprávnený dať Objednávateľ aj Poskytovateľ. 
+Výpovedná lehota je 2 mesiace a začína plynúť prvým dňom kalendárneho mesiaca nasledujúceho 
+po mesiaci, v ktorom bola doručená písomná výpoveď druhej Zmluvnej strane. Výpoveď sa 
+považuje za doručenú dňom jej riadneho prevzatia, ako aj dňom odmietnutia prevziať zásielku 
+obsahujúcu výpoveď tejto Zmluvy alebo dňom vrátenia nedoručenej zásielky. 
+
+4. Zmluvné strany sú oprávnené od tejto Zmluvy písomne odstúpiť v prípade podstatného porušenia 
+povinností vyplývajúcich z tejto Zmluvy niektorou zo Zmluvných strán. Účinky odstúpenia 
+nastávajú dňom doručenia písomného odstúpenia druhej Zmluvnej strane, príp. dňom odmietnutia 
+prevziať zásielku obsahujúcu odstúpenie od Zmluvy, alebo dňom vrátenia nedoručenej zásielky 
+odosielateľovi. 
+
+5. Odstúpením od tejto Zmluvy nie je dotknuté právo na náhradu škody spôsobenej porušením 
+
+povinnosti druhou Zmluvnou stranou. 
+
+Článok VIII. 
+Záverečné ustanovenia 
+
+1. Právne vzťahy touto Zmluvou výslovne neupravené sa riadia príslušnými ustanoveniami 
+Obchodného zákonníka a iných súvisiacich všeobecne záväzných právnych predpisov platných v 
+Slovenskej republike. 
+
+2. Zmluvné strany sa zaväzujú, že akýkoľvek prípadný spor vzniknutý z tejto Zmluvy bude riešený 
+predovšetkým vzájomnou dohodou Zmluvných strán. Ak k dohode nedôjde, spor bude riešiť 
+príslušný všeobecný súd Slovenskej republiky. 
+
+3. V prípade, že niektoré z ustanovení tejto Zmluvy sa stane neplatným a/alebo neúčinným, platnosť a 
+účinnosť ostatných ustanovení tejto Zmluvy tým nie je dotknutá. Zmluvné strany sa týmto zaväzujú, 
+že nahradia neplatné (neúčinné) ustanovenie Zmluvy iným ustanovením, ktoré svojim obsahom a 
+zmyslom najlepšie zodpovedá obsahu a zmyslu pôvodného neplatného (neúčinného) ustanovenia. 
+4. Všetky zmeny a doplnenia tejto Zmluvy je možné vykonať len vo forme písomných a číslovaných 
+
+dodatkov k tejto Zmluve, schválených a podpísaných obidvoma Zmluvnými stranami. 
+
+nasledujúcim po dni jej zverejnenia Objednávateľom v Centrálnom registri zmlúv. 
+
+6. Táto Zmluva je vyhotovená v 3 rovnopisoch s platnosťou originálu, pričom Objednávateľ po podpise 
+
+obdrží 2 rovnopisy a Poskytovateľ 1 rovnopis. 
+
+7. Zmluvné strany vyhlasujú, že túto Zmluvu uzavreli na základe ich vážnej a slobodnej vôle, Zmluva 
+nebola uzatvorená v tiesni alebo za nápadne nevýhodných podmienok. Zmluvné strany si Zmluvu 
+prečítali, jej obsahu porozumeli a oprávnení zástupcovia Zmluvných strán s plnou spôsobilosťou na 
+právne úkony ju na znak súhlasu podpisujú. 
+
+8. Neoddeliteľnou súčasťou tejto Zmluvy sú nasledovné prílohy: 
+
+Príloha č. 1 - Špecifikácia predmetu Zmluvy 
+
+V Prešove, dňa.............. 
+
+V Košiciach, dňa.............. 
+
+Za Objednávateľa: 
+
+Za Poskytovateľa:......................................................... 
+
+Ing. František Oľha 
+primátor mesta......................................................... 
+ prof. Ing. Peter Mésároš, PhD. 
+
+ rektor univerzity 
+
+Príloha č. 1 – Špecifikácia predmetu Zmluvy 
+
+Predmetom zákazky je zabezpečenie činností súvisiacich s kontrolou, odborným dohľadom, správou 
+a obstarávaním informačných systémov projektu s názvom: „Zavádzanie IoT smart riešení v meste 
+Prešov“ kód projektu: NFP401000D257, na ktorý bola verejnému obstarávateľovi schválená žiadosť 
+o poskytnutie nenávratného finančného príspevku v rámci Výzvy na predkladanie žiadostí o nenávratný 
+finančný príspevok vyhlásenej Ministerstvom investícií, regionálneho rozvoja a informatizácie 
+Slovenskej republiky, ako Riadiacim orgánom pre Program Slovensko 2021-2027, kód výzvy: PSK-
+MIRRI-619-2024-ITI-EFRR. Schválené celkové oprávnené výdavky projektu: 3 858 640,65 EUR 
+s DPH. Projekt má harmonogram realizácie naplánovaný na 24 mesiacov. Poskytovateľ bude služby, 
+ktoré sú predmetom zákazky poskytovať počas celej doby realizácie projektu. Dodanie služieb bude 
+ukončené schválením záverečnej monitorovacej správy projektu a schválením záverečnej žiadosti 
+o platbu. 
+Minimálny rozsah činností (poskytovaných služieb), ktoré sú predmetom zákazky: 
+
+1. Spracovanie podkladov a súčinnosť pri technických zmenách v Projekte. 
+
+Poskytovateľ pripraví na základe požiadavky Objednávateľa podklady pre zmenové konanie 
+z technického a informačno-technologického hľadiska. 
+
+2. Zabezpečenie kontroly a odborného dohľadu 
+
+Zabezpečenie odborného dohľadu počas realizácie projektu. Poskytovateľ bude dohliadať na plnenie 
+harmonogramu aktivít a harmonogramu plnení vyplývajúcich z uzatvorených dodávateľských zmlúv. 
+Upozorní na riziká pri odchýlkach v harmonograme, finančnej realizácii, plnení ukazovateľov, 
+personálnom obsadení a pod. a navrhne vhodné nápravné opatrenia. Bude dohliadať na plnenie 
+merateľných ukazovateľov a cieľov ako i správnosti technickej realizácie projektu. Poskytovateľ 
+zabezpečí kontroly nasadených modulov, čo obsahuje incident & bug management, analýza požiadaviek 
+užívateľa, ich spracovanie a dohľad nad interným testovaním. Súčasne realizuje dohľad nad testovaním 
+s užívateľom (UAT), vrátane školení a kontroly opráv chybných modulov a Deployment & Release 
+management. 
+
+3. Participácia na spracovaní technických a odborných podkladov pre verejné obstarávania a realizácia 
+
+verejného obstarávania (zabezpečenie verejného obstarávania predmetu projektu). 
+
+4. Zabezpečenie kontroly počas testovacej fázy projektu a pri ukončení realizácie projektu. Posúdenie 
+správnosti, úplnosti a funkčnosti diela a poskytnutie súčinnosti verejnému obstarávateľovi pri preberaní 
+diela, resp. jeho jednotlivých časti.

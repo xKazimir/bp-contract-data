@@ -1,0 +1,958 @@
+Zmluva o združenej dodávke plynu č. SC2025/161 
+uzatvorená v zmysle § 269 ods. 2 zákona č. 513/1991 Zb. Obchodného zákonníka v znení neskorších 
+predpisov (ďalej len „Obchodný zákonník“), v súlade so zákonom č. 251/2012 Z. z. o energetike a o 
+zmene niektorých zákonov (ďalej len „Zákon o energetike“), zákonom č. 250/2012 Z. z. o regulácii v 
+sieťových odvetviach (ďalej len „zákon o regulácii v sieťových odvetviach“) a ďalšími všeobecne 
+záväznými právnymi predpismi vzťahujúcimi sa na oblasť elektroenergetiky. 
+
+(ďalej aj „ZoZDP“ alebo „zmluva“) 
+
+Zmluvné strany 
+
+Odberateľ 
+
+Názov: 
+Sídlo: 
+Štatutárny orgán: 
+IČO: 
+DIČ, IČDPH: 
+Bankové spojenie: 
+IBAN, SWIFT: 
+
+(ďalej len „Odberateľ”) 
+
+a 
+
+Dodávateľ 
+
+Názov: 
+Sídlo: 
+Štatutárny orgán: 
+
+Zapísaná v: 
+
+IČO: 
+DIČ: 
+IČ DPH: 
+Bankové spojenie: 
+IBAN, SWIFT: 
+
+ Gymnázium duklianskych hrdinov, Komenského 16, Svidník 
+Komenského 16, 089 01 Svidník 
+RNDr. Ján Rodák, riaditeľ 
+00161233 
+2020790805 
+Štátna pokladnica 
+SK22 8180 0000 0070 0051 5487 
+
+Torreol, s.r.o. 
+Budova ORBIS, Rajská 7, 811 08 Bratislava 
+Ing. Richard Prokypčák – konateľ 
+Ing. Alexandra Broszová - konateľka 
+ OR mestského súdu Bratislava III, odd. Sro, vložka č.: 
+122819/B 
+51 127 989 
+2120597754 
+SK2120597754 
+Slovenská sporiteľňa, a.s. 
+SK79 0900 0000 0052 0887 8114; GIBASKBX 
+
+(ďalej len „Dodávateľ”) 
+(ďalej v texte spoločne aj ako „Zmluvné strany“) 
+
+Preambula 
+
+Túto zmluvu uzatvára Odberateľ ako verejný obstarávateľ, ktorý zadáva zákazku na základe 
+Rámcovej dohody č. 1651 /2025/DSB zo dňa 12.09.2025 (ďalej v texte aj ako „RD“), uzavretej 
+centrálnou obstarávacou organizáciou (Prešovský samosprávny kraj), s Dodávateľom, ako 
+úspešným uchádzačom vo verejnom obstarávaní vyhlásenom na predmet zákazky „Dodávka 
+plynu pre obdobie 2026 - 2028“, zadávaním nadlimitnej zákazky postupom verejnej súťaže, s 
+uplatnením § 66 ods. 7 písm. b) ZVO, vyhlásenom dňa 30.06.2025 v Úradnom vestníku EÚ pod 
+značkou 421122-2025 a dňa 01.07.2025 vo Vestníku č. 130/2025 pod značkou 10616-MST. 
+
+Čl. I 
+Účastníci a účel zmluvy 
+
+Dodávateľ je na základe Povolenia č. 2023P 0363 zo dňa 13.02.2023 vydaného Úradom pre 
+reguláciu sieťových odvetví, oprávnený podnikať v predmete podnikania: plynárenstvo a rozsah 
+podnikania: dodávka plynu. 
+
+Dodávateľ vyhlasuje, že má uzatvorenú platnú „Zmluvu/Dohodu o postúpení a prevzatí 
+zodpovednosti za odchýlku“ so zúčtovateľom odchýlok SPP-distribúcia, a.s., Mlynské nivy 
+44/b, 825 11 Bratislava, IČO: 35 910 739, zo dňa 08.08.2023 a že je subjektom zúčtovania 
+odchýlky účastníka trhu v zmysle platného zákona o energetike. 
+Dodávateľ vyhlasuje, že má uzatvorenú Rámcovú zmluvu o prístupe a distribúcii s 
+prevádzkovateľom distribučnej siete SPP-distribúcia, a.s., Mlynské nivy 44/b, 825 11 
+Bratislava, IČO: 35 910 739, zo dňa 08.08.2023. 
+
+Odberateľ je verejným obstarávateľom, ktorý môže zadávať zákazky na základe rámcovej 
+dohody uzavretej centrálnou obstarávacou organizáciou podľa § 15 ods. 3 písm. d) ZVO. 
+
+Základným účelom zmluvy je zabezpečenie prepravy, distribúcie, uskladňovania a dodávky 
+plynu na odberné miesta (ďalej aj „OM“) Odberateľa. 
+
+Čl. II 
+Predmet zmluvy 
+
+Predmetom tejto zmluvy je: Dodávka plynu pre obdobie 2026 – 2028. 
+
+Záväzok Dodávateľa dodávať plyn do odberných miest Odberateľa špecifikovaných v Čl. IV 
+tejto zmluvy podľa podmienok dohodnutých v tejto zmluve a jej prílohách. Dodávateľ sa tiež 
+zaväzuje prevziať za Odberateľa zodpovednosť za odchýlky za odberné miesta Odberateľa voči 
+zúčtovateľovi odchýlok. 
+
+Záväzok Dodávateľa zabezpečiť pre Odberateľa do odberných miest Odberateľa 
+špecifikovaných v Čl. IV tejto zmluvy distribúciu plynu a ostatné služby spojené s použitím 
+siete (ďalej len „distribučné služby“) od príslušného prevádzkovateľa distribučnej siete, ku 
+ktorej sú odberné miesta Odberateľa pripojené (ďalej len „PDS“) v rozsahu a podľa podmienok 
+tejto zmluvy a prevádzkového poriadku PDS. 
+
+Záväzok Odberateľa uhradiť cenu za realizované dodávky plynu a služby Dodávateľa, v zmysle 
+podmienok stanovených v Rámcovej dohode a v zmysle tejto zmluvy. 
+
+Záväzok Dodávateľa zabezpečiť individuálnu klientsku starostlivosť/obsluhu pre všetky 
+odberné miesta Odberateľa špecifikované v Čl. IV tejto zmluvy, zahrňujúcu odbornú podporu. 
+
+Obsahom tejto zmluvy je aj dohoda Zmluvných strán o: 
+
+cene za dodanie plynu vrátane služieb definovanej v Čl. V tejto zmluvy, 
+
+podmienkach dodania plynu a služieb, bližšie uvedených v ustanoveniach tejto zmluve. 
+
+1.1 
+
+1.2 
+
+1.3 
+
+1.4 
+
+2.1 
+
+2.2 
+
+Čl. III 
+Trvanie zmluvy 
+
+Dodávateľ a Odberateľ sa dohodli, že zmluva je uzatvorená na dobu určitú: na obdobie 36 
+mesiacov od 01.01.2026 do 31.12.2028 (ďalej len „zmluvné obdobie“). 
+
+Čl. IV 
+Miesto plnenia a odberné miesta 
+
+Dodávka plynu Dodávateľom Odberateľovi vrátane prepravy, skladovania, zabezpečenia 
+distribučných služieb a prevzatia zodpovednosti za odchýlky sa na základe tejto zmluvy 
+uskutoční do odberných miest Odberateľa špecifikovaných v Prílohe č. 1 tejto zmluvy, vrátane 
+zmien vykonaných podľa bodu 2 Čl. IV tejto zmluvy. 
+
+Zmluvné strany sa dohodli, že sú povinné si oznámiť každú zmenu (vzniku, pričlenenia, zániku) 
+odberného miesta uvedeného v Prílohe č. 1 tejto zmluvy ku dňu účinnosti tejto zmluvy, ako aj 
+počas trvania jej platnosti. 
+
+Čl. V 
+Cena 
+
+Čiastková cena za 1 MWh plynu v EUR bez DPH (CenaDN) je stanovená postupom, upraveným 
+a definovaným v Prílohe č. 3 Rámcovej dohody, pričom položka výpočtového vzorca označená 
+písmenom „K“ – násobiaci koeficient je čo do výšky položkou nemennou počas celej doby 
+trvania tejto zmluvy. 
+
+„K“ – násobiaci koeficient: 0,86 
+
+Súčasťou čiastkovej ceny za 1 MWh plynu v EUR bez DPH (CenaDN) a Ceny za 1 MWh plynu 
+v EUR bez DPH pre dodávku plynu nie je spotrebná daň z plynu. Pokiaľ sa na dodávku plynu 
+podľa tejto Zmluvy bude daň z plynu vzťahovať, tak ju Dodávateľ vyúčtuje a Odberateľ zaplatí 
+vo výške a termíne určenom všeobecne záväzným právnym predpisom. Má sa tým na mysli 
+spotrebná daň z plynu pripočítaná podľa zákona č. 609/2007 Z. z. o spotrebnej dani z elektriny, 
+uhlia a zemného plynu a o zmene a doplnení zákona č. 98/2004 Z. z. o spotrebnej dani z 
+minerálneho oleja v znení neskorších predpisov v sadzbách platných ku dňu uskutočnenia 
+zdaniteľného plnenia a DPH v súlade s účinným zákonom č. 222/2004 Z. z. o dani z pridanej 
+hodnoty v znení neskorších predpisov v sadzbách platných ku dňu uskutočnenia zdaniteľného 
+plnenia. 
+
+Súčasťou čiastkovej ceny za 1 MWh plynu v EUR bez DPH (CenaDN) a Ceny za 1 MWh plynu 
+v EUR bez DPH pre dodávku plynu nie je daň z pridanej hodnoty, ktorú Dodávateľ vyúčtuje 
+v každej faktúre aj v predpise záloh, a ktorú Odberateľ zaplatí vo výške určenej všeobecne 
+záväzným právnym predpisom platným ku dňu uskutočnenia príslušného zdaniteľného plnenia. 
+
+Súčasťou čiastkovej ceny za 1 MWh plynu v EUR bez DPH (CenaDN) a Ceny za 1 MWh plynu 
+v EUR bez DPH pre dodávku plynu nie je cena za distribúciu plynu, ktorá sa riadi platným 
+cenovým rozhodnutím Úradu pre reguláciu sieťových odvetví a tarifnými podmienkami 
+príslušného prevádzkovateľa distribučnej siete a tvorí ju: 
+
+− Fixná sadzba za mesiac, 
+− Ročná sadzba za dennú distribučnú kapacitu na odbernom mieste do 1 mil. m3/deň vrátane 
+
+a nad 1 mil. m3/deň, 
+
+− Ročná sadzba za dennú distribučnú kapacitu na súhrnnom vstupnom bode (pre tarifné 
+
+skupiny 9 až 26), 
+− Variabilná sadzba 
+
+Súčasťou čiastkovej ceny za 1 MWh plynu v EUR bez DPH (CenaDN) a Ceny za 1 MWh plynu 
+v EUR bez DPH pre dodávku plynu nie je cena za prepravu plynu. 
+
+5.1 
+
+Cena za služby spojené s prepravou bude v príslušnom fakturačnom období určená v zmysle 
+príslušných, v čase dodávky plynu platných a účinných, cenových rozhodnutí príslušných 
+regulačných orgánov na území Slovenskej republiky (ÚRSO), Českej republiky (ERÚ), 
+Nemeckej republiky (BnetzA), ktorými sa príslušným prevádzkovateľom prepravných sietí (t.j. 
+eustream, a.s. pre územie Slovenskej republiky, NET4GAS, s.r.o. pre územie Českej republiky, 
+
+Open Grid Europe, Gascade a Ontras pre územie Nemeckej republiky) určujú tarify za prístup 
+do prepravných sietí a prepravu plynu a iné regulačné poplatky priamo súvisiace s prepravou 
+plynu. Cena prepravy sa skladá z ceny za prepravu zemného plynu z Nemecka na výstupe z THE 
+zóny do Českej republiky (v zmysle prevádzkových predpisov pre prepravnú sieť v Nemecku 
+a prevádzkovateľa obchodnej zóny THE spoločnosti Trading Hub Europe, GmbH), následne 
+z Nemecka do Českej republiky cez vstupný bod Brandov a výstupný bod Lanžhot (v zmysle 
+prevádzkových predpisov pre prepravnú sieť Českej republiky), pričom pre výpočet sa uplatní 
+hodnota denného maximálneho množstva určeného ako podiel zmluvného množstva ročného 
+a počtu dní v príslušnom roku. Ďalej sa cena prepravy skladá aj z ceny za prepravu na 
+Slovensko, a to cez vstupný bod Lanžhot a výstupný bod Domáci bod (oboje v zmysle 
+Prevádzkového poriadku eustream, a.s.), pričom pre výpočet sa uplatní zmluvne dohodnutá 
+hodnota denného maximálneho množstva. 
+
+5.2 
+
+V prípade zavedenia ďalších alebo zmeny existujúcich poplatkov súvisiacich s prepravou plynu 
+na prepravnej trase z obchodného bodu THE na slovenský domáci bod oproti stavu pri podpise 
+tejto zmluvy, má dodávateľ právo zohľadniť navýšenie ceny za služby súvisiace s prepravou 
+z dôvodu uplatnenia tohto poplatku v mesiaci nasledujúcom po oznámení takejto zmeny 
+odberateľovi s poukazom na rozhodnutia príslušných orgánov, resp. príslušný právny predpis 
+alebo cenník prevádzkovateľa prepravnej siete. 
+
+5.3 
+
+Výška DMM pre príslušné odberné miesto v kategórii maloodber sa určí nasledovne: 
+
+DMM= ZM/110 [kWh] 
+
+ZM - Ročné zmluvné množstvo, ktoré sa odberateľ zaviazal odobrať pre príslušné odberné 
+miesto v kWh. 
+
+Cena pre príslušné odberné miesto zohľadňuje mesačný alebo iný dohodnutý odpočet a 
+príslušnú tarifu a pozostáva z: 
+
+− Ceny za dodávku plynu (cena obchodníka) 
+− Ceny za distribúciu plynu 
+− Ceny za prepravu plynu 
+− Spotrebnej dane z plynu 
+− Dane z pridanej hodnoty 
+
+Predpokladané množstvo plynu počas zmluvného obdobia: 750,00 MWh. 
+
+Zmluvné strany sa dohodli, že pre účely stanovenia ceny za dodávku plynu a budú dodávky 
+plynu objednávať prostredníctvom subjektu uvedeného v Prílohe č. 2 Rámcovej dohody, por. č. 
+1 Zoznamu kontaktných osôb zmluvných strán. 
+
+Dodávateľ nemá nárok na úhradu ďalších nákladov, ktoré nie sú uvedené v Rámcovej dohode 
+alebo v zmluve a ich povinnosť platiť nevyplynie ako nová povinnosť zo všeobecne záväzného 
+právneho predpisu. 
+
+Čl. VI 
+Platobné podmienky a fakturácia 
+
+Dodávka plynu a distribučné služby sú v zmysle zákona o dani z pridanej hodnoty považované 
+za opakované dodanie tovaru a služby. 
+
+Faktúry sú vystavené jednotlivo pre každé fakturované OM Odberateľa v zmysle Prílohy č. 1 
+tejto zmluvy. 
+Jednotlivé faktúry Dodávateľ doručí Odberateľovi písomne v listinnej forme na adresu sídla 
+Odberateľa, alebo v elektronickej forme na určený e-mailový kontakt Odberateľa uvedený 
+v Prílohe č. 2 tejto ZoZDP. 
+
+Výška zálohových platieb je 100% z predpokladaného množstva za dodávku a distribúciu plynu 
+pre príslušný mesiac. Výšku zálohových platieb je možné upraviť po vzájomnej dohode 
+Odberateľa a Dodávateľa. 
+
+V prípade ročného fakturačného obdobia (OM kategórie MO) budú na faktúre odpočítané 
+skutočne zaplatené zálohy. Prípadný preplatok vráti Dodávateľ Odberateľovi do 30-tich 
+kalendárnych dní od vystavenia vyúčtovacej faktúry na účet uvedený v záhlaví tejto ZoZDP. 
+
+Odberateľ uhradí do 15. kalendárneho dňa bežného kalendárneho mesiaca na účet Dodávateľa 
+zálohové platby v dohodnutej výške. V prípade zmeny ceny v nadväznosti na bod 5 Čl. V tejto 
+RD, alebo pri zmene odberu Odberateľa, je Dodávateľ oprávnený upraviť Predpis záloh 
+jednostranným oznámením doručeným Odberateľovi. 
+
+V prípade mesačného fakturačného obdobia (OM kategórie SO a VO) Odberateľ neplatí 
+Dodávateľovi zálohy, ale len platby na základe fakturácie podľa skutočnej spotreby. 
+
+Dodávateľ fakturuje podľa predchádzajúcich bodov Odberateľovi dodávku plynu a distribučné 
+služby na základe podkladov, ktoré obdrží z informačného systému príslušnej PDS. 
+
+Dodávateľ je oprávnený fakturovať Odberateľovi všetky doplatky, ktoré vzniknú v súvislosti so 
+zmenou alebo doplnením údajov týkajúcich sa Odberateľa v systéme PDS. Tieto doplatky je 
+oprávnený fakturovať najskôr v mesiaci, kedy boli Dodávateľom zistené a bude sa k nim 
+pristupovať ako k platbám za služby poskytnuté v tom mesiaci, v ktorom boli zistené. 
+
+Lehota splatnosti faktúry je 30 kalendárnych dní od konca zúčtovacieho obdobia. 
+
+8.1 
+
+Pre Odberateľa s ročnou periodicitou fakturácie, je splatnosť zálohových platieb za mesiac 
+január a február minimálne 60 kalendárnych dní. 
+
+Každá faktúra vystavená Dodávateľom bude obsahovať náležitosti podľa § 74 zákona č. 
+222/2004 Z. z. o dani z pridanej hodnoty v platnom znení. 
+
+Ak predložená faktúra nebude vystavená v súlade s touto ZoZDP, Odberateľ ju bezodkladne 
+vráti Dodávateľovi na prepracovanie. Opravená faktúra je splatná do 30 kalendárnych dní odo 
+dňa jej opätovného doručenia Odberateľovi, s výnimkou úpravy splatnosti faktúry uvedenej v 
+druhej vete bodu 7 tohto článku. 
+
+Všetky faktúry budú uhrádzané výhradne bezhotovostne prevodným príkazom. 
+
+Dodávateľ je povinný vyúčtovať Odberateľovi skutočné množstvo odobratej plynu do 15 dní 
+od ukončenia dohodnutého zúčtovacieho obdobia, ktorým je uplynutie kalendárneho mesiaca, 
+v ktorom bol plyn odobratý, a doručiť vyúčtovaciu faktúru Odberateľovi. Vyúčtovacia faktúra 
+so zohľadnením pravidelných mesačných platieb je splatná do 30 kalendárnych dní od 
+doručenia vyúčtovacej faktúry. 
+
+Čl. VII 
+Práva a povinnosti 
+
+ZoZDP možno meniť, doplniť, či zrušiť len písomnou formou, a to tak, aby neodporovali 
+obsahu, účelu a rozsahu Rámcovej dohody, resp. za rovnakých zmluvných podmienok 
+dohodnutých v Rámcovej dohode. V prípade vzniku pochybností, resp. rozporov medzi 
+Rámcovou dohodou a ZoZDP, sú rozhodujúce ustanovenia Rámcovej dohody. 
+
+Práva a záväzky z tejto ZoZDP možno previesť na iného len s predchádzajúcim písomným 
+súhlasom Odberateľa a Dodávateľa. 
+
+Dodávateľ sa zaväzuje realizovať predmet zmluvy v súlade s jej ustanoveniami, v súlade s 
+príslušnými právnymi predpismi a podľa pokynov a v súlade so záujmami Odberateľa, ktoré sú 
+mu známe a ktoré mu vzhľadom na okolnosti pri vynaložení všetkej odbornej starostlivosti mali 
+byť známe, resp. ktoré mal Dodávateľ poznať v súlade s príslušnými právnymi predpismi, 
+najmä, avšak nielen, v súlade s vyhláškou Úradu pre reguláciu sieťových odvetví č. 233/2016 
+
+Z. z., ktorou sa ustanovujú štandardy kvality uskladňovania plynu, prepravy plynu, distribúcie 
+plynu a dodávky plynu. 
+
+Dodávateľ sa zaväzuje vykonávať svoje záväzky podľa tejto zmluvy nepretržite, okrem prípadu 
+prekážky charakteru „vyššej moci- vis maior“. Pre účely tejto zmluvy sa za vyššiu moc považujú 
+udalosti, ktoré nie sú závislé od konania zmluvných strán, a ktoré nemôžu zmluvné strany ani 
+predvídať ani nijakým spôsobom priamo ovplyvniť, ako napr.: vojna, mobilizácia, živelné 
+pohromy, požiare, embargo, karantény, a podobne. 
+
+Dodávateľ sa zaväzuje dodávať plyn v požadovanej kvalite pri dodržaní príslušných 
+kvalitatívnych parametrov stanovených príslušnými technickými normami platnými v SR. 
+
+Dodávateľ je povinný doručiť Odberateľovi (na kontakt uvedený v Prílohe č. 2 tejto zmluvy 
+Zoznamu kontaktných osôb) písomne v elektronickej forme vyplnenú Prílohu č. 3 tejto zmluvy, 
+najneskôr k 15. kalendárnemu dňu v januári aktuálneho roku. 
+
+Odberateľ sa zaväzuje: 
+
+7.1 
+
+7.2 
+
+7.3 
+
+bez zbytočného odkladu písomne informovať Dodávateľa o všetkých skutočnostiach, ktoré 
+majú podstatný význam pri realizácii predmetu tejto zmluvy, 
+
+odovzdať Dodávateľovi všetky dokumenty a poskytnúť mu všetky informácie, ktoré sú potrebné 
+na splnenie všetkých povinností a záväzkov Dodávateľa v zmysle tejto zmluvy, 
+
+bez zbytočného odkladu poskytnúť Dodávateľovi všetku súčinnosť potrebnú k uskutočneniu 
+jeho záväzkov v zmysle tejto zmluvy. 
+
+Zmluvné strany sa spoločne zaväzujú oznamovať si navzájom akékoľvek zmeny údajov, ktoré 
+sa týkajú identifikácie zmluvných strán v Čl. Zmluvné strany, akúkoľvek zmenu kontaktných 
+údajov, uvedených v Prílohe č. 2 tejto zmluvy, do 10 dní, odkedy ku zmene došlo. Pri zmene 
+kontaktných údajov v Zozname kontaktných osôb zmluvných strán, uvedených v Prílohe č. 2 
+tejto zmluvy, postačuje jednostranné písomné oznámenie týchto zmien doručené druhej 
+zmluvnej strane podpísané oprávnenými zástupcami zmluvnej strany, bez nutnosti zmeny 
+Zmluvy vo forme dodatku. 
+
+Čl. VIII 
+Sankcie 
+
+Ak Dodávateľ poruší podmienky stanovené v bode 1.1 a/alebo 1.2 Čl. II tejto zmluvy s 
+výnimkou, ak k nesplneniu tejto povinnosti Dodávateľa došlo z dôvodov uvedených v § 24 ods. 
+1 písm. e) zákona č. 251/2012 Z. z. o energetike v znení neskorších predpisov alebo dôvodov 
+vylučujúcich zodpovednosť podľa § 374 Obchodného zákonníka, je Odberateľ oprávnený 
+účtovať Dodávateľovi zmluvnú pokutu vo výške 5.000 EUR (päťtisíc eur) za každé porušenie 
+zmluvy. 
+
+V prípade, že bude Odberateľ v omeškaní s úhradou faktúry, Dodávateľovi vzniká nárok na 
+účtovanie úroku z omeškania v sadzbe zákonných úrokov z omeškania, určenej pre príslušné 
+obdobie vo väzbe na § 369 ods. 1 druhá veta Obchodného zákonníka v znení neskorších 
+predpisov, s odkazom na výšku úrokov z omeškania v zmysle nariadenia vlády SR č. 21/2013 
+Z. z. 
+
+Zaplatením zmluvnej pokuty a/alebo úrokov z omeškania nie je dotknuté právo na náhradu 
+škody, ktorá vznikla konaním jednej zmluvnej strany druhej zmluvnej strane, a to ani vo výške 
+prevyšujúcej zmluvnú pokutu a/alebo úrok z omeškania. 
+
+Dodávateľ sa zaväzuje zaplatiť Odberateľovi na základe jeho výzvy zmluvnú pokutu vo výške 
+5 000 EUR (päťtisíc eur) v prípade porušenia ktoréhokoľvek zo záväzkov uvedených v bodoch 
+1 až 6 Čl. X tejto zmluvy; tým nie je dotknuté právo Odberateľa domáhať sa náhrady škody v 
+plnej výške. 
+
+V prípade, ak Dodávateľ poruší ktorékoľvek ustanovenie tejto Zmluvy, za porušenie ktorého 
+nie je dohodnutá osobitná zmluvná pokuta, uplatní si Odberateľ zmluvnú pokutu vo výške 100,-
+EUR za každé aj opakované porušenie, ak nie je dohodnuté inak. 
+
+Odstúpením Odberateľa od zmluvy nezaniká nárok na zaplatenie zmluvnej pokuty a náhrady 
+škody. 
+
+Každá zo zmluvných strán je zodpovedná za škodu, ktorá vznikne porušením jej povinností voči 
+druhej zmluvnej strane. Ak Dodávateľ nedodá Odberateľovi zmluvné množstvo do príslušného 
+OM Odberateľa, alebo poruší svoje povinnosti vzťahujúce sa k príslušnému OM Odberateľa 
+iným spôsobom, Odberateľ má po preukázaní rozsahu škody právo na náhradu vzniknutej 
+škody, ak bola preukázateľne spôsobená Dodávateľom plynu a vznikla v súvislosti s týmto 
+nedodaním, alebo v súvislosti s iným takýmto porušením povinnosti Dodávateľa. Právo na 
+náhradu škody nevzniká za množstvo nedodané pri oprávnenom obmedzení alebo prerušení 
+dodávok plynu zo strany Dodávateľa (napr. vyhlásenie obmedzujúcich odberových stupňov a 
+havarijného odberového stupňa, obmedzenie alebo prerušenie dodávok z dôvodu porušenia 
+zmluvy Odberateľom, údržby a iné).. 
+
+Čl. IX 
+Zánik zmluvy 
+
+1.1 
+
+2.1 
+
+2.2 
+
+3.1 
+
+3.2 
+
+3.3 
+
+3.4 
+
+3.5 
+
+Zmluva zanikne uplynutím základnej doby, na ktorú sa uzavrela podľa bodu 1 Čl. III tejto 
+zmluvy, alebo vyčerpaním dohodnutého maximálneho rozsahu plnenia podľa bodu 7 Čl. V tejto 
+zmluvy, podľa toho, ktorá skutočnosť nastane skôr. 
+
+Zmluvný vzťah založený touto zmluvou možno skončiť pred dobou stanovenou v bode 1 tohto 
+článku nasledovne: 
+
+písomnou dohodou Zmluvných strán, a to dňom uvedeným v takejto dohode; v dohode o 
+ukončení zmluvy sa súčasne upravia aj nároky Zmluvných strán vzniknuté na základe alebo v 
+súvislosti so zmluvou, 
+
+písomným odstúpením od zmluvy ktoroukoľvek zo Zmluvných strán v zmysle bodu 3. tohto 
+článku, 
+
+Každá zo zmluvných strán je oprávnená od zmluvy odstúpiť písomným oznámením o odstúpení 
+od zmluvy, doručeným druhej zmluvnej strane, ak 
+
+druhá zmluvná strana podala na seba návrh na vyhlásenie konkurzu 
+
+bol podaný návrh na vyhlásenie konkurzu voči druhej zmluvnej strane treťou osobou, pričom 
+dotknutá zmluvná strana je platobne neschopná, alebo je v situácii, ktorá odôvodňuje začatie 
+konkurzného konania, alebo 
+
+bol na majetok druhej zmluvnej strany vyhlásený konkurz, alebo bol návrh na vyhlásenie 
+konkurzu zamietnutý pre nedostatok majetku, alebo 
+
+druhá zmluvná strana vstúpila do likvidácie, alebo sa na ňu zriadi nútená správa, 
+
+došlo k podstatnému porušeniu zmluvy, pričom za podstatné porušenie na účely ZoZDP sa 
+považuje: 
+
+a) porušenie v zmysle bodu 3.4 Čl. X tejto zmluvy, 
+
+b) ak Dodávateľ alebo Objednávateľ poruší podmienky stanovené v Čl.VII. bod 1 až 7 ZoZDP, 
+
+c) ak Dodávateľ stratí v priebehu plnenia zmluvných povinností zo ZoZDP oprávnenie na 
+dodávku plynu (strata nevyhnutnej kvalifikácie). 
+
+Účinky odstúpenia od zmluvy nastávajú dňom doručenia písomného oznámenia o odstúpení od 
+zmluvy druhej zmluvnej strane. Ak zo strany príslušnej Zmluvnej strany dôjde k odmietnutiu 
+
+prevzatia písomného oznámenia o odstúpení od zmluvy, účinky odstúpenia nastanú dňom 
+odmietnutia prevzatia odstúpenia. 
+
+Odstúpením od zmluvy nezanikajú dojednania Zmluvných strán týkajúce sa zodpovednosti za 
+škodu ani právo Dodávateľa vyfakturovať Odberateľovi dohodnutú zmluvnú cenu za dodávky 
+uskutočnené do nadobudnutia účinkov odstúpenia. Odstúpením od zmluvy nezaniká povinnosť 
+Odberateľa zaplatiť Dodávateľovi pohľadávky uplatnené Dodávateľom v zmysle tejto zmluvy. 
+
+Ak Dodávateľ má vedomosť, že môže stratiť alebo stratil spôsobilosť dodávať plyn, o 
+uvedenom bezodkladne písomne informuje Odberateľa. 
+
+Čl. X 
+Osobitné ustanovenia 
+
+Zmluvné strany vyhlasujú, že sa neuskutočnili žiadne úkony a neprebiehajú žiadne konania pred 
+akýmkoľvek súdom, rozhodcovským súdom alebo rozhodcom, štátnym alebo iným orgánom 
+verejnej správy, ktoré by mohli ovplyvniť zákonnosť, platnosť alebo vymožiteľnosť tejto 
+Zmluvy vo vzťahu k zmluvným stranám alebo ich schopnosti splniť si svoje záväzky 
+vyplývajúce z tejto Zmluvy a podľa vedomosti zmluvných strán sa žiadne takéto úkony 
+nepripravujú. 
+
+V prípade, ak je Dodávateľ zároveň členom skupiny dodávateľov podľa ZVO (ďalej aj len ako 
+„Skupina dodávateľov“), vzťahujú sa práva a povinnosti Dodávateľa podľa tejto Zmluvy 
+spoločne a nerozdielne na všetkých členov Skupiny dodávateľov ako Dodávateľa podľa tejto 
+Zmluvy, a teda Dodávateľ ako člen skupiny dodávateľov je zaviazaný spoločne a nerozdielne s 
+ostatnými členmi skupiny dodávateľov za záväzky Skupiny dodávateľov voči Objednávateľovi 
+a Objednávateľ je oprávnený požadovať plnenie, ktoré má poskytnúť Skupina dodávateľov, od 
+ktoréhokoľvek Dodávateľa ako člena Skupiny dodávateľov; 
+
+Konflikt záujmov 
+
+Dodávateľ sa vyvaruje akýchkoľvek kontaktov, ktoré by mohli ohroziť jeho nezávislosť. Okrem 
+toho, Dodávateľ je povinný prijať všetky nevyhnutné opatrenia s cieľom predísť akejkoľvek 
+situácii, ktorá by mohla ohroziť nestranné a objektívne plnenie tejto zmluvy. Konflikt záujmov 
+by mohol vzniknúť najmä v dôsledku ekonomických záujmov, politickej alebo národnej 
+spriaznenosti, rodinných či citových väzieb alebo akýchkoľvek iných vzťahov alebo spoločných 
+záujmov. Každý konflikt záujmov, ktorý vznikne počas plnenia tejto Zmluvy, musí byť 
+bezodkladne písomne oznámený Odberateľovi. V prípade konfliktu záujmov Dodávateľ 
+okamžite prijme všetky opatrenia potrebné na jeho ukončenie. 
+
+Odberateľ si vyhradzuje právo overiť, či sú opatrenia uvedené v predchádzajúcom bode tohto 
+článku primerané, a v prípade potreby môže vyžadovať prijatie dodatočných opatrení v lehote, 
+ktorú sám určí. Dodávateľ zabezpečí, aby sa jeho zamestnanci a subdodávatelia nedostali do 
+situácie, ktorá by mohla viesť ku konfliktu záujmov. Bez toho, aby bol dotknutý bod 3.1 tohto 
+článku zmluvy, Dodávateľ okamžite a bez akéhokoľvek odškodnenia zo strany Odberateľa 
+nahradí každého svojho zamestnanca a/alebo subdodávateľa, ktorý je takejto situácii vystavený. 
+
+Dodávateľ je povinný informovať Odberateľa o vzniku akejkoľvek skutočnosti alebo jej zmene, 
+ktorá má vplyv na pravdivosť ktoréhokoľvek z vyhlásení uvedených v tomto článku, a to bez 
+zbytočného odkladu. 
+
+Akákoľvek nepravdivosť alebo porušenie akéhokoľvek vyhlásenia alebo záväzku Dodávateľa 
+uvedeného v tomto článku tejto zmluvy sa považuje za podstatné porušenie tejto zmluvy. 
+
+Subdodávatelia 
+
+Dodávateľ je povinný uviesť zoznam svojich subdodávateľov spolu s predmetom subdodávky 
+a podielom na celkovej dodávke predmetu zmluvy v Prílohe č. 2 Zoznam kontaktných osôb 
+zmluvných strán a údaje o subdodávateľoch (ďalej ako „Príloha č. 2“). 
+
+3.1 
+
+3.2 
+
+3.3 
+
+3.4 
+
+4.1 
+
+4.2 
+
+4.3 
+
+4.4 
+
+5.1 
+
+5.2 
+
+5.3 
+
+5.4 
+
+Dodávateľ je oprávnený zmeniť alebo doplniť subdodávateľa len s predchádzajúcim písomným 
+súhlasom Odberateľa. Žiadosť o zmenu alebo doplnenie subdodávateľa písomne predkladá 
+Dodávateľ Odberateľovi minimálne 5 (päť) pracovných dní pred plánovaným dátumom zmeny 
+subdodávateľa. Dodávateľ je v súlade s § 41 ZVO povinný uvádzať aktuálne údaje o svojich 
+subdodávateľoch, údaje o osobách oprávnených konať za subdodávateľov v rozsahu podľa 
+Prílohy č. 2 tejto zmluvy. Dodávateľ je povinný preukázať splnenie podmienok účasti 
+zmeneného alebo doplneného subdodávateľa v 
+to bolo voči 
+subdodávateľom požadované v rámci podmienok účasti v postupe verejného obstarávania, alebo 
+v takom rozsahu, v akom Dodávateľ (uchádzač) využil kapacity subdodávateľa, na preukázanie 
+podmienok účasti. 
+
+takom rozsahu, ako 
+
+Odberateľ požaduje, aby iná osoba, prostredníctvom ktorej uchádzač (Dodávateľ) preukazoval 
+technickú spôsobilosť alebo odbornú spôsobilosť, plnila tie časti predmetu zmluvy, ktoré sa 
+zaviazala poskytnúť uchádzačovi (Dodávateľovi) v písomnej zmluve podľa § 34 ods. 3 tretia 
+veta ZVO. 
+
+Bez ohľadu na vyššie uvedené, ak Dodávateľ použije na plnenie povinností Dodávateľa podľa 
+tejto zmluvy akúkoľvek tretiu osobu, zodpovedá voči Odberateľovi v celom rozsahu za plnenie 
+povinností podľa tejto zmluvy ako keby ich plnil sám. 
+
+Záväzky vo vzťahu k nelegálnemu zamestnávaniu 
+
+Dodávateľ je povinný dodržiavať zákazy, obmedzenia a povinnosti vyplývajúce zo Zákona o 
+nelegálnom zamestnávaní, najmä je však povinný postupovať tak, aby plnenie Zmluvy 
+nedodával prostredníctvom fyzickej osoby, ktorá je nelegálne zamestnaná. 
+
+Dodávateľ vyhlasuje, že plnenie, ktoré bude dodávať na základe tejto zmluvy bude po celý čas 
+jej platnosti a účinnosti dodávať len prostredníctvom fyzickej osoby, ktorú zamestnáva v súlade 
+s právnou úpravou platnou v Slovenskej republike a súčasne vyhlasuje, že žiadne plnenie alebo 
+jeho časť nedodá prostredníctvom fyzickej osoby, ktorá je nelegálne zamestnaná. 
+
+Dodávateľ je povinný na požiadanie Odberateľa bezodkladne poskytnúť v požadovanom 
+rozsahu doklady a osobné údaje fyzických osôb, prostredníctvom ktorých dodáva plnenie podľa 
+tejto zmluvy, ktoré sú potrebné na to, aby Odberateľ mohol skontrolovať či Dodávateľ 
+neporušuje zákaz nelegálneho zamestnávania podľa osobitného predpisu, t. j. podľa Zákona o 
+nelegálnom zamestnávaní. Žiadosť o poskytnutie dokladov, ako aj samotné doklady, je možné 
+doručiť aj v elektronickej forme na určenú e-mailovú adresu Odberateľa. 
+
+Ak Dodávateľ povinnosti vyplývajúce z tejto zmluvy alebo z osobitných všeobecne záväzných 
+právnych predpisov v oblasti zamestnávania a z uvedeného dôvodu bude Odberateľovi uložená 
+pokuta alebo iná sankcia za porušenie zákazu prijať plnenie dodané Dodávateľom 
+prostredníctvom fyzickej osoby nelegálne zamestnanej, alebo pokuta uložená Dodávateľovi 
+bude od Odberateľa vymáhaná v zmysle Zákona o nelegálnom zamestnávaní, zaväzuje sa 
+Dodávateľ uhradiť Odberateľovi škodu tým spôsobenú, a to vrátane škody spôsobenej 
+uhradením pokuty alebo sankcie uloženej príslušným orgánom verejnej správy. Dodávateľ je 
+povinný uhradiť Odberateľovi skutočnú škodu, ktorá mu vznikla, a to najneskôr do 15 
+(pätnástich) dní odo dňa doručenia faktúry spolu so žiadosťou o uhradenie spôsobenej škody. 
+Jedným z podkladov pre určenie skutočnej škody spôsobenej Odberateľovi bude aj kópia 
+právoplatného rozhodnutia príslušného orgánu verejnej správy o uložení pokuty alebo inej 
+sankcie alebo o vymáhaní pokuty uloženej Dodávateľovi od Odberateľa. 
+
+Register partnerov verejného sektora 
+
+6.1 
+
+Dodávateľ vyhlasuje, že si riadne a včas plní, a počas trvania tejto zmluvy sa zaväzuje riadne a 
+včas plniť, svoje povinnosti vyplývajúce zo Zákona o registri partnerov verejného sektora (ďalej 
+aj ako „Zákon o registri partnerov“), najmä sa zaväzuje zabezpečiť aktuálne, úplné, správne a 
+pravdivé údaje zapisované v registri partnerov prostredníctvom oprávnenej osoby, a zároveň sa 
+zaväzuje bez zbytočného odkladu písomne informovať Odberateľa o tom, že: 
+
+− bol vymazaný z registra partnerov vedeného v zmysle Zákona o registri partnerov; 
+
+6.2 
+
+6.3 
+
+− nastala akákoľvek zmena akéhokoľvek údaju zapísaného v registri partnerov vedenom v 
+
+zmysle Zákona o registri partnerov; 
+
+− nastala skutočnosť, ktorá vedie alebo môže viesť k jeho výmazu z registra partnerov podľa 
+
+§ 13 ods. 2 Zákona o registri partnerov; 
+
+− po dobu dlhšiu ako 30 (tridsať) dní nemá v registri partnerov vedenom v zmysle Zákona o 
+
+registri partnerov zapísanú oprávnenú osobu. 
+
+Touto zmluvou sa nezakladá osobitná registračná povinnosť v prípade, ak požiadavka 
+registrácie nevyplýva zo Zákona o registri partnerov. 
+
+Dodávateľ je povinný zabezpečiť, aby subdodávatelia, ktorí spĺňajú definíciu partnera 
+verejného sektora podľa § 2 ods. 1 písm. a) bod 7 Zákona o registri partnerov, ktorí budú 
+subdodávateľmi pre plnenie poskytované na základe tejto zmluvy, zabezpečili svoju registráciu 
+ako partneri verejného sektora a túto registráciu udržiavali v platnosti počas trvania tejto 
+Zmluvy a plnili si všetky povinnosti vyplývajúce z takejto registrácie, resp. zabezpečili plnenie 
+povinností vyplývajúcich z takejto registrácie. Za účelom kontroly splnenia povinnosti podľa 
+prvej vety tohto bodu článku tejto zmluvy je Odberateľ oprávnený požadovať od Dodávateľa 
+predloženie všetkých zmlúv a súvisiacich dokumentov so subdodávateľmi; Dodávateľ je 
+povinný takejto požiadavke Odberateľa vyhovieť v lehote uvedenej vo výzve Odberateľa; v 
+prípade, ak Dodávateľ tejto výzve nevyhovie, má sa za to, že povinnosť podľa prvej vety tohto 
+bodu tohto článku tejto RD bola porušená. 
+
+Čl. XI 
+Riešenie sporov 
+
+Všetky spory vyplývajúce z tejto Zmluvy, alebo vzniknuté v súvislosti s ňou, budú zmluvné 
+strany riešiť predovšetkým vzájomnou dohodou. Ak vzájomná dohoda zmluvných strán nebude 
+možná, na vyriešenie takéhoto sporu bude oprávnený vecne a mieste príslušný súd. 
+
+Čl. XII 
+Záverečné ustanovenia 
+
+Táto zmluva môže byť doplnená alebo zmenená v súlade s právnymi predpismi len písomnými 
+a očíslovanými Dodatkami odsúhlasenými obidvoma Zmluvnými stranami, s výnimkou 
+ustanovení uvedených v druhej vete bodu 8 Čl. VII tejto zmluvy. 
+
+Každá zo zmluvných strán sa zaväzuje, že neprevedie nijaké práva a povinnosti (záväzky) 
+vyplývajúce z tejto Zmluvy, resp. ich časť na iný subjekt bez predchádzajúceho písomného 
+súhlasu druhej zmluvnej strany. V prípade porušenia tejto povinnosti bude zmluva o prevode 
+(postúpení) zmluvných záväzkov neplatná. V prípade porušenia tejto povinnosti jednou zo 
+zmluvných strán, je druhá zmluvná strana oprávnená od Zmluvy odstúpiť, a to s účinnosťou 
+odstúpenia ku dňu, keď bolo písomné oznámenie o odstúpení od Zmluvy doručené druhej 
+zmluvnej strane. 
+
+Právne vzťahy vyplývajúce z tejto zmluvy, ktoré táto zmluva priamo neupravuje sa riadia 
+príslušnými ustanoveniami zákona č. 513/1991 Zb. Obchodného zákonníka v znení neskorších 
+predpisov, zákona č. 251/2012 Z. z. o energetike a o zmene niektorých zákonov v znení 
+neskorších predpisov, ako aj ďalšími právnymi predpismi platnými v Slovenskej republiky. 
+
+Ak niektoré z ustanovení tejto ZoZDP je alebo sa stane neplatným či neúčinným, nedotýka sa 
+to ostatných ustanovení tejto zmluvy, ktoré zostávajú platné a účinné. Zmluvné strany sa v tomto 
+prípade zaväzujú dohodou nahradiť neplatné alebo neúčinné ustanovenie novým platným a 
+účinným ustanovením, ktoré najlepšie zodpovedá pôvodne zamýšľanému účelu neplatného 
+alebo neúčinného ustanovenia. 
+
+V prípade, ak bude podľa tejto zmluvy potrebné doručovať druhej zmluvnej strane akúkoľvek 
+písomnosť, doručuje sa táto písomnosť na adresu zmluvnej strany uvedenú v úvode zmluvy, 
+dokiaľ nie je zmena adresy písomne oznámená zmluvnej strane, ktorá písomnosť doručuje. V 
+prípade, ak sa písomnosť aj pri dodržaní týchto podmienok vráti nedoručená, zmluvné strany si 
+dohodli, že účinky doručenia nastávajú tretím dňom po vrátení zásielky zmluvnej strane, ktorá 
+zásielku doručuje. 
+
+Zmluvné strany sa dohodli, že Dodávateľ nie je oprávnený jednostranne započítať akúkoľvek 
+svoju pohľadávku voči pohľadávkam Odberateľa. 
+
+Táto zmluva nadobúda platnosť dňom jej podpisu obidvoma stranami a účinnosť dňom 
+nasledujúcim po dni jej zverejnenia v Centrálnom registri zmlúv v zmysle § 47a zákona č. 
+40/1964 Zb. Občianskeho zákonníka v znení neskorších predpisov. 
+
+Táto zmluva je vyhotovená v piatich rovnopisoch v slovenskom jazyku, z ktorých každý je 
+považovaný za originál. Dve vyhotovenia zmluvy dostane Dodávateľ a tri vyhotovenia dostane 
+Odberateľ. 
+
+Zmluva má nasledujúce prílohy, ktoré tvoria jej neoddeliteľnú súčasť: 
+
+Príloha č. 1: Zoznam odberných miest 
+Príloha č. 2: Zoznam kontaktných osôb zmluvných strán a údaje o subdodávateľoch 
+Príloha č. 3: Krycí list – Stanovenie ceny za dodávku plynu na základe čiastkových cien 
+Príloha č. 4: Všeobecné obchodné podmienky 
+
+Za Odberateľa 
+
+V......................., dňa......................................................................... 
+
+Gymnázium duklianskych hrdinov, Komenského 16, Svidník 
+
+RNDr. Ján Rodák, riaditeľ 
+
+Za Dodávateľa 
+
+V Bratislave, dňa..................................................... 
+Torreol, s.r.o. 
+Ing. Richard Prokypčák - konateľ............................................................ 
+Torreol, s.r.o. 
+Ing. Alexandra Broszová - konateľka 
+
+Príloha č. 1: Zoznam odberných miest 
+
+Odberné miesto 
+
+Odberateľ 
+
+POD kód 
+
+Tarifná 
+skupina 
+
+DMM 
+(m3) 
+
+Typ 
+merania 
+(periodicita 
+odpočtu) 
+
+IČO 
+
+Názov 
+
+Lokalita 
+objektu 
+
+Názov 
+objektu 
+
+Predpokladaný 
+ročný odber 
+pre rok 2026 
+(MWh) 
+
+Predpokladaný 
+ročný odber pre 
+rok 2027 
+(MWh) 
+
+Predpokladaný 
+ročný odber pre 
+rok 2028 
+(MWh) 
+
+Svidník Škola 
+
+250,00 
+
+250,00 
+
+250,00 
+
+SKSPPDIS010910006785 M7 
+
+Ročná 
+
+00161233 
+
+Gymnázium 
+duklianskych 
+hrdinov, 
+Komenského 
+16, Svidník 
+
+Príloha č. 2: Zoznam kontaktných osôb zmluvných strán a údaje o subdodávateľoch 
+
+Odberateľ 
+Č. riadku Meno a priezvisko 
+
+Energetická Agentúra Smart 
+Regiónu PSK 
+IČO: 51295130 
+Námestie mieru 2, 080 01 
+Prešov 
+Ing. Tomáš Novotný 
+
+RNDr. Ján Rodák 
+
+1 
+
+2 
+
+3 
+
+4 
+
+Pracovná pozícia 
+Externý poradca 
+
+pre energetiku 
+
+Telefón/Mobil; E-mail 
+0905 340 972 
+energie@smartp.sk 
+
+ riaditeľ 
+
+054/75 21 036 
+riaditel@gymdh-sk.psk.sk 
+
+Dodávateľ 
+Č. riadku 
+
+1 
+
+2 
+
+Meno a priezvisko 
+
+Miroslav Mital 
+
+Katarína Šlamiarová 
+
+Pracovná pozícia 
+Výkonný riaditeľ 
+
+Back office manager 
+
+Telefón/Mobil; E-mail 
+0908576848 
+mital@torreol.sk 
+0915925950 
+ backoffice@torreol.sk 
+
+Spoločnosť Torreol, s.r.o., bude v prípade úspechu realizovať dodávku prostredníctvom vlastných kapacít, 
+bez využitia subdodávateľov. 
+
+Príloha č. 3: Krycí list – Stanovenie ceny za dodávku plynu na základe čiastkových cien 
+
+Dodávateľ 
+Názov: 
+Sídlo: 
+IČO: 
+DIČ: 
+IČ pre DPH: 
+
+Obstarávateľ: 
+Názov: 
+Sídlo: 
+IČO: 
+DIČ: 
+Štatutárny orgán: 
+
+Torreol, s.r.o. 
+Budova ORBIS, Rajská 7, 811 08 Bratislava 
+51 127 989 
+2120597754 
+SK2120597754 
+
+Prešovský samosprávny kraj 
+Námestie mieru 2, 08001 Prešov 
+37870475 
+2021626332 
+PaedDr. Milan Majerský PhD. 
+
+Uzavreli nasledovné čiastkové nákupy na dodávku plynu v roku 20RR1 
+
+Dátum 
+uzatvorenia 
+Konfirmácie 
+
+Nakúpené 
+množstvo 
+plynu 
+(MWh) 
+
+Požadované 
+obdobie 
+dodávky 
+
+„K“ – 
+násobiaci 
+koeficient 
+
+Burzový produkt 
+na EEX (EEX 
+THE EGSI 
+Natural Gas 
+Futures Cal-RR1) 
+(EUR bez 
+DPH/MWh) 
+
+Čiastková cena 
+za 1 MWh plynu 
+(CenaDN) 
+(EUR bez 
+DPH/MWh) 
+
+e
+i
+c
+á
+m
+
+r
+i
+f
+n
+o
+K.
+
+Č
+
+1 
+2 
+3......... 
+
+Cena za 1 MWh plynu pre dodávku plynu v roku 20RR1 
+(EUR bez DPH/MWh)2: 
+
+Obstarávateľ: 
+
+Dodávateľ: 
+
+V..............................., dňa............. 
+
+V..............................., dňa................................................................. 
+Meno a priezvisko 
+funkcia.................................................... 
+Meno a priezvisko 
+funkcia 
+
+1 Za RR sa dosadia čísla z 3. a 4. pozície kalendárneho roku pre ktorý sa bude vypočítavať Cena za 1 MWh 
+plynu pre dodávku plynu v EUR bez DPH/MWh podľa bodu 7 Prílohy č. 3 RD, v nadväznosti na vzorec 
+uvedený v bode 5 Prílohy č. 3 RD. 
+2 Cena za 1 MWh plynu pre dodávku plynu v príslušnom roku v EUR bez DPH/MWh sa vypočíta sa ako vážený 
+priemer uzatvorených čiastkových cien za 1 MWh plynu v EUR bez DPH (CenaDN) na základe jednotlivých 
+Konfirmácií medzi Odberateľom a Dodávateľom, uskutočnených pre príslušný kalendárny rok. 
+
+Príloha č. 4: Všeobecné obchodné podmienky
